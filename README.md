@@ -56,6 +56,7 @@ Veiligheidskeuzes:
 - headless Chromium via Playwright
 - afbeeldingen/media/fonts worden geblokkeerd
 - geen advertentie-detailpagina's tijdens de zoek-sync
+- filtert duidelijke non-caravans voor het schrijven, zoals losse luifels/voortenten, matrassen, stalling, huur, aanhangwagens, airco's en foodtruck/container-only advertenties
 - dedupe op bestaande links in kolom A
 - cooldown-bestand bij 403/429 in `.crawler-state/`
 - standaard zoekfilter: 100 tot 3000 euro, sortering prijs oplopend

@@ -5,6 +5,7 @@ import {
   SPREADSHEET_ID
 } from "./google-sheets.js";
 import { searchCaravans } from "./tweedehands-search.js";
+import { filterCaravanCandidates } from "./caravan-filter.js";
 
 function parseArgs() {
   const args = new Map();
@@ -97,7 +98,8 @@ async function main() {
     requestBudget: options.requestBudget
   });
 
-  const newResults = search.results.filter((result) => !existingUrls.has(normalizeExistingUrl(result.url)));
+  const filtered = filterCaravanCandidates(search.results);
+  const newResults = filtered.kept.filter((result) => !existingUrls.has(normalizeExistingUrl(result.url)));
   const selected = options.limit ? newResults.slice(0, options.limit) : newResults;
   const rows = selected.map((result) => [
     result.url,
@@ -121,9 +123,20 @@ async function main() {
         requestCount: search.requestCount,
         apiPageRequests: search.apiPageRequests,
         foundAtOrBelowMaxPrice: search.results.length,
-        alreadyInSheet: search.results.length - newResults.length,
+        keptAfterFilter: filtered.kept.length,
+        rejectedByFilter: filtered.rejected.length,
+        rejectionSummary: filtered.rejected.reduce((summary, item) => {
+          summary[item.rejectReason] = (summary[item.rejectReason] ?? 0) + 1;
+          return summary;
+        }, {}),
+        alreadyInSheet: filtered.kept.length - newResults.length,
         appended: options.dryRun ? 0 : rows.length,
         wouldAppend: options.dryRun ? rows.length : undefined,
+        rejectedExamples: filtered.rejected.slice(0, 10).map((item) => ({
+          title: item.title,
+          price: item.price,
+          reason: item.rejectReason
+        })),
         firstRows: rows.slice(0, 5)
       },
       null,
