@@ -4,10 +4,13 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "write:hello": "node src/write-hello.js"
+    "write:hello": "node src/write-hello.js",
+    "probe:2dehands": "node src/probe-2dehands.js",
+    "sync:caravans": "node src/sync-caravans.js"
   },
   "dependencies": {
     "@google-cloud/local-auth": "^3.0.1",
-    "googleapis": "^173.0.0"
+    "googleapis": "^173.0.0",
+    "playwright": "^1.61.1"
   }
 }

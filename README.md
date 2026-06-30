@@ -36,3 +36,26 @@ De MVP schrijft naar:
 ```text
 https://docs.google.com/spreadsheets/d/1JmxAQlcqFv6CM10Cz3dlbxVqXEh0BXhl7dQQa0Vw420/edit?gid=1034308374
 ```
+
+## 2dehands caravans sync
+
+Zoekresultaten tot en met 3000 euro ophalen en nieuwe rijen toevoegen:
+
+```bash
+npm run sync:caravans
+```
+
+Eerst testen zonder te schrijven:
+
+```bash
+npm run sync:caravans -- --dry-run
+```
+
+Veiligheidskeuzes:
+
+- headless Chromium via Playwright
+- afbeeldingen/media/fonts worden geblokkeerd
+- geen advertentie-detailpagina's tijdens de zoek-sync
+- dedupe op bestaande links in kolom A
+- cooldown-bestand bij 403/429 in `.crawler-state/`
+- standaard zoekfilter: 100 tot 3000 euro, sortering prijs oplopend
