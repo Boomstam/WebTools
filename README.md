@@ -60,3 +60,28 @@ Veiligheidskeuzes:
 - dedupe op bestaande links in kolom A
 - cooldown-bestand bij 403/429 in `.crawler-state/`
 - standaard zoekfilter: 100 tot 3000 euro, sortering prijs oplopend
+
+## Handmatige caravan review
+
+Start de browser-reviewtool:
+
+```bash
+npm run review:caravans
+```
+
+Open daarna:
+
+```text
+http://localhost:5173
+```
+
+De tool:
+
+- zoekt opnieuw op 2dehands
+- past de automatische caravan-filter toe
+- slaat bestaande Sheet-links over
+- toont per kandidaat de echte 2dehands detailpagina
+- vult `GROOTTE`, `RIJDT NOG?` en `STAAT` alvast in met suggesties
+- schrijft pas naar Google Sheets na `Yes` of sneltoets `y`
+- slaat bij `No` of sneltoets `n` lokaal over in `.review-state/`
+- navigeert met schermpijlen of `ArrowLeft` / `ArrowRight`

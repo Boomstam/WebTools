@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Caravan Review</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="toolbar" aria-label="Review controls">
+        <button class="icon-button" id="prevButton" title="Vorige advertentie" aria-label="Vorige advertentie">‹</button>
+        <div class="status">
+          <strong id="counter">Laden...</strong>
+          <span id="subtitle"></span>
+        </div>
+        <button class="icon-button" id="nextButton" title="Volgende advertentie" aria-label="Volgende advertentie">›</button>
+        <label>
+          Grootte
+          <input id="grootteInput" list="grootteOptions" />
+        </label>
+        <label>
+          Rijdt nog?
+          <input id="rijdtInput" list="rijdtOptions" />
+        </label>
+        <label>
+          Staat
+          <input id="staatInput" list="staatOptions" />
+        </label>
+        <button class="decision no" id="noButton">No</button>
+        <button class="decision yes" id="yesButton">Yes</button>
+      </section>
+
+      <section class="meta-strip">
+        <a id="externalLink" href="#" target="_blank" rel="noreferrer">Open op 2dehands</a>
+        <span id="price"></span>
+        <span id="title"></span>
+      </section>
+
+      <iframe id="detailFrame" title="2dehands detailpagina"></iframe>
+
+      <datalist id="grootteOptions">
+        <option value="KLEIN"></option>
+        <option value="MEDIUM"></option>
+        <option value="GROOT"></option>
+      </datalist>
+      <datalist id="rijdtOptions">
+        <option value="JOPS"></option>
+        <option value="NEE"></option>
+        <option value="?"></option>
+      </datalist>
+      <datalist id="staatOptions">
+        <option value="Lijkt in orde"></option>
+        <option value="Licht verval"></option>
+        <option value="Verval?"></option>
+        <option value="?"></option>
+      </datalist>
+    </main>
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>
