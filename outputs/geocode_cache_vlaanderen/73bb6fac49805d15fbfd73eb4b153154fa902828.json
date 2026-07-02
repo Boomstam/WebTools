@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Bisschopstraat",
+      "Housenumber": "18",
+      "ID": 1378089,
+      "FormattedAddress": "Bisschopstraat 18, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21884301885279,
+        "Lon_WGS84": 4.424960941308327,
+        "X_Lambert72": 153926.82,
+        "Y_Lambert72": 212100.98,
+        "X_Lambert2008": 653921.46,
+        "Y_Lambert2008": 712101.52
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21884301885279,
+          "Lon_WGS84": 4.424960941308327,
+          "X_Lambert72": 153926.82,
+          "Y_Lambert72": 212100.98,
+          "X_Lambert2008": 653921.46,
+          "Y_Lambert2008": 712101.52
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21884301885279,
+          "Lon_WGS84": 4.424960941308327,
+          "X_Lambert72": 153926.82,
+          "Y_Lambert72": 212100.98,
+          "X_Lambert2008": 653921.46,
+          "Y_Lambert2008": 712101.52
+        }
+      }
+    }
+  ]
+}

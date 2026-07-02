@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Appelmansstraat",
+      "Housenumber": "33",
+      "ID": 1100102,
+      "FormattedAddress": "Appelmansstraat 33, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.216146839485866,
+        "Lon_WGS84": 4.417400864953553,
+        "X_Lambert72": 153398.81,
+        "Y_Lambert72": 211800.64,
+        "X_Lambert2008": 653393.49,
+        "Y_Lambert2008": 711801.12
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.216146839485866,
+          "Lon_WGS84": 4.417400864953553,
+          "X_Lambert72": 153398.81,
+          "Y_Lambert72": 211800.64,
+          "X_Lambert2008": 653393.49,
+          "Y_Lambert2008": 711801.12
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.216146839485866,
+          "Lon_WGS84": 4.417400864953553,
+          "X_Lambert72": 153398.81,
+          "Y_Lambert72": 211800.64,
+          "X_Lambert2008": 653393.49,
+          "Y_Lambert2008": 711801.12
+        }
+      }
+    }
+  ]
+}

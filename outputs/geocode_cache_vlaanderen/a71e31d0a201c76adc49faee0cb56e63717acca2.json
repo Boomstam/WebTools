@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Dambruggestraat",
+      "Housenumber": "145",
+      "ID": 633389,
+      "FormattedAddress": "Dambruggestraat 145, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.222698481260046,
+        "Lon_WGS84": 4.421729860785774,
+        "X_Lambert72": 153700.76,
+        "Y_Lambert72": 212529.75,
+        "X_Lambert2008": 653695.35,
+        "Y_Lambert2008": 712530.26
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.222698481260046,
+          "Lon_WGS84": 4.421729860785774,
+          "X_Lambert72": 153700.76,
+          "Y_Lambert72": 212529.75,
+          "X_Lambert2008": 653695.35,
+          "Y_Lambert2008": 712530.26
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.222698481260046,
+          "Lon_WGS84": 4.421729860785774,
+          "X_Lambert72": 153700.76,
+          "Y_Lambert72": 212529.75,
+          "X_Lambert2008": 653695.35,
+          "Y_Lambert2008": 712530.26
+        }
+      }
+    }
+  ]
+}

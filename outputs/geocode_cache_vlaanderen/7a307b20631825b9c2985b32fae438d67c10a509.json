@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Duinstraat",
+      "Housenumber": "10",
+      "ID": 533428,
+      "FormattedAddress": "Duinstraat 10, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22180711973021,
+        "Lon_WGS84": 4.426800559268984,
+        "X_Lambert72": 154055.09,
+        "Y_Lambert72": 212430.85,
+        "X_Lambert2008": 654049.69,
+        "Y_Lambert2008": 712431.4
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22180711973021,
+          "Lon_WGS84": 4.426800559268984,
+          "X_Lambert72": 154055.09,
+          "Y_Lambert72": 212430.85,
+          "X_Lambert2008": 654049.69,
+          "Y_Lambert2008": 712431.4
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22180711973021,
+          "Lon_WGS84": 4.426800559268984,
+          "X_Lambert72": 154055.09,
+          "Y_Lambert72": 212430.85,
+          "X_Lambert2008": 654049.69,
+          "Y_Lambert2008": 712431.4
+        }
+      }
+    }
+  ]
+}

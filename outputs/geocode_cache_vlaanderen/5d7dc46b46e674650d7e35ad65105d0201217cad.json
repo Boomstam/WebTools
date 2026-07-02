@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Professor Van den Wildenberglaan",
+      "Housenumber": "2",
+      "ID": 2755788,
+      "FormattedAddress": "Professor Van den Wildenberglaan 2, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22516906304145,
+        "Lon_WGS84": 4.484708070015115,
+        "X_Lambert72": 158100.14,
+        "Y_Lambert72": 212809.66,
+        "X_Lambert2008": 658094.66,
+        "Y_Lambert2008": 712810.69
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22516906304145,
+          "Lon_WGS84": 4.484708070015115,
+          "X_Lambert72": 158100.14,
+          "Y_Lambert72": 212809.66,
+          "X_Lambert2008": 658094.66,
+          "Y_Lambert2008": 712810.69
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22516906304145,
+          "Lon_WGS84": 4.484708070015115,
+          "X_Lambert72": 158100.14,
+          "Y_Lambert72": 212809.66,
+          "X_Lambert2008": 658094.66,
+          "Y_Lambert2008": 712810.69
+        }
+      }
+    }
+  ]
+}

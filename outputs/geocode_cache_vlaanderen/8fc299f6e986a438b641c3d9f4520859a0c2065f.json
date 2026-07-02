@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Prins Leopoldstraat",
+      "Housenumber": null,
+      "ID": 2368,
+      "FormattedAddress": "Prins Leopoldstraat, Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21314703601712,
+        "Lon_WGS84": 4.439131662374163,
+        "X_Lambert72": 154917.51,
+        "Y_Lambert72": 211468.13,
+        "X_Lambert2008": 654912.22,
+        "Y_Lambert2008": 711468.79
+      },
+      "LocationType": "basisregisters_straat",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21176362723069,
+          "Lon_WGS84": 4.438381974540395,
+          "X_Lambert72": 154865.27,
+          "Y_Lambert72": 211314.17,
+          "X_Lambert2008": 654860.0,
+          "Y_Lambert2008": 711314.83
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21389716299132,
+          "Lon_WGS84": 4.439506612480515,
+          "X_Lambert72": 154943.63,
+          "Y_Lambert72": 211551.61,
+          "X_Lambert2008": 654938.33,
+          "Y_Lambert2008": 711552.28
+        }
+      }
+    }
+  ]
+}

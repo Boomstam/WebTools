@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Leguit",
+      "Housenumber": "29",
+      "ID": 704678,
+      "FormattedAddress": "Leguit 29, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.225511269416344,
+        "Lon_WGS84": 4.404037269136598,
+        "X_Lambert72": 152464.56,
+        "Y_Lambert72": 212841.94,
+        "X_Lambert2008": 652459.12,
+        "Y_Lambert2008": 712842.3
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.225511269416344,
+          "Lon_WGS84": 4.404037269136598,
+          "X_Lambert72": 152464.56,
+          "Y_Lambert72": 212841.94,
+          "X_Lambert2008": 652459.12,
+          "Y_Lambert2008": 712842.3
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.225511269416344,
+          "Lon_WGS84": 4.404037269136598,
+          "X_Lambert72": 152464.56,
+          "Y_Lambert72": 212841.94,
+          "X_Lambert2008": 652459.12,
+          "Y_Lambert2008": 712842.3
+        }
+      }
+    }
+  ]
+}

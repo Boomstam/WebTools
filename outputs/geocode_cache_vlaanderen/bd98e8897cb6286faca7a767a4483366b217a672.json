@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Statiestraat",
+      "Housenumber": "112",
+      "ID": 2483928,
+      "FormattedAddress": "Statiestraat 112, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19913811207515,
+        "Lon_WGS84": 4.4284428830046805,
+        "X_Lambert72": 154171.88,
+        "Y_Lambert72": 209908.92,
+        "X_Lambert2008": 654166.78,
+        "Y_Lambert2008": 709909.51
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19913811207515,
+          "Lon_WGS84": 4.4284428830046805,
+          "X_Lambert72": 154171.88,
+          "Y_Lambert72": 209908.92,
+          "X_Lambert2008": 654166.78,
+          "Y_Lambert2008": 709909.51
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19913811207515,
+          "Lon_WGS84": 4.4284428830046805,
+          "X_Lambert72": 154171.88,
+          "Y_Lambert72": 209908.92,
+          "X_Lambert2008": 654166.78,
+          "Y_Lambert2008": 709909.51
+        }
+      }
+    }
+  ]
+}

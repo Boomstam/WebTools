@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Schildersstraat",
+      "Housenumber": "35",
+      "ID": 1508157,
+      "FormattedAddress": "Schildersstraat 35, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20874836365129,
+        "Lon_WGS84": 4.396394914288774,
+        "X_Lambert72": 151931.39,
+        "Y_Lambert72": 210976.76,
+        "X_Lambert2008": 651926.18,
+        "Y_Lambert2008": 710977.07
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20874836365129,
+          "Lon_WGS84": 4.396394914288774,
+          "X_Lambert72": 151931.39,
+          "Y_Lambert72": 210976.76,
+          "X_Lambert2008": 651926.18,
+          "Y_Lambert2008": 710977.07
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20874836365129,
+          "Lon_WGS84": 4.396394914288774,
+          "X_Lambert72": 151931.39,
+          "Y_Lambert72": 210976.76,
+          "X_Lambert2008": 651926.18,
+          "Y_Lambert2008": 710977.07
+        }
+      }
+    }
+  ]
+}

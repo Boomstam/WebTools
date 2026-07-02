@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Venusstraat",
+      "Housenumber": "17",
+      "ID": 1112209,
+      "FormattedAddress": "Venusstraat 17, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22384110496366,
+        "Lon_WGS84": 4.4091109313071195,
+        "X_Lambert72": 152819.1,
+        "Y_Lambert72": 212656.31,
+        "X_Lambert2008": 652813.68,
+        "Y_Lambert2008": 712656.71
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22384110496366,
+          "Lon_WGS84": 4.4091109313071195,
+          "X_Lambert72": 152819.1,
+          "Y_Lambert72": 212656.31,
+          "X_Lambert2008": 652813.68,
+          "Y_Lambert2008": 712656.71
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22384110496366,
+          "Lon_WGS84": 4.4091109313071195,
+          "X_Lambert72": 152819.1,
+          "Y_Lambert72": 212656.31,
+          "X_Lambert2008": 652813.68,
+          "Y_Lambert2008": 712656.71
+        }
+      }
+    }
+  ]
+}

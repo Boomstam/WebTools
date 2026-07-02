@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Van Schoonhovenstraat",
+      "Housenumber": "92",
+      "ID": 1366435,
+      "FormattedAddress": "Van Schoonhovenstraat 92, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22124288478604,
+        "Lon_WGS84": 4.421371066257137,
+        "X_Lambert72": 153675.81,
+        "Y_Lambert72": 212367.79,
+        "X_Lambert2008": 653670.42,
+        "Y_Lambert2008": 712368.3
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22124288478604,
+          "Lon_WGS84": 4.421371066257137,
+          "X_Lambert72": 153675.81,
+          "Y_Lambert72": 212367.79,
+          "X_Lambert2008": 653670.42,
+          "Y_Lambert2008": 712368.3
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22124288478604,
+          "Lon_WGS84": 4.421371066257137,
+          "X_Lambert72": 153675.81,
+          "Y_Lambert72": 212367.79,
+          "X_Lambert2008": 653670.42,
+          "Y_Lambert2008": 712368.3
+        }
+      }
+    }
+  ]
+}

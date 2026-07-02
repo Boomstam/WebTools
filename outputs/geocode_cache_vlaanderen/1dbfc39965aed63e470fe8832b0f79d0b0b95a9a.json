@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Schoenstraat",
+      "Housenumber": "20",
+      "ID": 2422800,
+      "FormattedAddress": "Schoenstraat 20, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21404033180548,
+        "Lon_WGS84": 4.436184920583475,
+        "X_Lambert72": 154711.51,
+        "Y_Lambert72": 211567.32,
+        "X_Lambert2008": 654706.21,
+        "Y_Lambert2008": 711567.96
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21404033180548,
+          "Lon_WGS84": 4.436184920583475,
+          "X_Lambert72": 154711.51,
+          "Y_Lambert72": 211567.32,
+          "X_Lambert2008": 654706.21,
+          "Y_Lambert2008": 711567.96
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21404033180548,
+          "Lon_WGS84": 4.436184920583475,
+          "X_Lambert72": 154711.51,
+          "Y_Lambert72": 211567.32,
+          "X_Lambert2008": 654706.21,
+          "Y_Lambert2008": 711567.96
+        }
+      }
+    }
+  ]
+}

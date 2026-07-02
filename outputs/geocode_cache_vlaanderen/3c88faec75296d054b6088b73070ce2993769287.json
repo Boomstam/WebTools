@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Lange Beeldekensstraat",
+      "Housenumber": "248",
+      "ID": 1776221,
+      "FormattedAddress": "Lange Beeldekensstraat 248, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22163020597865,
+        "Lon_WGS84": 4.4331920337452475,
+        "X_Lambert72": 154501.64,
+        "Y_Lambert72": 212411.54,
+        "X_Lambert2008": 654496.24,
+        "Y_Lambert2008": 712412.15
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22163020597865,
+          "Lon_WGS84": 4.4331920337452475,
+          "X_Lambert72": 154501.64,
+          "Y_Lambert72": 212411.54,
+          "X_Lambert2008": 654496.24,
+          "Y_Lambert2008": 712412.15
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22163020597865,
+          "Lon_WGS84": 4.4331920337452475,
+          "X_Lambert72": 154501.64,
+          "Y_Lambert72": 212411.54,
+          "X_Lambert2008": 654496.24,
+          "Y_Lambert2008": 712412.15
+        }
+      }
+    }
+  ]
+}

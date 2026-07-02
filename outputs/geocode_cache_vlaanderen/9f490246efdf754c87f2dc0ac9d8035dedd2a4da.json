@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Letterkundestraat",
+      "Housenumber": "2",
+      "ID": 1583785,
+      "FormattedAddress": "Letterkundestraat 2, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18152054911593,
+        "Lon_WGS84": 4.382580295753287,
+        "X_Lambert72": 150966.57,
+        "Y_Lambert72": 207947.29,
+        "X_Lambert2008": 650961.73,
+        "Y_Lambert2008": 707947.51
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.18152054911593,
+          "Lon_WGS84": 4.382580295753287,
+          "X_Lambert72": 150966.57,
+          "Y_Lambert72": 207947.29,
+          "X_Lambert2008": 650961.73,
+          "Y_Lambert2008": 707947.51
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18152054911593,
+          "Lon_WGS84": 4.382580295753287,
+          "X_Lambert72": 150966.57,
+          "Y_Lambert72": 207947.29,
+          "X_Lambert2008": 650961.73,
+          "Y_Lambert2008": 707947.51
+        }
+      }
+    }
+  ]
+}

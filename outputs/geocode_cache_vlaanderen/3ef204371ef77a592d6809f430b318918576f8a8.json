@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Bredabaan",
+      "Housenumber": "479",
+      "ID": 1893082,
+      "FormattedAddress": "Bredabaan 479, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.244765684195606,
+        "Lon_WGS84": 4.446904136453077,
+        "X_Lambert72": 155456.89,
+        "Y_Lambert72": 214986.41,
+        "X_Lambert2008": 655451.17,
+        "Y_Lambert2008": 714987.11
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.244765684195606,
+          "Lon_WGS84": 4.446904136453077,
+          "X_Lambert72": 155456.89,
+          "Y_Lambert72": 214986.41,
+          "X_Lambert2008": 655451.17,
+          "Y_Lambert2008": 714987.11
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.244765684195606,
+          "Lon_WGS84": 4.446904136453077,
+          "X_Lambert72": 155456.89,
+          "Y_Lambert72": 214986.41,
+          "X_Lambert2008": 655451.17,
+          "Y_Lambert2008": 714987.11
+        }
+      }
+    }
+  ]
+}

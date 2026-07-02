@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Nationalestraat",
+      "Housenumber": "137",
+      "ID": 1202027,
+      "FormattedAddress": "Nationalestraat 137, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21329581426643,
+        "Lon_WGS84": 4.398100107610901,
+        "X_Lambert72": 152050.35,
+        "Y_Lambert72": 211482.73,
+        "X_Lambert2008": 652045.08,
+        "Y_Lambert2008": 711483.05
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21329581426643,
+          "Lon_WGS84": 4.398100107610901,
+          "X_Lambert72": 152050.35,
+          "Y_Lambert72": 211482.73,
+          "X_Lambert2008": 652045.08,
+          "Y_Lambert2008": 711483.05
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21329581426643,
+          "Lon_WGS84": 4.398100107610901,
+          "X_Lambert72": 152050.35,
+          "Y_Lambert72": 211482.73,
+          "X_Lambert2008": 652045.08,
+          "Y_Lambert2008": 711483.05
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Paardenmarkt",
+      "Housenumber": "51",
+      "ID": 609715,
+      "FormattedAddress": "Paardenmarkt 51, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22530003457746,
+        "Lon_WGS84": 4.4092930097187635,
+        "X_Lambert72": 152831.73,
+        "Y_Lambert72": 212818.63,
+        "X_Lambert2008": 652826.29,
+        "Y_Lambert2008": 712819.03
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22530003457746,
+          "Lon_WGS84": 4.4092930097187635,
+          "X_Lambert72": 152831.73,
+          "Y_Lambert72": 212818.63,
+          "X_Lambert2008": 652826.29,
+          "Y_Lambert2008": 712819.03
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22530003457746,
+          "Lon_WGS84": 4.4092930097187635,
+          "X_Lambert72": 152831.73,
+          "Y_Lambert72": 212818.63,
+          "X_Lambert2008": 652826.29,
+          "Y_Lambert2008": 712819.03
+        }
+      }
+    }
+  ]
+}

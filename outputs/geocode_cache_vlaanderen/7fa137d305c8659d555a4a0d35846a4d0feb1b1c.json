@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Oudedonklaan",
+      "Housenumber": "113",
+      "ID": 507200,
+      "FormattedAddress": "Oudedonklaan 113, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19859844069459,
+        "Lon_WGS84": 4.466125790864939,
+        "X_Lambert72": 156805.91,
+        "Y_Lambert72": 209851.69,
+        "X_Lambert2008": 656800.79,
+        "Y_Lambert2008": 709852.59
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19859844069459,
+          "Lon_WGS84": 4.466125790864939,
+          "X_Lambert72": 156805.91,
+          "Y_Lambert72": 209851.69,
+          "X_Lambert2008": 656800.79,
+          "Y_Lambert2008": 709852.59
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19859844069459,
+          "Lon_WGS84": 4.466125790864939,
+          "X_Lambert72": 156805.91,
+          "Y_Lambert72": 209851.69,
+          "X_Lambert2008": 656800.79,
+          "Y_Lambert2008": 709852.59
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Cockerillkaai",
+      "Housenumber": "36",
+      "ID": 1089310,
+      "FormattedAddress": "Cockerillkaai 36, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21048055175797,
+        "Lon_WGS84": 4.38839834764188,
+        "X_Lambert72": 151372.51,
+        "Y_Lambert72": 211169.29,
+        "X_Lambert2008": 651367.28,
+        "Y_Lambert2008": 711169.53
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21048055175797,
+          "Lon_WGS84": 4.38839834764188,
+          "X_Lambert72": 151372.51,
+          "Y_Lambert72": 211169.29,
+          "X_Lambert2008": 651367.28,
+          "Y_Lambert2008": 711169.53
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21048055175797,
+          "Lon_WGS84": 4.38839834764188,
+          "X_Lambert72": 151372.51,
+          "Y_Lambert72": 211169.29,
+          "X_Lambert2008": 651367.28,
+          "Y_Lambert2008": 711169.53
+        }
+      }
+    }
+  ]
+}

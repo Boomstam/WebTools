@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Provinciestraat",
+      "Housenumber": "201",
+      "ID": 975663,
+      "FormattedAddress": "Provinciestraat 201, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.211542006092806,
+        "Lon_WGS84": 4.426431443744597,
+        "X_Lambert72": 154030.2,
+        "Y_Lambert72": 211288.79,
+        "X_Lambert2008": 654024.94,
+        "Y_Lambert2008": 711289.35
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.211542006092806,
+          "Lon_WGS84": 4.426431443744597,
+          "X_Lambert72": 154030.2,
+          "Y_Lambert72": 211288.79,
+          "X_Lambert2008": 654024.94,
+          "Y_Lambert2008": 711289.35
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.211542006092806,
+          "Lon_WGS84": 4.426431443744597,
+          "X_Lambert72": 154030.2,
+          "Y_Lambert72": 211288.79,
+          "X_Lambert2008": 654024.94,
+          "Y_Lambert2008": 711289.35
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2180",
+      "Thoroughfarename": "Veltwijcklaan",
+      "Housenumber": "2",
+      "ID": 991314,
+      "FormattedAddress": "Veltwijcklaan 2, 2180 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.277362443426526,
+        "Lon_WGS84": 4.41928843729066,
+        "X_Lambert72": 153526.0,
+        "Y_Lambert72": 218611.32,
+        "X_Lambert2008": 653519.87,
+        "Y_Lambert2008": 718611.76
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.277362443426526,
+          "Lon_WGS84": 4.41928843729066,
+          "X_Lambert72": 153526.0,
+          "Y_Lambert72": 218611.32,
+          "X_Lambert2008": 653519.87,
+          "Y_Lambert2008": 718611.76
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.277362443426526,
+          "Lon_WGS84": 4.41928843729066,
+          "X_Lambert72": 153526.0,
+          "Y_Lambert72": 218611.32,
+          "X_Lambert2008": 653519.87,
+          "Y_Lambert2008": 718611.76
+        }
+      }
+    }
+  ]
+}

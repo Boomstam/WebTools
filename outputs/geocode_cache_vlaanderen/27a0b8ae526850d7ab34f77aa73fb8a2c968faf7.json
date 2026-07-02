@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Tweegezusterslaan",
+      "Housenumber": "27",
+      "ID": 1052669,
+      "FormattedAddress": "Tweegezusterslaan 27, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.226637015372454,
+        "Lon_WGS84": 4.4738447536703925,
+        "X_Lambert72": 157341.01,
+        "Y_Lambert72": 212971.84,
+        "X_Lambert2008": 657335.52,
+        "Y_Lambert2008": 712972.78
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.226637015372454,
+          "Lon_WGS84": 4.4738447536703925,
+          "X_Lambert72": 157341.01,
+          "Y_Lambert72": 212971.84,
+          "X_Lambert2008": 657335.52,
+          "Y_Lambert2008": 712972.78
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.226637015372454,
+          "Lon_WGS84": 4.4738447536703925,
+          "X_Lambert72": 157341.01,
+          "Y_Lambert72": 212971.84,
+          "X_Lambert2008": 657335.52,
+          "Y_Lambert2008": 712972.78
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Kistemaeckersstraat",
+      "Housenumber": "34",
+      "ID": 2407066,
+      "FormattedAddress": "Kistemaeckersstraat 34, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21948156612621,
+        "Lon_WGS84": 4.436472400259725,
+        "X_Lambert72": 154731.04,
+        "Y_Lambert72": 212172.7,
+        "X_Lambert2008": 654725.66,
+        "Y_Lambert2008": 712173.34
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21948156612621,
+          "Lon_WGS84": 4.436472400259725,
+          "X_Lambert72": 154731.04,
+          "Y_Lambert72": 212172.7,
+          "X_Lambert2008": 654725.66,
+          "Y_Lambert2008": 712173.34
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21948156612621,
+          "Lon_WGS84": 4.436472400259725,
+          "X_Lambert72": 154731.04,
+          "Y_Lambert72": 212172.7,
+          "X_Lambert2008": 654725.66,
+          "Y_Lambert2008": 712173.34
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Boomsesteenweg",
+      "Housenumber": "643",
+      "ID": 1360659,
+      "FormattedAddress": "Boomsesteenweg 643, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.159548655857705,
+        "Lon_WGS84": 4.384534377929936,
+        "X_Lambert72": 151103.75,
+        "Y_Lambert72": 205502.89,
+        "X_Lambert2008": 651099.2,
+        "Y_Lambert2008": 705503.15
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.159548655857705,
+          "Lon_WGS84": 4.384534377929936,
+          "X_Lambert72": 151103.75,
+          "Y_Lambert72": 205502.89,
+          "X_Lambert2008": 651099.2,
+          "Y_Lambert2008": 705503.15
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.159548655857705,
+          "Lon_WGS84": 4.384534377929936,
+          "X_Lambert72": 151103.75,
+          "Y_Lambert72": 205502.89,
+          "X_Lambert2008": 651099.2,
+          "Y_Lambert2008": 705503.15
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Brederodestraat",
+      "Housenumber": "41",
+      "ID": 1291778,
+      "FormattedAddress": "Brederodestraat 41, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.205624659299104,
+        "Lon_WGS84": 4.396200566037789,
+        "X_Lambert72": 151917.94,
+        "Y_Lambert72": 210629.23,
+        "X_Lambert2008": 651912.77,
+        "Y_Lambert2008": 710629.54
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.205624659299104,
+          "Lon_WGS84": 4.396200566037789,
+          "X_Lambert72": 151917.94,
+          "Y_Lambert72": 210629.23,
+          "X_Lambert2008": 651912.77,
+          "Y_Lambert2008": 710629.54
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.205624659299104,
+          "Lon_WGS84": 4.396200566037789,
+          "X_Lambert72": 151917.94,
+          "Y_Lambert72": 210629.23,
+          "X_Lambert2008": 651912.77,
+          "Y_Lambert2008": 710629.54
+        }
+      }
+    }
+  ]
+}

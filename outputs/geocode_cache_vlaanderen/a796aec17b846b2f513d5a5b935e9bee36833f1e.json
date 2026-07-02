@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Kroonstraat",
+      "Housenumber": "134",
+      "ID": 2347585,
+      "FormattedAddress": "Kroonstraat 134, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21249199459745,
+        "Lon_WGS84": 4.429270159149858,
+        "X_Lambert72": 154228.48,
+        "Y_Lambert72": 211394.64,
+        "X_Lambert2008": 654223.2,
+        "Y_Lambert2008": 711395.22
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21249199459745,
+          "Lon_WGS84": 4.429270159149858,
+          "X_Lambert72": 154228.48,
+          "Y_Lambert72": 211394.64,
+          "X_Lambert2008": 654223.2,
+          "Y_Lambert2008": 711395.22
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21249199459745,
+          "Lon_WGS84": 4.429270159149858,
+          "X_Lambert72": 154228.48,
+          "Y_Lambert72": 211394.64,
+          "X_Lambert2008": 654223.2,
+          "Y_Lambert2008": 711395.22
+        }
+      }
+    }
+  ]
+}

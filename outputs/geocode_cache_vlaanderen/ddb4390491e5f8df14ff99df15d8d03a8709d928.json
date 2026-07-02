@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2040",
+      "Thoroughfarename": "Berendrechtsvoetpad",
+      "Housenumber": "35",
+      "ID": 1945290,
+      "FormattedAddress": "Berendrechtsvoetpad 35, 2040 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.35482099952325,
+        "Lon_WGS84": 4.313968338694481,
+        "X_Lambert72": 146182.98,
+        "Y_Lambert72": 227229.42,
+        "X_Lambert2008": 646175.88,
+        "Y_Lambert2008": 727228.92
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.35482099952325,
+          "Lon_WGS84": 4.313968338694481,
+          "X_Lambert72": 146182.98,
+          "Y_Lambert72": 227229.42,
+          "X_Lambert2008": 646175.88,
+          "Y_Lambert2008": 727228.92
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.35482099952325,
+          "Lon_WGS84": 4.313968338694481,
+          "X_Lambert72": 146182.98,
+          "Y_Lambert72": 227229.42,
+          "X_Lambert2008": 646175.88,
+          "Y_Lambert2008": 727228.92
+        }
+      }
+    }
+  ]
+}

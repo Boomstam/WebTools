@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Klaverstraat",
+      "Housenumber": "16",
+      "ID": 1175825,
+      "FormattedAddress": "Klaverstraat 16, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.253065023534205,
+        "Lon_WGS84": 4.433487346510734,
+        "X_Lambert72": 154519.19,
+        "Y_Lambert72": 215908.85,
+        "X_Lambert2008": 654513.37,
+        "Y_Lambert2008": 715909.43
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.253065023534205,
+          "Lon_WGS84": 4.433487346510734,
+          "X_Lambert72": 154519.19,
+          "Y_Lambert72": 215908.85,
+          "X_Lambert2008": 654513.37,
+          "Y_Lambert2008": 715909.43
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.253065023534205,
+          "Lon_WGS84": 4.433487346510734,
+          "X_Lambert72": 154519.19,
+          "Y_Lambert72": 215908.85,
+          "X_Lambert2008": 654513.37,
+          "Y_Lambert2008": 715909.43
+        }
+      }
+    }
+  ]
+}

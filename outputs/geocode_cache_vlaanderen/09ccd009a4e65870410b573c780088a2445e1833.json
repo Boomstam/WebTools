@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2040",
+      "Thoroughfarename": "Franciscanenstraat",
+      "Housenumber": "3",
+      "ID": 1136993,
+      "FormattedAddress": "Franciscanenstraat 3, 2040 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.3438526020738,
+        "Lon_WGS84": 4.32323986880314,
+        "X_Lambert72": 146828.14,
+        "Y_Lambert72": 226008.64,
+        "X_Lambert2008": 646821.18,
+        "Y_Lambert2008": 726008.22
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.3438526020738,
+          "Lon_WGS84": 4.32323986880314,
+          "X_Lambert72": 146828.14,
+          "Y_Lambert72": 226008.64,
+          "X_Lambert2008": 646821.18,
+          "Y_Lambert2008": 726008.22
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.3438526020738,
+          "Lon_WGS84": 4.32323986880314,
+          "X_Lambert72": 146828.14,
+          "Y_Lambert72": 226008.64,
+          "X_Lambert2008": 646821.18,
+          "Y_Lambert2008": 726008.22
+        }
+      }
+    }
+  ]
+}

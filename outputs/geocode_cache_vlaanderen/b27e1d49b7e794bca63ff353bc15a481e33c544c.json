@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2040",
+      "Thoroughfarename": "Steenovenstraat",
+      "Housenumber": "2",
+      "ID": 380829,
+      "FormattedAddress": "Steenovenstraat 2, 2040 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.351716180606246,
+        "Lon_WGS84": 4.323368647763186,
+        "X_Lambert72": 146837.64,
+        "Y_Lambert72": 226883.54,
+        "X_Lambert2008": 646830.58,
+        "Y_Lambert2008": 726883.12
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.351716180606246,
+          "Lon_WGS84": 4.323368647763186,
+          "X_Lambert72": 146837.64,
+          "Y_Lambert72": 226883.54,
+          "X_Lambert2008": 646830.58,
+          "Y_Lambert2008": 726883.12
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.351716180606246,
+          "Lon_WGS84": 4.323368647763186,
+          "X_Lambert72": 146837.64,
+          "Y_Lambert72": 226883.54,
+          "X_Lambert2008": 646830.58,
+          "Y_Lambert2008": 726883.12
+        }
+      }
+    }
+  ]
+}

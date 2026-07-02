@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Annuntiatenstraat",
+      "Housenumber": "34",
+      "ID": 1032161,
+      "FormattedAddress": "Annuntiatenstraat 34, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.24712747040442,
+        "Lon_WGS84": 4.445787344099383,
+        "X_Lambert72": 155378.63,
+        "Y_Lambert72": 215249.09,
+        "X_Lambert2008": 655372.88,
+        "Y_Lambert2008": 715249.78
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.24712747040442,
+          "Lon_WGS84": 4.445787344099383,
+          "X_Lambert72": 155378.63,
+          "Y_Lambert72": 215249.09,
+          "X_Lambert2008": 655372.88,
+          "Y_Lambert2008": 715249.78
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.24712747040442,
+          "Lon_WGS84": 4.445787344099383,
+          "X_Lambert72": 155378.63,
+          "Y_Lambert72": 215249.09,
+          "X_Lambert2008": 655372.88,
+          "Y_Lambert2008": 715249.78
+        }
+      }
+    }
+  ]
+}

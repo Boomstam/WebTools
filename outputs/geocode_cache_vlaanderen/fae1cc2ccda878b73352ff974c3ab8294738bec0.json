@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Pieter van Hobokenstraat",
+      "Housenumber": "25",
+      "ID": 225301,
+      "FormattedAddress": "Pieter van Hobokenstraat 25, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22188620261096,
+        "Lon_WGS84": 4.413114008028237,
+        "X_Lambert72": 153098.89,
+        "Y_Lambert72": 212438.98,
+        "X_Lambert2008": 653093.5,
+        "Y_Lambert2008": 712439.42
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22188620261096,
+          "Lon_WGS84": 4.413114008028237,
+          "X_Lambert72": 153098.89,
+          "Y_Lambert72": 212438.98,
+          "X_Lambert2008": 653093.5,
+          "Y_Lambert2008": 712439.42
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22188620261096,
+          "Lon_WGS84": 4.413114008028237,
+          "X_Lambert72": 153098.89,
+          "Y_Lambert72": 212438.98,
+          "X_Lambert2008": 653093.5,
+          "Y_Lambert2008": 712439.42
+        }
+      }
+    }
+  ]
+}

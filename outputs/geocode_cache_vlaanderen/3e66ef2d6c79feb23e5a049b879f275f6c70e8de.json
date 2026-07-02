@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Rubenslei",
+      "Housenumber": "23",
+      "ID": 1362954,
+      "FormattedAddress": "Rubenslei 23, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21240307621627,
+        "Lon_WGS84": 4.411686229255516,
+        "X_Lambert72": 152999.76,
+        "Y_Lambert72": 211383.88,
+        "X_Lambert2008": 652994.49,
+        "Y_Lambert2008": 711384.32
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21240307621627,
+          "Lon_WGS84": 4.411686229255516,
+          "X_Lambert72": 152999.76,
+          "Y_Lambert72": 211383.88,
+          "X_Lambert2008": 652994.49,
+          "Y_Lambert2008": 711384.32
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21240307621627,
+          "Lon_WGS84": 4.411686229255516,
+          "X_Lambert72": 152999.76,
+          "Y_Lambert72": 211383.88,
+          "X_Lambert2008": 652994.49,
+          "Y_Lambert2008": 711384.32
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Graaf van Hoornestraat",
+      "Housenumber": "7",
+      "ID": 331957,
+      "FormattedAddress": "Graaf van Hoornestraat 7, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.208054735728886,
+        "Lon_WGS84": 4.393173460746375,
+        "X_Lambert72": 151706.29,
+        "Y_Lambert72": 210899.51,
+        "X_Lambert2008": 651701.09,
+        "Y_Lambert2008": 710899.8
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.208054735728886,
+          "Lon_WGS84": 4.393173460746375,
+          "X_Lambert72": 151706.29,
+          "Y_Lambert72": 210899.51,
+          "X_Lambert2008": 651701.09,
+          "Y_Lambert2008": 710899.8
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.208054735728886,
+          "Lon_WGS84": 4.393173460746375,
+          "X_Lambert72": 151706.29,
+          "Y_Lambert72": 210899.51,
+          "X_Lambert2008": 651701.09,
+          "Y_Lambert2008": 710899.8
+        }
+      }
+    }
+  ]
+}

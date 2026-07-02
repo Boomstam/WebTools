@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Kerkstraat",
+      "Housenumber": "43",
+      "ID": 596079,
+      "FormattedAddress": "Kerkstraat 43, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21832901261108,
+        "Lon_WGS84": 4.429375289424047,
+        "X_Lambert72": 154235.29,
+        "Y_Lambert72": 212044.04,
+        "X_Lambert2008": 654229.93,
+        "Y_Lambert2008": 712044.62
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21832901261108,
+          "Lon_WGS84": 4.429375289424047,
+          "X_Lambert72": 154235.29,
+          "Y_Lambert72": 212044.04,
+          "X_Lambert2008": 654229.93,
+          "Y_Lambert2008": 712044.62
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21832901261108,
+          "Lon_WGS84": 4.429375289424047,
+          "X_Lambert72": 154235.29,
+          "Y_Lambert72": 212044.04,
+          "X_Lambert2008": 654229.93,
+          "Y_Lambert2008": 712044.62
+        }
+      }
+    }
+  ]
+}

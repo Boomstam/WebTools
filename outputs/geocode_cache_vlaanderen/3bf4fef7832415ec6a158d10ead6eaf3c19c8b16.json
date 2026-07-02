@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Provinciestraat",
+      "Housenumber": "56",
+      "ID": 1833713,
+      "FormattedAddress": "Provinciestraat 56, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2163702012572,
+        "Lon_WGS84": 4.426291649276731,
+        "X_Lambert72": 154020.01,
+        "Y_Lambert72": 211825.94,
+        "X_Lambert2008": 654014.68,
+        "Y_Lambert2008": 711826.49
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2163702012572,
+          "Lon_WGS84": 4.426291649276731,
+          "X_Lambert72": 154020.01,
+          "Y_Lambert72": 211825.94,
+          "X_Lambert2008": 654014.68,
+          "Y_Lambert2008": 711826.49
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2163702012572,
+          "Lon_WGS84": 4.426291649276731,
+          "X_Lambert72": 154020.01,
+          "Y_Lambert72": 211825.94,
+          "X_Lambert2008": 654014.68,
+          "Y_Lambert2008": 711826.49
+        }
+      }
+    }
+  ]
+}

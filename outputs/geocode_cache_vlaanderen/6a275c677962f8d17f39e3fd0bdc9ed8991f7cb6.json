@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Kioskplaats",
+      "Housenumber": "64",
+      "ID": 581855,
+      "FormattedAddress": "Kioskplaats 64, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.176099697909315,
+        "Lon_WGS84": 4.350538771619624,
+        "X_Lambert72": 148725.95,
+        "Y_Lambert72": 207344.25,
+        "X_Lambert2008": 648721.2,
+        "Y_Lambert2008": 707344.21
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.176099697909315,
+          "Lon_WGS84": 4.350538771619624,
+          "X_Lambert72": 148725.95,
+          "Y_Lambert72": 207344.25,
+          "X_Lambert2008": 648721.2,
+          "Y_Lambert2008": 707344.21
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.176099697909315,
+          "Lon_WGS84": 4.350538771619624,
+          "X_Lambert72": 148725.95,
+          "Y_Lambert72": 207344.25,
+          "X_Lambert2008": 648721.2,
+          "Y_Lambert2008": 707344.21
+        }
+      }
+    }
+  ]
+}

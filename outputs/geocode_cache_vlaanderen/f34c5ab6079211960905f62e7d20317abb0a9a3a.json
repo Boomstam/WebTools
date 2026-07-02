@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Sint-Paulusstraat",
+      "Housenumber": "38",
+      "ID": 852495,
+      "FormattedAddress": "Sint-Paulusstraat 38, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.223820508149025,
+        "Lon_WGS84": 4.40269329455345,
+        "X_Lambert72": 152370.76,
+        "Y_Lambert72": 212653.79,
+        "X_Lambert2008": 652365.35,
+        "Y_Lambert2008": 712654.14
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.223820508149025,
+          "Lon_WGS84": 4.40269329455345,
+          "X_Lambert72": 152370.76,
+          "Y_Lambert72": 212653.79,
+          "X_Lambert2008": 652365.35,
+          "Y_Lambert2008": 712654.14
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.223820508149025,
+          "Lon_WGS84": 4.40269329455345,
+          "X_Lambert72": 152370.76,
+          "Y_Lambert72": 212653.79,
+          "X_Lambert2008": 652365.35,
+          "Y_Lambert2008": 712654.14
+        }
+      }
+    }
+  ]
+}

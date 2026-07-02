@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Prinsstraat",
+      "Housenumber": "36",
+      "ID": 377256,
+      "FormattedAddress": "Prinsstraat 36, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.222056671965035,
+        "Lon_WGS84": 4.41080151837997,
+        "X_Lambert72": 152937.32,
+        "Y_Lambert72": 212457.85,
+        "X_Lambert2008": 652931.93,
+        "Y_Lambert2008": 712458.27
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.222056671965035,
+          "Lon_WGS84": 4.41080151837997,
+          "X_Lambert72": 152937.32,
+          "Y_Lambert72": 212457.85,
+          "X_Lambert2008": 652931.93,
+          "Y_Lambert2008": 712458.27
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.222056671965035,
+          "Lon_WGS84": 4.41080151837997,
+          "X_Lambert72": 152937.32,
+          "Y_Lambert72": 212457.85,
+          "X_Lambert2008": 652931.93,
+          "Y_Lambert2008": 712458.27
+        }
+      }
+    }
+  ]
+}

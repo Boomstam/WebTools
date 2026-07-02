@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Antoon van Dyckstraat",
+      "Housenumber": "67",
+      "ID": 843810,
+      "FormattedAddress": "Antoon van Dyckstraat 67, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20775728179614,
+        "Lon_WGS84": 4.416620864116511,
+        "X_Lambert72": 153344.92,
+        "Y_Lambert72": 210867.23,
+        "X_Lambert2008": 653339.71,
+        "Y_Lambert2008": 710867.71
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20775728179614,
+          "Lon_WGS84": 4.416620864116511,
+          "X_Lambert72": 153344.92,
+          "Y_Lambert72": 210867.23,
+          "X_Lambert2008": 653339.71,
+          "Y_Lambert2008": 710867.71
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20775728179614,
+          "Lon_WGS84": 4.416620864116511,
+          "X_Lambert72": 153344.92,
+          "Y_Lambert72": 210867.23,
+          "X_Lambert2008": 653339.71,
+          "Y_Lambert2008": 710867.71
+        }
+      }
+    }
+  ]
+}

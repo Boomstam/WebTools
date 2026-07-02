@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Bredabaan",
+      "Housenumber": "425",
+      "ID": 1157822,
+      "FormattedAddress": "Bredabaan 425, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.243762651604264,
+        "Lon_WGS84": 4.444341109056346,
+        "X_Lambert72": 155278.03,
+        "Y_Lambert72": 214874.63,
+        "X_Lambert2008": 655272.33,
+        "Y_Lambert2008": 714875.31
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.243762651604264,
+          "Lon_WGS84": 4.444341109056346,
+          "X_Lambert72": 155278.03,
+          "Y_Lambert72": 214874.63,
+          "X_Lambert2008": 655272.33,
+          "Y_Lambert2008": 714875.31
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.243762651604264,
+          "Lon_WGS84": 4.444341109056346,
+          "X_Lambert72": 155278.03,
+          "Y_Lambert72": 214874.63,
+          "X_Lambert2008": 655272.33,
+          "Y_Lambert2008": 714875.31
+        }
+      }
+    }
+  ]
+}

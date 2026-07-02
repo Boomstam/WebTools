@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Statielei",
+      "Housenumber": "71",
+      "ID": 1399795,
+      "FormattedAddress": "Statielei 71, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21792034172668,
+        "Lon_WGS84": 4.445139399666869,
+        "X_Lambert72": 155336.76,
+        "Y_Lambert72": 211999.6,
+        "X_Lambert2008": 655331.4,
+        "Y_Lambert2008": 712000.31
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21792034172668,
+          "Lon_WGS84": 4.445139399666869,
+          "X_Lambert72": 155336.76,
+          "Y_Lambert72": 211999.6,
+          "X_Lambert2008": 655331.4,
+          "Y_Lambert2008": 712000.31
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21792034172668,
+          "Lon_WGS84": 4.445139399666869,
+          "X_Lambert72": 155336.76,
+          "Y_Lambert72": 211999.6,
+          "X_Lambert2008": 655331.4,
+          "Y_Lambert2008": 712000.31
+        }
+      }
+    }
+  ]
+}

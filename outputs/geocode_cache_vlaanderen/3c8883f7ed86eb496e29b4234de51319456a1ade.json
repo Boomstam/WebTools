@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Carnotstraat",
+      "Housenumber": "152",
+      "ID": 2255135,
+      "FormattedAddress": "Carnotstraat 152, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21717874082823,
+        "Lon_WGS84": 4.428904052408233,
+        "X_Lambert72": 154202.47,
+        "Y_Lambert72": 211916.04,
+        "X_Lambert2008": 654197.13,
+        "Y_Lambert2008": 711916.61
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21717874082823,
+          "Lon_WGS84": 4.428904052408233,
+          "X_Lambert72": 154202.47,
+          "Y_Lambert72": 211916.04,
+          "X_Lambert2008": 654197.13,
+          "Y_Lambert2008": 711916.61
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21717874082823,
+          "Lon_WGS84": 4.428904052408233,
+          "X_Lambert72": 154202.47,
+          "Y_Lambert72": 211916.04,
+          "X_Lambert2008": 654197.13,
+          "Y_Lambert2008": 711916.61
+        }
+      }
+    }
+  ]
+}

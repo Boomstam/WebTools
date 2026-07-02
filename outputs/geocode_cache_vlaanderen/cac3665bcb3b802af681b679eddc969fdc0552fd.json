@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Van Arteveldestraat",
+      "Housenumber": "10",
+      "ID": 385729,
+      "FormattedAddress": "Van Arteveldestraat 10, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21967332760536,
+        "Lon_WGS84": 4.419967179395216,
+        "X_Lambert72": 153577.85,
+        "Y_Lambert72": 212193.1,
+        "X_Lambert2008": 653572.48,
+        "Y_Lambert2008": 712193.6
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21967332760536,
+          "Lon_WGS84": 4.419967179395216,
+          "X_Lambert72": 153577.85,
+          "Y_Lambert72": 212193.1,
+          "X_Lambert2008": 653572.48,
+          "Y_Lambert2008": 712193.6
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21967332760536,
+          "Lon_WGS84": 4.419967179395216,
+          "X_Lambert72": 153577.85,
+          "Y_Lambert72": 212193.1,
+          "X_Lambert2008": 653572.48,
+          "Y_Lambert2008": 712193.6
+        }
+      }
+    }
+  ]
+}

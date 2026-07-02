@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Breydelstraat",
+      "Housenumber": "12",
+      "ID": 2265313,
+      "FormattedAddress": "Breydelstraat 12, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21885519474404,
+        "Lon_WGS84": 4.419163042425007,
+        "X_Lambert72": 153521.73,
+        "Y_Lambert72": 212102.04,
+        "X_Lambert2008": 653516.37,
+        "Y_Lambert2008": 712102.53
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21885519474404,
+          "Lon_WGS84": 4.419163042425007,
+          "X_Lambert72": 153521.73,
+          "Y_Lambert72": 212102.04,
+          "X_Lambert2008": 653516.37,
+          "Y_Lambert2008": 712102.53
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21885519474404,
+          "Lon_WGS84": 4.419163042425007,
+          "X_Lambert72": 153521.73,
+          "Y_Lambert72": 212102.04,
+          "X_Lambert2008": 653516.37,
+          "Y_Lambert2008": 712102.53
+        }
+      }
+    }
+  ]
+}

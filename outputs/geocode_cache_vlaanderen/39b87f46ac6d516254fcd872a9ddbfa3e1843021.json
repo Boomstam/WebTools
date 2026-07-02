@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Hoveniersstraat",
+      "Housenumber": "19",
+      "ID": 702667,
+      "FormattedAddress": "Hoveniersstraat 19, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.215459632337726,
+        "Lon_WGS84": 4.4189871526102555,
+        "X_Lambert72": 153509.7,
+        "Y_Lambert72": 211724.26,
+        "X_Lambert2008": 653504.39,
+        "Y_Lambert2008": 711724.75
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.215459632337726,
+          "Lon_WGS84": 4.4189871526102555,
+          "X_Lambert72": 153509.7,
+          "Y_Lambert72": 211724.26,
+          "X_Lambert2008": 653504.39,
+          "Y_Lambert2008": 711724.75
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.215459632337726,
+          "Lon_WGS84": 4.4189871526102555,
+          "X_Lambert72": 153509.7,
+          "Y_Lambert72": 211724.26,
+          "X_Lambert2008": 653504.39,
+          "Y_Lambert2008": 711724.75
+        }
+      }
+    }
+  ]
+}

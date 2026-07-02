@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Leysstraat",
+      "Housenumber": "20",
+      "ID": 1294812,
+      "FormattedAddress": "Leysstraat 20, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21805834928961,
+        "Lon_WGS84": 4.413731324972803,
+        "X_Lambert72": 153142.28,
+        "Y_Lambert72": 212013.14,
+        "X_Lambert2008": 653136.94,
+        "Y_Lambert2008": 712013.59
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21805834928961,
+          "Lon_WGS84": 4.413731324972803,
+          "X_Lambert72": 153142.28,
+          "Y_Lambert72": 212013.14,
+          "X_Lambert2008": 653136.94,
+          "Y_Lambert2008": 712013.59
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21805834928961,
+          "Lon_WGS84": 4.413731324972803,
+          "X_Lambert72": 153142.28,
+          "Y_Lambert72": 212013.14,
+          "X_Lambert2008": 653136.94,
+          "Y_Lambert2008": 712013.59
+        }
+      }
+    }
+  ]
+}

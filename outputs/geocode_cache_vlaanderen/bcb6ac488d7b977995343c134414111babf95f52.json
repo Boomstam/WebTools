@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Kattendijkdok-Oostkaai",
+      "Housenumber": "12",
+      "ID": 1626668,
+      "FormattedAddress": "Kattendijkdok-Oostkaai 12, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.23380460340114,
+        "Lon_WGS84": 4.409649014406585,
+        "X_Lambert72": 152856.07,
+        "Y_Lambert72": 213764.82,
+        "X_Lambert2008": 652850.52,
+        "Y_Lambert2008": 713765.22
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.23380460340114,
+          "Lon_WGS84": 4.409649014406585,
+          "X_Lambert72": 152856.07,
+          "Y_Lambert72": 213764.82,
+          "X_Lambert2008": 652850.52,
+          "Y_Lambert2008": 713765.22
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.23380460340114,
+          "Lon_WGS84": 4.409649014406585,
+          "X_Lambert72": 152856.07,
+          "Y_Lambert72": 213764.82,
+          "X_Lambert2008": 652850.52,
+          "Y_Lambert2008": 713765.22
+        }
+      }
+    }
+  ]
+}

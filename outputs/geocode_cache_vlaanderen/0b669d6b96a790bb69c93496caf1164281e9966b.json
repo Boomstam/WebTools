@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Kapelstraat",
+      "Housenumber": "76",
+      "ID": 2490936,
+      "FormattedAddress": "Kapelstraat 76, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17487140688007,
+        "Lon_WGS84": 4.346678029123795,
+        "X_Lambert72": 148455.92,
+        "Y_Lambert72": 207207.67,
+        "X_Lambert2008": 648451.19,
+        "Y_Lambert2008": 707207.6
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17487140688007,
+          "Lon_WGS84": 4.346678029123795,
+          "X_Lambert72": 148455.92,
+          "Y_Lambert72": 207207.67,
+          "X_Lambert2008": 648451.19,
+          "Y_Lambert2008": 707207.6
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17487140688007,
+          "Lon_WGS84": 4.346678029123795,
+          "X_Lambert72": 148455.92,
+          "Y_Lambert72": 207207.67,
+          "X_Lambert2008": 648451.19,
+          "Y_Lambert2008": 707207.6
+        }
+      }
+    }
+  ]
+}

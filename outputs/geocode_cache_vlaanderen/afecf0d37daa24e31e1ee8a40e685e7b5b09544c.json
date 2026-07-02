@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Sint-Sebastiaanstraat",
+      "Housenumber": "74",
+      "ID": 317935,
+      "FormattedAddress": "Sint-Sebastiaanstraat 74, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17229182558359,
+        "Lon_WGS84": 4.397222106314702,
+        "X_Lambert72": 151990.79,
+        "Y_Lambert72": 206920.87,
+        "X_Lambert2008": 651986.06,
+        "Y_Lambert2008": 706921.22
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17229182558359,
+          "Lon_WGS84": 4.397222106314702,
+          "X_Lambert72": 151990.79,
+          "Y_Lambert72": 206920.87,
+          "X_Lambert2008": 651986.06,
+          "Y_Lambert2008": 706921.22
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17229182558359,
+          "Lon_WGS84": 4.397222106314702,
+          "X_Lambert72": 151990.79,
+          "Y_Lambert72": 206920.87,
+          "X_Lambert2008": 651986.06,
+          "Y_Lambert2008": 706921.22
+        }
+      }
+    }
+  ]
+}

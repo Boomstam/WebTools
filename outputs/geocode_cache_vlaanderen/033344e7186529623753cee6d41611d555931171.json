@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2050",
+      "Thoroughfarename": "Pluvierstraat",
+      "Housenumber": "37",
+      "ID": 777629,
+      "FormattedAddress": "Pluvierstraat 37, 2050 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21742332274256,
+        "Lon_WGS84": 4.379448228024311,
+        "X_Lambert72": 150746.95,
+        "Y_Lambert72": 211941.57,
+        "X_Lambert2008": 650741.63,
+        "Y_Lambert2008": 711941.73
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21742332274256,
+          "Lon_WGS84": 4.379448228024311,
+          "X_Lambert72": 150746.95,
+          "Y_Lambert72": 211941.57,
+          "X_Lambert2008": 650741.63,
+          "Y_Lambert2008": 711941.73
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21742332274256,
+          "Lon_WGS84": 4.379448228024311,
+          "X_Lambert72": 150746.95,
+          "Y_Lambert72": 211941.57,
+          "X_Lambert2008": 650741.63,
+          "Y_Lambert2008": 711941.73
+        }
+      }
+    }
+  ]
+}

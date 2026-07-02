@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Falconrui",
+      "Housenumber": "56",
+      "ID": 1478732,
+      "FormattedAddress": "Falconrui 56, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.225307530794204,
+        "Lon_WGS84": 4.407877012661871,
+        "X_Lambert72": 152732.81,
+        "Y_Lambert72": 212819.41,
+        "X_Lambert2008": 652727.37,
+        "Y_Lambert2008": 712819.8
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.225307530794204,
+          "Lon_WGS84": 4.407877012661871,
+          "X_Lambert72": 152732.81,
+          "Y_Lambert72": 212819.41,
+          "X_Lambert2008": 652727.37,
+          "Y_Lambert2008": 712819.8
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.225307530794204,
+          "Lon_WGS84": 4.407877012661871,
+          "X_Lambert72": 152732.81,
+          "Y_Lambert72": 212819.41,
+          "X_Lambert2008": 652727.37,
+          "Y_Lambert2008": 712819.8
+        }
+      }
+    }
+  ]
+}

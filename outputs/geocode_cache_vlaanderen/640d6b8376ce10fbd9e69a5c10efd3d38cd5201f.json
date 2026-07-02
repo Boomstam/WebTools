@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Cuylitsstraat",
+      "Housenumber": "39",
+      "ID": 1355488,
+      "FormattedAddress": "Cuylitsstraat 39, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20443355948125,
+        "Lon_WGS84": 4.393193259512206,
+        "X_Lambert72": 151707.81,
+        "Y_Lambert72": 210496.64,
+        "X_Lambert2008": 651702.66,
+        "Y_Lambert2008": 710496.93
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20443355948125,
+          "Lon_WGS84": 4.393193259512206,
+          "X_Lambert72": 151707.81,
+          "Y_Lambert72": 210496.64,
+          "X_Lambert2008": 651702.66,
+          "Y_Lambert2008": 710496.93
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20443355948125,
+          "Lon_WGS84": 4.393193259512206,
+          "X_Lambert72": 151707.81,
+          "Y_Lambert72": 210496.64,
+          "X_Lambert2008": 651702.66,
+          "Y_Lambert2008": 710496.93
+        }
+      }
+    }
+  ]
+}

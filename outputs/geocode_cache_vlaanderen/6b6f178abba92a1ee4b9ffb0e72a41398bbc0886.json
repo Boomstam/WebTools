@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2150",
+      "Thoroughfarename": "Jozef Reusenslei",
+      "Housenumber": "112",
+      "ID": 30423206,
+      "FormattedAddress": "Jozef Reusenslei 112, 2150 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.196168109337066,
+        "Lon_WGS84": 4.489306371452017,
+        "X_Lambert72": 158426.64,
+        "Y_Lambert72": 209583.7,
+        "X_Lambert2008": 658421.54,
+        "Y_Lambert2008": 709584.8
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.196168109337066,
+          "Lon_WGS84": 4.489306371452017,
+          "X_Lambert72": 158426.64,
+          "Y_Lambert72": 209583.7,
+          "X_Lambert2008": 658421.54,
+          "Y_Lambert2008": 709584.8
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.196168109337066,
+          "Lon_WGS84": 4.489306371452017,
+          "X_Lambert72": 158426.64,
+          "Y_Lambert72": 209583.7,
+          "X_Lambert2008": 658421.54,
+          "Y_Lambert2008": 709584.8
+        }
+      }
+    }
+  ]
+}

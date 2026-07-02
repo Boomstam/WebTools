@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2180",
+      "Thoroughfarename": "Markt",
+      "Housenumber": "12",
+      "ID": 2218577,
+      "FormattedAddress": "Markt 12, 2180 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.27733758679938,
+        "Lon_WGS84": 4.417716483292906,
+        "X_Lambert72": 153416.31,
+        "Y_Lambert72": 218608.48,
+        "X_Lambert2008": 653410.18,
+        "Y_Lambert2008": 718608.91
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.27733758679938,
+          "Lon_WGS84": 4.417716483292906,
+          "X_Lambert72": 153416.31,
+          "Y_Lambert72": 218608.48,
+          "X_Lambert2008": 653410.18,
+          "Y_Lambert2008": 718608.91
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.27733758679938,
+          "Lon_WGS84": 4.417716483292906,
+          "X_Lambert72": 153416.31,
+          "Y_Lambert72": 218608.48,
+          "X_Lambert2008": 653410.18,
+          "Y_Lambert2008": 718608.91
+        }
+      }
+    }
+  ]
+}

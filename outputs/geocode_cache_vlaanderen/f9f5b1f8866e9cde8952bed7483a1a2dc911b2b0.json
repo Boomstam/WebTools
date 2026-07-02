@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Bredastraat",
+      "Housenumber": "95",
+      "ID": 2397855,
+      "FormattedAddress": "Bredastraat 95, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.23448692181525,
+        "Lon_WGS84": 4.423238319450527,
+        "X_Lambert72": 153805.17,
+        "Y_Lambert72": 213841.35,
+        "X_Lambert2008": 653799.6,
+        "Y_Lambert2008": 713841.86
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.23448692181525,
+          "Lon_WGS84": 4.423238319450527,
+          "X_Lambert72": 153805.17,
+          "Y_Lambert72": 213841.35,
+          "X_Lambert2008": 653799.6,
+          "Y_Lambert2008": 713841.86
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.23448692181525,
+          "Lon_WGS84": 4.423238319450527,
+          "X_Lambert72": 153805.17,
+          "Y_Lambert72": 213841.35,
+          "X_Lambert2008": 653799.6,
+          "Y_Lambert2008": 713841.86
+        }
+      }
+    }
+  ]
+}

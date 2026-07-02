@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2180",
+      "Thoroughfarename": "Groot Hagelkruis",
+      "Housenumber": "134",
+      "ID": 2362113,
+      "FormattedAddress": "Groot Hagelkruis 134, 2180 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.27585561990448,
+        "Lon_WGS84": 4.412977634775268,
+        "X_Lambert72": 153085.73,
+        "Y_Lambert72": 218443.39,
+        "X_Lambert2008": 653079.62,
+        "Y_Lambert2008": 718443.78
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.27585561990448,
+          "Lon_WGS84": 4.412977634775268,
+          "X_Lambert72": 153085.73,
+          "Y_Lambert72": 218443.39,
+          "X_Lambert2008": 653079.62,
+          "Y_Lambert2008": 718443.78
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.27585561990448,
+          "Lon_WGS84": 4.412977634775268,
+          "X_Lambert72": 153085.73,
+          "Y_Lambert72": 218443.39,
+          "X_Lambert2008": 653079.62,
+          "Y_Lambert2008": 718443.78
+        }
+      }
+    }
+  ]
+}

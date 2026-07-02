@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Begijnenvest",
+      "Housenumber": "53",
+      "ID": 30130030,
+      "FormattedAddress": "Begijnenvest 53, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.210504150892874,
+        "Lon_WGS84": 4.404624283164756,
+        "X_Lambert72": 152506.39,
+        "Y_Lambert72": 211172.35,
+        "X_Lambert2008": 652501.15,
+        "Y_Lambert2008": 711172.73
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.210504150892874,
+          "Lon_WGS84": 4.404624283164756,
+          "X_Lambert72": 152506.39,
+          "Y_Lambert72": 211172.35,
+          "X_Lambert2008": 652501.15,
+          "Y_Lambert2008": 711172.73
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.210504150892874,
+          "Lon_WGS84": 4.404624283164756,
+          "X_Lambert72": 152506.39,
+          "Y_Lambert72": 211172.35,
+          "X_Lambert2008": 652501.15,
+          "Y_Lambert2008": 711172.73
+        }
+      }
+    }
+  ]
+}

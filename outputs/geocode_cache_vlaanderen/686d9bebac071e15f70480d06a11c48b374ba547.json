@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Onderwijsstraat",
+      "Housenumber": "63",
+      "ID": 663310,
+      "FormattedAddress": "Onderwijsstraat 63, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22609236752765,
+        "Lon_WGS84": 4.435646970803695,
+        "X_Lambert72": 154672.7,
+        "Y_Lambert72": 212908.13,
+        "X_Lambert2008": 654667.24,
+        "Y_Lambert2008": 712908.75
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22609236752765,
+          "Lon_WGS84": 4.435646970803695,
+          "X_Lambert72": 154672.7,
+          "Y_Lambert72": 212908.13,
+          "X_Lambert2008": 654667.24,
+          "Y_Lambert2008": 712908.75
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22609236752765,
+          "Lon_WGS84": 4.435646970803695,
+          "X_Lambert72": 154672.7,
+          "Y_Lambert72": 212908.13,
+          "X_Lambert2008": 654667.24,
+          "Y_Lambert2008": 712908.75
+        }
+      }
+    }
+  ]
+}

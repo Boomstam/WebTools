@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Albert Einsteinlaan",
+      "Housenumber": "43",
+      "ID": 1522969,
+      "FormattedAddress": "Albert Einsteinlaan 43, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17125954731236,
+        "Lon_WGS84": 4.371029276882967,
+        "X_Lambert72": 150158.92,
+        "Y_Lambert72": 206805.63,
+        "X_Lambert2008": 650154.22,
+        "Y_Lambert2008": 706805.76
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17125954731236,
+          "Lon_WGS84": 4.371029276882967,
+          "X_Lambert72": 150158.92,
+          "Y_Lambert72": 206805.63,
+          "X_Lambert2008": 650154.22,
+          "Y_Lambert2008": 706805.76
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17125954731236,
+          "Lon_WGS84": 4.371029276882967,
+          "X_Lambert72": 150158.92,
+          "Y_Lambert72": 206805.63,
+          "X_Lambert2008": 650154.22,
+          "Y_Lambert2008": 706805.76
+        }
+      }
+    }
+  ]
+}

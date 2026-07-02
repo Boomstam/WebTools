@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Pieter Verbertstraat",
+      "Housenumber": "23",
+      "ID": 2212278,
+      "FormattedAddress": "Pieter Verbertstraat 23, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19256206866209,
+        "Lon_WGS84": 4.4338025992288115,
+        "X_Lambert72": 154547.16,
+        "Y_Lambert72": 209177.63,
+        "X_Lambert2008": 654542.14,
+        "Y_Lambert2008": 709178.27
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19256206866209,
+          "Lon_WGS84": 4.4338025992288115,
+          "X_Lambert72": 154547.16,
+          "Y_Lambert72": 209177.63,
+          "X_Lambert2008": 654542.14,
+          "Y_Lambert2008": 709178.27
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19256206866209,
+          "Lon_WGS84": 4.4338025992288115,
+          "X_Lambert72": 154547.16,
+          "Y_Lambert72": 209177.63,
+          "X_Lambert2008": 654542.14,
+          "Y_Lambert2008": 709178.27
+        }
+      }
+    }
+  ]
+}

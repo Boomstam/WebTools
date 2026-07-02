@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Karel Rogierstraat",
+      "Housenumber": "29",
+      "ID": 525226,
+      "FormattedAddress": "Karel Rogierstraat 29, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20971732403539,
+        "Lon_WGS84": 4.395601020182928,
+        "X_Lambert72": 151875.87,
+        "Y_Lambert72": 211084.54,
+        "X_Lambert2008": 651870.65,
+        "Y_Lambert2008": 711084.84
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20971732403539,
+          "Lon_WGS84": 4.395601020182928,
+          "X_Lambert72": 151875.87,
+          "Y_Lambert72": 211084.54,
+          "X_Lambert2008": 651870.65,
+          "Y_Lambert2008": 711084.84
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20971732403539,
+          "Lon_WGS84": 4.395601020182928,
+          "X_Lambert72": 151875.87,
+          "Y_Lambert72": 211084.54,
+          "X_Lambert2008": 651870.65,
+          "Y_Lambert2008": 711084.84
+        }
+      }
+    }
+  ]
+}

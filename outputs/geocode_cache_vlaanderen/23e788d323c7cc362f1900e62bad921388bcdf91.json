@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2150",
+      "Thoroughfarename": "Wenigerstraat",
+      "Housenumber": "19",
+      "ID": 30426011,
+      "FormattedAddress": "Wenigerstraat 19, 2150 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19783807095006,
+        "Lon_WGS84": 4.479070032293357,
+        "X_Lambert72": 157710.82,
+        "Y_Lambert72": 209768.37,
+        "X_Lambert2008": 657705.71,
+        "Y_Lambert2008": 709769.38
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19783807095006,
+          "Lon_WGS84": 4.479070032293357,
+          "X_Lambert72": 157710.82,
+          "Y_Lambert72": 209768.37,
+          "X_Lambert2008": 657705.71,
+          "Y_Lambert2008": 709769.38
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19783807095006,
+          "Lon_WGS84": 4.479070032293357,
+          "X_Lambert72": 157710.82,
+          "Y_Lambert72": 209768.37,
+          "X_Lambert2008": 657705.71,
+          "Y_Lambert2008": 709769.38
+        }
+      }
+    }
+  ]
+}

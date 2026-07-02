@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Pierebeekstraat",
+      "Housenumber": "24",
+      "ID": 1335303,
+      "FormattedAddress": "Pierebeekstraat 24, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.180169504818146,
+        "Lon_WGS84": 4.392311561839293,
+        "X_Lambert72": 151647.07,
+        "Y_Lambert72": 207797.16,
+        "X_Lambert2008": 651642.24,
+        "Y_Lambert2008": 707797.46
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.180169504818146,
+          "Lon_WGS84": 4.392311561839293,
+          "X_Lambert72": 151647.07,
+          "Y_Lambert72": 207797.16,
+          "X_Lambert2008": 651642.24,
+          "Y_Lambert2008": 707797.46
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.180169504818146,
+          "Lon_WGS84": 4.392311561839293,
+          "X_Lambert72": 151647.07,
+          "Y_Lambert72": 207797.16,
+          "X_Lambert2008": 651642.24,
+          "Y_Lambert2008": 707797.46
+        }
+      }
+    }
+  ]
+}

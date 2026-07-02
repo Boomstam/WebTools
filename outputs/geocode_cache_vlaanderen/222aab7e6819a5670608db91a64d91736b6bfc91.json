@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Grote Markt",
+      "Housenumber": "31",
+      "ID": 1822955,
+      "FormattedAddress": "Grote Markt 31, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22131817854185,
+        "Lon_WGS84": 4.4013164897070896,
+        "X_Lambert72": 152274.7,
+        "Y_Lambert72": 212375.35,
+        "X_Lambert2008": 652269.32,
+        "Y_Lambert2008": 712375.69
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22131817854185,
+          "Lon_WGS84": 4.4013164897070896,
+          "X_Lambert72": 152274.7,
+          "Y_Lambert72": 212375.35,
+          "X_Lambert2008": 652269.32,
+          "Y_Lambert2008": 712375.69
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22131817854185,
+          "Lon_WGS84": 4.4013164897070896,
+          "X_Lambert72": 152274.7,
+          "Y_Lambert72": 212375.35,
+          "X_Lambert2008": 652269.32,
+          "Y_Lambert2008": 712375.69
+        }
+      }
+    }
+  ]
+}

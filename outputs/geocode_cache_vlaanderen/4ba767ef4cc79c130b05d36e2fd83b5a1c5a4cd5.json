@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Britselei",
+      "Housenumber": "15",
+      "ID": 839956,
+      "FormattedAddress": "Britselei 15, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21003599494334,
+        "Lon_WGS84": 4.406997364008695,
+        "X_Lambert72": 152672.25,
+        "Y_Lambert72": 211120.35,
+        "X_Lambert2008": 652667.02,
+        "Y_Lambert2008": 711120.75
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21003599494334,
+          "Lon_WGS84": 4.406997364008695,
+          "X_Lambert72": 152672.25,
+          "Y_Lambert72": 211120.35,
+          "X_Lambert2008": 652667.02,
+          "Y_Lambert2008": 711120.75
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21003599494334,
+          "Lon_WGS84": 4.406997364008695,
+          "X_Lambert72": 152672.25,
+          "Y_Lambert72": 211120.35,
+          "X_Lambert2008": 652667.02,
+          "Y_Lambert2008": 711120.75
+        }
+      }
+    }
+  ]
+}

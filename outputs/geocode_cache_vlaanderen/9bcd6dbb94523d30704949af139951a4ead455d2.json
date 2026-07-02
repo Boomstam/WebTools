@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Diepestraat",
+      "Housenumber": "124",
+      "ID": 1052316,
+      "FormattedAddress": "Diepestraat 124, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2225993143966,
+        "Lon_WGS84": 4.4256054957079956,
+        "X_Lambert72": 153971.53,
+        "Y_Lambert72": 212518.92,
+        "X_Lambert2008": 653966.12,
+        "Y_Lambert2008": 712519.46
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2225993143966,
+          "Lon_WGS84": 4.4256054957079956,
+          "X_Lambert72": 153971.53,
+          "Y_Lambert72": 212518.92,
+          "X_Lambert2008": 653966.12,
+          "Y_Lambert2008": 712519.46
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2225993143966,
+          "Lon_WGS84": 4.4256054957079956,
+          "X_Lambert72": 153971.53,
+          "Y_Lambert72": 212518.92,
+          "X_Lambert2008": 653966.12,
+          "Y_Lambert2008": 712519.46
+        }
+      }
+    }
+  ]
+}

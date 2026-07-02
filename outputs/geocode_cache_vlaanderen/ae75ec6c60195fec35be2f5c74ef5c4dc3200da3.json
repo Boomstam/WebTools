@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Heidestraat",
+      "Housenumber": "87",
+      "ID": 2483531,
+      "FormattedAddress": "Heidestraat 87, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.174134881850044,
+        "Lon_WGS84": 4.357186228047588,
+        "X_Lambert72": 149190.79,
+        "Y_Lambert72": 207125.57,
+        "X_Lambert2008": 649186.06,
+        "Y_Lambert2008": 707125.59
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.174134881850044,
+          "Lon_WGS84": 4.357186228047588,
+          "X_Lambert72": 149190.79,
+          "Y_Lambert72": 207125.57,
+          "X_Lambert2008": 649186.06,
+          "Y_Lambert2008": 707125.59
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.174134881850044,
+          "Lon_WGS84": 4.357186228047588,
+          "X_Lambert72": 149190.79,
+          "Y_Lambert72": 207125.57,
+          "X_Lambert2008": 649186.06,
+          "Y_Lambert2008": 707125.59
+        }
+      }
+    }
+  ]
+}

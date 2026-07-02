@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2020",
+      "Thoroughfarename": "Camille Huysmanslaan",
+      "Housenumber": "40",
+      "ID": 2134123,
+      "FormattedAddress": "Camille Huysmanslaan 40, 2020 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19161154880162,
+        "Lon_WGS84": 4.395453583171994,
+        "X_Lambert72": 151866.31,
+        "Y_Lambert72": 209070.2,
+        "X_Lambert2008": 651861.33,
+        "Y_Lambert2008": 709070.52
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19161154880162,
+          "Lon_WGS84": 4.395453583171994,
+          "X_Lambert72": 151866.31,
+          "Y_Lambert72": 209070.2,
+          "X_Lambert2008": 651861.33,
+          "Y_Lambert2008": 709070.52
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19161154880162,
+          "Lon_WGS84": 4.395453583171994,
+          "X_Lambert72": 151866.31,
+          "Y_Lambert72": 209070.2,
+          "X_Lambert2008": 651861.33,
+          "Y_Lambert2008": 709070.52
+        }
+      }
+    }
+  ]
+}

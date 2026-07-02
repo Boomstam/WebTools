@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2020",
+      "Thoroughfarename": "Hortensiastraat",
+      "Housenumber": "20",
+      "ID": 2056460,
+      "FormattedAddress": "Hortensiastraat 20, 2020 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18470328562014,
+        "Lon_WGS84": 4.392882858771017,
+        "X_Lambert72": 151686.85,
+        "Y_Lambert72": 208301.57,
+        "X_Lambert2008": 651681.96,
+        "Y_Lambert2008": 708301.87
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.18470328562014,
+          "Lon_WGS84": 4.392882858771017,
+          "X_Lambert72": 151686.85,
+          "Y_Lambert72": 208301.57,
+          "X_Lambert2008": 651681.96,
+          "Y_Lambert2008": 708301.87
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18470328562014,
+          "Lon_WGS84": 4.392882858771017,
+          "X_Lambert72": 151686.85,
+          "Y_Lambert72": 208301.57,
+          "X_Lambert2008": 651681.96,
+          "Y_Lambert2008": 708301.87
+        }
+      }
+    }
+  ]
+}

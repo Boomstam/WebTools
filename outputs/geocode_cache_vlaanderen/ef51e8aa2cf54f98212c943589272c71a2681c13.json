@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Sint-Katelijnevest",
+      "Housenumber": "7",
+      "ID": 1727139,
+      "FormattedAddress": "Sint-Katelijnevest 7, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.220929556023314,
+        "Lon_WGS84": 4.405412533096389,
+        "X_Lambert72": 152560.89,
+        "Y_Lambert72": 212332.25,
+        "X_Lambert2008": 652555.51,
+        "Y_Lambert2008": 712332.63
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.220929556023314,
+          "Lon_WGS84": 4.405412533096389,
+          "X_Lambert72": 152560.89,
+          "Y_Lambert72": 212332.25,
+          "X_Lambert2008": 652555.51,
+          "Y_Lambert2008": 712332.63
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.220929556023314,
+          "Lon_WGS84": 4.405412533096389,
+          "X_Lambert72": 152560.89,
+          "Y_Lambert72": 212332.25,
+          "X_Lambert2008": 652555.51,
+          "Y_Lambert2008": 712332.63
+        }
+      }
+    }
+  ]
+}

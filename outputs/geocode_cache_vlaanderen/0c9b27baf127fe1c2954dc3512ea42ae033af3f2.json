@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2050",
+      "Thoroughfarename": "Frederik van Eedenplein",
+      "Housenumber": "9",
+      "ID": 2122495,
+      "FormattedAddress": "Frederik van Eedenplein 9, 2050 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.221948829230925,
+        "Lon_WGS84": 4.385766069179363,
+        "X_Lambert72": 151188.26,
+        "Y_Lambert72": 212445.14,
+        "X_Lambert2008": 651182.88,
+        "Y_Lambert2008": 712445.35
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.221948829230925,
+          "Lon_WGS84": 4.385766069179363,
+          "X_Lambert72": 151188.26,
+          "Y_Lambert72": 212445.14,
+          "X_Lambert2008": 651182.88,
+          "Y_Lambert2008": 712445.35
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.221948829230925,
+          "Lon_WGS84": 4.385766069179363,
+          "X_Lambert72": 151188.26,
+          "Y_Lambert72": 212445.14,
+          "X_Lambert2008": 651182.88,
+          "Y_Lambert2008": 712445.35
+        }
+      }
+    }
+  ]
+}

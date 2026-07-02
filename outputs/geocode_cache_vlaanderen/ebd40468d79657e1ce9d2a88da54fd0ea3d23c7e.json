@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Driekoningenstraat",
+      "Housenumber": "86",
+      "ID": 608886,
+      "FormattedAddress": "Driekoningenstraat 86, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.196278503785024,
+        "Lon_WGS84": 4.420977026925545,
+        "X_Lambert72": 153650.26,
+        "Y_Lambert72": 209590.38,
+        "X_Lambert2008": 653645.2,
+        "Y_Lambert2008": 709590.91
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.196278503785024,
+          "Lon_WGS84": 4.420977026925545,
+          "X_Lambert72": 153650.26,
+          "Y_Lambert72": 209590.38,
+          "X_Lambert2008": 653645.2,
+          "Y_Lambert2008": 709590.91
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.196278503785024,
+          "Lon_WGS84": 4.420977026925545,
+          "X_Lambert72": 153650.26,
+          "Y_Lambert72": 209590.38,
+          "X_Lambert2008": 653645.2,
+          "Y_Lambert2008": 709590.91
+        }
+      }
+    }
+  ]
+}

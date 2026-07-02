@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Lodewijk Gerritslaan",
+      "Housenumber": "10",
+      "ID": 30116991,
+      "FormattedAddress": "Lodewijk Gerritslaan 10, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18844826785141,
+        "Lon_WGS84": 4.418099328070435,
+        "X_Lambert72": 153449.69,
+        "Y_Lambert72": 208719.1,
+        "X_Lambert2008": 653444.74,
+        "Y_Lambert2008": 708719.61
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.18844826785141,
+          "Lon_WGS84": 4.418099328070435,
+          "X_Lambert72": 153449.69,
+          "Y_Lambert72": 208719.1,
+          "X_Lambert2008": 653444.74,
+          "Y_Lambert2008": 708719.61
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18844826785141,
+          "Lon_WGS84": 4.418099328070435,
+          "X_Lambert72": 153449.69,
+          "Y_Lambert72": 208719.1,
+          "X_Lambert2008": 653444.74,
+          "Y_Lambert2008": 708719.61
+        }
+      }
+    }
+  ]
+}

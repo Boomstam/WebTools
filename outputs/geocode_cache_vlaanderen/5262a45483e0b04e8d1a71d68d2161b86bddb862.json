@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Sint-Elisabethstraat",
+      "Housenumber": "19",
+      "ID": 1687962,
+      "FormattedAddress": "Sint-Elisabethstraat 19, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22286349804203,
+        "Lon_WGS84": 4.422732452190499,
+        "X_Lambert72": 153770.79,
+        "Y_Lambert72": 212548.16,
+        "X_Lambert2008": 653765.38,
+        "Y_Lambert2008": 712548.68
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22286349804203,
+          "Lon_WGS84": 4.422732452190499,
+          "X_Lambert72": 153770.79,
+          "Y_Lambert72": 212548.16,
+          "X_Lambert2008": 653765.38,
+          "Y_Lambert2008": 712548.68
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22286349804203,
+          "Lon_WGS84": 4.422732452190499,
+          "X_Lambert72": 153770.79,
+          "Y_Lambert72": 212548.16,
+          "X_Lambert2008": 653765.38,
+          "Y_Lambert2008": 712548.68
+        }
+      }
+    }
+  ]
+}

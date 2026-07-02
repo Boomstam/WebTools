@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Hardenvoort",
+      "Housenumber": "44",
+      "ID": 968645,
+      "FormattedAddress": "Hardenvoort 44, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.23198549187771,
+        "Lon_WGS84": 4.421616570700285,
+        "X_Lambert72": 153692.1,
+        "Y_Lambert72": 213562.97,
+        "X_Lambert2008": 653686.57,
+        "Y_Lambert2008": 713563.47
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.23198549187771,
+          "Lon_WGS84": 4.421616570700285,
+          "X_Lambert72": 153692.1,
+          "Y_Lambert72": 213562.97,
+          "X_Lambert2008": 653686.57,
+          "Y_Lambert2008": 713563.47
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.23198549187771,
+          "Lon_WGS84": 4.421616570700285,
+          "X_Lambert72": 153692.1,
+          "Y_Lambert72": 213562.97,
+          "X_Lambert2008": 653686.57,
+          "Y_Lambert2008": 713563.47
+        }
+      }
+    }
+  ]
+}

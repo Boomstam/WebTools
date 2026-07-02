@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Paleisstraat",
+      "Housenumber": "15",
+      "ID": 688576,
+      "FormattedAddress": "Paleisstraat 15, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20734579738131,
+        "Lon_WGS84": 4.40190564960969,
+        "X_Lambert72": 152316.57,
+        "Y_Lambert72": 210820.88,
+        "X_Lambert2008": 652311.37,
+        "Y_Lambert2008": 710821.24
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20734579738131,
+          "Lon_WGS84": 4.40190564960969,
+          "X_Lambert72": 152316.57,
+          "Y_Lambert72": 210820.88,
+          "X_Lambert2008": 652311.37,
+          "Y_Lambert2008": 710821.24
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20734579738131,
+          "Lon_WGS84": 4.40190564960969,
+          "X_Lambert72": 152316.57,
+          "Y_Lambert72": 210820.88,
+          "X_Lambert2008": 652311.37,
+          "Y_Lambert2008": 710821.24
+        }
+      }
+    }
+  ]
+}

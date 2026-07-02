@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Saucierstraat",
+      "Housenumber": "5",
+      "ID": 240636,
+      "FormattedAddress": "Saucierstraat 5, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.224316493750464,
+        "Lon_WGS84": 4.399448604394054,
+        "X_Lambert72": 152144.06,
+        "Y_Lambert72": 212708.87,
+        "X_Lambert2008": 652138.64,
+        "Y_Lambert2008": 712709.19
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.224316493750464,
+          "Lon_WGS84": 4.399448604394054,
+          "X_Lambert72": 152144.06,
+          "Y_Lambert72": 212708.87,
+          "X_Lambert2008": 652138.64,
+          "Y_Lambert2008": 712709.19
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.224316493750464,
+          "Lon_WGS84": 4.399448604394054,
+          "X_Lambert72": 152144.06,
+          "Y_Lambert72": 212708.87,
+          "X_Lambert2008": 652138.64,
+          "Y_Lambert2008": 712709.19
+        }
+      }
+    }
+  ]
+}

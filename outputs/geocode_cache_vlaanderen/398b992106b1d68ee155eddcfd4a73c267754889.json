@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Bredabaan",
+      "Housenumber": "508",
+      "ID": 2087852,
+      "FormattedAddress": "Bredabaan 508, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.245287443753,
+        "Lon_WGS84": 4.446380305898111,
+        "X_Lambert72": 155420.25,
+        "Y_Lambert72": 215044.42,
+        "X_Lambert2008": 655414.53,
+        "Y_Lambert2008": 715045.11
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.245287443753,
+          "Lon_WGS84": 4.446380305898111,
+          "X_Lambert72": 155420.25,
+          "Y_Lambert72": 215044.42,
+          "X_Lambert2008": 655414.53,
+          "Y_Lambert2008": 715045.11
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.245287443753,
+          "Lon_WGS84": 4.446380305898111,
+          "X_Lambert72": 155420.25,
+          "Y_Lambert72": 215044.42,
+          "X_Lambert2008": 655414.53,
+          "Y_Lambert2008": 715045.11
+        }
+      }
+    }
+  ]
+}

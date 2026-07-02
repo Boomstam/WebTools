@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2020",
+      "Thoroughfarename": "Limburgstraat",
+      "Housenumber": "50",
+      "ID": 1296688,
+      "FormattedAddress": "Limburgstraat 50, 2020 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18886205278782,
+        "Lon_WGS84": 4.383616434054453,
+        "X_Lambert72": 151038.85,
+        "Y_Lambert72": 208764.07,
+        "X_Lambert2008": 651033.91,
+        "Y_Lambert2008": 708764.29
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.18886205278782,
+          "Lon_WGS84": 4.383616434054453,
+          "X_Lambert72": 151038.85,
+          "Y_Lambert72": 208764.07,
+          "X_Lambert2008": 651033.91,
+          "Y_Lambert2008": 708764.29
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18886205278782,
+          "Lon_WGS84": 4.383616434054453,
+          "X_Lambert72": 151038.85,
+          "Y_Lambert72": 208764.07,
+          "X_Lambert2008": 651033.91,
+          "Y_Lambert2008": 708764.29
+        }
+      }
+    }
+  ]
+}

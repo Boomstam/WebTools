@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Sorbenlaan",
+      "Housenumber": "41",
+      "ID": 1126272,
+      "FormattedAddress": "Sorbenlaan 41, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17612978193562,
+        "Lon_WGS84": 4.406271258657501,
+        "X_Lambert72": 152623.45,
+        "Y_Lambert72": 207348.14,
+        "X_Lambert2008": 652618.67,
+        "Y_Lambert2008": 707348.56
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17612978193562,
+          "Lon_WGS84": 4.406271258657501,
+          "X_Lambert72": 152623.45,
+          "Y_Lambert72": 207348.14,
+          "X_Lambert2008": 652618.67,
+          "Y_Lambert2008": 707348.56
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17612978193562,
+          "Lon_WGS84": 4.406271258657501,
+          "X_Lambert72": 152623.45,
+          "Y_Lambert72": 207348.14,
+          "X_Lambert2008": 652618.67,
+          "Y_Lambert2008": 707348.56
+        }
+      }
+    }
+  ]
+}

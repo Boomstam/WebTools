@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Du Montstraat",
+      "Housenumber": "2",
+      "ID": 1349893,
+      "FormattedAddress": "Du Montstraat 2, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22639084644502,
+        "Lon_WGS84": 4.459713021440425,
+        "X_Lambert72": 156353.85,
+        "Y_Lambert72": 212943.14,
+        "X_Lambert2008": 656348.37,
+        "Y_Lambert2008": 712943.96
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22639084644502,
+          "Lon_WGS84": 4.459713021440425,
+          "X_Lambert72": 156353.85,
+          "Y_Lambert72": 212943.14,
+          "X_Lambert2008": 656348.37,
+          "Y_Lambert2008": 712943.96
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22639084644502,
+          "Lon_WGS84": 4.459713021440425,
+          "X_Lambert72": 156353.85,
+          "Y_Lambert72": 212943.14,
+          "X_Lambert2008": 656348.37,
+          "Y_Lambert2008": 712943.96
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Sint-Paulusplaats",
+      "Housenumber": "26",
+      "ID": 1550328,
+      "FormattedAddress": "Sint-Paulusplaats 26, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.224949029189546,
+        "Lon_WGS84": 4.400689670057802,
+        "X_Lambert72": 152230.73,
+        "Y_Lambert72": 212779.28,
+        "X_Lambert2008": 652225.3,
+        "Y_Lambert2008": 712779.61
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.224949029189546,
+          "Lon_WGS84": 4.400689670057802,
+          "X_Lambert72": 152230.73,
+          "Y_Lambert72": 212779.28,
+          "X_Lambert2008": 652225.3,
+          "Y_Lambert2008": 712779.61
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.224949029189546,
+          "Lon_WGS84": 4.400689670057802,
+          "X_Lambert72": 152230.73,
+          "Y_Lambert72": 212779.28,
+          "X_Lambert2008": 652225.3,
+          "Y_Lambert2008": 712779.61
+        }
+      }
+    }
+  ]
+}

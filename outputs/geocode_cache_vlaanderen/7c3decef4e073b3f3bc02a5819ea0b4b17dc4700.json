@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Belpairestraat",
+      "Housenumber": "77",
+      "ID": 413915,
+      "FormattedAddress": "Belpairestraat 77, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.198795104825734,
+        "Lon_WGS84": 4.419324762540565,
+        "X_Lambert72": 153534.57,
+        "Y_Lambert72": 209870.28,
+        "X_Lambert2008": 653529.48,
+        "Y_Lambert2008": 709870.79
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.198795104825734,
+          "Lon_WGS84": 4.419324762540565,
+          "X_Lambert72": 153534.57,
+          "Y_Lambert72": 209870.28,
+          "X_Lambert2008": 653529.48,
+          "Y_Lambert2008": 709870.79
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.198795104825734,
+          "Lon_WGS84": 4.419324762540565,
+          "X_Lambert72": 153534.57,
+          "Y_Lambert72": 209870.28,
+          "X_Lambert2008": 653529.48,
+          "Y_Lambert2008": 709870.79
+        }
+      }
+    }
+  ]
+}

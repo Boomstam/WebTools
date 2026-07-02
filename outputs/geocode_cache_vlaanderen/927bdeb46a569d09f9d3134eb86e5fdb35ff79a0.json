@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2050",
+      "Thoroughfarename": "Aernout en Willemlaan",
+      "Housenumber": "4",
+      "ID": 1018189,
+      "FormattedAddress": "Aernout en Willemlaan 4, 2050 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.23219189526886,
+        "Lon_WGS84": 4.381560836433442,
+        "X_Lambert72": 150894.26,
+        "Y_Lambert72": 213584.67,
+        "X_Lambert2008": 650888.75,
+        "Y_Lambert2008": 713584.84
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.23219189526886,
+          "Lon_WGS84": 4.381560836433442,
+          "X_Lambert72": 150894.26,
+          "Y_Lambert72": 213584.67,
+          "X_Lambert2008": 650888.75,
+          "Y_Lambert2008": 713584.84
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.23219189526886,
+          "Lon_WGS84": 4.381560836433442,
+          "X_Lambert72": 150894.26,
+          "Y_Lambert72": 213584.67,
+          "X_Lambert2008": 650888.75,
+          "Y_Lambert2008": 713584.84
+        }
+      }
+    }
+  ]
+}

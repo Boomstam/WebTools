@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Essenstraat",
+      "Housenumber": "5",
+      "ID": 2016426,
+      "FormattedAddress": "Essenstraat 5, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22892518991468,
+        "Lon_WGS84": 4.421895647792416,
+        "X_Lambert72": 153711.84,
+        "Y_Lambert72": 213222.51,
+        "X_Lambert2008": 653706.35,
+        "Y_Lambert2008": 713223.02
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22892518991468,
+          "Lon_WGS84": 4.421895647792416,
+          "X_Lambert72": 153711.84,
+          "Y_Lambert72": 213222.51,
+          "X_Lambert2008": 653706.35,
+          "Y_Lambert2008": 713223.02
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22892518991468,
+          "Lon_WGS84": 4.421895647792416,
+          "X_Lambert72": 153711.84,
+          "Y_Lambert72": 213222.51,
+          "X_Lambert2008": 653706.35,
+          "Y_Lambert2008": 713223.02
+        }
+      }
+    }
+  ]
+}

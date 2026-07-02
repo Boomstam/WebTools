@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Kaasrui",
+      "Housenumber": "12",
+      "ID": 1342720,
+      "FormattedAddress": "Kaasrui 12, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2209864909953,
+        "Lon_WGS84": 4.402317325869646,
+        "X_Lambert72": 152344.64,
+        "Y_Lambert72": 212338.48,
+        "X_Lambert2008": 652339.26,
+        "Y_Lambert2008": 712338.83
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2209864909953,
+          "Lon_WGS84": 4.402317325869646,
+          "X_Lambert72": 152344.64,
+          "Y_Lambert72": 212338.48,
+          "X_Lambert2008": 652339.26,
+          "Y_Lambert2008": 712338.83
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2209864909953,
+          "Lon_WGS84": 4.402317325869646,
+          "X_Lambert72": 152344.64,
+          "Y_Lambert72": 212338.48,
+          "X_Lambert2008": 652339.26,
+          "Y_Lambert2008": 712338.83
+        }
+      }
+    }
+  ]
+}

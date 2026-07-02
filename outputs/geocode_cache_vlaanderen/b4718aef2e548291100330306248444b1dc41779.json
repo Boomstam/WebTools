@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Schrijnwerkersstraat",
+      "Housenumber": "11",
+      "ID": 850667,
+      "FormattedAddress": "Schrijnwerkersstraat 11, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21785799453713,
+        "Lon_WGS84": 4.4038235488671,
+        "X_Lambert72": 152450.04,
+        "Y_Lambert72": 211990.47,
+        "X_Lambert2008": 652444.7,
+        "Y_Lambert2008": 711990.83
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21785799453713,
+          "Lon_WGS84": 4.4038235488671,
+          "X_Lambert72": 152450.04,
+          "Y_Lambert72": 211990.47,
+          "X_Lambert2008": 652444.7,
+          "Y_Lambert2008": 711990.83
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21785799453713,
+          "Lon_WGS84": 4.4038235488671,
+          "X_Lambert72": 152450.04,
+          "Y_Lambert72": 211990.47,
+          "X_Lambert2008": 652444.7,
+          "Y_Lambert2008": 711990.83
+        }
+      }
+    }
+  ]
+}

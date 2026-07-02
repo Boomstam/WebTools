@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Morckhovenlei",
+      "Housenumber": "2",
+      "ID": 1659404,
+      "FormattedAddress": "Morckhovenlei 2, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21088104981686,
+        "Lon_WGS84": 4.45315536594161,
+        "X_Lambert72": 155897.73,
+        "Y_Lambert72": 211217.06,
+        "X_Lambert2008": 655892.46,
+        "Y_Lambert2008": 711217.84
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21088104981686,
+          "Lon_WGS84": 4.45315536594161,
+          "X_Lambert72": 155897.73,
+          "Y_Lambert72": 211217.06,
+          "X_Lambert2008": 655892.46,
+          "Y_Lambert2008": 711217.84
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21088104981686,
+          "Lon_WGS84": 4.45315536594161,
+          "X_Lambert72": 155897.73,
+          "Y_Lambert72": 211217.06,
+          "X_Lambert2008": 655892.46,
+          "Y_Lambert2008": 711217.84
+        }
+      }
+    }
+  ]
+}

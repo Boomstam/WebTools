@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Amerikalei",
+      "Housenumber": "196",
+      "ID": 679560,
+      "FormattedAddress": "Amerikalei 196, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.205562858982375,
+        "Lon_WGS84": 4.391025832911432,
+        "X_Lambert72": 151556.29,
+        "Y_Lambert72": 210622.23,
+        "X_Lambert2008": 651551.12,
+        "Y_Lambert2008": 710622.5
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.205562858982375,
+          "Lon_WGS84": 4.391025832911432,
+          "X_Lambert72": 151556.29,
+          "Y_Lambert72": 210622.23,
+          "X_Lambert2008": 651551.12,
+          "Y_Lambert2008": 710622.5
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.205562858982375,
+          "Lon_WGS84": 4.391025832911432,
+          "X_Lambert72": 151556.29,
+          "Y_Lambert72": 210622.23,
+          "X_Lambert2008": 651551.12,
+          "Y_Lambert2008": 710622.5
+        }
+      }
+    }
+  ]
+}

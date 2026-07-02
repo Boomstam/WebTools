@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Floraliënlaan",
+      "Housenumber": "444",
+      "ID": 934052,
+      "FormattedAddress": "Floraliënlaan 444, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.177279103828646,
+        "Lon_WGS84": 4.43261305486395,
+        "X_Lambert72": 154465.48,
+        "Y_Lambert72": 207477.28,
+        "X_Lambert2008": 654460.67,
+        "Y_Lambert2008": 707477.92
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.177279103828646,
+          "Lon_WGS84": 4.43261305486395,
+          "X_Lambert72": 154465.48,
+          "Y_Lambert72": 207477.28,
+          "X_Lambert2008": 654460.67,
+          "Y_Lambert2008": 707477.92
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.177279103828646,
+          "Lon_WGS84": 4.43261305486395,
+          "X_Lambert72": 154465.48,
+          "Y_Lambert72": 207477.28,
+          "X_Lambert2008": 654460.67,
+          "Y_Lambert2008": 707477.92
+        }
+      }
+    }
+  ]
+}

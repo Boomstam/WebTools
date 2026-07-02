@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Scheldestraat",
+      "Housenumber": "26",
+      "ID": 1493780,
+      "FormattedAddress": "Scheldestraat 26, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21281227256542,
+        "Lon_WGS84": 4.392046900819749,
+        "X_Lambert72": 151627.39,
+        "Y_Lambert72": 211428.78,
+        "X_Lambert2008": 651622.13,
+        "Y_Lambert2008": 711429.05
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21281227256542,
+          "Lon_WGS84": 4.392046900819749,
+          "X_Lambert72": 151627.39,
+          "Y_Lambert72": 211428.78,
+          "X_Lambert2008": 651622.13,
+          "Y_Lambert2008": 711429.05
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21281227256542,
+          "Lon_WGS84": 4.392046900819749,
+          "X_Lambert72": 151627.39,
+          "Y_Lambert72": 211428.78,
+          "X_Lambert2008": 651622.13,
+          "Y_Lambert2008": 711429.05
+        }
+      }
+    }
+  ]
+}

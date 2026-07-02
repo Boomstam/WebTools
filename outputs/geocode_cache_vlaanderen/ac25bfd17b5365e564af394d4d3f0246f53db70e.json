@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Reyndersstraat",
+      "Housenumber": "27",
+      "ID": 2427716,
+      "FormattedAddress": "Reyndersstraat 27, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21917086071903,
+        "Lon_WGS84": 4.399308739955682,
+        "X_Lambert72": 152134.53,
+        "Y_Lambert72": 212136.39,
+        "X_Lambert2008": 652129.18,
+        "Y_Lambert2008": 712136.72
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21917086071903,
+          "Lon_WGS84": 4.399308739955682,
+          "X_Lambert72": 152134.53,
+          "Y_Lambert72": 212136.39,
+          "X_Lambert2008": 652129.18,
+          "Y_Lambert2008": 712136.72
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21917086071903,
+          "Lon_WGS84": 4.399308739955682,
+          "X_Lambert72": 152134.53,
+          "Y_Lambert72": 212136.39,
+          "X_Lambert2008": 652129.18,
+          "Y_Lambert2008": 712136.72
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Begijnenstraat",
+      "Housenumber": "44",
+      "ID": 1396691,
+      "FormattedAddress": "Begijnenstraat 44, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2127585394952,
+        "Lon_WGS84": 4.400941882878054,
+        "X_Lambert72": 152248.95,
+        "Y_Lambert72": 211423.04,
+        "X_Lambert2008": 652243.68,
+        "Y_Lambert2008": 711423.39
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2127585394952,
+          "Lon_WGS84": 4.400941882878054,
+          "X_Lambert72": 152248.95,
+          "Y_Lambert72": 211423.04,
+          "X_Lambert2008": 652243.68,
+          "Y_Lambert2008": 711423.39
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2127585394952,
+          "Lon_WGS84": 4.400941882878054,
+          "X_Lambert72": 152248.95,
+          "Y_Lambert72": 211423.04,
+          "X_Lambert2008": 652243.68,
+          "Y_Lambert2008": 711423.39
+        }
+      }
+    }
+  ]
+}

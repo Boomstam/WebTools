@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2150",
+      "Thoroughfarename": "Karel Soetelaan",
+      "Housenumber": "25",
+      "ID": 30421973,
+      "FormattedAddress": "Karel Soetelaan 25, 2150 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.199016845952364,
+        "Lon_WGS84": 4.478466095245433,
+        "X_Lambert72": 157668.41,
+        "Y_Lambert72": 209899.45,
+        "X_Lambert2008": 657663.28,
+        "Y_Lambert2008": 709900.45
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.199016845952364,
+          "Lon_WGS84": 4.478466095245433,
+          "X_Lambert72": 157668.41,
+          "Y_Lambert72": 209899.45,
+          "X_Lambert2008": 657663.28,
+          "Y_Lambert2008": 709900.45
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.199016845952364,
+          "Lon_WGS84": 4.478466095245433,
+          "X_Lambert72": 157668.41,
+          "Y_Lambert72": 209899.45,
+          "X_Lambert2008": 657663.28,
+          "Y_Lambert2008": 709900.45
+        }
+      }
+    }
+  ]
+}

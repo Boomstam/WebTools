@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Koraalplaats",
+      "Housenumber": "30",
+      "ID": 3876551,
+      "FormattedAddress": "Koraalplaats 30, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22019932087165,
+        "Lon_WGS84": 4.4583850502205795,
+        "X_Lambert72": 156261.92,
+        "Y_Lambert72": 212254.19,
+        "X_Lambert2008": 656256.52,
+        "Y_Lambert2008": 712255.01
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22019932087165,
+          "Lon_WGS84": 4.4583850502205795,
+          "X_Lambert72": 156261.92,
+          "Y_Lambert72": 212254.19,
+          "X_Lambert2008": 656256.52,
+          "Y_Lambert2008": 712255.01
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22019932087165,
+          "Lon_WGS84": 4.4583850502205795,
+          "X_Lambert72": 156261.92,
+          "Y_Lambert72": 212254.19,
+          "X_Lambert2008": 656256.52,
+          "Y_Lambert2008": 712255.01
+        }
+      }
+    }
+  ]
+}

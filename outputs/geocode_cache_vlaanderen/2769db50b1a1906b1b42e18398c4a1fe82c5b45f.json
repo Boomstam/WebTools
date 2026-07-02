@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Statiestraat",
+      "Housenumber": "43",
+      "ID": 2471158,
+      "FormattedAddress": "Statiestraat 43, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19768879007123,
+        "Lon_WGS84": 4.424860317611812,
+        "X_Lambert72": 153921.59,
+        "Y_Lambert72": 209747.48,
+        "X_Lambert2008": 653916.51,
+        "Y_Lambert2008": 709748.04
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19768879007123,
+          "Lon_WGS84": 4.424860317611812,
+          "X_Lambert72": 153921.59,
+          "Y_Lambert72": 209747.48,
+          "X_Lambert2008": 653916.51,
+          "Y_Lambert2008": 709748.04
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19768879007123,
+          "Lon_WGS84": 4.424860317611812,
+          "X_Lambert72": 153921.59,
+          "Y_Lambert72": 209747.48,
+          "X_Lambert2008": 653916.51,
+          "Y_Lambert2008": 709748.04
+        }
+      }
+    }
+  ]
+}

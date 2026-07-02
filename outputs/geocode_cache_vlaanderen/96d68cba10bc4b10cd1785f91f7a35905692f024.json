@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Eendrachtstraat",
+      "Housenumber": "15",
+      "ID": 388141,
+      "FormattedAddress": "Eendrachtstraat 15, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22778421866148,
+        "Lon_WGS84": 4.438319245532879,
+        "X_Lambert72": 154859.2,
+        "Y_Lambert72": 213096.53,
+        "X_Lambert2008": 654853.71,
+        "Y_Lambert2008": 713097.17
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22778421866148,
+          "Lon_WGS84": 4.438319245532879,
+          "X_Lambert72": 154859.2,
+          "Y_Lambert72": 213096.53,
+          "X_Lambert2008": 654853.71,
+          "Y_Lambert2008": 713097.17
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22778421866148,
+          "Lon_WGS84": 4.438319245532879,
+          "X_Lambert72": 154859.2,
+          "Y_Lambert72": 213096.53,
+          "X_Lambert2008": 654853.71,
+          "Y_Lambert2008": 713097.17
+        }
+      }
+    }
+  ]
+}

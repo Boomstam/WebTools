@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Amsterdamstraat",
+      "Housenumber": "35",
+      "ID": 1175891,
+      "FormattedAddress": "Amsterdamstraat 35, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.23161104041535,
+        "Lon_WGS84": 4.404622943319839,
+        "X_Lambert72": 152505.14,
+        "Y_Lambert72": 213520.59,
+        "X_Lambert2008": 652499.62,
+        "Y_Lambert2008": 713520.95
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.23161104041535,
+          "Lon_WGS84": 4.404622943319839,
+          "X_Lambert72": 152505.14,
+          "Y_Lambert72": 213520.59,
+          "X_Lambert2008": 652499.62,
+          "Y_Lambert2008": 713520.95
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.23161104041535,
+          "Lon_WGS84": 4.404622943319839,
+          "X_Lambert72": 152505.14,
+          "Y_Lambert72": 213520.59,
+          "X_Lambert2008": 652499.62,
+          "Y_Lambert2008": 713520.95
+        }
+      }
+    }
+  ]
+}

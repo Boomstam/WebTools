@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Chrysantenstraat",
+      "Housenumber": "91",
+      "ID": 901537,
+      "FormattedAddress": "Chrysantenstraat 91, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17983564456915,
+        "Lon_WGS84": 4.381084491786445,
+        "X_Lambert72": 150862.01,
+        "Y_Lambert72": 207759.82,
+        "X_Lambert2008": 650857.19,
+        "Y_Lambert2008": 707760.03
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17983564456915,
+          "Lon_WGS84": 4.381084491786445,
+          "X_Lambert72": 150862.01,
+          "Y_Lambert72": 207759.82,
+          "X_Lambert2008": 650857.19,
+          "Y_Lambert2008": 707760.03
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17983564456915,
+          "Lon_WGS84": 4.381084491786445,
+          "X_Lambert72": 150862.01,
+          "Y_Lambert72": 207759.82,
+          "X_Lambert2008": 650857.19,
+          "Y_Lambert2008": 707760.03
+        }
+      }
+    }
+  ]
+}

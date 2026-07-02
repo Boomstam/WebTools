@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Bikschotelaan",
+      "Housenumber": "9",
+      "ID": 919347,
+      "FormattedAddress": "Bikschotelaan 9, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.191452401823476,
+        "Lon_WGS84": 4.4459884019859155,
+        "X_Lambert72": 155399.17,
+        "Y_Lambert72": 209055.0,
+        "X_Lambert2008": 655394.16,
+        "Y_Lambert2008": 709055.74
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.191452401823476,
+          "Lon_WGS84": 4.4459884019859155,
+          "X_Lambert72": 155399.17,
+          "Y_Lambert72": 209055.0,
+          "X_Lambert2008": 655394.16,
+          "Y_Lambert2008": 709055.74
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.191452401823476,
+          "Lon_WGS84": 4.4459884019859155,
+          "X_Lambert72": 155399.17,
+          "Y_Lambert72": 209055.0,
+          "X_Lambert2008": 655394.16,
+          "Y_Lambert2008": 709055.74
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2040",
+      "Thoroughfarename": "Dorpsbeekstraat",
+      "Housenumber": "84",
+      "ID": 1122127,
+      "FormattedAddress": "Dorpsbeekstraat 84, 2040 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.34102488165102,
+        "Lon_WGS84": 4.309023931856622,
+        "X_Lambert72": 145837.31,
+        "Y_Lambert72": 225694.72,
+        "X_Lambert2008": 645830.4,
+        "Y_Lambert2008": 725694.19
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.34102488165102,
+          "Lon_WGS84": 4.309023931856622,
+          "X_Lambert72": 145837.31,
+          "Y_Lambert72": 225694.72,
+          "X_Lambert2008": 645830.4,
+          "Y_Lambert2008": 725694.19
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.34102488165102,
+          "Lon_WGS84": 4.309023931856622,
+          "X_Lambert72": 145837.31,
+          "Y_Lambert72": 225694.72,
+          "X_Lambert2008": 645830.4,
+          "Y_Lambert2008": 725694.19
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Anselmostraat",
+      "Housenumber": "65",
+      "ID": 379259,
+      "FormattedAddress": "Anselmostraat 65, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.206102954504985,
+        "Lon_WGS84": 4.404659609552142,
+        "X_Lambert72": 152509.1,
+        "Y_Lambert72": 210682.7,
+        "X_Lambert2008": 652503.92,
+        "Y_Lambert2008": 710683.08
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.206102954504985,
+          "Lon_WGS84": 4.404659609552142,
+          "X_Lambert72": 152509.1,
+          "Y_Lambert72": 210682.7,
+          "X_Lambert2008": 652503.92,
+          "Y_Lambert2008": 710683.08
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.206102954504985,
+          "Lon_WGS84": 4.404659609552142,
+          "X_Lambert72": 152509.1,
+          "Y_Lambert72": 210682.7,
+          "X_Lambert2008": 652503.92,
+          "Y_Lambert2008": 710683.08
+        }
+      }
+    }
+  ]
+}

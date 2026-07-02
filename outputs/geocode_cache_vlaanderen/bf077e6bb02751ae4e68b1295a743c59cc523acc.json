@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Groenendaallaan",
+      "Housenumber": "122",
+      "ID": 2524663,
+      "FormattedAddress": "Groenendaallaan 122, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.242833890976534,
+        "Lon_WGS84": 4.43189334158374,
+        "X_Lambert72": 154408.88,
+        "Y_Lambert72": 214770.48,
+        "X_Lambert2008": 654403.2,
+        "Y_Lambert2008": 714771.06
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.242833890976534,
+          "Lon_WGS84": 4.43189334158374,
+          "X_Lambert72": 154408.88,
+          "Y_Lambert72": 214770.48,
+          "X_Lambert2008": 654403.2,
+          "Y_Lambert2008": 714771.06
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.242833890976534,
+          "Lon_WGS84": 4.43189334158374,
+          "X_Lambert72": 154408.88,
+          "Y_Lambert72": 214770.48,
+          "X_Lambert2008": 654403.2,
+          "Y_Lambert2008": 714771.06
+        }
+      }
+    }
+  ]
+}

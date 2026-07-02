@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Eigenheerdstraat",
+      "Housenumber": "33",
+      "ID": 1569073,
+      "FormattedAddress": "Eigenheerdstraat 33, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.238295267377026,
+        "Lon_WGS84": 4.442458425322485,
+        "X_Lambert72": 155147.17,
+        "Y_Lambert72": 214266.22,
+        "X_Lambert2008": 655141.54,
+        "Y_Lambert2008": 714266.89
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.238295267377026,
+          "Lon_WGS84": 4.442458425322485,
+          "X_Lambert72": 155147.17,
+          "Y_Lambert72": 214266.22,
+          "X_Lambert2008": 655141.54,
+          "Y_Lambert2008": 714266.89
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.238295267377026,
+          "Lon_WGS84": 4.442458425322485,
+          "X_Lambert72": 155147.17,
+          "Y_Lambert72": 214266.22,
+          "X_Lambert2008": 655141.54,
+          "Y_Lambert2008": 714266.89
+        }
+      }
+    }
+  ]
+}

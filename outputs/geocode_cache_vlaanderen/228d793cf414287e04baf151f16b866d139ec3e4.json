@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Plankenbergstraat",
+      "Housenumber": "9",
+      "ID": 1573618,
+      "FormattedAddress": "Plankenbergstraat 9, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22159678140111,
+        "Lon_WGS84": 4.4627068573990245,
+        "X_Lambert72": 156563.67,
+        "Y_Lambert72": 212410.04,
+        "X_Lambert2008": 656558.25,
+        "Y_Lambert2008": 712410.89
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22159678140111,
+          "Lon_WGS84": 4.4627068573990245,
+          "X_Lambert72": 156563.67,
+          "Y_Lambert72": 212410.04,
+          "X_Lambert2008": 656558.25,
+          "Y_Lambert2008": 712410.89
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22159678140111,
+          "Lon_WGS84": 4.4627068573990245,
+          "X_Lambert72": 156563.67,
+          "Y_Lambert72": 212410.04,
+          "X_Lambert2008": 656558.25,
+          "Y_Lambert2008": 712410.89
+        }
+      }
+    }
+  ]
+}

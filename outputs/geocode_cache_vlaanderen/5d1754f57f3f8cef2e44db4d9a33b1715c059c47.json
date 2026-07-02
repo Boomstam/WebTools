@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Amandus Geenenlaan",
+      "Housenumber": "1",
+      "ID": 1354917,
+      "FormattedAddress": "Amandus Geenenlaan 1, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22546394307596,
+        "Lon_WGS84": 4.475538383439429,
+        "X_Lambert72": 157459.51,
+        "Y_Lambert72": 212841.5,
+        "X_Lambert2008": 657454.03,
+        "Y_Lambert2008": 712842.45
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22546394307596,
+          "Lon_WGS84": 4.475538383439429,
+          "X_Lambert72": 157459.51,
+          "Y_Lambert72": 212841.5,
+          "X_Lambert2008": 657454.03,
+          "Y_Lambert2008": 712842.45
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22546394307596,
+          "Lon_WGS84": 4.475538383439429,
+          "X_Lambert72": 157459.51,
+          "Y_Lambert72": 212841.5,
+          "X_Lambert2008": 657454.03,
+          "Y_Lambert2008": 712842.45
+        }
+      }
+    }
+  ]
+}

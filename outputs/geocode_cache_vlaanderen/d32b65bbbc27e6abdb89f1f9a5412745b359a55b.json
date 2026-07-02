@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Kluizeveldenstraat",
+      "Housenumber": "61",
+      "ID": 1663060,
+      "FormattedAddress": "Kluizeveldenstraat 61, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.24393574110763,
+        "Lon_WGS84": 4.436754894614008,
+        "X_Lambert72": 154748.26,
+        "Y_Lambert72": 214893.37,
+        "X_Lambert2008": 654742.56,
+        "Y_Lambert2008": 714893.99
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.24393574110763,
+          "Lon_WGS84": 4.436754894614008,
+          "X_Lambert72": 154748.26,
+          "Y_Lambert72": 214893.37,
+          "X_Lambert2008": 654742.56,
+          "Y_Lambert2008": 714893.99
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.24393574110763,
+          "Lon_WGS84": 4.436754894614008,
+          "X_Lambert72": 154748.26,
+          "Y_Lambert72": 214893.37,
+          "X_Lambert2008": 654742.56,
+          "Y_Lambert2008": 714893.99
+        }
+      }
+    }
+  ]
+}

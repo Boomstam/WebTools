@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Simonsstraat",
+      "Housenumber": "14",
+      "ID": 2326289,
+      "FormattedAddress": "Simonsstraat 14, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21244551839281,
+        "Lon_WGS84": 4.420696134976455,
+        "X_Lambert72": 153629.35,
+        "Y_Lambert72": 211389.01,
+        "X_Lambert2008": 653624.08,
+        "Y_Lambert2008": 711389.52
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21244551839281,
+          "Lon_WGS84": 4.420696134976455,
+          "X_Lambert72": 153629.35,
+          "Y_Lambert72": 211389.01,
+          "X_Lambert2008": 653624.08,
+          "Y_Lambert2008": 711389.52
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21244551839281,
+          "Lon_WGS84": 4.420696134976455,
+          "X_Lambert72": 153629.35,
+          "Y_Lambert72": 211389.01,
+          "X_Lambert2008": 653624.08,
+          "Y_Lambert2008": 711389.52
+        }
+      }
+    }
+  ]
+}

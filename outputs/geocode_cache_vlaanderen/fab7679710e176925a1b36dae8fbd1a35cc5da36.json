@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Statiestraat",
+      "Housenumber": "101",
+      "ID": 2483908,
+      "FormattedAddress": "Statiestraat 101, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19852883510306,
+        "Lon_WGS84": 4.42727597803647,
+        "X_Lambert72": 154090.37,
+        "Y_Lambert72": 209841.07,
+        "X_Lambert2008": 654085.28,
+        "Y_Lambert2008": 709841.65
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19852883510306,
+          "Lon_WGS84": 4.42727597803647,
+          "X_Lambert72": 154090.37,
+          "Y_Lambert72": 209841.07,
+          "X_Lambert2008": 654085.28,
+          "Y_Lambert2008": 709841.65
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19852883510306,
+          "Lon_WGS84": 4.42727597803647,
+          "X_Lambert72": 154090.37,
+          "Y_Lambert72": 209841.07,
+          "X_Lambert2008": 654085.28,
+          "Y_Lambert2008": 709841.65
+        }
+      }
+    }
+  ]
+}

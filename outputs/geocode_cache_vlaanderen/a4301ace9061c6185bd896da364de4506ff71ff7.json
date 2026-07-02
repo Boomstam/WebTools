@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Boekenberglei",
+      "Housenumber": "115",
+      "ID": 1286644,
+      "FormattedAddress": "Boekenberglei 115, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20038326993911,
+        "Lon_WGS84": 4.460565122940232,
+        "X_Lambert72": 156416.98,
+        "Y_Lambert72": 210049.76,
+        "X_Lambert2008": 656411.84,
+        "Y_Lambert2008": 710050.61
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20038326993911,
+          "Lon_WGS84": 4.460565122940232,
+          "X_Lambert72": 156416.98,
+          "Y_Lambert72": 210049.76,
+          "X_Lambert2008": 656411.84,
+          "Y_Lambert2008": 710050.61
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20038326993911,
+          "Lon_WGS84": 4.460565122940232,
+          "X_Lambert72": 156416.98,
+          "Y_Lambert72": 210049.76,
+          "X_Lambert2008": 656411.84,
+          "Y_Lambert2008": 710050.61
+        }
+      }
+    }
+  ]
+}

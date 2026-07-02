@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2150",
+      "Thoroughfarename": "Adrinkhovenlaan",
+      "Housenumber": "36",
+      "ID": 30422472,
+      "FormattedAddress": "Adrinkhovenlaan 36, 2150 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20159464920515,
+        "Lon_WGS84": 4.48271376009174,
+        "X_Lambert72": 157964.87,
+        "Y_Lambert72": 210186.69,
+        "X_Lambert2008": 657959.71,
+        "Y_Lambert2008": 710187.73
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20159464920515,
+          "Lon_WGS84": 4.48271376009174,
+          "X_Lambert72": 157964.87,
+          "Y_Lambert72": 210186.69,
+          "X_Lambert2008": 657959.71,
+          "Y_Lambert2008": 710187.73
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20159464920515,
+          "Lon_WGS84": 4.48271376009174,
+          "X_Lambert72": 157964.87,
+          "Y_Lambert72": 210186.69,
+          "X_Lambert2008": 657959.71,
+          "Y_Lambert2008": 710187.73
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Nieuwdreef",
+      "Housenumber": "29",
+      "ID": 2418314,
+      "FormattedAddress": "Nieuwdreef 29, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.24419215201467,
+        "Lon_WGS84": 4.442014883695355,
+        "X_Lambert72": 155115.54,
+        "Y_Lambert72": 214922.25,
+        "X_Lambert2008": 655109.83,
+        "Y_Lambert2008": 714922.91
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.24419215201467,
+          "Lon_WGS84": 4.442014883695355,
+          "X_Lambert72": 155115.54,
+          "Y_Lambert72": 214922.25,
+          "X_Lambert2008": 655109.83,
+          "Y_Lambert2008": 714922.91
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.24419215201467,
+          "Lon_WGS84": 4.442014883695355,
+          "X_Lambert72": 155115.54,
+          "Y_Lambert72": 214922.25,
+          "X_Lambert2008": 655109.83,
+          "Y_Lambert2008": 714922.91
+        }
+      }
+    }
+  ]
+}

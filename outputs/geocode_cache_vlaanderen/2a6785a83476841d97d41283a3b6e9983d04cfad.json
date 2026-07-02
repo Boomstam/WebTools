@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Provinciestraat",
+      "Housenumber": "169",
+      "ID": 613767,
+      "FormattedAddress": "Provinciestraat 169, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21244706836783,
+        "Lon_WGS84": 4.426212048836784,
+        "X_Lambert72": 154014.79,
+        "Y_Lambert72": 211389.47,
+        "X_Lambert2008": 654009.51,
+        "Y_Lambert2008": 711390.03
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21244706836783,
+          "Lon_WGS84": 4.426212048836784,
+          "X_Lambert72": 154014.79,
+          "Y_Lambert72": 211389.47,
+          "X_Lambert2008": 654009.51,
+          "Y_Lambert2008": 711390.03
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21244706836783,
+          "Lon_WGS84": 4.426212048836784,
+          "X_Lambert72": 154014.79,
+          "Y_Lambert72": 211389.47,
+          "X_Lambert2008": 654009.51,
+          "Y_Lambert2008": 711390.03
+        }
+      }
+    }
+  ]
+}

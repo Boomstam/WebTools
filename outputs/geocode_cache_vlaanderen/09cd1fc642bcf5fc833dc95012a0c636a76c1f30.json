@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Laarsebaan",
+      "Housenumber": "32",
+      "ID": 344966,
+      "FormattedAddress": "Laarsebaan 32, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.24713014875086,
+        "Lon_WGS84": 4.433160936826216,
+        "X_Lambert72": 154496.98,
+        "Y_Lambert72": 215248.54,
+        "X_Lambert2008": 654491.24,
+        "Y_Lambert2008": 715249.12
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.24713014875086,
+          "Lon_WGS84": 4.433160936826216,
+          "X_Lambert72": 154496.98,
+          "Y_Lambert72": 215248.54,
+          "X_Lambert2008": 654491.24,
+          "Y_Lambert2008": 715249.12
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.24713014875086,
+          "Lon_WGS84": 4.433160936826216,
+          "X_Lambert72": 154496.98,
+          "Y_Lambert72": 215248.54,
+          "X_Lambert2008": 654491.24,
+          "Y_Lambert2008": 715249.12
+        }
+      }
+    }
+  ]
+}

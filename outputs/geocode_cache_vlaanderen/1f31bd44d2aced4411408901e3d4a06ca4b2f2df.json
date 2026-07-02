@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Greinstraat",
+      "Housenumber": "59",
+      "ID": 1392661,
+      "FormattedAddress": "Greinstraat 59, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22123551063471,
+        "Lon_WGS84": 4.425226797916239,
+        "X_Lambert72": 153945.19,
+        "Y_Lambert72": 212367.17,
+        "X_Lambert2008": 653939.8,
+        "Y_Lambert2008": 712367.71
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22123551063471,
+          "Lon_WGS84": 4.425226797916239,
+          "X_Lambert72": 153945.19,
+          "Y_Lambert72": 212367.17,
+          "X_Lambert2008": 653939.8,
+          "Y_Lambert2008": 712367.71
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22123551063471,
+          "Lon_WGS84": 4.425226797916239,
+          "X_Lambert72": 153945.19,
+          "Y_Lambert72": 212367.17,
+          "X_Lambert2008": 653939.8,
+          "Y_Lambert2008": 712367.71
+        }
+      }
+    }
+  ]
+}

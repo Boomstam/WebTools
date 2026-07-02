@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Clara Snellingsstraat",
+      "Housenumber": "63",
+      "ID": 1959741,
+      "FormattedAddress": "Clara Snellingsstraat 63, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.224985207436575,
+        "Lon_WGS84": 4.463953089384028,
+        "X_Lambert72": 156650.25,
+        "Y_Lambert72": 212787.13,
+        "X_Lambert2008": 656644.79,
+        "Y_Lambert2008": 712787.99
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.224985207436575,
+          "Lon_WGS84": 4.463953089384028,
+          "X_Lambert72": 156650.25,
+          "Y_Lambert72": 212787.13,
+          "X_Lambert2008": 656644.79,
+          "Y_Lambert2008": 712787.99
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.224985207436575,
+          "Lon_WGS84": 4.463953089384028,
+          "X_Lambert72": 156650.25,
+          "Y_Lambert72": 212787.13,
+          "X_Lambert2008": 656644.79,
+          "Y_Lambert2008": 712787.99
+        }
+      }
+    }
+  ]
+}

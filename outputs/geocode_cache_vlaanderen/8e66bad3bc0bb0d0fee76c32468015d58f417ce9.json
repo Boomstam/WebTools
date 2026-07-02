@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Hooftvunderlei",
+      "Housenumber": "1",
+      "ID": 457957,
+      "FormattedAddress": "Hooftvunderlei 1, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.220133003784234,
+        "Lon_WGS84": 4.459879634083792,
+        "X_Lambert72": 156366.35,
+        "Y_Lambert72": 212246.94,
+        "X_Lambert2008": 656360.95,
+        "Y_Lambert2008": 712247.77
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.220133003784234,
+          "Lon_WGS84": 4.459879634083792,
+          "X_Lambert72": 156366.35,
+          "Y_Lambert72": 212246.94,
+          "X_Lambert2008": 656360.95,
+          "Y_Lambert2008": 712247.77
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.220133003784234,
+          "Lon_WGS84": 4.459879634083792,
+          "X_Lambert72": 156366.35,
+          "Y_Lambert72": 212246.94,
+          "X_Lambert2008": 656360.95,
+          "Y_Lambert2008": 712247.77
+        }
+      }
+    }
+  ]
+}

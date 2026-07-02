@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Heistraat",
+      "Housenumber": "67",
+      "ID": 3661576,
+      "FormattedAddress": "Heistraat 67, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17221574575161,
+        "Lon_WGS84": 4.3939055560363265,
+        "X_Lambert72": 151758.84,
+        "Y_Lambert72": 206912.32,
+        "X_Lambert2008": 651754.11,
+        "Y_Lambert2008": 706912.64
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17221574575161,
+          "Lon_WGS84": 4.3939055560363265,
+          "X_Lambert72": 151758.84,
+          "Y_Lambert72": 206912.32,
+          "X_Lambert2008": 651754.11,
+          "Y_Lambert2008": 706912.64
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17221574575161,
+          "Lon_WGS84": 4.3939055560363265,
+          "X_Lambert72": 151758.84,
+          "Y_Lambert72": 206912.32,
+          "X_Lambert2008": 651754.11,
+          "Y_Lambert2008": 706912.64
+        }
+      }
+    }
+  ]
+}

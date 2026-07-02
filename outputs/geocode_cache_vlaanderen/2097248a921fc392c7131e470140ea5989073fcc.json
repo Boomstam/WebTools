@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Leopold De Vriesstraat",
+      "Housenumber": "54",
+      "ID": 2017151,
+      "FormattedAddress": "Leopold De Vriesstraat 54, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18512512974506,
+        "Lon_WGS84": 4.428652299875101,
+        "X_Lambert72": 154187.79,
+        "Y_Lambert72": 208349.94,
+        "X_Lambert2008": 654182.87,
+        "Y_Lambert2008": 708350.54
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.18512512974506,
+          "Lon_WGS84": 4.428652299875101,
+          "X_Lambert72": 154187.79,
+          "Y_Lambert72": 208349.94,
+          "X_Lambert2008": 654182.87,
+          "Y_Lambert2008": 708350.54
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18512512974506,
+          "Lon_WGS84": 4.428652299875101,
+          "X_Lambert72": 154187.79,
+          "Y_Lambert72": 208349.94,
+          "X_Lambert2008": 654182.87,
+          "Y_Lambert2008": 708350.54
+        }
+      }
+    }
+  ]
+}

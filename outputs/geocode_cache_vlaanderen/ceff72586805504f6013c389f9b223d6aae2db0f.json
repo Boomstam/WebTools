@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Franklin Rooseveltplaats",
+      "Housenumber": "5",
+      "ID": 701416,
+      "FormattedAddress": "Franklin Rooseveltplaats 5, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22040254769883,
+        "Lon_WGS84": 4.417253076634639,
+        "X_Lambert72": 153388.17,
+        "Y_Lambert72": 212274.1,
+        "X_Lambert2008": 653382.79,
+        "Y_Lambert2008": 712274.57
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22040254769883,
+          "Lon_WGS84": 4.417253076634639,
+          "X_Lambert72": 153388.17,
+          "Y_Lambert72": 212274.1,
+          "X_Lambert2008": 653382.79,
+          "Y_Lambert2008": 712274.57
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22040254769883,
+          "Lon_WGS84": 4.417253076634639,
+          "X_Lambert72": 153388.17,
+          "Y_Lambert72": 212274.1,
+          "X_Lambert2008": 653382.79,
+          "Y_Lambert2008": 712274.57
+        }
+      }
+    }
+  ]
+}

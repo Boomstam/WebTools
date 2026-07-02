@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Morgenstraat",
+      "Housenumber": "3",
+      "ID": 960487,
+      "FormattedAddress": "Morgenstraat 3, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.226488416364205,
+        "Lon_WGS84": 4.411225583404351,
+        "X_Lambert72": 152966.66,
+        "Y_Lambert72": 212950.92,
+        "X_Lambert2008": 652961.21,
+        "Y_Lambert2008": 712951.34
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.226488416364205,
+          "Lon_WGS84": 4.411225583404351,
+          "X_Lambert72": 152966.66,
+          "Y_Lambert72": 212950.92,
+          "X_Lambert2008": 652961.21,
+          "Y_Lambert2008": 712951.34
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.226488416364205,
+          "Lon_WGS84": 4.411225583404351,
+          "X_Lambert72": 152966.66,
+          "Y_Lambert72": 212950.92,
+          "X_Lambert2008": 652961.21,
+          "Y_Lambert2008": 712951.34
+        }
+      }
+    }
+  ]
+}

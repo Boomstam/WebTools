@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Hertsdeinstraat",
+      "Housenumber": "41",
+      "ID": 1853420,
+      "FormattedAddress": "Hertsdeinstraat 41, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20360503372984,
+        "Lon_WGS84": 4.399460277898717,
+        "X_Lambert72": 152145.85,
+        "Y_Lambert72": 210404.63,
+        "X_Lambert2008": 652140.71,
+        "Y_Lambert2008": 710404.97
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20360503372984,
+          "Lon_WGS84": 4.399460277898717,
+          "X_Lambert72": 152145.85,
+          "Y_Lambert72": 210404.63,
+          "X_Lambert2008": 652140.71,
+          "Y_Lambert2008": 710404.97
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20360503372984,
+          "Lon_WGS84": 4.399460277898717,
+          "X_Lambert72": 152145.85,
+          "Y_Lambert72": 210404.63,
+          "X_Lambert2008": 652140.71,
+          "Y_Lambert2008": 710404.97
+        }
+      }
+    }
+  ]
+}

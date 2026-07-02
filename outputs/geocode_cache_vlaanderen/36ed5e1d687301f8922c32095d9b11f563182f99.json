@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Koornbloemstraat",
+      "Housenumber": "93",
+      "ID": 1656551,
+      "FormattedAddress": "Koornbloemstraat 93, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.169921402151,
+        "Lon_WGS84": 4.382349640796503,
+        "X_Lambert72": 150950.69,
+        "Y_Lambert72": 206656.85,
+        "X_Lambert2008": 650946.0,
+        "Y_Lambert2008": 706657.08
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.169921402151,
+          "Lon_WGS84": 4.382349640796503,
+          "X_Lambert72": 150950.69,
+          "Y_Lambert72": 206656.85,
+          "X_Lambert2008": 650946.0,
+          "Y_Lambert2008": 706657.08
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.169921402151,
+          "Lon_WGS84": 4.382349640796503,
+          "X_Lambert72": 150950.69,
+          "Y_Lambert72": 206656.85,
+          "X_Lambert2008": 650946.0,
+          "Y_Lambert2008": 706657.08
+        }
+      }
+    }
+  ]
+}

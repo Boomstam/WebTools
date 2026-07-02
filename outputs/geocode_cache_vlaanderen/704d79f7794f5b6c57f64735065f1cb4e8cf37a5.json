@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Lange Lobroekstraat",
+      "Housenumber": "139",
+      "ID": 1710770,
+      "FormattedAddress": "Lange Lobroekstraat 139, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.23072527534708,
+        "Lon_WGS84": 4.430001325484938,
+        "X_Lambert72": 154277.88,
+        "Y_Lambert72": 213423.22,
+        "X_Lambert2008": 654272.36,
+        "Y_Lambert2008": 713423.79
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.23072527534708,
+          "Lon_WGS84": 4.430001325484938,
+          "X_Lambert72": 154277.88,
+          "Y_Lambert72": 213423.22,
+          "X_Lambert2008": 654272.36,
+          "Y_Lambert2008": 713423.79
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.23072527534708,
+          "Lon_WGS84": 4.430001325484938,
+          "X_Lambert72": 154277.88,
+          "Y_Lambert72": 213423.22,
+          "X_Lambert2008": 654272.36,
+          "Y_Lambert2008": 713423.79
+        }
+      }
+    }
+  ]
+}

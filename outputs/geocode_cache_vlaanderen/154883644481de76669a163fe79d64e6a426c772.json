@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2180",
+      "Thoroughfarename": "Steenstraat",
+      "Housenumber": "99",
+      "ID": 1221943,
+      "FormattedAddress": "Steenstraat 99, 2180 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.274083556486126,
+        "Lon_WGS84": 4.417155304640158,
+        "X_Lambert72": 153377.39,
+        "Y_Lambert72": 218246.42,
+        "X_Lambert2008": 653371.3,
+        "Y_Lambert2008": 718246.84
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.274083556486126,
+          "Lon_WGS84": 4.417155304640158,
+          "X_Lambert72": 153377.39,
+          "Y_Lambert72": 218246.42,
+          "X_Lambert2008": 653371.3,
+          "Y_Lambert2008": 718246.84
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.274083556486126,
+          "Lon_WGS84": 4.417155304640158,
+          "X_Lambert72": 153377.39,
+          "Y_Lambert72": 218246.42,
+          "X_Lambert2008": 653371.3,
+          "Y_Lambert2008": 718246.84
+        }
+      }
+    }
+  ]
+}

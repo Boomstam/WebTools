@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Kasteelpleinstraat",
+      "Housenumber": "12",
+      "ID": 2349241,
+      "FormattedAddress": "Kasteelpleinstraat 12, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21079196093634,
+        "Lon_WGS84": 4.401271776945145,
+        "X_Lambert72": 152272.1,
+        "Y_Lambert72": 211204.26,
+        "X_Lambert2008": 652266.86,
+        "Y_Lambert2008": 711204.61
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21079196093634,
+          "Lon_WGS84": 4.401271776945145,
+          "X_Lambert72": 152272.1,
+          "Y_Lambert72": 211204.26,
+          "X_Lambert2008": 652266.86,
+          "Y_Lambert2008": 711204.61
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21079196093634,
+          "Lon_WGS84": 4.401271776945145,
+          "X_Lambert72": 152272.1,
+          "Y_Lambert72": 211204.26,
+          "X_Lambert2008": 652266.86,
+          "Y_Lambert2008": 711204.61
+        }
+      }
+    }
+  ]
+}

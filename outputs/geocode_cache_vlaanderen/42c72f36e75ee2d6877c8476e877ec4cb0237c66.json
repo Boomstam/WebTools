@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Oudekerkstraat",
+      "Housenumber": "18",
+      "ID": 1395105,
+      "FormattedAddress": "Oudekerkstraat 18, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.200288843500054,
+        "Lon_WGS84": 4.397321015483056,
+        "X_Lambert72": 151996.48,
+        "Y_Lambert72": 210035.63,
+        "X_Lambert2008": 651991.38,
+        "Y_Lambert2008": 710035.96
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.200288843500054,
+          "Lon_WGS84": 4.397321015483056,
+          "X_Lambert72": 151996.48,
+          "Y_Lambert72": 210035.63,
+          "X_Lambert2008": 651991.38,
+          "Y_Lambert2008": 710035.96
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.200288843500054,
+          "Lon_WGS84": 4.397321015483056,
+          "X_Lambert72": 151996.48,
+          "Y_Lambert72": 210035.63,
+          "X_Lambert2008": 651991.38,
+          "Y_Lambert2008": 710035.96
+        }
+      }
+    }
+  ]
+}

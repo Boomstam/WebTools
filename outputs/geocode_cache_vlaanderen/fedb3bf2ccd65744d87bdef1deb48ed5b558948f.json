@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Lange Scholiersstraat",
+      "Housenumber": "114",
+      "ID": 1664615,
+      "FormattedAddress": "Lange Scholiersstraat 114, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22474920550476,
+        "Lon_WGS84": 4.430637680048799,
+        "X_Lambert72": 154322.89,
+        "Y_Lambert72": 212758.39,
+        "X_Lambert2008": 654317.45,
+        "Y_Lambert2008": 712758.97
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22474920550476,
+          "Lon_WGS84": 4.430637680048799,
+          "X_Lambert72": 154322.89,
+          "Y_Lambert72": 212758.39,
+          "X_Lambert2008": 654317.45,
+          "Y_Lambert2008": 712758.97
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22474920550476,
+          "Lon_WGS84": 4.430637680048799,
+          "X_Lambert72": 154322.89,
+          "Y_Lambert72": 212758.39,
+          "X_Lambert2008": 654317.45,
+          "Y_Lambert2008": 712758.97
+        }
+      }
+    }
+  ]
+}

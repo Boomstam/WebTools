@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Lakborslei",
+      "Housenumber": "65",
+      "ID": 1624782,
+      "FormattedAddress": "Lakborslei 65, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.221585695217364,
+        "Lon_WGS84": 4.454038578866267,
+        "X_Lambert72": 155958.07,
+        "Y_Lambert72": 212408.07,
+        "X_Lambert2008": 655952.66,
+        "Y_Lambert2008": 712408.85
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.221585695217364,
+          "Lon_WGS84": 4.454038578866267,
+          "X_Lambert72": 155958.07,
+          "Y_Lambert72": 212408.07,
+          "X_Lambert2008": 655952.66,
+          "Y_Lambert2008": 712408.85
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.221585695217364,
+          "Lon_WGS84": 4.454038578866267,
+          "X_Lambert72": 155958.07,
+          "Y_Lambert72": 212408.07,
+          "X_Lambert2008": 655952.66,
+          "Y_Lambert2008": 712408.85
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2050",
+      "Thoroughfarename": "Blancefloerlaan",
+      "Housenumber": "335",
+      "ID": 3704155,
+      "FormattedAddress": "Blancefloerlaan 335, 2050 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.219823221658686,
+        "Lon_WGS84": 4.366397980823911,
+        "X_Lambert72": 149835.13,
+        "Y_Lambert72": 212208.51,
+        "X_Lambert2008": 649829.79,
+        "Y_Lambert2008": 712208.56
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.219823221658686,
+          "Lon_WGS84": 4.366397980823911,
+          "X_Lambert72": 149835.13,
+          "Y_Lambert72": 212208.51,
+          "X_Lambert2008": 649829.79,
+          "Y_Lambert2008": 712208.56
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.219823221658686,
+          "Lon_WGS84": 4.366397980823911,
+          "X_Lambert72": 149835.13,
+          "Y_Lambert72": 212208.51,
+          "X_Lambert2008": 649829.79,
+          "Y_Lambert2008": 712208.56
+        }
+      }
+    }
+  ]
+}

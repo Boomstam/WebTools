@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2040",
+      "Thoroughfarename": "Dorpstraat",
+      "Housenumber": "28",
+      "ID": 2491135,
+      "FormattedAddress": "Dorpstraat 28, 2040 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.34167043148152,
+        "Lon_WGS84": 4.314592666955271,
+        "X_Lambert72": 146225.42,
+        "Y_Lambert72": 225766.25,
+        "X_Lambert2008": 646218.49,
+        "Y_Lambert2008": 725765.76
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.34167043148152,
+          "Lon_WGS84": 4.314592666955271,
+          "X_Lambert72": 146225.42,
+          "Y_Lambert72": 225766.25,
+          "X_Lambert2008": 646218.49,
+          "Y_Lambert2008": 725765.76
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.34167043148152,
+          "Lon_WGS84": 4.314592666955271,
+          "X_Lambert72": 146225.42,
+          "Y_Lambert72": 225766.25,
+          "X_Lambert2008": 646218.49,
+          "Y_Lambert2008": 725765.76
+        }
+      }
+    }
+  ]
+}

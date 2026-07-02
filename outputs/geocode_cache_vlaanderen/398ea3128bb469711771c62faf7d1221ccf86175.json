@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Copernicuslaan",
+      "Housenumber": "30",
+      "ID": 3311362,
+      "FormattedAddress": "Copernicuslaan 30, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.213852045733496,
+        "Lon_WGS84": 4.423599159067768,
+        "X_Lambert72": 153832.09,
+        "Y_Lambert72": 211545.64,
+        "X_Lambert2008": 653826.8,
+        "Y_Lambert2008": 711546.17
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.213852045733496,
+          "Lon_WGS84": 4.423599159067768,
+          "X_Lambert72": 153832.09,
+          "Y_Lambert72": 211545.64,
+          "X_Lambert2008": 653826.8,
+          "Y_Lambert2008": 711546.17
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.213852045733496,
+          "Lon_WGS84": 4.423599159067768,
+          "X_Lambert72": 153832.09,
+          "Y_Lambert72": 211545.64,
+          "X_Lambert2008": 653826.8,
+          "Y_Lambert2008": 711546.17
+        }
+      }
+    }
+  ]
+}

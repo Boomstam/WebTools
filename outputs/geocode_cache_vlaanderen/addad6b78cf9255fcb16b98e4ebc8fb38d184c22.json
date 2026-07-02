@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Politeshofstraat",
+      "Housenumber": "25",
+      "ID": 814057,
+      "FormattedAddress": "Politeshofstraat 25, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19809144068536,
+        "Lon_WGS84": 4.3938171730196744,
+        "X_Lambert72": 151751.66,
+        "Y_Lambert72": 209791.07,
+        "X_Lambert2008": 651746.59,
+        "Y_Lambert2008": 709791.37
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19809144068536,
+          "Lon_WGS84": 4.3938171730196744,
+          "X_Lambert72": 151751.66,
+          "Y_Lambert72": 209791.07,
+          "X_Lambert2008": 651746.59,
+          "Y_Lambert2008": 709791.37
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19809144068536,
+          "Lon_WGS84": 4.3938171730196744,
+          "X_Lambert72": 151751.66,
+          "Y_Lambert72": 209791.07,
+          "X_Lambert2008": 651746.59,
+          "Y_Lambert2008": 709791.37
+        }
+      }
+    }
+  ]
+}

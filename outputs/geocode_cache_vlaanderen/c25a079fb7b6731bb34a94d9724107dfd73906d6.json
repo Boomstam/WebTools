@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Generaal Lemanstraat",
+      "Housenumber": "18",
+      "ID": 1114103,
+      "FormattedAddress": "Generaal Lemanstraat 18, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19685278851711,
+        "Lon_WGS84": 4.410973702151153,
+        "X_Lambert72": 152950.97,
+        "Y_Lambert72": 209653.82,
+        "X_Lambert2008": 652945.91,
+        "Y_Lambert2008": 709654.26
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19685278851711,
+          "Lon_WGS84": 4.410973702151153,
+          "X_Lambert72": 152950.97,
+          "Y_Lambert72": 209653.82,
+          "X_Lambert2008": 652945.91,
+          "Y_Lambert2008": 709654.26
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19685278851711,
+          "Lon_WGS84": 4.410973702151153,
+          "X_Lambert72": 152950.97,
+          "Y_Lambert72": 209653.82,
+          "X_Lambert2008": 652945.91,
+          "Y_Lambert2008": 709654.26
+        }
+      }
+    }
+  ]
+}

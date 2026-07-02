@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Zwarteleeuwstraat",
+      "Housenumber": "44",
+      "ID": 1625504,
+      "FormattedAddress": "Zwarteleeuwstraat 44, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.222254519916795,
+        "Lon_WGS84": 4.442227714413267,
+        "X_Lambert72": 155132.84,
+        "Y_Lambert72": 212481.59,
+        "X_Lambert2008": 655127.42,
+        "Y_Lambert2008": 712482.27
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.222254519916795,
+          "Lon_WGS84": 4.442227714413267,
+          "X_Lambert72": 155132.84,
+          "Y_Lambert72": 212481.59,
+          "X_Lambert2008": 655127.42,
+          "Y_Lambert2008": 712482.27
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.222254519916795,
+          "Lon_WGS84": 4.442227714413267,
+          "X_Lambert72": 155132.84,
+          "Y_Lambert72": 212481.59,
+          "X_Lambert2008": 655127.42,
+          "Y_Lambert2008": 712482.27
+        }
+      }
+    }
+  ]
+}

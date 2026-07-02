@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Wolfstraat",
+      "Housenumber": "18",
+      "ID": 1256102,
+      "FormattedAddress": "Wolfstraat 18, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20847569716147,
+        "Lon_WGS84": 4.4324822298127975,
+        "X_Lambert72": 154453.32,
+        "Y_Lambert72": 210948.0,
+        "X_Lambert2008": 654448.09,
+        "Y_Lambert2008": 710948.61
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20847569716147,
+          "Lon_WGS84": 4.4324822298127975,
+          "X_Lambert72": 154453.32,
+          "Y_Lambert72": 210948.0,
+          "X_Lambert2008": 654448.09,
+          "Y_Lambert2008": 710948.61
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20847569716147,
+          "Lon_WGS84": 4.4324822298127975,
+          "X_Lambert72": 154453.32,
+          "Y_Lambert72": 210948.0,
+          "X_Lambert2008": 654448.09,
+          "Y_Lambert2008": 710948.61
+        }
+      }
+    }
+  ]
+}

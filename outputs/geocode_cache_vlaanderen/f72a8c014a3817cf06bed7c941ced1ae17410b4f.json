@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Sleutelstraat",
+      "Housenumber": "5",
+      "ID": 465539,
+      "FormattedAddress": "Sleutelstraat 5, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.216308932272206,
+        "Lon_WGS84": 4.399731025956522,
+        "X_Lambert72": 152164.17,
+        "Y_Lambert72": 211818.0,
+        "X_Lambert2008": 652158.86,
+        "Y_Lambert2008": 711818.33
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.216308932272206,
+          "Lon_WGS84": 4.399731025956522,
+          "X_Lambert72": 152164.17,
+          "Y_Lambert72": 211818.0,
+          "X_Lambert2008": 652158.86,
+          "Y_Lambert2008": 711818.33
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.216308932272206,
+          "Lon_WGS84": 4.399731025956522,
+          "X_Lambert72": 152164.17,
+          "Y_Lambert72": 211818.0,
+          "X_Lambert2008": 652158.86,
+          "Y_Lambert2008": 711818.33
+        }
+      }
+    }
+  ]
+}

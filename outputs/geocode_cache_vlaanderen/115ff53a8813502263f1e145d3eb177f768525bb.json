@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Te Boelaarlei",
+      "Housenumber": "60",
+      "ID": 640398,
+      "FormattedAddress": "Te Boelaarlei 60, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2091573112944,
+        "Lon_WGS84": 4.451935897664402,
+        "X_Lambert72": 155812.73,
+        "Y_Lambert72": 211025.19,
+        "X_Lambert2008": 655807.48,
+        "Y_Lambert2008": 711025.96
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2091573112944,
+          "Lon_WGS84": 4.451935897664402,
+          "X_Lambert72": 155812.73,
+          "Y_Lambert72": 211025.19,
+          "X_Lambert2008": 655807.48,
+          "Y_Lambert2008": 711025.96
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2091573112944,
+          "Lon_WGS84": 4.451935897664402,
+          "X_Lambert72": 155812.73,
+          "Y_Lambert72": 211025.19,
+          "X_Lambert2008": 655807.48,
+          "Y_Lambert2008": 711025.96
+        }
+      }
+    }
+  ]
+}

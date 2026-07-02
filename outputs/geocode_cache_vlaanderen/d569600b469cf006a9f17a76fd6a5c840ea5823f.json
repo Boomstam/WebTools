@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Kielsevest",
+      "Housenumber": "26",
+      "ID": 1624125,
+      "FormattedAddress": "Kielsevest 26, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19790238254922,
+        "Lon_WGS84": 4.3939575557575,
+        "X_Lambert72": 151761.48,
+        "Y_Lambert72": 209770.04,
+        "X_Lambert2008": 651756.41,
+        "Y_Lambert2008": 709770.34
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19790238254922,
+          "Lon_WGS84": 4.3939575557575,
+          "X_Lambert72": 151761.48,
+          "Y_Lambert72": 209770.04,
+          "X_Lambert2008": 651756.41,
+          "Y_Lambert2008": 709770.34
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19790238254922,
+          "Lon_WGS84": 4.3939575557575,
+          "X_Lambert72": 151761.48,
+          "Y_Lambert72": 209770.04,
+          "X_Lambert2008": 651756.41,
+          "Y_Lambert2008": 709770.34
+        }
+      }
+    }
+  ]
+}

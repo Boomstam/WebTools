@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Beekstraat",
+      "Housenumber": null,
+      "ID": 279,
+      "FormattedAddress": "Beekstraat, Antwerpen (2140)",
+      "Location": {
+        "Lat_WGS84": 51.219182905335956,
+        "Lon_WGS84": 4.435963716015067,
+        "X_Lambert72": 154695.53,
+        "Y_Lambert72": 212139.44,
+        "X_Lambert2008": 654690.16,
+        "Y_Lambert2008": 712140.07
+      },
+      "LocationType": "basisregisters_straat",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21806142386383,
+          "Lon_WGS84": 4.435962082885106,
+          "X_Lambert72": 154695.53,
+          "Y_Lambert72": 212014.67,
+          "X_Lambert2008": 654690.17,
+          "Y_Lambert2008": 712015.3
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.219234967996385,
+          "Lon_WGS84": 4.436552619379176,
+          "X_Lambert72": 154736.67,
+          "Y_Lambert72": 212145.27,
+          "X_Lambert2008": 654731.3,
+          "Y_Lambert2008": 712145.91
+        }
+      }
+    }
+  ]
+}

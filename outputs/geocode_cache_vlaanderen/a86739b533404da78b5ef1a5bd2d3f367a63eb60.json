@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Lageweg",
+      "Housenumber": "455",
+      "ID": 1340820,
+      "FormattedAddress": "Lageweg 455, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19008407423144,
+        "Lon_WGS84": 4.36814038709689,
+        "X_Lambert72": 149956.87,
+        "Y_Lambert72": 208899.91,
+        "X_Lambert2008": 649951.92,
+        "Y_Lambert2008": 708900.0
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19008407423144,
+          "Lon_WGS84": 4.36814038709689,
+          "X_Lambert72": 149956.87,
+          "Y_Lambert72": 208899.91,
+          "X_Lambert2008": 649951.92,
+          "Y_Lambert2008": 708900.0
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19008407423144,
+          "Lon_WGS84": 4.36814038709689,
+          "X_Lambert72": 149956.87,
+          "Y_Lambert72": 208899.91,
+          "X_Lambert2008": 649951.92,
+          "Y_Lambert2008": 708900.0
+        }
+      }
+    }
+  ]
+}

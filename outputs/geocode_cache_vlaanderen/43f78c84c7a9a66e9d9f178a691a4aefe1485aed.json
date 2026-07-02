@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Broederminstraat",
+      "Housenumber": "50",
+      "ID": 412001,
+      "FormattedAddress": "Broederminstraat 50, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2018542575663,
+        "Lon_WGS84": 4.395122658301838,
+        "X_Lambert72": 151842.76,
+        "Y_Lambert72": 210209.73,
+        "X_Lambert2008": 651837.64,
+        "Y_Lambert2008": 710210.04
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2018542575663,
+          "Lon_WGS84": 4.395122658301838,
+          "X_Lambert72": 151842.76,
+          "Y_Lambert72": 210209.73,
+          "X_Lambert2008": 651837.64,
+          "Y_Lambert2008": 710210.04
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2018542575663,
+          "Lon_WGS84": 4.395122658301838,
+          "X_Lambert72": 151842.76,
+          "Y_Lambert72": 210209.73,
+          "X_Lambert2008": 651837.64,
+          "Y_Lambert2008": 710210.04
+        }
+      }
+    }
+  ]
+}

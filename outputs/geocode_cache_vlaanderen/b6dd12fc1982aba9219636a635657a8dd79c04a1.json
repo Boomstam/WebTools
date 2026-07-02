@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Lange Vlierstraat",
+      "Housenumber": "6",
+      "ID": 636271,
+      "FormattedAddress": "Lange Vlierstraat 6, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21444126987024,
+        "Lon_WGS84": 4.396764027108912,
+        "X_Lambert72": 151956.94,
+        "Y_Lambert72": 211610.13,
+        "X_Lambert2008": 651951.65,
+        "Y_Lambert2008": 711610.44
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21444126987024,
+          "Lon_WGS84": 4.396764027108912,
+          "X_Lambert72": 151956.94,
+          "Y_Lambert72": 211610.13,
+          "X_Lambert2008": 651951.65,
+          "Y_Lambert2008": 711610.44
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21444126987024,
+          "Lon_WGS84": 4.396764027108912,
+          "X_Lambert72": 151956.94,
+          "Y_Lambert72": 211610.13,
+          "X_Lambert2008": 651951.65,
+          "Y_Lambert2008": 711610.44
+        }
+      }
+    }
+  ]
+}

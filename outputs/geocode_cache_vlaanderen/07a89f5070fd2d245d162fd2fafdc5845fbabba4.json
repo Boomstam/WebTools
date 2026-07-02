@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Gravinstraat",
+      "Housenumber": "44",
+      "ID": 418752,
+      "FormattedAddress": "Gravinstraat 44, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21500125085783,
+        "Lon_WGS84": 4.443491903442422,
+        "X_Lambert72": 155221.98,
+        "Y_Lambert72": 211674.72,
+        "X_Lambert2008": 655216.66,
+        "Y_Lambert2008": 711675.42
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21500125085783,
+          "Lon_WGS84": 4.443491903442422,
+          "X_Lambert72": 155221.98,
+          "Y_Lambert72": 211674.72,
+          "X_Lambert2008": 655216.66,
+          "Y_Lambert2008": 711675.42
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21500125085783,
+          "Lon_WGS84": 4.443491903442422,
+          "X_Lambert72": 155221.98,
+          "Y_Lambert72": 211674.72,
+          "X_Lambert2008": 655216.66,
+          "Y_Lambert2008": 711675.42
+        }
+      }
+    }
+  ]
+}

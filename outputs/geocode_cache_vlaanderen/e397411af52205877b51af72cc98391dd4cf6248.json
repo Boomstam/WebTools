@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Secretaris Meyerlei",
+      "Housenumber": "100",
+      "ID": 1162942,
+      "FormattedAddress": "Secretaris Meyerlei 100, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.25028883013399,
+        "Lon_WGS84": 4.458206628034108,
+        "X_Lambert72": 156245.39,
+        "Y_Lambert72": 215601.79,
+        "X_Lambert2008": 656239.59,
+        "Y_Lambert2008": 715602.58
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.25028883013399,
+          "Lon_WGS84": 4.458206628034108,
+          "X_Lambert72": 156245.39,
+          "Y_Lambert72": 215601.79,
+          "X_Lambert2008": 656239.59,
+          "Y_Lambert2008": 715602.58
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.25028883013399,
+          "Lon_WGS84": 4.458206628034108,
+          "X_Lambert72": 156245.39,
+          "Y_Lambert72": 215601.79,
+          "X_Lambert2008": 656239.59,
+          "Y_Lambert2008": 715602.58
+        }
+      }
+    }
+  ]
+}

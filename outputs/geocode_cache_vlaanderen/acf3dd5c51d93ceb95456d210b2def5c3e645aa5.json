@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2020",
+      "Thoroughfarename": "Beukenlaan",
+      "Housenumber": "78",
+      "ID": 1135830,
+      "FormattedAddress": "Beukenlaan 78, 2020 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.176849146373165,
+        "Lon_WGS84": 4.410702489150066,
+        "X_Lambert72": 152933.29,
+        "Y_Lambert72": 207428.34,
+        "X_Lambert2008": 652928.49,
+        "Y_Lambert2008": 707428.8
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.176849146373165,
+          "Lon_WGS84": 4.410702489150066,
+          "X_Lambert72": 152933.29,
+          "Y_Lambert72": 207428.34,
+          "X_Lambert2008": 652928.49,
+          "Y_Lambert2008": 707428.8
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.176849146373165,
+          "Lon_WGS84": 4.410702489150066,
+          "X_Lambert72": 152933.29,
+          "Y_Lambert72": 207428.34,
+          "X_Lambert2008": 652928.49,
+          "Y_Lambert2008": 707428.8
+        }
+      }
+    }
+  ]
+}

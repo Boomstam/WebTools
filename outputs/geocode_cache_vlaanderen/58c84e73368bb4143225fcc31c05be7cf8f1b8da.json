@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Bordink",
+      "Housenumber": "10",
+      "ID": 327666,
+      "FormattedAddress": "Bordink 10, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.24414326759443,
+        "Lon_WGS84": 4.430961729871151,
+        "X_Lambert72": 154343.7,
+        "Y_Lambert72": 214916.1,
+        "X_Lambert2008": 654338.0,
+        "Y_Lambert2008": 714916.67
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.24414326759443,
+          "Lon_WGS84": 4.430961729871151,
+          "X_Lambert72": 154343.7,
+          "Y_Lambert72": 214916.1,
+          "X_Lambert2008": 654338.0,
+          "Y_Lambert2008": 714916.67
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.24414326759443,
+          "Lon_WGS84": 4.430961729871151,
+          "X_Lambert72": 154343.7,
+          "Y_Lambert72": 214916.1,
+          "X_Lambert2008": 654338.0,
+          "Y_Lambert2008": 714916.67
+        }
+      }
+    }
+  ]
+}

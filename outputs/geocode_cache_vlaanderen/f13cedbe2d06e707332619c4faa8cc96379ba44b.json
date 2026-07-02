@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Van Eycklei",
+      "Housenumber": "2",
+      "ID": 838737,
+      "FormattedAddress": "Van Eycklei 2, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.210687279127804,
+        "Lon_WGS84": 4.410693932689335,
+        "X_Lambert72": 152930.53,
+        "Y_Lambert72": 211192.95,
+        "X_Lambert2008": 652925.29,
+        "Y_Lambert2008": 711193.38
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.210687279127804,
+          "Lon_WGS84": 4.410693932689335,
+          "X_Lambert72": 152930.53,
+          "Y_Lambert72": 211192.95,
+          "X_Lambert2008": 652925.29,
+          "Y_Lambert2008": 711193.38
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.210687279127804,
+          "Lon_WGS84": 4.410693932689335,
+          "X_Lambert72": 152930.53,
+          "Y_Lambert72": 211192.95,
+          "X_Lambert2008": 652925.29,
+          "Y_Lambert2008": 711193.38
+        }
+      }
+    }
+  ]
+}

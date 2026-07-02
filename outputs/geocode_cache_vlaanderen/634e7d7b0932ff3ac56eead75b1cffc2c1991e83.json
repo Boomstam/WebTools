@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Constant De Jongstraat",
+      "Housenumber": "52",
+      "ID": 764970,
+      "FormattedAddress": "Constant De Jongstraat 52, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.24173352759869,
+        "Lon_WGS84": 4.438566238996503,
+        "X_Lambert72": 154874.98,
+        "Y_Lambert72": 214648.48,
+        "X_Lambert2008": 654869.31,
+        "Y_Lambert2008": 714649.11
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.24173352759869,
+          "Lon_WGS84": 4.438566238996503,
+          "X_Lambert72": 154874.98,
+          "Y_Lambert72": 214648.48,
+          "X_Lambert2008": 654869.31,
+          "Y_Lambert2008": 714649.11
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.24173352759869,
+          "Lon_WGS84": 4.438566238996503,
+          "X_Lambert72": 154874.98,
+          "Y_Lambert72": 214648.48,
+          "X_Lambert2008": 654869.31,
+          "Y_Lambert2008": 714649.11
+        }
+      }
+    }
+  ]
+}

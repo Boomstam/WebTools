@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Lange Leemstraat",
+      "Housenumber": "150",
+      "ID": 1653504,
+      "FormattedAddress": "Lange Leemstraat 150, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20633144075196,
+        "Lon_WGS84": 4.415973193650668,
+        "X_Lambert72": 153299.76,
+        "Y_Lambert72": 210708.57,
+        "X_Lambert2008": 653294.57,
+        "Y_Lambert2008": 710709.05
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20633144075196,
+          "Lon_WGS84": 4.415973193650668,
+          "X_Lambert72": 153299.76,
+          "Y_Lambert72": 210708.57,
+          "X_Lambert2008": 653294.57,
+          "Y_Lambert2008": 710709.05
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20633144075196,
+          "Lon_WGS84": 4.415973193650668,
+          "X_Lambert72": 153299.76,
+          "Y_Lambert72": 210708.57,
+          "X_Lambert2008": 653294.57,
+          "Y_Lambert2008": 710709.05
+        }
+      }
+    }
+  ]
+}

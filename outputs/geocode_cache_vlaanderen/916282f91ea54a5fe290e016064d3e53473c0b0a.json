@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Wipstraat",
+      "Housenumber": "29",
+      "ID": 756622,
+      "FormattedAddress": "Wipstraat 29, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.210985942163106,
+        "Lon_WGS84": 4.424853043660498,
+        "X_Lambert72": 153919.95,
+        "Y_Lambert72": 211226.84,
+        "X_Lambert2008": 653914.69,
+        "Y_Lambert2008": 711227.39
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.210985942163106,
+          "Lon_WGS84": 4.424853043660498,
+          "X_Lambert72": 153919.95,
+          "Y_Lambert72": 211226.84,
+          "X_Lambert2008": 653914.69,
+          "Y_Lambert2008": 711227.39
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.210985942163106,
+          "Lon_WGS84": 4.424853043660498,
+          "X_Lambert72": 153919.95,
+          "Y_Lambert72": 211226.84,
+          "X_Lambert2008": 653914.69,
+          "Y_Lambert2008": 711227.39
+        }
+      }
+    }
+  ]
+}

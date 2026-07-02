@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Oosterveldlaan",
+      "Housenumber": "161",
+      "ID": 767761,
+      "FormattedAddress": "Oosterveldlaan 161, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17629773813087,
+        "Lon_WGS84": 4.426748286930146,
+        "X_Lambert72": 154055.44,
+        "Y_Lambert72": 207367.76,
+        "X_Lambert2008": 654050.64,
+        "Y_Lambert2008": 707368.35
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17629773813087,
+          "Lon_WGS84": 4.426748286930146,
+          "X_Lambert72": 154055.44,
+          "Y_Lambert72": 207367.76,
+          "X_Lambert2008": 654050.64,
+          "Y_Lambert2008": 707368.35
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17629773813087,
+          "Lon_WGS84": 4.426748286930146,
+          "X_Lambert72": 154055.44,
+          "Y_Lambert72": 207367.76,
+          "X_Lambert2008": 654050.64,
+          "Y_Lambert2008": 707368.35
+        }
+      }
+    }
+  ]
+}

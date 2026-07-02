@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Stan Ockersstraat",
+      "Housenumber": "1",
+      "ID": 1076204,
+      "FormattedAddress": "Stan Ockersstraat 1, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.204689489145125,
+        "Lon_WGS84": 4.446206111917612,
+        "X_Lambert72": 155412.84,
+        "Y_Lambert72": 210527.69,
+        "X_Lambert2008": 655407.66,
+        "Y_Lambert2008": 710528.42
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.204689489145125,
+          "Lon_WGS84": 4.446206111917612,
+          "X_Lambert72": 155412.84,
+          "Y_Lambert72": 210527.69,
+          "X_Lambert2008": 655407.66,
+          "Y_Lambert2008": 710528.42
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.204689489145125,
+          "Lon_WGS84": 4.446206111917612,
+          "X_Lambert72": 155412.84,
+          "Y_Lambert72": 210527.69,
+          "X_Lambert2008": 655407.66,
+          "Y_Lambert2008": 710528.42
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2040",
+      "Thoroughfarename": "Putsebaan",
+      "Housenumber": "190",
+      "ID": 517984,
+      "FormattedAddress": "Putsebaan 190, 2040 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.35786698239746,
+        "Lon_WGS84": 4.331595012275474,
+        "X_Lambert72": 147411.1,
+        "Y_Lambert72": 227567.57,
+        "X_Lambert2008": 647403.95,
+        "Y_Lambert2008": 727567.21
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.35786698239746,
+          "Lon_WGS84": 4.331595012275474,
+          "X_Lambert72": 147411.1,
+          "Y_Lambert72": 227567.57,
+          "X_Lambert2008": 647403.95,
+          "Y_Lambert2008": 727567.21
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.35786698239746,
+          "Lon_WGS84": 4.331595012275474,
+          "X_Lambert72": 147411.1,
+          "Y_Lambert72": 227567.57,
+          "X_Lambert2008": 647403.95,
+          "Y_Lambert2008": 727567.21
+        }
+      }
+    }
+  ]
+}

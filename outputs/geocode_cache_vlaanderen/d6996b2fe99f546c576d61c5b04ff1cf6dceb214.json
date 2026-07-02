@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Sint-Jacobsmarkt",
+      "Housenumber": "16",
+      "ID": 582592,
+      "FormattedAddress": "Sint-Jacobsmarkt 16, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22041528455415,
+        "Lon_WGS84": 4.410602635659589,
+        "X_Lambert72": 152923.53,
+        "Y_Lambert72": 212275.23,
+        "X_Lambert2008": 652918.16,
+        "Y_Lambert2008": 712275.65
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22041528455415,
+          "Lon_WGS84": 4.410602635659589,
+          "X_Lambert72": 152923.53,
+          "Y_Lambert72": 212275.23,
+          "X_Lambert2008": 652918.16,
+          "Y_Lambert2008": 712275.65
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22041528455415,
+          "Lon_WGS84": 4.410602635659589,
+          "X_Lambert72": 152923.53,
+          "Y_Lambert72": 212275.23,
+          "X_Lambert2008": 652918.16,
+          "Y_Lambert2008": 712275.65
+        }
+      }
+    }
+  ]
+}

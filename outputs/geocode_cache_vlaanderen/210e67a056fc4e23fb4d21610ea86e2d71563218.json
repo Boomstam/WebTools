@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Jan Moorkensstraat",
+      "Housenumber": "6",
+      "ID": 687771,
+      "FormattedAddress": "Jan Moorkensstraat 6, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18695715889129,
+        "Lon_WGS84": 4.429539740611746,
+        "X_Lambert72": 154249.67,
+        "Y_Lambert72": 208553.81,
+        "X_Lambert2008": 654244.73,
+        "Y_Lambert2008": 708554.42
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.18695715889129,
+          "Lon_WGS84": 4.429539740611746,
+          "X_Lambert72": 154249.67,
+          "Y_Lambert72": 208553.81,
+          "X_Lambert2008": 654244.73,
+          "Y_Lambert2008": 708554.42
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18695715889129,
+          "Lon_WGS84": 4.429539740611746,
+          "X_Lambert72": 154249.67,
+          "Y_Lambert72": 208553.81,
+          "X_Lambert2008": 654244.73,
+          "Y_Lambert2008": 708554.42
+        }
+      }
+    }
+  ]
+}

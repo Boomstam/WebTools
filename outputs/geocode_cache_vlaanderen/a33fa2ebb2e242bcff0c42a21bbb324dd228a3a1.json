@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Mechelsesteenweg",
+      "Housenumber": "165",
+      "ID": 513569,
+      "FormattedAddress": "Mechelsesteenweg 165, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20464937050386,
+        "Lon_WGS84": 4.411238567719989,
+        "X_Lambert72": 152968.98,
+        "Y_Lambert72": 210521.23,
+        "X_Lambert2008": 652963.82,
+        "Y_Lambert2008": 710521.67
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20464937050386,
+          "Lon_WGS84": 4.411238567719989,
+          "X_Lambert72": 152968.98,
+          "Y_Lambert72": 210521.23,
+          "X_Lambert2008": 652963.82,
+          "Y_Lambert2008": 710521.67
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20464937050386,
+          "Lon_WGS84": 4.411238567719989,
+          "X_Lambert72": 152968.98,
+          "Y_Lambert72": 210521.23,
+          "X_Lambert2008": 652963.82,
+          "Y_Lambert2008": 710521.67
+        }
+      }
+    }
+  ]
+}

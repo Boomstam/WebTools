@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Kerkhofweg",
+      "Housenumber": "116",
+      "ID": 1317805,
+      "FormattedAddress": "Kerkhofweg 116, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20095983978712,
+        "Lon_WGS84": 4.472785880489734,
+        "X_Lambert72": 157271.07,
+        "Y_Lambert72": 210115.04,
+        "X_Lambert2008": 657265.92,
+        "Y_Lambert2008": 710115.99
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20095983978712,
+          "Lon_WGS84": 4.472785880489734,
+          "X_Lambert72": 157271.07,
+          "Y_Lambert72": 210115.04,
+          "X_Lambert2008": 657265.92,
+          "Y_Lambert2008": 710115.99
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20095983978712,
+          "Lon_WGS84": 4.472785880489734,
+          "X_Lambert72": 157271.07,
+          "Y_Lambert72": 210115.04,
+          "X_Lambert2008": 657265.92,
+          "Y_Lambert2008": 710115.99
+        }
+      }
+    }
+  ]
+}

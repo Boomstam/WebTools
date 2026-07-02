@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Meirbrug",
+      "Housenumber": "2",
+      "ID": 925833,
+      "FormattedAddress": "Meirbrug 2, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21837100798987,
+        "Lon_WGS84": 4.404556599478631,
+        "X_Lambert72": 152501.23,
+        "Y_Lambert72": 212047.57,
+        "X_Lambert2008": 652495.89,
+        "Y_Lambert2008": 712047.94
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21837100798987,
+          "Lon_WGS84": 4.404556599478631,
+          "X_Lambert72": 152501.23,
+          "Y_Lambert72": 212047.57,
+          "X_Lambert2008": 652495.89,
+          "Y_Lambert2008": 712047.94
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21837100798987,
+          "Lon_WGS84": 4.404556599478631,
+          "X_Lambert72": 152501.23,
+          "Y_Lambert72": 212047.57,
+          "X_Lambert2008": 652495.89,
+          "Y_Lambert2008": 712047.94
+        }
+      }
+    }
+  ]
+}

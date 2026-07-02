@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Bredastraat",
+      "Housenumber": "16",
+      "ID": 30235685,
+      "FormattedAddress": "Bredastraat 16, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.23229636989483,
+        "Lon_WGS84": 4.421680494386411,
+        "X_Lambert72": 153696.54,
+        "Y_Lambert72": 213597.56,
+        "X_Lambert2008": 653691.0,
+        "Y_Lambert2008": 713598.06
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.23229636989483,
+          "Lon_WGS84": 4.421680494386411,
+          "X_Lambert72": 153696.54,
+          "Y_Lambert72": 213597.56,
+          "X_Lambert2008": 653691.0,
+          "Y_Lambert2008": 713598.06
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.23229636989483,
+          "Lon_WGS84": 4.421680494386411,
+          "X_Lambert72": 153696.54,
+          "Y_Lambert72": 213597.56,
+          "X_Lambert2008": 653691.0,
+          "Y_Lambert2008": 713598.06
+        }
+      }
+    }
+  ]
+}

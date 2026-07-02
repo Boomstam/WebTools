@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Oudevaartplaats",
+      "Housenumber": "42",
+      "ID": 1157411,
+      "FormattedAddress": "Oudevaartplaats 42, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21411333749629,
+        "Lon_WGS84": 4.4088160009172395,
+        "X_Lambert72": 152799.09,
+        "Y_Lambert72": 211574.04,
+        "X_Lambert2008": 652793.8,
+        "Y_Lambert2008": 711574.45
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21411333749629,
+          "Lon_WGS84": 4.4088160009172395,
+          "X_Lambert72": 152799.09,
+          "Y_Lambert72": 211574.04,
+          "X_Lambert2008": 652793.8,
+          "Y_Lambert2008": 711574.45
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21411333749629,
+          "Lon_WGS84": 4.4088160009172395,
+          "X_Lambert72": 152799.09,
+          "Y_Lambert72": 211574.04,
+          "X_Lambert2008": 652793.8,
+          "Y_Lambert2008": 711574.45
+        }
+      }
+    }
+  ]
+}

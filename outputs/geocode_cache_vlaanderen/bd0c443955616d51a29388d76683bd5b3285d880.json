@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Ceresstraat",
+      "Housenumber": "18",
+      "ID": 2262849,
+      "FormattedAddress": "Ceresstraat 18, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.219003070168846,
+        "Lon_WGS84": 4.44134517390588,
+        "X_Lambert72": 155071.54,
+        "Y_Lambert72": 212119.79,
+        "X_Lambert2008": 655066.17,
+        "Y_Lambert2008": 712120.47
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.219003070168846,
+          "Lon_WGS84": 4.44134517390588,
+          "X_Lambert72": 155071.54,
+          "Y_Lambert72": 212119.79,
+          "X_Lambert2008": 655066.17,
+          "Y_Lambert2008": 712120.47
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.219003070168846,
+          "Lon_WGS84": 4.44134517390588,
+          "X_Lambert72": 155071.54,
+          "Y_Lambert72": 212119.79,
+          "X_Lambert2008": 655066.17,
+          "Y_Lambert2008": 712120.47
+        }
+      }
+    }
+  ]
+}

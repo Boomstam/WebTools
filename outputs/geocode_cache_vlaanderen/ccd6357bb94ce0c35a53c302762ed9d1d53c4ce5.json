@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Twaalfmaandenstraat",
+      "Housenumber": "14",
+      "ID": 2531478,
+      "FormattedAddress": "Twaalfmaandenstraat 14, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21860601667553,
+        "Lon_WGS84": 4.405822015260321,
+        "X_Lambert72": 152589.63,
+        "Y_Lambert72": 212073.76,
+        "X_Lambert2008": 652584.28,
+        "Y_Lambert2008": 712074.14
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21860601667553,
+          "Lon_WGS84": 4.405822015260321,
+          "X_Lambert72": 152589.63,
+          "Y_Lambert72": 212073.76,
+          "X_Lambert2008": 652584.28,
+          "Y_Lambert2008": 712074.14
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21860601667553,
+          "Lon_WGS84": 4.405822015260321,
+          "X_Lambert72": 152589.63,
+          "Y_Lambert72": 212073.76,
+          "X_Lambert2008": 652584.28,
+          "Y_Lambert2008": 712074.14
+        }
+      }
+    }
+  ]
+}

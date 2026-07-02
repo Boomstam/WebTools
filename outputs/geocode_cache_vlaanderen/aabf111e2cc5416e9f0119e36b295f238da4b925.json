@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Jules Moretuslei",
+      "Housenumber": "128",
+      "ID": 1023568,
+      "FormattedAddress": "Jules Moretuslei 128, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17152514757785,
+        "Lon_WGS84": 4.380715854412849,
+        "X_Lambert72": 150836.39,
+        "Y_Lambert72": 206835.25,
+        "X_Lambert2008": 650831.68,
+        "Y_Lambert2008": 706835.46
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17152514757785,
+          "Lon_WGS84": 4.380715854412849,
+          "X_Lambert72": 150836.39,
+          "Y_Lambert72": 206835.25,
+          "X_Lambert2008": 650831.68,
+          "Y_Lambert2008": 706835.46
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17152514757785,
+          "Lon_WGS84": 4.380715854412849,
+          "X_Lambert72": 150836.39,
+          "Y_Lambert72": 206835.25,
+          "X_Lambert2008": 650831.68,
+          "Y_Lambert2008": 706835.46
+        }
+      }
+    }
+  ]
+}

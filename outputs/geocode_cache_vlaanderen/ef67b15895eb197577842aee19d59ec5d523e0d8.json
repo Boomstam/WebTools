@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Krugerstraat",
+      "Housenumber": "65",
+      "ID": 2462362,
+      "FormattedAddress": "Krugerstraat 65, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18323177049027,
+        "Lon_WGS84": 4.369314546848532,
+        "X_Lambert72": 150038.97,
+        "Y_Lambert72": 208137.57,
+        "X_Lambert2008": 650034.11,
+        "Y_Lambert2008": 708137.68
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.18323177049027,
+          "Lon_WGS84": 4.369314546848532,
+          "X_Lambert72": 150038.97,
+          "Y_Lambert72": 208137.57,
+          "X_Lambert2008": 650034.11,
+          "Y_Lambert2008": 708137.68
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18323177049027,
+          "Lon_WGS84": 4.369314546848532,
+          "X_Lambert72": 150038.97,
+          "Y_Lambert72": 208137.57,
+          "X_Lambert2008": 650034.11,
+          "Y_Lambert2008": 708137.68
+        }
+      }
+    }
+  ]
+}

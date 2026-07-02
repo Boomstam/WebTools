@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Gasstraat",
+      "Housenumber": "156",
+      "ID": 2197614,
+      "FormattedAddress": "Gasstraat 156, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22330064997363,
+        "Lon_WGS84": 4.426213562091239,
+        "X_Lambert72": 154013.95,
+        "Y_Lambert72": 212596.98,
+        "X_Lambert2008": 654008.53,
+        "Y_Lambert2008": 712597.53
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22330064997363,
+          "Lon_WGS84": 4.426213562091239,
+          "X_Lambert72": 154013.95,
+          "Y_Lambert72": 212596.98,
+          "X_Lambert2008": 654008.53,
+          "Y_Lambert2008": 712597.53
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22330064997363,
+          "Lon_WGS84": 4.426213562091239,
+          "X_Lambert72": 154013.95,
+          "Y_Lambert72": 212596.98,
+          "X_Lambert2008": 654008.53,
+          "Y_Lambert2008": 712597.53
+        }
+      }
+    }
+  ]
+}

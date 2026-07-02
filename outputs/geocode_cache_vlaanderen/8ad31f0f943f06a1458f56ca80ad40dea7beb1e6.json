@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Offerandestraat",
+      "Housenumber": "21",
+      "ID": 2172420,
+      "FormattedAddress": "Offerandestraat 21, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22013943471363,
+        "Lon_WGS84": 4.424732512639124,
+        "X_Lambert72": 153910.75,
+        "Y_Lambert72": 212245.2,
+        "X_Lambert2008": 653905.37,
+        "Y_Lambert2008": 712245.74
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22013943471363,
+          "Lon_WGS84": 4.424732512639124,
+          "X_Lambert72": 153910.75,
+          "Y_Lambert72": 212245.2,
+          "X_Lambert2008": 653905.37,
+          "Y_Lambert2008": 712245.74
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22013943471363,
+          "Lon_WGS84": 4.424732512639124,
+          "X_Lambert72": 153910.75,
+          "Y_Lambert72": 212245.2,
+          "X_Lambert2008": 653905.37,
+          "Y_Lambert2008": 712245.74
+        }
+      }
+    }
+  ]
+}

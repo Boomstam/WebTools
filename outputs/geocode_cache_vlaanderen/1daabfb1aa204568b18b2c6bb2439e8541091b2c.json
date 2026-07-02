@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Herentalsebaan",
+      "Housenumber": "178",
+      "ID": 2217538,
+      "FormattedAddress": "Herentalsebaan 178, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.209151612127805,
+        "Lon_WGS84": 4.460769398635391,
+        "X_Lambert72": 156430.04,
+        "Y_Lambert72": 211025.29,
+        "X_Lambert2008": 656424.79,
+        "Y_Lambert2008": 711026.14
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.209151612127805,
+          "Lon_WGS84": 4.460769398635391,
+          "X_Lambert72": 156430.04,
+          "Y_Lambert72": 211025.29,
+          "X_Lambert2008": 656424.79,
+          "Y_Lambert2008": 711026.14
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.209151612127805,
+          "Lon_WGS84": 4.460769398635391,
+          "X_Lambert72": 156430.04,
+          "Y_Lambert72": 211025.29,
+          "X_Lambert2008": 656424.79,
+          "Y_Lambert2008": 711026.14
+        }
+      }
+    }
+  ]
+}

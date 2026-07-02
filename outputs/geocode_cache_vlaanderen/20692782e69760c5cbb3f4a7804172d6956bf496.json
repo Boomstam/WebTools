@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Groenenborgerlaan",
+      "Housenumber": "67",
+      "ID": 1677545,
+      "FormattedAddress": "Groenenborgerlaan 67, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17413722712974,
+        "Lon_WGS84": 4.405911295927537,
+        "X_Lambert72": 152598.39,
+        "Y_Lambert72": 207126.45,
+        "X_Lambert2008": 652593.63,
+        "Y_Lambert2008": 707126.87
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17413722712974,
+          "Lon_WGS84": 4.405911295927537,
+          "X_Lambert72": 152598.39,
+          "Y_Lambert72": 207126.45,
+          "X_Lambert2008": 652593.63,
+          "Y_Lambert2008": 707126.87
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17413722712974,
+          "Lon_WGS84": 4.405911295927537,
+          "X_Lambert72": 152598.39,
+          "Y_Lambert72": 207126.45,
+          "X_Lambert2008": 652593.63,
+          "Y_Lambert2008": 707126.87
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Gentplaats",
+      "Housenumber": "7",
+      "ID": 677721,
+      "FormattedAddress": "Gentplaats 7, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20610005685047,
+        "Lon_WGS84": 4.386659213477589,
+        "X_Lambert72": 151251.1,
+        "Y_Lambert72": 210681.91,
+        "X_Lambert2008": 651245.93,
+        "Y_Lambert2008": 710682.14
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20610005685047,
+          "Lon_WGS84": 4.386659213477589,
+          "X_Lambert72": 151251.1,
+          "Y_Lambert72": 210681.91,
+          "X_Lambert2008": 651245.93,
+          "Y_Lambert2008": 710682.14
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20610005685047,
+          "Lon_WGS84": 4.386659213477589,
+          "X_Lambert72": 151251.1,
+          "Y_Lambert72": 210681.91,
+          "X_Lambert2008": 651245.93,
+          "Y_Lambert2008": 710682.14
+        }
+      }
+    }
+  ]
+}

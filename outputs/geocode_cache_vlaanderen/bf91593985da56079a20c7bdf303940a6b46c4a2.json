@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Lange Lozanastraat",
+      "Housenumber": "40",
+      "ID": 1267190,
+      "FormattedAddress": "Lange Lozanastraat 40, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20540496974078,
+        "Lon_WGS84": 4.403587353213068,
+        "X_Lambert72": 152434.2,
+        "Y_Lambert72": 210605.01,
+        "X_Lambert2008": 652429.03,
+        "Y_Lambert2008": 710605.38
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20540496974078,
+          "Lon_WGS84": 4.403587353213068,
+          "X_Lambert72": 152434.2,
+          "Y_Lambert72": 210605.01,
+          "X_Lambert2008": 652429.03,
+          "Y_Lambert2008": 710605.38
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20540496974078,
+          "Lon_WGS84": 4.403587353213068,
+          "X_Lambert72": 152434.2,
+          "Y_Lambert72": 210605.01,
+          "X_Lambert2008": 652429.03,
+          "Y_Lambert2008": 710605.38
+        }
+      }
+    }
+  ]
+}

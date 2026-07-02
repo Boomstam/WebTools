@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2150",
+      "Thoroughfarename": "Georges De Grooflei",
+      "Housenumber": "26",
+      "ID": 30423898,
+      "FormattedAddress": "Georges De Grooflei 26, 2150 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19592869036551,
+        "Lon_WGS84": 4.482326315357498,
+        "X_Lambert72": 157938.76,
+        "Y_Lambert72": 209556.29,
+        "X_Lambert2008": 657933.67,
+        "Y_Lambert2008": 709557.33
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19592869036551,
+          "Lon_WGS84": 4.482326315357498,
+          "X_Lambert72": 157938.76,
+          "Y_Lambert72": 209556.29,
+          "X_Lambert2008": 657933.67,
+          "Y_Lambert2008": 709557.33
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19592869036551,
+          "Lon_WGS84": 4.482326315357498,
+          "X_Lambert72": 157938.76,
+          "Y_Lambert72": 209556.29,
+          "X_Lambert2008": 657933.67,
+          "Y_Lambert2008": 709557.33
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Van Kerckhovenstraat",
+      "Housenumber": "45",
+      "ID": 2092539,
+      "FormattedAddress": "Van Kerckhovenstraat 45, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2261354726352,
+        "Lon_WGS84": 4.42458877924154,
+        "X_Lambert72": 153900.2,
+        "Y_Lambert72": 212912.28,
+        "X_Lambert2008": 653894.74,
+        "Y_Lambert2008": 712912.81
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2261354726352,
+          "Lon_WGS84": 4.42458877924154,
+          "X_Lambert72": 153900.2,
+          "Y_Lambert72": 212912.28,
+          "X_Lambert2008": 653894.74,
+          "Y_Lambert2008": 712912.81
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2261354726352,
+          "Lon_WGS84": 4.42458877924154,
+          "X_Lambert72": 153900.2,
+          "Y_Lambert72": 212912.28,
+          "X_Lambert2008": 653894.74,
+          "Y_Lambert2008": 712912.81
+        }
+      }
+    }
+  ]
+}

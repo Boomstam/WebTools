@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Vondelstraat",
+      "Housenumber": "10",
+      "ID": 1543620,
+      "FormattedAddress": "Vondelstraat 10, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22440410077693,
+        "Lon_WGS84": 4.4163446152669135,
+        "X_Lambert72": 153324.41,
+        "Y_Lambert72": 212719.25,
+        "X_Lambert2008": 653318.98,
+        "Y_Lambert2008": 712719.71
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22440410077693,
+          "Lon_WGS84": 4.4163446152669135,
+          "X_Lambert72": 153324.41,
+          "Y_Lambert72": 212719.25,
+          "X_Lambert2008": 653318.98,
+          "Y_Lambert2008": 712719.71
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22440410077693,
+          "Lon_WGS84": 4.4163446152669135,
+          "X_Lambert72": 153324.41,
+          "Y_Lambert72": 212719.25,
+          "X_Lambert2008": 653318.98,
+          "Y_Lambert2008": 712719.71
+        }
+      }
+    }
+  ]
+}

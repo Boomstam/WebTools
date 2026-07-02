@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Lageweg",
+      "Housenumber": "227",
+      "ID": 496721,
+      "FormattedAddress": "Lageweg 227, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18606234848749,
+        "Lon_WGS84": 4.361522426865538,
+        "X_Lambert72": 149494.16,
+        "Y_Lambert72": 208452.5,
+        "X_Lambert2008": 649489.27,
+        "Y_Lambert2008": 708452.54
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.18606234848749,
+          "Lon_WGS84": 4.361522426865538,
+          "X_Lambert72": 149494.16,
+          "Y_Lambert72": 208452.5,
+          "X_Lambert2008": 649489.27,
+          "Y_Lambert2008": 708452.54
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18606234848749,
+          "Lon_WGS84": 4.361522426865538,
+          "X_Lambert72": 149494.16,
+          "Y_Lambert72": 208452.5,
+          "X_Lambert2008": 649489.27,
+          "Y_Lambert2008": 708452.54
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Statiestraat",
+      "Housenumber": "35",
+      "ID": 2490603,
+      "FormattedAddress": "Statiestraat 35, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21820599986079,
+        "Lon_WGS84": 4.419903859302734,
+        "X_Lambert72": 153573.54,
+        "Y_Lambert72": 212029.85,
+        "X_Lambert2008": 653568.19,
+        "Y_Lambert2008": 712030.35
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21820599986079,
+          "Lon_WGS84": 4.419903859302734,
+          "X_Lambert72": 153573.54,
+          "Y_Lambert72": 212029.85,
+          "X_Lambert2008": 653568.19,
+          "Y_Lambert2008": 712030.35
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21820599986079,
+          "Lon_WGS84": 4.419903859302734,
+          "X_Lambert72": 153573.54,
+          "Y_Lambert72": 212029.85,
+          "X_Lambert2008": 653568.19,
+          "Y_Lambert2008": 712030.35
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Berlijnstraat",
+      "Housenumber": "2",
+      "ID": 2273312,
+      "FormattedAddress": "Berlijnstraat 2, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.16370516631045,
+        "Lon_WGS84": 4.353698779813903,
+        "X_Lambert72": 148946.67,
+        "Y_Lambert72": 205965.28,
+        "X_Lambert2008": 648942.08,
+        "Y_Lambert2008": 705965.28
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.16370516631045,
+          "Lon_WGS84": 4.353698779813903,
+          "X_Lambert72": 148946.67,
+          "Y_Lambert72": 205965.28,
+          "X_Lambert2008": 648942.08,
+          "Y_Lambert2008": 705965.28
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.16370516631045,
+          "Lon_WGS84": 4.353698779813903,
+          "X_Lambert72": 148946.67,
+          "Y_Lambert72": 205965.28,
+          "X_Lambert2008": 648942.08,
+          "Y_Lambert2008": 705965.28
+        }
+      }
+    }
+  ]
+}

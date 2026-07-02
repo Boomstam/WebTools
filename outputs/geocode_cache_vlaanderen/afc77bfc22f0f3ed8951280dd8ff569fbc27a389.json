@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2040",
+      "Thoroughfarename": "Solftplaats",
+      "Housenumber": "6",
+      "ID": 1069600,
+      "FormattedAddress": "Solftplaats 6, 2040 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.343709479066796,
+        "Lon_WGS84": 4.314889829765295,
+        "X_Lambert72": 146246.29,
+        "Y_Lambert72": 225993.1,
+        "X_Lambert2008": 646239.34,
+        "Y_Lambert2008": 725992.61
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.343709479066796,
+          "Lon_WGS84": 4.314889829765295,
+          "X_Lambert72": 146246.29,
+          "Y_Lambert72": 225993.1,
+          "X_Lambert2008": 646239.34,
+          "Y_Lambert2008": 725992.61
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.343709479066796,
+          "Lon_WGS84": 4.314889829765295,
+          "X_Lambert72": 146246.29,
+          "Y_Lambert72": 225993.1,
+          "X_Lambert2008": 646239.34,
+          "Y_Lambert2008": 725992.61
+        }
+      }
+    }
+  ]
+}

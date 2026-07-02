@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2050",
+      "Thoroughfarename": "Beatrijslaan",
+      "Housenumber": "4",
+      "ID": 296297,
+      "FormattedAddress": "Beatrijslaan 4, 2050 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.219983061437155,
+        "Lon_WGS84": 4.386406258748414,
+        "X_Lambert72": 151233.04,
+        "Y_Lambert72": 212226.45,
+        "X_Lambert2008": 651227.69,
+        "Y_Lambert2008": 712226.67
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.219983061437155,
+          "Lon_WGS84": 4.386406258748414,
+          "X_Lambert72": 151233.04,
+          "Y_Lambert72": 212226.45,
+          "X_Lambert2008": 651227.69,
+          "Y_Lambert2008": 712226.67
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.219983061437155,
+          "Lon_WGS84": 4.386406258748414,
+          "X_Lambert72": 151233.04,
+          "Y_Lambert72": 212226.45,
+          "X_Lambert2008": 651227.69,
+          "Y_Lambert2008": 712226.67
+        }
+      }
+    }
+  ]
+}

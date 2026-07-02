@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2180",
+      "Thoroughfarename": "August Scheyvaertslaan",
+      "Housenumber": "52",
+      "ID": 1022685,
+      "FormattedAddress": "August Scheyvaertslaan 52, 2180 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2797138167237,
+        "Lon_WGS84": 4.422758926630509,
+        "X_Lambert72": 153767.98,
+        "Y_Lambert72": 218873.1,
+        "X_Lambert2008": 653761.81,
+        "Y_Lambert2008": 718873.57
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2797138167237,
+          "Lon_WGS84": 4.422758926630509,
+          "X_Lambert72": 153767.98,
+          "Y_Lambert72": 218873.1,
+          "X_Lambert2008": 653761.81,
+          "Y_Lambert2008": 718873.57
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2797138167237,
+          "Lon_WGS84": 4.422758926630509,
+          "X_Lambert72": 153767.98,
+          "Y_Lambert72": 218873.1,
+          "X_Lambert2008": 653761.81,
+          "Y_Lambert2008": 718873.57
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Damhertenlaan",
+      "Housenumber": "16",
+      "ID": 2010055,
+      "FormattedAddress": "Damhertenlaan 16, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17611462691609,
+        "Lon_WGS84": 4.433612698834804,
+        "X_Lambert72": 154535.5,
+        "Y_Lambert72": 207347.79,
+        "X_Lambert2008": 654530.7,
+        "Y_Lambert2008": 707348.44
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17611462691609,
+          "Lon_WGS84": 4.433612698834804,
+          "X_Lambert72": 154535.5,
+          "Y_Lambert72": 207347.79,
+          "X_Lambert2008": 654530.7,
+          "Y_Lambert2008": 707348.44
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17611462691609,
+          "Lon_WGS84": 4.433612698834804,
+          "X_Lambert72": 154535.5,
+          "Y_Lambert72": 207347.79,
+          "X_Lambert2008": 654530.7,
+          "Y_Lambert2008": 707348.44
+        }
+      }
+    }
+  ]
+}

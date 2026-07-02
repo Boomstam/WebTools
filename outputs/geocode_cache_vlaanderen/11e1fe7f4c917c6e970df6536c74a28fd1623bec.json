@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Berkenrodelei",
+      "Housenumber": "5",
+      "ID": 1921830,
+      "FormattedAddress": "Berkenrodelei 5, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17782995712275,
+        "Lon_WGS84": 4.3497194430082935,
+        "X_Lambert72": 148668.7,
+        "Y_Lambert72": 207536.76,
+        "X_Lambert2008": 648663.93,
+        "Y_Lambert2008": 707536.71
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17782995712275,
+          "Lon_WGS84": 4.3497194430082935,
+          "X_Lambert72": 148668.7,
+          "Y_Lambert72": 207536.76,
+          "X_Lambert2008": 648663.93,
+          "Y_Lambert2008": 707536.71
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17782995712275,
+          "Lon_WGS84": 4.3497194430082935,
+          "X_Lambert72": 148668.7,
+          "Y_Lambert72": 207536.76,
+          "X_Lambert2008": 648663.93,
+          "Y_Lambert2008": 707536.71
+        }
+      }
+    }
+  ]
+}

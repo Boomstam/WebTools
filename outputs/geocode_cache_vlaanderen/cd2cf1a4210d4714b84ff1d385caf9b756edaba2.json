@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Sint-Elisabethstraat",
+      "Housenumber": "33",
+      "ID": 1195113,
+      "FormattedAddress": "Sint-Elisabethstraat 33, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.222843356182544,
+        "Lon_WGS84": 4.423136795686467,
+        "X_Lambert72": 153799.04,
+        "Y_Lambert72": 212545.94,
+        "X_Lambert2008": 653793.63,
+        "Y_Lambert2008": 712546.46
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.222843356182544,
+          "Lon_WGS84": 4.423136795686467,
+          "X_Lambert72": 153799.04,
+          "Y_Lambert72": 212545.94,
+          "X_Lambert2008": 653793.63,
+          "Y_Lambert2008": 712546.46
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.222843356182544,
+          "Lon_WGS84": 4.423136795686467,
+          "X_Lambert72": 153799.04,
+          "Y_Lambert72": 212545.94,
+          "X_Lambert2008": 653793.63,
+          "Y_Lambert2008": 712546.46
+        }
+      }
+    }
+  ]
+}

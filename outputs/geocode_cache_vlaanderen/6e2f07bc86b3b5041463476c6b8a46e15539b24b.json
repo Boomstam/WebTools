@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Kapelstraat",
+      "Housenumber": "171",
+      "ID": 2463691,
+      "FormattedAddress": "Kapelstraat 171, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17380767589323,
+        "Lon_WGS84": 4.342476659422426,
+        "X_Lambert72": 148162.06,
+        "Y_Lambert72": 207089.42,
+        "X_Lambert2008": 648157.34,
+        "Y_Lambert2008": 707089.31
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17380767589323,
+          "Lon_WGS84": 4.342476659422426,
+          "X_Lambert72": 148162.06,
+          "Y_Lambert72": 207089.42,
+          "X_Lambert2008": 648157.34,
+          "Y_Lambert2008": 707089.31
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17380767589323,
+          "Lon_WGS84": 4.342476659422426,
+          "X_Lambert72": 148162.06,
+          "Y_Lambert72": 207089.42,
+          "X_Lambert2008": 648157.34,
+          "Y_Lambert2008": 707089.31
+        }
+      }
+    }
+  ]
+}

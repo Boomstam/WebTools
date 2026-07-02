@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Sint-Augustinuslaan",
+      "Housenumber": "13",
+      "ID": 1293825,
+      "FormattedAddress": "Sint-Augustinuslaan 13, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17386518163778,
+        "Lon_WGS84": 4.416619776566172,
+        "X_Lambert72": 153347.31,
+        "Y_Lambert72": 207096.62,
+        "X_Lambert2008": 653342.55,
+        "Y_Lambert2008": 707097.13
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17386518163778,
+          "Lon_WGS84": 4.416619776566172,
+          "X_Lambert72": 153347.31,
+          "Y_Lambert72": 207096.62,
+          "X_Lambert2008": 653342.55,
+          "Y_Lambert2008": 707097.13
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17386518163778,
+          "Lon_WGS84": 4.416619776566172,
+          "X_Lambert72": 153347.31,
+          "Y_Lambert72": 207096.62,
+          "X_Lambert2008": 653342.55,
+          "Y_Lambert2008": 707097.13
+        }
+      }
+    }
+  ]
+}

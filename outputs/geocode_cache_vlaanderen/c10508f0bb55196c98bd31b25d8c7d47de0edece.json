@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Regenbooglei",
+      "Housenumber": "18",
+      "ID": 724061,
+      "FormattedAddress": "Regenbooglei 18, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21950423415758,
+        "Lon_WGS84": 4.477354403276246,
+        "X_Lambert72": 157587.35,
+        "Y_Lambert72": 212178.64,
+        "X_Lambert2008": 657581.95,
+        "Y_Lambert2008": 712179.62
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21950423415758,
+          "Lon_WGS84": 4.477354403276246,
+          "X_Lambert72": 157587.35,
+          "Y_Lambert72": 212178.64,
+          "X_Lambert2008": 657581.95,
+          "Y_Lambert2008": 712179.62
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21950423415758,
+          "Lon_WGS84": 4.477354403276246,
+          "X_Lambert72": 157587.35,
+          "Y_Lambert72": 212178.64,
+          "X_Lambert2008": 657581.95,
+          "Y_Lambert2008": 712179.62
+        }
+      }
+    }
+  ]
+}

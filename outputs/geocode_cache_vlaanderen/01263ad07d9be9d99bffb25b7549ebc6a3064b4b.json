@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Britselei",
+      "Housenumber": "44",
+      "ID": 2260282,
+      "FormattedAddress": "Britselei 44, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21007393617221,
+        "Lon_WGS84": 4.4050057355765375,
+        "X_Lambert72": 152533.07,
+        "Y_Lambert72": 211124.5,
+        "X_Lambert2008": 652527.84,
+        "Y_Lambert2008": 711124.88
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21007393617221,
+          "Lon_WGS84": 4.4050057355765375,
+          "X_Lambert72": 152533.07,
+          "Y_Lambert72": 211124.5,
+          "X_Lambert2008": 652527.84,
+          "Y_Lambert2008": 711124.88
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21007393617221,
+          "Lon_WGS84": 4.4050057355765375,
+          "X_Lambert72": 152533.07,
+          "Y_Lambert72": 211124.5,
+          "X_Lambert2008": 652527.84,
+          "Y_Lambert2008": 711124.88
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2020",
+      "Thoroughfarename": "Aloïs De Laetstraat",
+      "Housenumber": "13",
+      "ID": 373968,
+      "FormattedAddress": "Aloïs De Laetstraat 13, 2020 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19242617021358,
+        "Lon_WGS84": 4.375178942388667,
+        "X_Lambert72": 150448.92,
+        "Y_Lambert72": 209160.5,
+        "X_Lambert2008": 650443.94,
+        "Y_Lambert2008": 709160.65
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19242617021358,
+          "Lon_WGS84": 4.375178942388667,
+          "X_Lambert72": 150448.92,
+          "Y_Lambert72": 209160.5,
+          "X_Lambert2008": 650443.94,
+          "Y_Lambert2008": 709160.65
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19242617021358,
+          "Lon_WGS84": 4.375178942388667,
+          "X_Lambert72": 150448.92,
+          "Y_Lambert72": 209160.5,
+          "X_Lambert2008": 650443.94,
+          "Y_Lambert2008": 709160.65
+        }
+      }
+    }
+  ]
+}

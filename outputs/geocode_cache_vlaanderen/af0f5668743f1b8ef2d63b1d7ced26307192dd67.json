@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Boshovestraat",
+      "Housenumber": "70",
+      "ID": 2297229,
+      "FormattedAddress": "Boshovestraat 70, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22286400968923,
+        "Lon_WGS84": 4.467364308369764,
+        "X_Lambert72": 156888.87,
+        "Y_Lambert72": 212551.45,
+        "X_Lambert2008": 656883.43,
+        "Y_Lambert2008": 712552.34
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22286400968923,
+          "Lon_WGS84": 4.467364308369764,
+          "X_Lambert72": 156888.87,
+          "Y_Lambert72": 212551.45,
+          "X_Lambert2008": 656883.43,
+          "Y_Lambert2008": 712552.34
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22286400968923,
+          "Lon_WGS84": 4.467364308369764,
+          "X_Lambert72": 156888.87,
+          "Y_Lambert72": 212551.45,
+          "X_Lambert2008": 656883.43,
+          "Y_Lambert2008": 712552.34
+        }
+      }
+    }
+  ]
+}

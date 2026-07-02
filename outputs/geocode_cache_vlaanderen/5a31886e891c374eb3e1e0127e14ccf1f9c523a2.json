@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Balansstraat",
+      "Housenumber": "73",
+      "ID": 2226450,
+      "FormattedAddress": "Balansstraat 73, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20197452593503,
+        "Lon_WGS84": 4.393490817651219,
+        "X_Lambert72": 151728.7,
+        "Y_Lambert72": 210223.07,
+        "X_Lambert2008": 651723.58,
+        "Y_Lambert2008": 710223.36
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20197452593503,
+          "Lon_WGS84": 4.393490817651219,
+          "X_Lambert72": 151728.7,
+          "Y_Lambert72": 210223.07,
+          "X_Lambert2008": 651723.58,
+          "Y_Lambert2008": 710223.36
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20197452593503,
+          "Lon_WGS84": 4.393490817651219,
+          "X_Lambert72": 151728.7,
+          "Y_Lambert72": 210223.07,
+          "X_Lambert2008": 651723.58,
+          "Y_Lambert2008": 710223.36
+        }
+      }
+    }
+  ]
+}

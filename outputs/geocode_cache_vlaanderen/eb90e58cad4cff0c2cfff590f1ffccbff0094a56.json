@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Boerhaavestraat",
+      "Housenumber": "69",
+      "ID": 1014214,
+      "FormattedAddress": "Boerhaavestraat 69, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22513565121881,
+        "Lon_WGS84": 4.437037247945575,
+        "X_Lambert72": 154769.92,
+        "Y_Lambert72": 212801.78,
+        "X_Lambert2008": 654764.47,
+        "Y_Lambert2008": 712802.41
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22513565121881,
+          "Lon_WGS84": 4.437037247945575,
+          "X_Lambert72": 154769.92,
+          "Y_Lambert72": 212801.78,
+          "X_Lambert2008": 654764.47,
+          "Y_Lambert2008": 712802.41
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22513565121881,
+          "Lon_WGS84": 4.437037247945575,
+          "X_Lambert72": 154769.92,
+          "Y_Lambert72": 212801.78,
+          "X_Lambert2008": 654764.47,
+          "Y_Lambert2008": 712802.41
+        }
+      }
+    }
+  ]
+}

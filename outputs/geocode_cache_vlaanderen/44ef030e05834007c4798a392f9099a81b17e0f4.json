@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Leiebos",
+      "Housenumber": "31",
+      "ID": 1855154,
+      "FormattedAddress": "Leiebos 31, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.25685315449269,
+        "Lon_WGS84": 4.457724853098132,
+        "X_Lambert72": 156210.87,
+        "Y_Lambert72": 216332.07,
+        "X_Lambert2008": 656204.99,
+        "Y_Lambert2008": 716332.85
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.25685315449269,
+          "Lon_WGS84": 4.457724853098132,
+          "X_Lambert72": 156210.87,
+          "Y_Lambert72": 216332.07,
+          "X_Lambert2008": 656204.99,
+          "Y_Lambert2008": 716332.85
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.25685315449269,
+          "Lon_WGS84": 4.457724853098132,
+          "X_Lambert72": 156210.87,
+          "Y_Lambert72": 216332.07,
+          "X_Lambert2008": 656204.99,
+          "Y_Lambert2008": 716332.85
+        }
+      }
+    }
+  ]
+}

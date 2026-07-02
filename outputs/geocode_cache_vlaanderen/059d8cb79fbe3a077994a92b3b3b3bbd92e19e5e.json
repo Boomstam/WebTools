@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Italiëlei",
+      "Housenumber": "110",
+      "ID": 1946426,
+      "FormattedAddress": "Italiëlei 110, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22119495733633,
+        "Lon_WGS84": 4.41595583284217,
+        "X_Lambert72": 153297.48,
+        "Y_Lambert72": 212362.2,
+        "X_Lambert2008": 653292.09,
+        "Y_Lambert2008": 712362.66
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22119495733633,
+          "Lon_WGS84": 4.41595583284217,
+          "X_Lambert72": 153297.48,
+          "Y_Lambert72": 212362.2,
+          "X_Lambert2008": 653292.09,
+          "Y_Lambert2008": 712362.66
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22119495733633,
+          "Lon_WGS84": 4.41595583284217,
+          "X_Lambert72": 153297.48,
+          "Y_Lambert72": 212362.2,
+          "X_Lambert2008": 653292.09,
+          "Y_Lambert2008": 712362.66
+        }
+      }
+    }
+  ]
+}

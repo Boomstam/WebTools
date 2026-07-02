@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Handelstraat",
+      "Housenumber": "8",
+      "ID": 307932,
+      "FormattedAddress": "Handelstraat 8, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22312597220604,
+        "Lon_WGS84": 4.427724183490849,
+        "X_Lambert72": 154119.5,
+        "Y_Lambert72": 212577.63,
+        "X_Lambert2008": 654114.08,
+        "Y_Lambert2008": 712578.19
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22312597220604,
+          "Lon_WGS84": 4.427724183490849,
+          "X_Lambert72": 154119.5,
+          "Y_Lambert72": 212577.63,
+          "X_Lambert2008": 654114.08,
+          "Y_Lambert2008": 712578.19
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22312597220604,
+          "Lon_WGS84": 4.427724183490849,
+          "X_Lambert72": 154119.5,
+          "Y_Lambert72": 212577.63,
+          "X_Lambert2008": 654114.08,
+          "Y_Lambert2008": 712578.19
+        }
+      }
+    }
+  ]
+}

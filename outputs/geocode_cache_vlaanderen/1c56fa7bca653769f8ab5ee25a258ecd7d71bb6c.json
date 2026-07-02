@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Antwerpsesteenweg",
+      "Housenumber": "95",
+      "ID": 1297995,
+      "FormattedAddress": "Antwerpsesteenweg 95, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17859750124029,
+        "Lon_WGS84": 4.356138405991925,
+        "X_Lambert72": 149117.59,
+        "Y_Lambert72": 207622.06,
+        "X_Lambert2008": 649112.8,
+        "Y_Lambert2008": 707622.06
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17859750124029,
+          "Lon_WGS84": 4.356138405991925,
+          "X_Lambert72": 149117.59,
+          "Y_Lambert72": 207622.06,
+          "X_Lambert2008": 649112.8,
+          "Y_Lambert2008": 707622.06
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17859750124029,
+          "Lon_WGS84": 4.356138405991925,
+          "X_Lambert72": 149117.59,
+          "Y_Lambert72": 207622.06,
+          "X_Lambert2008": 649112.8,
+          "Y_Lambert2008": 707622.06
+        }
+      }
+    }
+  ]
+}

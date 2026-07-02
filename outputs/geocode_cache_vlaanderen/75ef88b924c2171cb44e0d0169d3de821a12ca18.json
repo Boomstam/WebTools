@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Anselmostraat",
+      "Housenumber": "86",
+      "ID": 800556,
+      "FormattedAddress": "Anselmostraat 86, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20575166248819,
+        "Lon_WGS84": 4.404152379030625,
+        "X_Lambert72": 152473.67,
+        "Y_Lambert72": 210643.6,
+        "X_Lambert2008": 652468.49,
+        "Y_Lambert2008": 710643.98
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20575166248819,
+          "Lon_WGS84": 4.404152379030625,
+          "X_Lambert72": 152473.67,
+          "Y_Lambert72": 210643.6,
+          "X_Lambert2008": 652468.49,
+          "Y_Lambert2008": 710643.98
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20575166248819,
+          "Lon_WGS84": 4.404152379030625,
+          "X_Lambert72": 152473.67,
+          "Y_Lambert72": 210643.6,
+          "X_Lambert2008": 652468.49,
+          "Y_Lambert2008": 710643.98
+        }
+      }
+    }
+  ]
+}

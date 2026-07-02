@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Victor Roosensplein",
+      "Housenumber": "31",
+      "ID": 2272045,
+      "FormattedAddress": "Victor Roosensplein 31, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.24884396666077,
+        "Lon_WGS84": 4.45483504196797,
+        "X_Lambert72": 156010.17,
+        "Y_Lambert72": 215440.76,
+        "X_Lambert2008": 656004.4,
+        "Y_Lambert2008": 715441.52
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.24884396666077,
+          "Lon_WGS84": 4.45483504196797,
+          "X_Lambert72": 156010.17,
+          "Y_Lambert72": 215440.76,
+          "X_Lambert2008": 656004.4,
+          "Y_Lambert2008": 715441.52
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.24884396666077,
+          "Lon_WGS84": 4.45483504196797,
+          "X_Lambert72": 156010.17,
+          "Y_Lambert72": 215440.76,
+          "X_Lambert2008": 656004.4,
+          "Y_Lambert2008": 715441.52
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Bakkerstraat",
+      "Housenumber": "15",
+      "ID": 461020,
+      "FormattedAddress": "Bakkerstraat 15, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.214027670724036,
+        "Lon_WGS84": 4.435850306783657,
+        "X_Lambert72": 154688.13,
+        "Y_Lambert72": 211565.89,
+        "X_Lambert2008": 654682.83,
+        "Y_Lambert2008": 711566.52
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.214027670724036,
+          "Lon_WGS84": 4.435850306783657,
+          "X_Lambert72": 154688.13,
+          "Y_Lambert72": 211565.89,
+          "X_Lambert2008": 654682.83,
+          "Y_Lambert2008": 711566.52
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.214027670724036,
+          "Lon_WGS84": 4.435850306783657,
+          "X_Lambert72": 154688.13,
+          "Y_Lambert72": 211565.89,
+          "X_Lambert2008": 654682.83,
+          "Y_Lambert2008": 711566.52
+        }
+      }
+    }
+  ]
+}

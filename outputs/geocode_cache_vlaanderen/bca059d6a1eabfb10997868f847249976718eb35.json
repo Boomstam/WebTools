@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Ommeganckstraat",
+      "Housenumber": "2",
+      "ID": 2092648,
+      "FormattedAddress": "Ommeganckstraat 2, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21835010006438,
+        "Lon_WGS84": 4.424008987860628,
+        "X_Lambert72": 153860.35,
+        "Y_Lambert72": 212046.09,
+        "X_Lambert2008": 653855.0,
+        "Y_Lambert2008": 712046.62
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21835010006438,
+          "Lon_WGS84": 4.424008987860628,
+          "X_Lambert72": 153860.35,
+          "Y_Lambert72": 212046.09,
+          "X_Lambert2008": 653855.0,
+          "Y_Lambert2008": 712046.62
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21835010006438,
+          "Lon_WGS84": 4.424008987860628,
+          "X_Lambert72": 153860.35,
+          "Y_Lambert72": 212046.09,
+          "X_Lambert2008": 653855.0,
+          "Y_Lambert2008": 712046.62
+        }
+      }
+    }
+  ]
+}

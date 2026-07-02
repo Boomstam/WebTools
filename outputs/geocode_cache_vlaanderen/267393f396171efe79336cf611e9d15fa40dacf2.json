@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Adriaan Brouwerstraat",
+      "Housenumber": "3",
+      "ID": 3275477,
+      "FormattedAddress": "Adriaan Brouwerstraat 3, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.227672154601976,
+        "Lon_WGS84": 4.402246939933001,
+        "X_Lambert72": 152339.38,
+        "Y_Lambert72": 213082.29,
+        "X_Lambert2008": 652333.92,
+        "Y_Lambert2008": 713082.63
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.227672154601976,
+          "Lon_WGS84": 4.402246939933001,
+          "X_Lambert72": 152339.38,
+          "Y_Lambert72": 213082.29,
+          "X_Lambert2008": 652333.92,
+          "Y_Lambert2008": 713082.63
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.227672154601976,
+          "Lon_WGS84": 4.402246939933001,
+          "X_Lambert72": 152339.38,
+          "Y_Lambert72": 213082.29,
+          "X_Lambert2008": 652333.92,
+          "Y_Lambert2008": 713082.63
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Jaak Coveliersstraat",
+      "Housenumber": "36",
+      "ID": 3389660,
+      "FormattedAddress": "Jaak Coveliersstraat 36, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.23871298566496,
+        "Lon_WGS84": 4.43487845617255,
+        "X_Lambert72": 154617.75,
+        "Y_Lambert72": 214312.19,
+        "X_Lambert2008": 654612.12,
+        "Y_Lambert2008": 714312.79
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.23871298566496,
+          "Lon_WGS84": 4.43487845617255,
+          "X_Lambert72": 154617.75,
+          "Y_Lambert72": 214312.19,
+          "X_Lambert2008": 654612.12,
+          "Y_Lambert2008": 714312.79
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.23871298566496,
+          "Lon_WGS84": 4.43487845617255,
+          "X_Lambert72": 154617.75,
+          "Y_Lambert72": 214312.19,
+          "X_Lambert2008": 654612.12,
+          "Y_Lambert2008": 714312.79
+        }
+      }
+    }
+  ]
+}

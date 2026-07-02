@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Antwerpsesteenweg",
+      "Housenumber": "2",
+      "ID": 2010014,
+      "FormattedAddress": "Antwerpsesteenweg 2, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17761918288338,
+        "Lon_WGS84": 4.351597116730088,
+        "X_Lambert72": 148800.0,
+        "Y_Lambert72": 207513.28,
+        "X_Lambert2008": 648795.23,
+        "Y_Lambert2008": 707513.25
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17761918288338,
+          "Lon_WGS84": 4.351597116730088,
+          "X_Lambert72": 148800.0,
+          "Y_Lambert72": 207513.28,
+          "X_Lambert2008": 648795.23,
+          "Y_Lambert2008": 707513.25
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17761918288338,
+          "Lon_WGS84": 4.351597116730088,
+          "X_Lambert72": 148800.0,
+          "Y_Lambert72": 207513.28,
+          "X_Lambert2008": 648795.23,
+          "Y_Lambert2008": 707513.25
+        }
+      }
+    }
+  ]
+}

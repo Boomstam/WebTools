@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Provinciestraat",
+      "Housenumber": "314",
+      "ID": 2146815,
+      "FormattedAddress": "Provinciestraat 314, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20897581429813,
+        "Lon_WGS84": 4.424761446939246,
+        "X_Lambert72": 153913.72,
+        "Y_Lambert72": 211003.2,
+        "X_Lambert2008": 653908.49,
+        "Y_Lambert2008": 711003.75
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20897581429813,
+          "Lon_WGS84": 4.424761446939246,
+          "X_Lambert72": 153913.72,
+          "Y_Lambert72": 211003.2,
+          "X_Lambert2008": 653908.49,
+          "Y_Lambert2008": 711003.75
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20897581429813,
+          "Lon_WGS84": 4.424761446939246,
+          "X_Lambert72": 153913.72,
+          "Y_Lambert72": 211003.2,
+          "X_Lambert2008": 653908.49,
+          "Y_Lambert2008": 711003.75
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Wolstraat",
+      "Housenumber": "9",
+      "ID": 1106100,
+      "FormattedAddress": "Wolstraat 9, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.221738731735584,
+        "Lon_WGS84": 4.402922911852713,
+        "X_Lambert72": 152386.91,
+        "Y_Lambert72": 212422.19,
+        "X_Lambert2008": 652381.52,
+        "Y_Lambert2008": 712422.54
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.221738731735584,
+          "Lon_WGS84": 4.402922911852713,
+          "X_Lambert72": 152386.91,
+          "Y_Lambert72": 212422.19,
+          "X_Lambert2008": 652381.52,
+          "Y_Lambert2008": 712422.54
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.221738731735584,
+          "Lon_WGS84": 4.402922911852713,
+          "X_Lambert72": 152386.91,
+          "Y_Lambert72": 212422.19,
+          "X_Lambert2008": 652381.52,
+          "Y_Lambert2008": 712422.54
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Varenlaan",
+      "Housenumber": "31",
+      "ID": 1760174,
+      "FormattedAddress": "Varenlaan 31, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18371465660997,
+        "Lon_WGS84": 4.39525243961481,
+        "X_Lambert72": 151852.57,
+        "Y_Lambert72": 208191.64,
+        "X_Lambert2008": 651847.69,
+        "Y_Lambert2008": 708191.96
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.18371465660997,
+          "Lon_WGS84": 4.39525243961481,
+          "X_Lambert72": 151852.57,
+          "Y_Lambert72": 208191.64,
+          "X_Lambert2008": 651847.69,
+          "Y_Lambert2008": 708191.96
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18371465660997,
+          "Lon_WGS84": 4.39525243961481,
+          "X_Lambert72": 151852.57,
+          "Y_Lambert72": 208191.64,
+          "X_Lambert2008": 651847.69,
+          "Y_Lambert2008": 708191.96
+        }
+      }
+    }
+  ]
+}

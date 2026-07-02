@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Bexstraat",
+      "Housenumber": "1",
+      "ID": 2293525,
+      "FormattedAddress": "Bexstraat 1, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21025960161319,
+        "Lon_WGS84": 4.413840600605287,
+        "X_Lambert72": 153150.45,
+        "Y_Lambert72": 211145.5,
+        "X_Lambert2008": 653145.21,
+        "Y_Lambert2008": 711145.96
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21025960161319,
+          "Lon_WGS84": 4.413840600605287,
+          "X_Lambert72": 153150.45,
+          "Y_Lambert72": 211145.5,
+          "X_Lambert2008": 653145.21,
+          "Y_Lambert2008": 711145.96
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21025960161319,
+          "Lon_WGS84": 4.413840600605287,
+          "X_Lambert72": 153150.45,
+          "Y_Lambert72": 211145.5,
+          "X_Lambert2008": 653145.21,
+          "Y_Lambert2008": 711145.96
+        }
+      }
+    }
+  ]
+}

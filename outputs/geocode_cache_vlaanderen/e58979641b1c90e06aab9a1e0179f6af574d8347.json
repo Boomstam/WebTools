@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Stijfselstraat",
+      "Housenumber": null,
+      "ID": 2751,
+      "FormattedAddress": "Stijfselstraat, Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.226351587646576,
+        "Lon_WGS84": 4.410801590876913,
+        "X_Lambert72": 152937.05,
+        "Y_Lambert72": 212935.68,
+        "X_Lambert2008": 652931.6,
+        "Y_Lambert2008": 712936.1
+      },
+      "LocationType": "basisregisters_straat",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.225684884173326,
+          "Lon_WGS84": 4.410652535688931,
+          "X_Lambert72": 152926.68,
+          "Y_Lambert72": 212861.5,
+          "X_Lambert2008": 652921.24,
+          "Y_Lambert2008": 712861.91
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.227033685812344,
+          "Lon_WGS84": 4.410881808547114,
+          "X_Lambert72": 152942.61,
+          "Y_Lambert72": 213011.57,
+          "X_Lambert2008": 652937.15,
+          "Y_Lambert2008": 713011.99
+        }
+      }
+    }
+  ]
+}

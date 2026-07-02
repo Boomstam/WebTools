@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Mechelsesteenweg",
+      "Housenumber": "13",
+      "ID": 2348954,
+      "FormattedAddress": "Mechelsesteenweg 13, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.210447161313944,
+        "Lon_WGS84": 4.408233382163792,
+        "X_Lambert72": 152758.6,
+        "Y_Lambert72": 211166.14,
+        "X_Lambert2008": 652753.36,
+        "Y_Lambert2008": 711166.55
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.210447161313944,
+          "Lon_WGS84": 4.408233382163792,
+          "X_Lambert72": 152758.6,
+          "Y_Lambert72": 211166.14,
+          "X_Lambert2008": 652753.36,
+          "Y_Lambert2008": 711166.55
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.210447161313944,
+          "Lon_WGS84": 4.408233382163792,
+          "X_Lambert72": 152758.6,
+          "Y_Lambert72": 211166.14,
+          "X_Lambert2008": 652753.36,
+          "Y_Lambert2008": 711166.55
+        }
+      }
+    }
+  ]
+}

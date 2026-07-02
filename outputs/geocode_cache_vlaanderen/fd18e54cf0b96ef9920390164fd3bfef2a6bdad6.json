@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Van Luppenstraat",
+      "Housenumber": "1",
+      "ID": 940591,
+      "FormattedAddress": "Van Luppenstraat 1, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.203016691268616,
+        "Lon_WGS84": 4.428150015533919,
+        "X_Lambert72": 154151.06,
+        "Y_Lambert72": 210340.41,
+        "X_Lambert2008": 654145.91,
+        "Y_Lambert2008": 710340.99
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.203016691268616,
+          "Lon_WGS84": 4.428150015533919,
+          "X_Lambert72": 154151.06,
+          "Y_Lambert72": 210340.41,
+          "X_Lambert2008": 654145.91,
+          "Y_Lambert2008": 710340.99
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.203016691268616,
+          "Lon_WGS84": 4.428150015533919,
+          "X_Lambert72": 154151.06,
+          "Y_Lambert72": 210340.41,
+          "X_Lambert2008": 654145.91,
+          "Y_Lambert2008": 710340.99
+        }
+      }
+    }
+  ]
+}

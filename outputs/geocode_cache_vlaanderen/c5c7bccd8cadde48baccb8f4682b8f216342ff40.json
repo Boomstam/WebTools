@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Haringrodestraat",
+      "Housenumber": "44",
+      "ID": 747925,
+      "FormattedAddress": "Haringrodestraat 44, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20273816078637,
+        "Lon_WGS84": 4.41477352124095,
+        "X_Lambert72": 153216.17,
+        "Y_Lambert72": 210308.75,
+        "X_Lambert2008": 653211.03,
+        "Y_Lambert2008": 710309.22
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20273816078637,
+          "Lon_WGS84": 4.41477352124095,
+          "X_Lambert72": 153216.17,
+          "Y_Lambert72": 210308.75,
+          "X_Lambert2008": 653211.03,
+          "Y_Lambert2008": 710309.22
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20273816078637,
+          "Lon_WGS84": 4.41477352124095,
+          "X_Lambert72": 153216.17,
+          "Y_Lambert72": 210308.75,
+          "X_Lambert2008": 653211.03,
+          "Y_Lambert2008": 710309.22
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2050",
+      "Thoroughfarename": "Galgenweellaan",
+      "Housenumber": "28",
+      "ID": 1350875,
+      "FormattedAddress": "Galgenweellaan 28, 2050 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.217190517148445,
+        "Lon_WGS84": 4.378542069495979,
+        "X_Lambert72": 150683.64,
+        "Y_Lambert72": 211915.66,
+        "X_Lambert2008": 650678.33,
+        "Y_Lambert2008": 711915.82
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.217190517148445,
+          "Lon_WGS84": 4.378542069495979,
+          "X_Lambert72": 150683.64,
+          "Y_Lambert72": 211915.66,
+          "X_Lambert2008": 650678.33,
+          "Y_Lambert2008": 711915.82
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.217190517148445,
+          "Lon_WGS84": 4.378542069495979,
+          "X_Lambert72": 150683.64,
+          "Y_Lambert72": 211915.66,
+          "X_Lambert2008": 650678.33,
+          "Y_Lambert2008": 711915.82
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2030",
+      "Thoroughfarename": "Elzasweg",
+      "Housenumber": "2",
+      "ID": 2256271,
+      "FormattedAddress": "Elzasweg 2, 2030 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.24260347869132,
+        "Lon_WGS84": 4.412069634377499,
+        "X_Lambert72": 153024.56,
+        "Y_Lambert72": 214743.84,
+        "X_Lambert2008": 653018.89,
+        "Y_Lambert2008": 714744.25
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.24260347869132,
+          "Lon_WGS84": 4.412069634377499,
+          "X_Lambert72": 153024.56,
+          "Y_Lambert72": 214743.84,
+          "X_Lambert2008": 653018.89,
+          "Y_Lambert2008": 714744.25
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.24260347869132,
+          "Lon_WGS84": 4.412069634377499,
+          "X_Lambert72": 153024.56,
+          "Y_Lambert72": 214743.84,
+          "X_Lambert2008": 653018.89,
+          "Y_Lambert2008": 714744.25
+        }
+      }
+    }
+  ]
+}

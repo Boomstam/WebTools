@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Londenstraat",
+      "Housenumber": "2",
+      "ID": 1276598,
+      "FormattedAddress": "Londenstraat 2, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2307189430648,
+        "Lon_WGS84": 4.408235247316024,
+        "X_Lambert72": 152757.51,
+        "Y_Lambert72": 213421.47,
+        "X_Lambert2008": 652752.0,
+        "Y_Lambert2008": 713421.86
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2307189430648,
+          "Lon_WGS84": 4.408235247316024,
+          "X_Lambert72": 152757.51,
+          "Y_Lambert72": 213421.47,
+          "X_Lambert2008": 652752.0,
+          "Y_Lambert2008": 713421.86
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2307189430648,
+          "Lon_WGS84": 4.408235247316024,
+          "X_Lambert72": 152757.51,
+          "Y_Lambert72": 213421.47,
+          "X_Lambert2008": 652752.0,
+          "Y_Lambert2008": 713421.86
+        }
+      }
+    }
+  ]
+}

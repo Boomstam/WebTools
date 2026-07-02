@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Olmenlaan",
+      "Housenumber": "4",
+      "ID": 1954244,
+      "FormattedAddress": "Olmenlaan 4, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.178156610007555,
+        "Lon_WGS84": 4.39989675714028,
+        "X_Lambert72": 152177.57,
+        "Y_Lambert72": 207573.42,
+        "X_Lambert2008": 652172.76,
+        "Y_Lambert2008": 707573.79
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.178156610007555,
+          "Lon_WGS84": 4.39989675714028,
+          "X_Lambert72": 152177.57,
+          "Y_Lambert72": 207573.42,
+          "X_Lambert2008": 652172.76,
+          "Y_Lambert2008": 707573.79
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.178156610007555,
+          "Lon_WGS84": 4.39989675714028,
+          "X_Lambert72": 152177.57,
+          "Y_Lambert72": 207573.42,
+          "X_Lambert2008": 652172.76,
+          "Y_Lambert2008": 707573.79
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Trapstraat",
+      "Housenumber": "42",
+      "ID": 1803094,
+      "FormattedAddress": "Trapstraat 42, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22838480659313,
+        "Lon_WGS84": 4.4236506866758285,
+        "X_Lambert72": 153834.48,
+        "Y_Lambert72": 213162.48,
+        "X_Lambert2008": 653828.99,
+        "Y_Lambert2008": 713163.0
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22838480659313,
+          "Lon_WGS84": 4.4236506866758285,
+          "X_Lambert72": 153834.48,
+          "Y_Lambert72": 213162.48,
+          "X_Lambert2008": 653828.99,
+          "Y_Lambert2008": 713163.0
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22838480659313,
+          "Lon_WGS84": 4.4236506866758285,
+          "X_Lambert72": 153834.48,
+          "Y_Lambert72": 213162.48,
+          "X_Lambert2008": 653828.99,
+          "Y_Lambert2008": 713163.0
+        }
+      }
+    }
+  ]
+}

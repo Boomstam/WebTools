@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Cogels-Osylei",
+      "Housenumber": "9",
+      "ID": 1267281,
+      "FormattedAddress": "Cogels-Osylei 9, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.205053233610435,
+        "Lon_WGS84": 4.4333477410555915,
+        "X_Lambert72": 154514.14,
+        "Y_Lambert72": 210567.29,
+        "X_Lambert2008": 654508.96,
+        "Y_Lambert2008": 710567.91
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.205053233610435,
+          "Lon_WGS84": 4.4333477410555915,
+          "X_Lambert72": 154514.14,
+          "Y_Lambert72": 210567.29,
+          "X_Lambert2008": 654508.96,
+          "Y_Lambert2008": 710567.91
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.205053233610435,
+          "Lon_WGS84": 4.4333477410555915,
+          "X_Lambert72": 154514.14,
+          "Y_Lambert72": 210567.29,
+          "X_Lambert2008": 654508.96,
+          "Y_Lambert2008": 710567.91
+        }
+      }
+    }
+  ]
+}

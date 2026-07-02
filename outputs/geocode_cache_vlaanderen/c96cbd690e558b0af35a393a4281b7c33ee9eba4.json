@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Gasstraat",
+      "Housenumber": "104",
+      "ID": 749623,
+      "FormattedAddress": "Gasstraat 104, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22447867800913,
+        "Lon_WGS84": 4.42563973641857,
+        "X_Lambert72": 153973.76,
+        "Y_Lambert72": 212728.01,
+        "X_Lambert2008": 653968.32,
+        "Y_Lambert2008": 712728.55
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22447867800913,
+          "Lon_WGS84": 4.42563973641857,
+          "X_Lambert72": 153973.76,
+          "Y_Lambert72": 212728.01,
+          "X_Lambert2008": 653968.32,
+          "Y_Lambert2008": 712728.55
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22447867800913,
+          "Lon_WGS84": 4.42563973641857,
+          "X_Lambert72": 153973.76,
+          "Y_Lambert72": 212728.01,
+          "X_Lambert2008": 653968.32,
+          "Y_Lambert2008": 712728.55
+        }
+      }
+    }
+  ]
+}

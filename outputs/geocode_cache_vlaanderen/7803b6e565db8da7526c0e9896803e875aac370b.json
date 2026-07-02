@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "IJzerlaan",
+      "Housenumber": null,
+      "ID": 1251,
+      "FormattedAddress": "IJzerlaan, Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.23502547882298,
+        "Lon_WGS84": 4.422904067824728,
+        "X_Lambert72": 153781.78,
+        "Y_Lambert72": 213901.25,
+        "X_Lambert2008": 653776.21,
+        "Y_Lambert2008": 713901.76
+      },
+      "LocationType": "basisregisters_straat",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.234457210757235,
+          "Lon_WGS84": 4.4205834002171045,
+          "X_Lambert72": 153619.74,
+          "Y_Lambert72": 213837.91,
+          "X_Lambert2008": 653614.18,
+          "Y_Lambert2008": 713838.4
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.235732218295006,
+          "Lon_WGS84": 4.430542464033727,
+          "X_Lambert72": 154315.21,
+          "Y_Lambert72": 213980.3,
+          "X_Lambert2008": 654309.62,
+          "Y_Lambert2008": 713980.87
+        }
+      }
+    }
+  ]
+}

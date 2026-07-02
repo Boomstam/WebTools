@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Antwerpsesteenweg",
+      "Housenumber": "319",
+      "ID": 2434730,
+      "FormattedAddress": "Antwerpsesteenweg 319, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.180665271910755,
+        "Lon_WGS84": 4.366323722255679,
+        "X_Lambert72": 149829.84,
+        "Y_Lambert72": 207852.04,
+        "X_Lambert2008": 649825.02,
+        "Y_Lambert2008": 707852.13
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.180665271910755,
+          "Lon_WGS84": 4.366323722255679,
+          "X_Lambert72": 149829.84,
+          "Y_Lambert72": 207852.04,
+          "X_Lambert2008": 649825.02,
+          "Y_Lambert2008": 707852.13
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.180665271910755,
+          "Lon_WGS84": 4.366323722255679,
+          "X_Lambert72": 149829.84,
+          "Y_Lambert72": 207852.04,
+          "X_Lambert2008": 649825.02,
+          "Y_Lambert2008": 707852.13
+        }
+      }
+    }
+  ]
+}

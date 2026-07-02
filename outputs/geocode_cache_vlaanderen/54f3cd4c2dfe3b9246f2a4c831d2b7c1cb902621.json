@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Driekoningenstraat",
+      "Housenumber": "47",
+      "ID": 1182664,
+      "FormattedAddress": "Driekoningenstraat 47, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.196136413347766,
+        "Lon_WGS84": 4.421537505581937,
+        "X_Lambert72": 153689.45,
+        "Y_Lambert72": 209574.6,
+        "X_Lambert2008": 653684.39,
+        "Y_Lambert2008": 709575.13
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.196136413347766,
+          "Lon_WGS84": 4.421537505581937,
+          "X_Lambert72": 153689.45,
+          "Y_Lambert72": 209574.6,
+          "X_Lambert2008": 653684.39,
+          "Y_Lambert2008": 709575.13
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.196136413347766,
+          "Lon_WGS84": 4.421537505581937,
+          "X_Lambert72": 153689.45,
+          "Y_Lambert72": 209574.6,
+          "X_Lambert2008": 653684.39,
+          "Y_Lambert2008": 709575.13
+        }
+      }
+    }
+  ]
+}

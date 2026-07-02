@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Oudebareellei",
+      "Housenumber": "69",
+      "ID": 351331,
+      "FormattedAddress": "Oudebareellei 69, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.24750194657968,
+        "Lon_WGS84": 4.457103353698825,
+        "X_Lambert72": 156168.73,
+        "Y_Lambert72": 215291.64,
+        "X_Lambert2008": 656162.97,
+        "Y_Lambert2008": 715292.42
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.24750194657968,
+          "Lon_WGS84": 4.457103353698825,
+          "X_Lambert72": 156168.73,
+          "Y_Lambert72": 215291.64,
+          "X_Lambert2008": 656162.97,
+          "Y_Lambert2008": 715292.42
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.24750194657968,
+          "Lon_WGS84": 4.457103353698825,
+          "X_Lambert72": 156168.73,
+          "Y_Lambert72": 215291.64,
+          "X_Lambert2008": 656162.97,
+          "Y_Lambert2008": 715292.42
+        }
+      }
+    }
+  ]
+}

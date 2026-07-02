@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Quellinstraat",
+      "Housenumber": "52",
+      "ID": 1066094,
+      "FormattedAddress": "Quellinstraat 52, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21570453235802,
+        "Lon_WGS84": 4.4156161587997245,
+        "X_Lambert72": 153274.14,
+        "Y_Lambert72": 211751.35,
+        "X_Lambert2008": 653268.83,
+        "Y_Lambert2008": 711751.81
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21570453235802,
+          "Lon_WGS84": 4.4156161587997245,
+          "X_Lambert72": 153274.14,
+          "Y_Lambert72": 211751.35,
+          "X_Lambert2008": 653268.83,
+          "Y_Lambert2008": 711751.81
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21570453235802,
+          "Lon_WGS84": 4.4156161587997245,
+          "X_Lambert72": 153274.14,
+          "Y_Lambert72": 211751.35,
+          "X_Lambert2008": 653268.83,
+          "Y_Lambert2008": 711751.81
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Korte Bremstraat",
+      "Housenumber": null,
+      "ID": 1615,
+      "FormattedAddress": "Korte Bremstraat, Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.256957682232255,
+        "Lon_WGS84": 4.447144361292951,
+        "X_Lambert72": 155472.22,
+        "Y_Lambert72": 216342.86,
+        "X_Lambert2008": 655466.34,
+        "Y_Lambert2008": 716343.55
+      },
+      "LocationType": "basisregisters_straat",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.256318635414004,
+          "Lon_WGS84": 4.446981699940752,
+          "X_Lambert72": 155460.94,
+          "Y_Lambert72": 216271.75,
+          "X_Lambert2008": 655455.07,
+          "Y_Lambert2008": 716272.44
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.257146266022474,
+          "Lon_WGS84": 4.447263717359368,
+          "X_Lambert72": 155480.53,
+          "Y_Lambert72": 216363.85,
+          "X_Lambert2008": 655474.65,
+          "Y_Lambert2008": 716364.54
+        }
+      }
+    }
+  ]
+}

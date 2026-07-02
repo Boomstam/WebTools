@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2150",
+      "Thoroughfarename": "Granvellelaan",
+      "Housenumber": "16",
+      "ID": 30422875,
+      "FormattedAddress": "Granvellelaan 16, 2150 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20299700693624,
+        "Lon_WGS84": 4.482921665545632,
+        "X_Lambert72": 157979.16,
+        "Y_Lambert72": 210342.73,
+        "X_Lambert2008": 657973.98,
+        "Y_Lambert2008": 710343.77
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20299700693624,
+          "Lon_WGS84": 4.482921665545632,
+          "X_Lambert72": 157979.16,
+          "Y_Lambert72": 210342.73,
+          "X_Lambert2008": 657973.98,
+          "Y_Lambert2008": 710343.77
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20299700693624,
+          "Lon_WGS84": 4.482921665545632,
+          "X_Lambert72": 157979.16,
+          "Y_Lambert72": 210342.73,
+          "X_Lambert2008": 657973.98,
+          "Y_Lambert2008": 710343.77
+        }
+      }
+    }
+  ]
+}

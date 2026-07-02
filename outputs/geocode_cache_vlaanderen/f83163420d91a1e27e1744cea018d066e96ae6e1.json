@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Carnotstraat",
+      "Housenumber": "46",
+      "ID": 236786,
+      "FormattedAddress": "Carnotstraat 46, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21833396163206,
+        "Lon_WGS84": 4.423922950395217,
+        "X_Lambert72": 153854.34,
+        "Y_Lambert72": 212044.29,
+        "X_Lambert2008": 653848.99,
+        "Y_Lambert2008": 712044.82
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21833396163206,
+          "Lon_WGS84": 4.423922950395217,
+          "X_Lambert72": 153854.34,
+          "Y_Lambert72": 212044.29,
+          "X_Lambert2008": 653848.99,
+          "Y_Lambert2008": 712044.82
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21833396163206,
+          "Lon_WGS84": 4.423922950395217,
+          "X_Lambert72": 153854.34,
+          "Y_Lambert72": 212044.29,
+          "X_Lambert2008": 653848.99,
+          "Y_Lambert2008": 712044.82
+        }
+      }
+    }
+  ]
+}

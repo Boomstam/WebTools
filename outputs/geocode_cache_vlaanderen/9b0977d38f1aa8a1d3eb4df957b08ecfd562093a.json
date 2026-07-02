@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Gemeentestraat",
+      "Housenumber": "10",
+      "ID": 881652,
+      "FormattedAddress": "Gemeentestraat 10, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21899962068888,
+        "Lon_WGS84": 4.41899545586892,
+        "X_Lambert72": 153510.01,
+        "Y_Lambert72": 212118.1,
+        "X_Lambert2008": 653504.65,
+        "Y_Lambert2008": 712118.59
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21899962068888,
+          "Lon_WGS84": 4.41899545586892,
+          "X_Lambert72": 153510.01,
+          "Y_Lambert72": 212118.1,
+          "X_Lambert2008": 653504.65,
+          "Y_Lambert2008": 712118.59
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21899962068888,
+          "Lon_WGS84": 4.41899545586892,
+          "X_Lambert72": 153510.01,
+          "Y_Lambert72": 212118.1,
+          "X_Lambert2008": 653504.65,
+          "Y_Lambert2008": 712118.59
+        }
+      }
+    }
+  ]
+}

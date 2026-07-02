@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Van Schoonhovenstraat",
+      "Housenumber": "51",
+      "ID": 2154150,
+      "FormattedAddress": "Van Schoonhovenstraat 51, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22074254248505,
+        "Lon_WGS84": 4.421279462013878,
+        "X_Lambert72": 153669.45,
+        "Y_Lambert72": 212312.12,
+        "X_Lambert2008": 653664.07,
+        "Y_Lambert2008": 712312.63
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22074254248505,
+          "Lon_WGS84": 4.421279462013878,
+          "X_Lambert72": 153669.45,
+          "Y_Lambert72": 212312.12,
+          "X_Lambert2008": 653664.07,
+          "Y_Lambert2008": 712312.63
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22074254248505,
+          "Lon_WGS84": 4.421279462013878,
+          "X_Lambert72": 153669.45,
+          "Y_Lambert72": 212312.12,
+          "X_Lambert2008": 653664.07,
+          "Y_Lambert2008": 712312.63
+        }
+      }
+    }
+  ]
+}

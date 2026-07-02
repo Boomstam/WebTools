@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2040",
+      "Thoroughfarename": "Zuidhavendijk",
+      "Housenumber": "2",
+      "ID": 874355,
+      "FormattedAddress": "Zuidhavendijk 2, 2040 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.36090930219318,
+        "Lon_WGS84": 4.303878472532963,
+        "X_Lambert72": 145480.66,
+        "Y_Lambert72": 227907.37,
+        "X_Lambert2008": 645473.49,
+        "Y_Lambert2008": 727906.78
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.36090930219318,
+          "Lon_WGS84": 4.303878472532963,
+          "X_Lambert72": 145480.66,
+          "Y_Lambert72": 227907.37,
+          "X_Lambert2008": 645473.49,
+          "Y_Lambert2008": 727906.78
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.36090930219318,
+          "Lon_WGS84": 4.303878472532963,
+          "X_Lambert72": 145480.66,
+          "Y_Lambert72": 227907.37,
+          "X_Lambert2008": 645473.49,
+          "Y_Lambert2008": 727906.78
+        }
+      }
+    }
+  ]
+}

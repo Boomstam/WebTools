@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Bolwerkstraat",
+      "Housenumber": "3",
+      "ID": 1110576,
+      "FormattedAddress": "Bolwerkstraat 3, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20740746464501,
+        "Lon_WGS84": 4.399607217113557,
+        "X_Lambert72": 152155.94,
+        "Y_Lambert72": 210827.67,
+        "X_Lambert2008": 652150.75,
+        "Y_Lambert2008": 710828.01
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20740746464501,
+          "Lon_WGS84": 4.399607217113557,
+          "X_Lambert72": 152155.94,
+          "Y_Lambert72": 210827.67,
+          "X_Lambert2008": 652150.75,
+          "Y_Lambert2008": 710828.01
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20740746464501,
+          "Lon_WGS84": 4.399607217113557,
+          "X_Lambert72": 152155.94,
+          "Y_Lambert72": 210827.67,
+          "X_Lambert2008": 652150.75,
+          "Y_Lambert2008": 710828.01
+        }
+      }
+    }
+  ]
+}

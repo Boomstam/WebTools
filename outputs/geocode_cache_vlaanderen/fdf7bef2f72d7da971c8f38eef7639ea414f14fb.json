@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2050",
+      "Thoroughfarename": "Beatrijslaan",
+      "Housenumber": "3",
+      "ID": 3434869,
+      "FormattedAddress": "Beatrijslaan 3, 2050 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22012126969342,
+        "Lon_WGS84": 4.38773069882998,
+        "X_Lambert72": 151325.57,
+        "Y_Lambert72": 212241.85,
+        "X_Lambert2008": 651320.21,
+        "Y_Lambert2008": 712242.08
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22012126969342,
+          "Lon_WGS84": 4.38773069882998,
+          "X_Lambert72": 151325.57,
+          "Y_Lambert72": 212241.85,
+          "X_Lambert2008": 651320.21,
+          "Y_Lambert2008": 712242.08
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22012126969342,
+          "Lon_WGS84": 4.38773069882998,
+          "X_Lambert72": 151325.57,
+          "Y_Lambert72": 212241.85,
+          "X_Lambert2008": 651320.21,
+          "Y_Lambert2008": 712242.08
+        }
+      }
+    }
+  ]
+}

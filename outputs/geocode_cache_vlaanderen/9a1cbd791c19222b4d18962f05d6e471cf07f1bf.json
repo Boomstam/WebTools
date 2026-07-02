@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Elsenstraat",
+      "Housenumber": "13",
+      "ID": 1850824,
+      "FormattedAddress": "Elsenstraat 13, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.238851103129946,
+        "Lon_WGS84": 4.43461833843191,
+        "X_Lambert72": 154599.57,
+        "Y_Lambert72": 214327.54,
+        "X_Lambert2008": 654593.94,
+        "Y_Lambert2008": 714328.14
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.238851103129946,
+          "Lon_WGS84": 4.43461833843191,
+          "X_Lambert72": 154599.57,
+          "Y_Lambert72": 214327.54,
+          "X_Lambert2008": 654593.94,
+          "Y_Lambert2008": 714328.14
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.238851103129946,
+          "Lon_WGS84": 4.43461833843191,
+          "X_Lambert72": 154599.57,
+          "Y_Lambert72": 214327.54,
+          "X_Lambert2008": 654593.94,
+          "Y_Lambert2008": 714328.14
+        }
+      }
+    }
+  ]
+}

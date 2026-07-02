@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2150",
+      "Thoroughfarename": "de Robianostraat",
+      "Housenumber": "138",
+      "ID": 30424219,
+      "FormattedAddress": "de Robianostraat 138, 2150 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19488916672064,
+        "Lon_WGS84": 4.479983848755509,
+        "X_Lambert72": 157775.19,
+        "Y_Lambert72": 209440.39,
+        "X_Lambert2008": 657770.12,
+        "Y_Lambert2008": 709441.41
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19488916672064,
+          "Lon_WGS84": 4.479983848755509,
+          "X_Lambert72": 157775.19,
+          "Y_Lambert72": 209440.39,
+          "X_Lambert2008": 657770.12,
+          "Y_Lambert2008": 709441.41
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19488916672064,
+          "Lon_WGS84": 4.479983848755509,
+          "X_Lambert72": 157775.19,
+          "Y_Lambert72": 209440.39,
+          "X_Lambert2008": 657770.12,
+          "Y_Lambert2008": 709441.41
+        }
+      }
+    }
+  ]
+}

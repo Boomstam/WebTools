@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Oudebaan",
+      "Housenumber": "103",
+      "ID": 2507243,
+      "FormattedAddress": "Oudebaan 103, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.1585574064883,
+        "Lon_WGS84": 4.381600721801053,
+        "X_Lambert72": 150898.54,
+        "Y_Lambert72": 205392.57,
+        "X_Lambert2008": 650894.0,
+        "Y_Lambert2008": 705392.8
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.1585574064883,
+          "Lon_WGS84": 4.381600721801053,
+          "X_Lambert72": 150898.54,
+          "Y_Lambert72": 205392.57,
+          "X_Lambert2008": 650894.0,
+          "Y_Lambert2008": 705392.8
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.1585574064883,
+          "Lon_WGS84": 4.381600721801053,
+          "X_Lambert72": 150898.54,
+          "Y_Lambert72": 205392.57,
+          "X_Lambert2008": 650894.0,
+          "Y_Lambert2008": 705392.8
+        }
+      }
+    }
+  ]
+}

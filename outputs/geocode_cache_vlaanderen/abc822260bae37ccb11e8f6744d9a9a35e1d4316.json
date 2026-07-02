@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Eiermarkt",
+      "Housenumber": "19",
+      "ID": 730310,
+      "FormattedAddress": "Eiermarkt 19, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21955392636173,
+        "Lon_WGS84": 4.403520271822,
+        "X_Lambert72": 152428.76,
+        "Y_Lambert72": 212179.14,
+        "X_Lambert2008": 652423.4,
+        "Y_Lambert2008": 712179.5
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21955392636173,
+          "Lon_WGS84": 4.403520271822,
+          "X_Lambert72": 152428.76,
+          "Y_Lambert72": 212179.14,
+          "X_Lambert2008": 652423.4,
+          "Y_Lambert2008": 712179.5
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21955392636173,
+          "Lon_WGS84": 4.403520271822,
+          "X_Lambert72": 152428.76,
+          "Y_Lambert72": 212179.14,
+          "X_Lambert2008": 652423.4,
+          "Y_Lambert2008": 712179.5
+        }
+      }
+    }
+  ]
+}

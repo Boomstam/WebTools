@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Prins Albertlei",
+      "Housenumber": "31",
+      "ID": 3863233,
+      "FormattedAddress": "Prins Albertlei 31, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19780754852951,
+        "Lon_WGS84": 4.410712347846676,
+        "X_Lambert72": 152932.64,
+        "Y_Lambert72": 209760.03,
+        "X_Lambert2008": 652927.57,
+        "Y_Lambert2008": 709760.47
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19780754852951,
+          "Lon_WGS84": 4.410712347846676,
+          "X_Lambert72": 152932.64,
+          "Y_Lambert72": 209760.03,
+          "X_Lambert2008": 652927.57,
+          "Y_Lambert2008": 709760.47
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19780754852951,
+          "Lon_WGS84": 4.410712347846676,
+          "X_Lambert72": 152932.64,
+          "Y_Lambert72": 209760.03,
+          "X_Lambert2008": 652927.57,
+          "Y_Lambert2008": 709760.47
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Korte Dijkstraat",
+      "Housenumber": "27",
+      "ID": 309011,
+      "FormattedAddress": "Korte Dijkstraat 27, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22863706441929,
+        "Lon_WGS84": 4.421007744218051,
+        "X_Lambert72": 153649.84,
+        "Y_Lambert72": 213190.41,
+        "X_Lambert2008": 653644.35,
+        "Y_Lambert2008": 713190.91
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22863706441929,
+          "Lon_WGS84": 4.421007744218051,
+          "X_Lambert72": 153649.84,
+          "Y_Lambert72": 213190.41,
+          "X_Lambert2008": 653644.35,
+          "Y_Lambert2008": 713190.91
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22863706441929,
+          "Lon_WGS84": 4.421007744218051,
+          "X_Lambert72": 153649.84,
+          "Y_Lambert72": 213190.41,
+          "X_Lambert2008": 653644.35,
+          "Y_Lambert2008": 713190.91
+        }
+      }
+    }
+  ]
+}

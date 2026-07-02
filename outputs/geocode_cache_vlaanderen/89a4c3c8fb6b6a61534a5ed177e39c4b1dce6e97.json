@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Van Breestraat",
+      "Housenumber": "22",
+      "ID": 2470805,
+      "FormattedAddress": "Van Breestraat 22, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21013127376324,
+        "Lon_WGS84": 4.40859715587228,
+        "X_Lambert72": 152784.04,
+        "Y_Lambert72": 211131.01,
+        "X_Lambert2008": 652778.8,
+        "Y_Lambert2008": 711131.42
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21013127376324,
+          "Lon_WGS84": 4.40859715587228,
+          "X_Lambert72": 152784.04,
+          "Y_Lambert72": 211131.01,
+          "X_Lambert2008": 652778.8,
+          "Y_Lambert2008": 711131.42
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21013127376324,
+          "Lon_WGS84": 4.40859715587228,
+          "X_Lambert72": 152784.04,
+          "Y_Lambert72": 211131.01,
+          "X_Lambert2008": 652778.8,
+          "Y_Lambert2008": 711131.42
+        }
+      }
+    }
+  ]
+}

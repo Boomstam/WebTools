@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Turnhoutsebaan",
+      "Housenumber": "88",
+      "ID": 2490289,
+      "FormattedAddress": "Turnhoutsebaan 88, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.220195332673164,
+        "Lon_WGS84": 4.459944738178599,
+        "X_Lambert72": 156370.89,
+        "Y_Lambert72": 212253.88,
+        "X_Lambert2008": 656365.49,
+        "Y_Lambert2008": 712254.71
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.220195332673164,
+          "Lon_WGS84": 4.459944738178599,
+          "X_Lambert72": 156370.89,
+          "Y_Lambert72": 212253.88,
+          "X_Lambert2008": 656365.49,
+          "Y_Lambert2008": 712254.71
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.220195332673164,
+          "Lon_WGS84": 4.459944738178599,
+          "X_Lambert72": 156370.89,
+          "Y_Lambert72": 212253.88,
+          "X_Lambert2008": 656365.49,
+          "Y_Lambert2008": 712254.71
+        }
+      }
+    }
+  ]
+}

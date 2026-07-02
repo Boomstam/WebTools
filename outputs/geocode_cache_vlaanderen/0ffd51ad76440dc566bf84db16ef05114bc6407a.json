@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Suikerrui",
+      "Housenumber": "36",
+      "ID": 2006128,
+      "FormattedAddress": "Suikerrui 36, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22058941948506,
+        "Lon_WGS84": 4.398924809109834,
+        "X_Lambert72": 152107.64,
+        "Y_Lambert72": 212294.2,
+        "X_Lambert2008": 652102.27,
+        "Y_Lambert2008": 712294.52
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22058941948506,
+          "Lon_WGS84": 4.398924809109834,
+          "X_Lambert72": 152107.64,
+          "Y_Lambert72": 212294.2,
+          "X_Lambert2008": 652102.27,
+          "Y_Lambert2008": 712294.52
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22058941948506,
+          "Lon_WGS84": 4.398924809109834,
+          "X_Lambert72": 152107.64,
+          "Y_Lambert72": 212294.2,
+          "X_Lambert2008": 652102.27,
+          "Y_Lambert2008": 712294.52
+        }
+      }
+    }
+  ]
+}

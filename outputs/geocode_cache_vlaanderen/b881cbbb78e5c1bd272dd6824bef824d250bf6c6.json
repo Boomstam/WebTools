@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Ten Eekhovelei",
+      "Housenumber": "329",
+      "ID": 2040775,
+      "FormattedAddress": "Ten Eekhovelei 329, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22894196257122,
+        "Lon_WGS84": 4.445724240322376,
+        "X_Lambert72": 155376.34,
+        "Y_Lambert72": 213225.85,
+        "X_Lambert2008": 655370.83,
+        "Y_Lambert2008": 713226.55
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22894196257122,
+          "Lon_WGS84": 4.445724240322376,
+          "X_Lambert72": 155376.34,
+          "Y_Lambert72": 213225.85,
+          "X_Lambert2008": 655370.83,
+          "Y_Lambert2008": 713226.55
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22894196257122,
+          "Lon_WGS84": 4.445724240322376,
+          "X_Lambert72": 155376.34,
+          "Y_Lambert72": 213225.85,
+          "X_Lambert2008": 655370.83,
+          "Y_Lambert2008": 713226.55
+        }
+      }
+    }
+  ]
+}

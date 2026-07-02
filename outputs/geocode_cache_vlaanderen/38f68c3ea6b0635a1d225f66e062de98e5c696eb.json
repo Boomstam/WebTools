@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2040",
+      "Thoroughfarename": "Kruisbos",
+      "Housenumber": "61",
+      "ID": 3374773,
+      "FormattedAddress": "Kruisbos 61, 2040 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.34587459091254,
+        "Lon_WGS84": 4.324865695451168,
+        "X_Lambert72": 146941.56,
+        "Y_Lambert72": 226233.54,
+        "X_Lambert2008": 646934.57,
+        "Y_Lambert2008": 726233.13
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.34587459091254,
+          "Lon_WGS84": 4.324865695451168,
+          "X_Lambert72": 146941.56,
+          "Y_Lambert72": 226233.54,
+          "X_Lambert2008": 646934.57,
+          "Y_Lambert2008": 726233.13
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.34587459091254,
+          "Lon_WGS84": 4.324865695451168,
+          "X_Lambert72": 146941.56,
+          "Y_Lambert72": 226233.54,
+          "X_Lambert2008": 646934.57,
+          "Y_Lambert2008": 726233.13
+        }
+      }
+    }
+  ]
+}

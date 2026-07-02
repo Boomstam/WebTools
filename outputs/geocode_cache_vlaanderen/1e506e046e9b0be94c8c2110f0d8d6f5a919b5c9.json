@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Sint-Willibrordusstraat",
+      "Housenumber": "47",
+      "ID": 2205914,
+      "FormattedAddress": "Sint-Willibrordusstraat 47, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.219725278957036,
+        "Lon_WGS84": 4.431067911215218,
+        "X_Lambert72": 154353.42,
+        "Y_Lambert72": 212199.48,
+        "X_Lambert2008": 654348.04,
+        "Y_Lambert2008": 712200.07
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.219725278957036,
+          "Lon_WGS84": 4.431067911215218,
+          "X_Lambert72": 154353.42,
+          "Y_Lambert72": 212199.48,
+          "X_Lambert2008": 654348.04,
+          "Y_Lambert2008": 712200.07
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.219725278957036,
+          "Lon_WGS84": 4.431067911215218,
+          "X_Lambert72": 154353.42,
+          "Y_Lambert72": 212199.48,
+          "X_Lambert2008": 654348.04,
+          "Y_Lambert2008": 712200.07
+        }
+      }
+    }
+  ]
+}

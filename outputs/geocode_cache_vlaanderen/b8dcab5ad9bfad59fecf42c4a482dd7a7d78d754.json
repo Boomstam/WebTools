@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Bouwhandelstraat",
+      "Housenumber": "78",
+      "ID": 621998,
+      "FormattedAddress": "Bouwhandelstraat 78, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20263523303173,
+        "Lon_WGS84": 4.446123692000532,
+        "X_Lambert72": 155407.32,
+        "Y_Lambert72": 210299.14,
+        "X_Lambert2008": 655402.16,
+        "Y_Lambert2008": 710299.87
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20263523303173,
+          "Lon_WGS84": 4.446123692000532,
+          "X_Lambert72": 155407.32,
+          "Y_Lambert72": 210299.14,
+          "X_Lambert2008": 655402.16,
+          "Y_Lambert2008": 710299.87
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20263523303173,
+          "Lon_WGS84": 4.446123692000532,
+          "X_Lambert72": 155407.32,
+          "Y_Lambert72": 210299.14,
+          "X_Lambert2008": 655402.16,
+          "Y_Lambert2008": 710299.87
+        }
+      }
+    }
+  ]
+}

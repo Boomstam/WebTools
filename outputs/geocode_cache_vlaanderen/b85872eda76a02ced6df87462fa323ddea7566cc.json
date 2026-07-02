@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Justitiestraat",
+      "Housenumber": "85",
+      "ID": 1834729,
+      "FormattedAddress": "Justitiestraat 85, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2079750773697,
+        "Lon_WGS84": 4.403441209568793,
+        "X_Lambert72": 152423.85,
+        "Y_Lambert72": 210890.94,
+        "X_Lambert2008": 652418.65,
+        "Y_Lambert2008": 710891.31
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2079750773697,
+          "Lon_WGS84": 4.403441209568793,
+          "X_Lambert72": 152423.85,
+          "Y_Lambert72": 210890.94,
+          "X_Lambert2008": 652418.65,
+          "Y_Lambert2008": 710891.31
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2079750773697,
+          "Lon_WGS84": 4.403441209568793,
+          "X_Lambert72": 152423.85,
+          "Y_Lambert72": 210890.94,
+          "X_Lambert2008": 652418.65,
+          "Y_Lambert2008": 710891.31
+        }
+      }
+    }
+  ]
+}

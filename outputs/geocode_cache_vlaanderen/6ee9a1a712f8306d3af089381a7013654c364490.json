@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Lange Nieuwstraat",
+      "Housenumber": "90",
+      "ID": 20217710,
+      "FormattedAddress": "Lange Nieuwstraat 90, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21939317114206,
+        "Lon_WGS84": 4.411708227179789,
+        "X_Lambert72": 153000.84,
+        "Y_Lambert72": 212161.56,
+        "X_Lambert2008": 652995.48,
+        "Y_Lambert2008": 712161.99
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21939317114206,
+          "Lon_WGS84": 4.411708227179789,
+          "X_Lambert72": 153000.84,
+          "Y_Lambert72": 212161.56,
+          "X_Lambert2008": 652995.48,
+          "Y_Lambert2008": 712161.99
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21939317114206,
+          "Lon_WGS84": 4.411708227179789,
+          "X_Lambert72": 153000.84,
+          "Y_Lambert72": 212161.56,
+          "X_Lambert2008": 652995.48,
+          "Y_Lambert2008": 712161.99
+        }
+      }
+    }
+  ]
+}

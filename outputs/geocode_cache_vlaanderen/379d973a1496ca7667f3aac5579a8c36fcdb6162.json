@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Kapelstraat",
+      "Housenumber": "143",
+      "ID": 2483360,
+      "FormattedAddress": "Kapelstraat 143, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.173929994643395,
+        "Lon_WGS84": 4.34324715886556,
+        "X_Lambert72": 148215.95,
+        "Y_Lambert72": 207103.01,
+        "X_Lambert2008": 648211.23,
+        "Y_Lambert2008": 707102.91
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.173929994643395,
+          "Lon_WGS84": 4.34324715886556,
+          "X_Lambert72": 148215.95,
+          "Y_Lambert72": 207103.01,
+          "X_Lambert2008": 648211.23,
+          "Y_Lambert2008": 707102.91
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.173929994643395,
+          "Lon_WGS84": 4.34324715886556,
+          "X_Lambert72": 148215.95,
+          "Y_Lambert72": 207103.01,
+          "X_Lambert2008": 648211.23,
+          "Y_Lambert2008": 707102.91
+        }
+      }
+    }
+  ]
+}

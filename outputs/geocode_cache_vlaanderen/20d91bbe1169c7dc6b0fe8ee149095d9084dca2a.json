@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Carrettestraat",
+      "Housenumber": "14",
+      "ID": 1975930,
+      "FormattedAddress": "Carrettestraat 14, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.23641025219438,
+        "Lon_WGS84": 4.436783607794631,
+        "X_Lambert72": 154751.04,
+        "Y_Lambert72": 214056.12,
+        "X_Lambert2008": 654745.44,
+        "Y_Lambert2008": 714056.74
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.23641025219438,
+          "Lon_WGS84": 4.436783607794631,
+          "X_Lambert72": 154751.04,
+          "Y_Lambert72": 214056.12,
+          "X_Lambert2008": 654745.44,
+          "Y_Lambert2008": 714056.74
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.23641025219438,
+          "Lon_WGS84": 4.436783607794631,
+          "X_Lambert72": 154751.04,
+          "Y_Lambert72": 214056.12,
+          "X_Lambert2008": 654745.44,
+          "Y_Lambert2008": 714056.74
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Jan Van Rijswijcklaan",
+      "Housenumber": "152",
+      "ID": 2476770,
+      "FormattedAddress": "Jan Van Rijswijcklaan 152, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19501120717267,
+        "Lon_WGS84": 4.4028398520453855,
+        "X_Lambert72": 152382.5,
+        "Y_Lambert72": 209448.64,
+        "X_Lambert2008": 652377.47,
+        "Y_Lambert2008": 709449.02
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19501120717267,
+          "Lon_WGS84": 4.4028398520453855,
+          "X_Lambert72": 152382.5,
+          "Y_Lambert72": 209448.64,
+          "X_Lambert2008": 652377.47,
+          "Y_Lambert2008": 709449.02
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19501120717267,
+          "Lon_WGS84": 4.4028398520453855,
+          "X_Lambert72": 152382.5,
+          "Y_Lambert72": 209448.64,
+          "X_Lambert2008": 652377.47,
+          "Y_Lambert2008": 709449.02
+        }
+      }
+    }
+  ]
+}

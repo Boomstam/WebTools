@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Langstraat",
+      "Housenumber": "91",
+      "ID": 1412369,
+      "FormattedAddress": "Langstraat 91, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21267502806707,
+        "Lon_WGS84": 4.433575648585774,
+        "X_Lambert72": 154529.32,
+        "Y_Lambert72": 211415.26,
+        "X_Lambert2008": 654524.04,
+        "Y_Lambert2008": 711415.88
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21267502806707,
+          "Lon_WGS84": 4.433575648585774,
+          "X_Lambert72": 154529.32,
+          "Y_Lambert72": 211415.26,
+          "X_Lambert2008": 654524.04,
+          "Y_Lambert2008": 711415.88
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21267502806707,
+          "Lon_WGS84": 4.433575648585774,
+          "X_Lambert72": 154529.32,
+          "Y_Lambert72": 211415.26,
+          "X_Lambert2008": 654524.04,
+          "Y_Lambert2008": 711415.88
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Viséstraat",
+      "Housenumber": "50",
+      "ID": 1114828,
+      "FormattedAddress": "Viséstraat 50, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.228550133415155,
+        "Lon_WGS84": 4.4267492161911015,
+        "X_Lambert72": 154050.91,
+        "Y_Lambert72": 213181.04,
+        "X_Lambert2008": 654045.42,
+        "Y_Lambert2008": 713181.59
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.228550133415155,
+          "Lon_WGS84": 4.4267492161911015,
+          "X_Lambert72": 154050.91,
+          "Y_Lambert72": 213181.04,
+          "X_Lambert2008": 654045.42,
+          "Y_Lambert2008": 713181.59
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.228550133415155,
+          "Lon_WGS84": 4.4267492161911015,
+          "X_Lambert72": 154050.91,
+          "Y_Lambert72": 213181.04,
+          "X_Lambert2008": 654045.42,
+          "Y_Lambert2008": 713181.59
+        }
+      }
+    }
+  ]
+}

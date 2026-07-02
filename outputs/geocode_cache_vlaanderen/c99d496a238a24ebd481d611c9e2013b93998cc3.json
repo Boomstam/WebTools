@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2180",
+      "Thoroughfarename": "Onze-Lieve-Vrouwstraat",
+      "Housenumber": "58",
+      "ID": 1781699,
+      "FormattedAddress": "Onze-Lieve-Vrouwstraat 58, 2180 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.27852679136522,
+        "Lon_WGS84": 4.433966664155014,
+        "X_Lambert72": 154550.14,
+        "Y_Lambert72": 218741.67,
+        "X_Lambert2008": 654543.98,
+        "Y_Lambert2008": 718742.23
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.27852679136522,
+          "Lon_WGS84": 4.433966664155014,
+          "X_Lambert72": 154550.14,
+          "Y_Lambert72": 218741.67,
+          "X_Lambert2008": 654543.98,
+          "Y_Lambert2008": 718742.23
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.27852679136522,
+          "Lon_WGS84": 4.433966664155014,
+          "X_Lambert72": 154550.14,
+          "Y_Lambert72": 218741.67,
+          "X_Lambert2008": 654543.98,
+          "Y_Lambert2008": 718742.23
+        }
+      }
+    }
+  ]
+}

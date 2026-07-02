@@ -1,4 +1,5 @@
 import csv
+import argparse
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -6,6 +7,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 INPUT_CSV = ROOT / "resources" / "leegstandsregister_stad_antwerpen.csv"
 OUTPUT_CSV = ROOT / "outputs" / "leegstandsregister_stad_antwerpen_deduplicated.csv"
+BUILDING_OUTPUT_CSV = ROOT / "outputs" / "leegstandsregister_stad_antwerpen_building_deduplicated.csv"
 
 
 BASE_FIELDS = [
@@ -51,11 +53,15 @@ def address_key(row):
     return tuple(clean(row.get(field)) for field in BASE_FIELDS)
 
 
-def display_address(row):
+def building_key(row):
+    return tuple(clean(row.get(field)) for field in BASE_FIELDS if field != "pva_busnr")
+
+
+def display_address(row, include_bus=True):
     number = clean(row.get("pva_huisnr1"))
     if clean(row.get("pva_huisnr2")):
         number = f"{number}-{clean(row.get('pva_huisnr2'))}"
-    bus = f" bus {clean(row.get('pva_busnr'))}" if clean(row.get("pva_busnr")) else ""
+    bus = f" bus {clean(row.get('pva_busnr'))}" if include_bus and clean(row.get("pva_busnr")) else ""
     return f"{clean(row.get('pva_straat')).title()} {number}{bus}, {clean(row.get('pva_postcode'))} {clean(row.get('pnd_district'))}".strip()
 
 
@@ -83,20 +89,22 @@ def read_rows():
         return list(csv.DictReader(handle))
 
 
-def deduplicate(rows):
+def deduplicate(rows, level):
     groups = defaultdict(list)
     for row in rows:
-        groups[address_key(row)].append(row)
+        key = building_key(row) if level == "building" else address_key(row)
+        groups[key].append(row)
 
     output_rows = []
     for key, grouped_rows in groups.items():
         base = grouped_rows[0]
         aard_counts = Counter(clean(row.get("reg_aard")) or "onbekend" for row in grouped_rows)
         status_counts = Counter(clean(row.get("reg_status")) or "onbekend" for row in grouped_rows)
+        busnrs = [row.get("pva_busnr") for row in grouped_rows]
 
         output_rows.append(
             {
-                "adres": display_address(base),
+                "adres": display_address(base, include_bus=level != "building"),
                 "pva_straat": clean(base.get("pva_straat")),
                 "pva_huisnr1": clean(base.get("pva_huisnr1")),
                 "pva_huisnr2": clean(base.get("pva_huisnr2")),
@@ -104,6 +112,8 @@ def deduplicate(rows):
                 "pnd_district_code": clean(base.get("pnd_district_code")),
                 "pnd_district": clean(base.get("pnd_district")),
                 "pva_postcode": clean(base.get("pva_postcode")),
+                "busnummers": unique_join(busnrs),
+                "busnummer_count": len({clean(value) for value in busnrs if clean(value)}),
                 "samengevoegde_regels": len(grouped_rows),
                 "unieke_pnd_ids_count": len({clean(row.get("pnd_id")) for row in grouped_rows if clean(row.get("pnd_id"))}),
                 "objectids": unique_join(row.get("OBJECTID") for row in grouped_rows),
@@ -129,8 +139,8 @@ def deduplicate(rows):
     return output_rows
 
 
-def write_rows(rows):
-    OUTPUT_CSV.parent.mkdir(exist_ok=True)
+def write_rows(rows, output_csv):
+    output_csv.parent.mkdir(exist_ok=True)
     fieldnames = [
         "adres",
         "pva_straat",
@@ -140,6 +150,8 @@ def write_rows(rows):
         "pnd_district_code",
         "pnd_district",
         "pva_postcode",
+        "busnummers",
+        "busnummer_count",
         "samengevoegde_regels",
         "unieke_pnd_ids_count",
         "objectids",
@@ -157,20 +169,31 @@ def write_rows(rows):
         "verschillende_velden",
         "bronregels_volledig",
     ]
-    with OUTPUT_CSV.open("w", encoding="utf-8-sig", newline="") as handle:
+    with output_csv.open("w", encoding="utf-8-sig", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--level",
+        choices=["exact", "building"],
+        default="exact",
+        help="exact keeps bus numbers separate; building groups all bus numbers at the same building address",
+    )
+    args = parser.parse_args()
+
     source_rows = read_rows()
-    output_rows = deduplicate(source_rows)
-    write_rows(output_rows)
+    output_rows = deduplicate(source_rows, args.level)
+    output_csv = BUILDING_OUTPUT_CSV if args.level == "building" else OUTPUT_CSV
+    write_rows(output_rows, output_csv)
     print(f"Bronregels: {len(source_rows)}")
     print(f"Deduplicated rows: {len(output_rows)}")
     print(f"Samengevoegde extra regels: {len(source_rows) - len(output_rows)}")
-    print(f"Output: {OUTPUT_CSV}")
+    print(f"Level: {args.level}")
+    print(f"Output: {output_csv}")
 
 
 if __name__ == "__main__":

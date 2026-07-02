@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Druivenstraat",
+      "Housenumber": "15",
+      "ID": 1574094,
+      "FormattedAddress": "Druivenstraat 15, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17176562572983,
+        "Lon_WGS84": 4.403201576817367,
+        "X_Lambert72": 152409.01,
+        "Y_Lambert72": 206862.51,
+        "X_Lambert2008": 652404.29,
+        "Y_Lambert2008": 706862.91
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17176562572983,
+          "Lon_WGS84": 4.403201576817367,
+          "X_Lambert72": 152409.01,
+          "Y_Lambert72": 206862.51,
+          "X_Lambert2008": 652404.29,
+          "Y_Lambert2008": 706862.91
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17176562572983,
+          "Lon_WGS84": 4.403201576817367,
+          "X_Lambert72": 152409.01,
+          "Y_Lambert72": 206862.51,
+          "X_Lambert2008": 652404.29,
+          "Y_Lambert2008": 706862.91
+        }
+      }
+    }
+  ]
+}

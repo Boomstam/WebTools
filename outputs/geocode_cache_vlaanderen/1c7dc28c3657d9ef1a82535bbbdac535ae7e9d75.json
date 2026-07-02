@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Spoorwegstraat",
+      "Housenumber": "84",
+      "ID": 1298591,
+      "FormattedAddress": "Spoorwegstraat 84, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.189610385815925,
+        "Lon_WGS84": 4.441503264665173,
+        "X_Lambert72": 155085.82,
+        "Y_Lambert72": 208849.75,
+        "X_Lambert2008": 655080.84,
+        "Y_Lambert2008": 708850.45
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.189610385815925,
+          "Lon_WGS84": 4.441503264665173,
+          "X_Lambert72": 155085.82,
+          "Y_Lambert72": 208849.75,
+          "X_Lambert2008": 655080.84,
+          "Y_Lambert2008": 708850.45
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.189610385815925,
+          "Lon_WGS84": 4.441503264665173,
+          "X_Lambert72": 155085.82,
+          "Y_Lambert72": 208849.75,
+          "X_Lambert2008": 655080.84,
+          "Y_Lambert2008": 708850.45
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Rotterdamstraat",
+      "Housenumber": "93",
+      "ID": 526359,
+      "FormattedAddress": "Rotterdamstraat 93, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22238215680679,
+        "Lon_WGS84": 4.420580676029602,
+        "X_Lambert72": 153620.5,
+        "Y_Lambert72": 212494.5,
+        "X_Lambert2008": 653615.1,
+        "Y_Lambert2008": 712495.0
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22238215680679,
+          "Lon_WGS84": 4.420580676029602,
+          "X_Lambert72": 153620.5,
+          "Y_Lambert72": 212494.5,
+          "X_Lambert2008": 653615.1,
+          "Y_Lambert2008": 712495.0
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22238215680679,
+          "Lon_WGS84": 4.420580676029602,
+          "X_Lambert72": 153620.5,
+          "Y_Lambert72": 212494.5,
+          "X_Lambert2008": 653615.1,
+          "Y_Lambert2008": 712495.0
+        }
+      }
+    }
+  ]
+}

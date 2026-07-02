@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Koornbloemplein",
+      "Housenumber": "11",
+      "ID": 402159,
+      "FormattedAddress": "Koornbloemplein 11, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.16879493896525,
+        "Lon_WGS84": 4.383201844159379,
+        "X_Lambert72": 151010.32,
+        "Y_Lambert72": 206531.54,
+        "X_Lambert2008": 651005.65,
+        "Y_Lambert2008": 706531.78
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.16879493896525,
+          "Lon_WGS84": 4.383201844159379,
+          "X_Lambert72": 151010.32,
+          "Y_Lambert72": 206531.54,
+          "X_Lambert2008": 651005.65,
+          "Y_Lambert2008": 706531.78
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.16879493896525,
+          "Lon_WGS84": 4.383201844159379,
+          "X_Lambert72": 151010.32,
+          "Y_Lambert72": 206531.54,
+          "X_Lambert2008": 651005.65,
+          "Y_Lambert2008": 706531.78
+        }
+      }
+    }
+  ]
+}

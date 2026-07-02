@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2180",
+      "Thoroughfarename": "Ferdinand Verbieststraat",
+      "Housenumber": "77",
+      "ID": 2132377,
+      "FormattedAddress": "Ferdinand Verbieststraat 77, 2180 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.27306649119792,
+        "Lon_WGS84": 4.417060518774016,
+        "X_Lambert72": 153370.85,
+        "Y_Lambert72": 218133.26,
+        "X_Lambert2008": 653364.78,
+        "Y_Lambert2008": 718133.69
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.27306649119792,
+          "Lon_WGS84": 4.417060518774016,
+          "X_Lambert72": 153370.85,
+          "Y_Lambert72": 218133.26,
+          "X_Lambert2008": 653364.78,
+          "Y_Lambert2008": 718133.69
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.27306649119792,
+          "Lon_WGS84": 4.417060518774016,
+          "X_Lambert72": 153370.85,
+          "Y_Lambert72": 218133.26,
+          "X_Lambert2008": 653364.78,
+          "Y_Lambert2008": 718133.69
+        }
+      }
+    }
+  ]
+}

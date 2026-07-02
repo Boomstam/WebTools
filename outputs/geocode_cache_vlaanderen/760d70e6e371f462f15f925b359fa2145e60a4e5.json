@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Baron Sadoinestraat",
+      "Housenumber": "14",
+      "ID": 2036109,
+      "FormattedAddress": "Baron Sadoinestraat 14, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17186093121335,
+        "Lon_WGS84": 4.33617892115018,
+        "X_Lambert72": 147721.53,
+        "Y_Lambert72": 206873.01,
+        "X_Lambert2008": 647716.84,
+        "Y_Lambert2008": 706872.85
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17186093121335,
+          "Lon_WGS84": 4.33617892115018,
+          "X_Lambert72": 147721.53,
+          "Y_Lambert72": 206873.01,
+          "X_Lambert2008": 647716.84,
+          "Y_Lambert2008": 706872.85
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17186093121335,
+          "Lon_WGS84": 4.33617892115018,
+          "X_Lambert72": 147721.53,
+          "Y_Lambert72": 206873.01,
+          "X_Lambert2008": 647716.84,
+          "Y_Lambert2008": 706872.85
+        }
+      }
+    }
+  ]
+}

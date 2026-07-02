@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Lijnwaadmarkt",
+      "Housenumber": "13",
+      "ID": 3071729,
+      "FormattedAddress": "Lijnwaadmarkt 13, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22067798290421,
+        "Lon_WGS84": 4.402409133161871,
+        "X_Lambert72": 152351.07,
+        "Y_Lambert72": 212304.16,
+        "X_Lambert2008": 652345.7,
+        "Y_Lambert2008": 712304.51
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22067798290421,
+          "Lon_WGS84": 4.402409133161871,
+          "X_Lambert72": 152351.07,
+          "Y_Lambert72": 212304.16,
+          "X_Lambert2008": 652345.7,
+          "Y_Lambert2008": 712304.51
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22067798290421,
+          "Lon_WGS84": 4.402409133161871,
+          "X_Lambert72": 152351.07,
+          "Y_Lambert72": 212304.16,
+          "X_Lambert2008": 652345.7,
+          "Y_Lambert2008": 712304.51
+        }
+      }
+    }
+  ]
+}

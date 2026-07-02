@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Jules Pauwelsstraat",
+      "Housenumber": "156",
+      "ID": 1705361,
+      "FormattedAddress": "Jules Pauwelsstraat 156, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18635371279555,
+        "Lon_WGS84": 4.360785225760208,
+        "X_Lambert72": 149442.62,
+        "Y_Lambert72": 208484.92,
+        "X_Lambert2008": 649437.73,
+        "Y_Lambert2008": 708484.95
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.18635371279555,
+          "Lon_WGS84": 4.360785225760208,
+          "X_Lambert72": 149442.62,
+          "Y_Lambert72": 208484.92,
+          "X_Lambert2008": 649437.73,
+          "Y_Lambert2008": 708484.95
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18635371279555,
+          "Lon_WGS84": 4.360785225760208,
+          "X_Lambert72": 149442.62,
+          "Y_Lambert72": 208484.92,
+          "X_Lambert2008": 649437.73,
+          "Y_Lambert2008": 708484.95
+        }
+      }
+    }
+  ]
+}

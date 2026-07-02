@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Jan Olieslagersstraat",
+      "Housenumber": "7",
+      "ID": 1554622,
+      "FormattedAddress": "Jan Olieslagersstraat 7, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19488712022191,
+        "Lon_WGS84": 4.459134423189353,
+        "X_Lambert72": 156317.73,
+        "Y_Lambert72": 209438.17,
+        "X_Lambert2008": 656312.67,
+        "Y_Lambert2008": 709439.02
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19488712022191,
+          "Lon_WGS84": 4.459134423189353,
+          "X_Lambert72": 156317.73,
+          "Y_Lambert72": 209438.17,
+          "X_Lambert2008": 656312.67,
+          "Y_Lambert2008": 709439.02
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19488712022191,
+          "Lon_WGS84": 4.459134423189353,
+          "X_Lambert72": 156317.73,
+          "Y_Lambert72": 209438.17,
+          "X_Lambert2008": 656312.67,
+          "Y_Lambert2008": 709439.02
+        }
+      }
+    }
+  ]
+}

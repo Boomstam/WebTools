@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Jan Van Rijswijcklaan",
+      "Housenumber": "31",
+      "ID": 917348,
+      "FormattedAddress": "Jan Van Rijswijcklaan 31, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.1974568741033,
+        "Lon_WGS84": 4.408245514367458,
+        "X_Lambert72": 152760.23,
+        "Y_Lambert72": 209720.92,
+        "X_Lambert2008": 652755.16,
+        "Y_Lambert2008": 709721.34
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.1974568741033,
+          "Lon_WGS84": 4.408245514367458,
+          "X_Lambert72": 152760.23,
+          "Y_Lambert72": 209720.92,
+          "X_Lambert2008": 652755.16,
+          "Y_Lambert2008": 709721.34
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.1974568741033,
+          "Lon_WGS84": 4.408245514367458,
+          "X_Lambert72": 152760.23,
+          "Y_Lambert72": 209720.92,
+          "X_Lambert2008": 652755.16,
+          "Y_Lambert2008": 709721.34
+        }
+      }
+    }
+  ]
+}

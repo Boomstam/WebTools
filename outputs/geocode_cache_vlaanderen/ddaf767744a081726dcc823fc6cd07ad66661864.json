@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2020",
+      "Thoroughfarename": "Jan Van Rijswijcklaan",
+      "Housenumber": "272",
+      "ID": 1619721,
+      "FormattedAddress": "Jan Van Rijswijcklaan 272, 2020 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.185885156755646,
+        "Lon_WGS84": 4.391705244232798,
+        "X_Lambert72": 151604.47,
+        "Y_Lambert72": 208433.03,
+        "X_Lambert2008": 651599.57,
+        "Y_Lambert2008": 708433.32
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.185885156755646,
+          "Lon_WGS84": 4.391705244232798,
+          "X_Lambert72": 151604.47,
+          "Y_Lambert72": 208433.03,
+          "X_Lambert2008": 651599.57,
+          "Y_Lambert2008": 708433.32
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.185885156755646,
+          "Lon_WGS84": 4.391705244232798,
+          "X_Lambert72": 151604.47,
+          "Y_Lambert72": 208433.03,
+          "X_Lambert2008": 651599.57,
+          "Y_Lambert2008": 708433.32
+        }
+      }
+    }
+  ]
+}

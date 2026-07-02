@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Laaglandlaan",
+      "Housenumber": "315",
+      "ID": 1544893,
+      "FormattedAddress": "Laaglandlaan 315, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.25959627888507,
+        "Lon_WGS84": 4.445782075378901,
+        "X_Lambert72": 155376.81,
+        "Y_Lambert72": 216636.32,
+        "X_Lambert2008": 655370.9,
+        "Y_Lambert2008": 716637.0
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.25959627888507,
+          "Lon_WGS84": 4.445782075378901,
+          "X_Lambert72": 155376.81,
+          "Y_Lambert72": 216636.32,
+          "X_Lambert2008": 655370.9,
+          "Y_Lambert2008": 716637.0
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.25959627888507,
+          "Lon_WGS84": 4.445782075378901,
+          "X_Lambert72": 155376.81,
+          "Y_Lambert72": 216636.32,
+          "X_Lambert2008": 655370.9,
+          "Y_Lambert2008": 716637.0
+        }
+      }
+    }
+  ]
+}

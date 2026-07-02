@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Cruyslei",
+      "Housenumber": "65",
+      "ID": 1945247,
+      "FormattedAddress": "Cruyslei 65, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.199033915585396,
+        "Lon_WGS84": 4.458599298091764,
+        "X_Lambert72": 156279.76,
+        "Y_Lambert72": 209899.47,
+        "X_Lambert2008": 656274.64,
+        "Y_Lambert2008": 709900.31
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.199033915585396,
+          "Lon_WGS84": 4.458599298091764,
+          "X_Lambert72": 156279.76,
+          "Y_Lambert72": 209899.47,
+          "X_Lambert2008": 656274.64,
+          "Y_Lambert2008": 709900.31
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.199033915585396,
+          "Lon_WGS84": 4.458599298091764,
+          "X_Lambert72": 156279.76,
+          "Y_Lambert72": 209899.47,
+          "X_Lambert2008": 656274.64,
+          "Y_Lambert2008": 709900.31
+        }
+      }
+    }
+  ]
+}

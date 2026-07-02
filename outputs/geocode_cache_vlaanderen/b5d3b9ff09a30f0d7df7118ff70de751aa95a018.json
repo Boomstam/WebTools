@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Apollostraat",
+      "Housenumber": "169",
+      "ID": 1721951,
+      "FormattedAddress": "Apollostraat 169, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.195463725836206,
+        "Lon_WGS84": 4.446212116578246,
+        "X_Lambert72": 155414.34,
+        "Y_Lambert72": 209501.29,
+        "X_Lambert2008": 655409.28,
+        "Y_Lambert2008": 709502.03
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.195463725836206,
+          "Lon_WGS84": 4.446212116578246,
+          "X_Lambert72": 155414.34,
+          "Y_Lambert72": 209501.29,
+          "X_Lambert2008": 655409.28,
+          "Y_Lambert2008": 709502.03
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.195463725836206,
+          "Lon_WGS84": 4.446212116578246,
+          "X_Lambert72": 155414.34,
+          "Y_Lambert72": 209501.29,
+          "X_Lambert2008": 655409.28,
+          "Y_Lambert2008": 709502.03
+        }
+      }
+    }
+  ]
+}

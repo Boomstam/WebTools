@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Torenblokstraat",
+      "Housenumber": "29",
+      "ID": 1870318,
+      "FormattedAddress": "Torenblokstraat 29, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17422009886649,
+        "Lon_WGS84": 4.42875725357657,
+        "X_Lambert72": 154196.12,
+        "Y_Lambert72": 207136.73,
+        "X_Lambert2008": 654191.35,
+        "Y_Lambert2008": 707137.34
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17422009886649,
+          "Lon_WGS84": 4.42875725357657,
+          "X_Lambert72": 154196.12,
+          "Y_Lambert72": 207136.73,
+          "X_Lambert2008": 654191.35,
+          "Y_Lambert2008": 707137.34
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17422009886649,
+          "Lon_WGS84": 4.42875725357657,
+          "X_Lambert72": 154196.12,
+          "Y_Lambert72": 207136.73,
+          "X_Lambert2008": 654191.35,
+          "Y_Lambert2008": 707137.34
+        }
+      }
+    }
+  ]
+}

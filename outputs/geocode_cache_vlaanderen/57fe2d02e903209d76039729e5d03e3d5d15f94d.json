@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Turnhoutsebaan",
+      "Housenumber": "233",
+      "ID": 2490952,
+      "FormattedAddress": "Turnhoutsebaan 233, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22021472573957,
+        "Lon_WGS84": 4.465473919544681,
+        "X_Lambert72": 156757.19,
+        "Y_Lambert72": 212256.53,
+        "X_Lambert2008": 656751.79,
+        "Y_Lambert2008": 712257.41
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22021472573957,
+          "Lon_WGS84": 4.465473919544681,
+          "X_Lambert72": 156757.19,
+          "Y_Lambert72": 212256.53,
+          "X_Lambert2008": 656751.79,
+          "Y_Lambert2008": 712257.41
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22021472573957,
+          "Lon_WGS84": 4.465473919544681,
+          "X_Lambert72": 156757.19,
+          "Y_Lambert72": 212256.53,
+          "X_Lambert2008": 656751.79,
+          "Y_Lambert2008": 712257.41
+        }
+      }
+    }
+  ]
+}

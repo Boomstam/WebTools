@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Sint-Aldegondiskaai",
+      "Housenumber": "18",
+      "ID": 2211890,
+      "FormattedAddress": "Sint-Aldegondiskaai 18, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22781075352134,
+        "Lon_WGS84": 4.40286875952129,
+        "X_Lambert72": 152382.81,
+        "Y_Lambert72": 213097.73,
+        "X_Lambert2008": 652377.34,
+        "Y_Lambert2008": 713098.08
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22781075352134,
+          "Lon_WGS84": 4.40286875952129,
+          "X_Lambert72": 152382.81,
+          "Y_Lambert72": 213097.73,
+          "X_Lambert2008": 652377.34,
+          "Y_Lambert2008": 713098.08
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22781075352134,
+          "Lon_WGS84": 4.40286875952129,
+          "X_Lambert72": 152382.81,
+          "Y_Lambert72": 213097.73,
+          "X_Lambert2008": 652377.34,
+          "Y_Lambert2008": 713098.08
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Sint-Vincentiusstraat",
+      "Housenumber": "10",
+      "ID": 1036169,
+      "FormattedAddress": "Sint-Vincentiusstraat 10, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20651230975786,
+        "Lon_WGS84": 4.413878418178837,
+        "X_Lambert72": 153153.35,
+        "Y_Lambert72": 210728.6,
+        "X_Lambert2008": 653148.16,
+        "Y_Lambert2008": 710729.06
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20651230975786,
+          "Lon_WGS84": 4.413878418178837,
+          "X_Lambert72": 153153.35,
+          "Y_Lambert72": 210728.6,
+          "X_Lambert2008": 653148.16,
+          "Y_Lambert2008": 710729.06
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20651230975786,
+          "Lon_WGS84": 4.413878418178837,
+          "X_Lambert72": 153153.35,
+          "Y_Lambert72": 210728.6,
+          "X_Lambert2008": 653148.16,
+          "Y_Lambert2008": 710729.06
+        }
+      }
+    }
+  ]
+}

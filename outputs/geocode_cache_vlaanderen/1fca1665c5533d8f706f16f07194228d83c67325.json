@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Dassastraat",
+      "Housenumber": "102",
+      "ID": 1285504,
+      "FormattedAddress": "Dassastraat 102, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20752841323352,
+        "Lon_WGS84": 4.476875171375767,
+        "X_Lambert72": 157555.82,
+        "Y_Lambert72": 210846.23,
+        "X_Lambert2008": 657550.58,
+        "Y_Lambert2008": 710847.21
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20752841323352,
+          "Lon_WGS84": 4.476875171375767,
+          "X_Lambert72": 157555.82,
+          "Y_Lambert72": 210846.23,
+          "X_Lambert2008": 657550.58,
+          "Y_Lambert2008": 710847.21
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20752841323352,
+          "Lon_WGS84": 4.476875171375767,
+          "X_Lambert72": 157555.82,
+          "Y_Lambert72": 210846.23,
+          "X_Lambert2008": 657550.58,
+          "Y_Lambert2008": 710847.21
+        }
+      }
+    }
+  ]
+}

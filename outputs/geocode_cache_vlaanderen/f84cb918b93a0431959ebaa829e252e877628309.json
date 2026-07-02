@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2040",
+      "Thoroughfarename": "Ruytermansweg",
+      "Housenumber": "55",
+      "ID": 2124067,
+      "FormattedAddress": "Ruytermansweg 55, 2040 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.35572125369235,
+        "Lon_WGS84": 4.329169874596572,
+        "X_Lambert72": 147242.04,
+        "Y_Lambert72": 227328.92,
+        "X_Lambert2008": 647234.92,
+        "Y_Lambert2008": 727328.54
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.35572125369235,
+          "Lon_WGS84": 4.329169874596572,
+          "X_Lambert72": 147242.04,
+          "Y_Lambert72": 227328.92,
+          "X_Lambert2008": 647234.92,
+          "Y_Lambert2008": 727328.54
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.35572125369235,
+          "Lon_WGS84": 4.329169874596572,
+          "X_Lambert72": 147242.04,
+          "Y_Lambert72": 227328.92,
+          "X_Lambert2008": 647234.92,
+          "Y_Lambert2008": 727328.54
+        }
+      }
+    }
+  ]
+}

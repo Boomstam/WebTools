@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Grote Pieter Potstraat",
+      "Housenumber": "14",
+      "ID": 689444,
+      "FormattedAddress": "Grote Pieter Potstraat 14, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22067548444172,
+        "Lon_WGS84": 4.397329801740037,
+        "X_Lambert72": 151996.2,
+        "Y_Lambert72": 212303.73,
+        "X_Lambert2008": 651990.83,
+        "Y_Lambert2008": 712304.04
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22067548444172,
+          "Lon_WGS84": 4.397329801740037,
+          "X_Lambert72": 151996.2,
+          "Y_Lambert72": 212303.73,
+          "X_Lambert2008": 651990.83,
+          "Y_Lambert2008": 712304.04
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22067548444172,
+          "Lon_WGS84": 4.397329801740037,
+          "X_Lambert72": 151996.2,
+          "Y_Lambert72": 212303.73,
+          "X_Lambert2008": 651990.83,
+          "Y_Lambert2008": 712304.04
+        }
+      }
+    }
+  ]
+}

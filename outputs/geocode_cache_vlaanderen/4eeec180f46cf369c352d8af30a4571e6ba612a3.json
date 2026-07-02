@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Turnhoutsebaan",
+      "Housenumber": "335",
+      "ID": 2499078,
+      "FormattedAddress": "Turnhoutsebaan 335, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21430674098769,
+        "Lon_WGS84": 4.441597972374914,
+        "X_Lambert72": 155089.72,
+        "Y_Lambert72": 211597.32,
+        "X_Lambert2008": 655084.41,
+        "Y_Lambert2008": 711598.0
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21430674098769,
+          "Lon_WGS84": 4.441597972374914,
+          "X_Lambert72": 155089.72,
+          "Y_Lambert72": 211597.32,
+          "X_Lambert2008": 655084.41,
+          "Y_Lambert2008": 711598.0
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21430674098769,
+          "Lon_WGS84": 4.441597972374914,
+          "X_Lambert72": 155089.72,
+          "Y_Lambert72": 211597.32,
+          "X_Lambert2008": 655084.41,
+          "Y_Lambert2008": 711598.0
+        }
+      }
+    }
+  ]
+}

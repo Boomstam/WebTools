@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2180",
+      "Thoroughfarename": "Kristus-Koningplein",
+      "Housenumber": "17",
+      "ID": 3738589,
+      "FormattedAddress": "Kristus-Koningplein 17, 2180 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.278184917702625,
+        "Lon_WGS84": 4.419574813400976,
+        "X_Lambert72": 153545.92,
+        "Y_Lambert72": 218702.84,
+        "X_Lambert2008": 653539.78,
+        "Y_Lambert2008": 718703.28
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.278184917702625,
+          "Lon_WGS84": 4.419574813400976,
+          "X_Lambert72": 153545.92,
+          "Y_Lambert72": 218702.84,
+          "X_Lambert2008": 653539.78,
+          "Y_Lambert2008": 718703.28
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.278184917702625,
+          "Lon_WGS84": 4.419574813400976,
+          "X_Lambert72": 153545.92,
+          "Y_Lambert72": 218702.84,
+          "X_Lambert2008": 653539.78,
+          "Y_Lambert2008": 718703.28
+        }
+      }
+    }
+  ]
+}

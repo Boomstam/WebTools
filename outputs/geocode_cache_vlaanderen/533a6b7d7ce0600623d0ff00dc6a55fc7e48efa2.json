@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Hollebeekstraat",
+      "Housenumber": "200",
+      "ID": 496287,
+      "FormattedAddress": "Hollebeekstraat 200, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.177005843134616,
+        "Lon_WGS84": 4.3707376402880165,
+        "X_Lambert72": 150138.5,
+        "Y_Lambert72": 207444.92,
+        "X_Lambert2008": 650133.72,
+        "Y_Lambert2008": 707445.05
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.177005843134616,
+          "Lon_WGS84": 4.3707376402880165,
+          "X_Lambert72": 150138.5,
+          "Y_Lambert72": 207444.92,
+          "X_Lambert2008": 650133.72,
+          "Y_Lambert2008": 707445.05
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.177005843134616,
+          "Lon_WGS84": 4.3707376402880165,
+          "X_Lambert72": 150138.5,
+          "Y_Lambert72": 207444.92,
+          "X_Lambert2008": 650133.72,
+          "Y_Lambert2008": 707445.05
+        }
+      }
+    }
+  ]
+}

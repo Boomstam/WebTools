@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Terlindenhofstraat",
+      "Housenumber": "56",
+      "ID": 1842549,
+      "FormattedAddress": "Terlindenhofstraat 56, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.24408909491797,
+        "Lon_WGS84": 4.441084323212945,
+        "X_Lambert72": 155050.57,
+        "Y_Lambert72": 214910.72,
+        "X_Lambert2008": 655044.87,
+        "Y_Lambert2008": 714911.37
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.24408909491797,
+          "Lon_WGS84": 4.441084323212945,
+          "X_Lambert72": 155050.57,
+          "Y_Lambert72": 214910.72,
+          "X_Lambert2008": 655044.87,
+          "Y_Lambert2008": 714911.37
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.24408909491797,
+          "Lon_WGS84": 4.441084323212945,
+          "X_Lambert72": 155050.57,
+          "Y_Lambert72": 214910.72,
+          "X_Lambert2008": 655044.87,
+          "Y_Lambert2008": 714911.37
+        }
+      }
+    }
+  ]
+}

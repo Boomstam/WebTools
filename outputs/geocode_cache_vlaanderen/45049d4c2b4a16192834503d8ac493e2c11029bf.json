@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Delftstraat",
+      "Housenumber": "25",
+      "ID": 813344,
+      "FormattedAddress": "Delftstraat 25, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.222198559904704,
+        "Lon_WGS84": 4.441591811494199,
+        "X_Lambert72": 155088.42,
+        "Y_Lambert72": 212475.32,
+        "X_Lambert2008": 655083.01,
+        "Y_Lambert2008": 712476.0
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.222198559904704,
+          "Lon_WGS84": 4.441591811494199,
+          "X_Lambert72": 155088.42,
+          "Y_Lambert72": 212475.32,
+          "X_Lambert2008": 655083.01,
+          "Y_Lambert2008": 712476.0
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.222198559904704,
+          "Lon_WGS84": 4.441591811494199,
+          "X_Lambert72": 155088.42,
+          "Y_Lambert72": 212475.32,
+          "X_Lambert2008": 655083.01,
+          "Y_Lambert2008": 712476.0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Van Stralenstraat",
+      "Housenumber": "86",
+      "ID": 1874935,
+      "FormattedAddress": "Van Stralenstraat 86, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22193518401668,
+        "Lon_WGS84": 4.419720211397988,
+        "X_Lambert72": 153560.42,
+        "Y_Lambert72": 212444.73,
+        "X_Lambert2008": 653555.02,
+        "Y_Lambert2008": 712445.22
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22193518401668,
+          "Lon_WGS84": 4.419720211397988,
+          "X_Lambert72": 153560.42,
+          "Y_Lambert72": 212444.73,
+          "X_Lambert2008": 653555.02,
+          "Y_Lambert2008": 712445.22
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22193518401668,
+          "Lon_WGS84": 4.419720211397988,
+          "X_Lambert72": 153560.42,
+          "Y_Lambert72": 212444.73,
+          "X_Lambert2008": 653555.02,
+          "Y_Lambert2008": 712445.22
+        }
+      }
+    }
+  ]
+}

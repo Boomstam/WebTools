@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Jan van Gentstraat",
+      "Housenumber": "2",
+      "ID": 1140373,
+      "FormattedAddress": "Jan van Gentstraat 2, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20602217331258,
+        "Lon_WGS84": 4.386934625176099,
+        "X_Lambert72": 151270.35,
+        "Y_Lambert72": 210673.25,
+        "X_Lambert2008": 651265.18,
+        "Y_Lambert2008": 710673.48
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20602217331258,
+          "Lon_WGS84": 4.386934625176099,
+          "X_Lambert72": 151270.35,
+          "Y_Lambert72": 210673.25,
+          "X_Lambert2008": 651265.18,
+          "Y_Lambert2008": 710673.48
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20602217331258,
+          "Lon_WGS84": 4.386934625176099,
+          "X_Lambert72": 151270.35,
+          "Y_Lambert72": 210673.25,
+          "X_Lambert2008": 651265.18,
+          "Y_Lambert2008": 710673.48
+        }
+      }
+    }
+  ]
+}

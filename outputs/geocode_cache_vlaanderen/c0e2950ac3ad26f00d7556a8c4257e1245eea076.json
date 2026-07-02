@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Lodewijk Van Berckenlaan",
+      "Housenumber": "66",
+      "ID": 1612453,
+      "FormattedAddress": "Lodewijk Van Berckenlaan 66, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19693753796159,
+        "Lon_WGS84": 4.439437577991824,
+        "X_Lambert72": 154940.62,
+        "Y_Lambert72": 209664.78,
+        "X_Lambert2008": 654935.54,
+        "Y_Lambert2008": 709665.46
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19693753796159,
+          "Lon_WGS84": 4.439437577991824,
+          "X_Lambert72": 154940.62,
+          "Y_Lambert72": 209664.78,
+          "X_Lambert2008": 654935.54,
+          "Y_Lambert2008": 709665.46
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19693753796159,
+          "Lon_WGS84": 4.439437577991824,
+          "X_Lambert72": 154940.62,
+          "Y_Lambert72": 209664.78,
+          "X_Lambert2008": 654935.54,
+          "Y_Lambert2008": 709665.46
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Koxplein",
+      "Housenumber": "15",
+      "ID": 1296989,
+      "FormattedAddress": "Koxplein 15, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2118555740426,
+        "Lon_WGS84": 4.434345547651366,
+        "X_Lambert72": 154583.2,
+        "Y_Lambert72": 211324.14,
+        "X_Lambert2008": 654577.93,
+        "Y_Lambert2008": 711324.76
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2118555740426,
+          "Lon_WGS84": 4.434345547651366,
+          "X_Lambert72": 154583.2,
+          "Y_Lambert72": 211324.14,
+          "X_Lambert2008": 654577.93,
+          "Y_Lambert2008": 711324.76
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2118555740426,
+          "Lon_WGS84": 4.434345547651366,
+          "X_Lambert72": 154583.2,
+          "Y_Lambert72": 211324.14,
+          "X_Lambert2008": 654577.93,
+          "Y_Lambert2008": 711324.76
+        }
+      }
+    }
+  ]
+}

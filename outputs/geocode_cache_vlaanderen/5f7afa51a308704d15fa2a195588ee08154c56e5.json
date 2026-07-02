@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Grotesteenweg",
+      "Housenumber": "457",
+      "ID": 2338346,
+      "FormattedAddress": "Grotesteenweg 457, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.183056475536866,
+        "Lon_WGS84": 4.430620098981782,
+        "X_Lambert72": 154325.57,
+        "Y_Lambert72": 208119.91,
+        "X_Lambert2008": 654320.68,
+        "Y_Lambert2008": 708120.53
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.183056475536866,
+          "Lon_WGS84": 4.430620098981782,
+          "X_Lambert72": 154325.57,
+          "Y_Lambert72": 208119.91,
+          "X_Lambert2008": 654320.68,
+          "Y_Lambert2008": 708120.53
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.183056475536866,
+          "Lon_WGS84": 4.430620098981782,
+          "X_Lambert72": 154325.57,
+          "Y_Lambert72": 208119.91,
+          "X_Lambert2008": 654320.68,
+          "Y_Lambert2008": 708120.53
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2150",
+      "Thoroughfarename": "August Van Putlei",
+      "Housenumber": "151",
+      "ID": 30420829,
+      "FormattedAddress": "August Van Putlei 151, 2150 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.198144479756905,
+        "Lon_WGS84": 4.471859378315743,
+        "X_Lambert72": 157206.75,
+        "Y_Lambert72": 209801.73,
+        "X_Lambert2008": 657201.64,
+        "Y_Lambert2008": 709802.68
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.198144479756905,
+          "Lon_WGS84": 4.471859378315743,
+          "X_Lambert72": 157206.75,
+          "Y_Lambert72": 209801.73,
+          "X_Lambert2008": 657201.64,
+          "Y_Lambert2008": 709802.68
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.198144479756905,
+          "Lon_WGS84": 4.471859378315743,
+          "X_Lambert72": 157206.75,
+          "Y_Lambert72": 209801.73,
+          "X_Lambert2008": 657201.64,
+          "Y_Lambert2008": 709802.68
+        }
+      }
+    }
+  ]
+}

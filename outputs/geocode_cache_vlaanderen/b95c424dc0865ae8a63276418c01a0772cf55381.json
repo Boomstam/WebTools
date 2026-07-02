@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Hopland",
+      "Housenumber": "55",
+      "ID": 1173491,
+      "FormattedAddress": "Hopland 55, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2167887657003,
+        "Lon_WGS84": 4.412717076703618,
+        "X_Lambert72": 153071.5,
+        "Y_Lambert72": 211871.85,
+        "X_Lambert2008": 653066.17,
+        "Y_Lambert2008": 711872.29
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2167887657003,
+          "Lon_WGS84": 4.412717076703618,
+          "X_Lambert72": 153071.5,
+          "Y_Lambert72": 211871.85,
+          "X_Lambert2008": 653066.17,
+          "Y_Lambert2008": 711872.29
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2167887657003,
+          "Lon_WGS84": 4.412717076703618,
+          "X_Lambert72": 153071.5,
+          "Y_Lambert72": 211871.85,
+          "X_Lambert2008": 653066.17,
+          "Y_Lambert2008": 711872.29
+        }
+      }
+    }
+  ]
+}

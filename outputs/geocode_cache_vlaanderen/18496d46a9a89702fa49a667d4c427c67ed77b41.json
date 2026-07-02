@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Antwerpsesteenweg",
+      "Housenumber": "92",
+      "ID": 521353,
+      "FormattedAddress": "Antwerpsesteenweg 92, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.178148576593046,
+        "Lon_WGS84": 4.355774581355645,
+        "X_Lambert72": 149092.14,
+        "Y_Lambert72": 207572.12,
+        "X_Lambert2008": 649087.36,
+        "Y_Lambert2008": 707572.12
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.178148576593046,
+          "Lon_WGS84": 4.355774581355645,
+          "X_Lambert72": 149092.14,
+          "Y_Lambert72": 207572.12,
+          "X_Lambert2008": 649087.36,
+          "Y_Lambert2008": 707572.12
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.178148576593046,
+          "Lon_WGS84": 4.355774581355645,
+          "X_Lambert72": 149092.14,
+          "Y_Lambert72": 207572.12,
+          "X_Lambert2008": 649087.36,
+          "Y_Lambert2008": 707572.12
+        }
+      }
+    }
+  ]
+}

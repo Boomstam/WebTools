@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2020",
+      "Thoroughfarename": "Pierenbergstraat",
+      "Housenumber": "17",
+      "ID": 934852,
+      "FormattedAddress": "Pierenbergstraat 17, 2020 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18915179494852,
+        "Lon_WGS84": 4.381821865362338,
+        "X_Lambert72": 150913.38,
+        "Y_Lambert72": 208796.28,
+        "X_Lambert2008": 650908.44,
+        "Y_Lambert2008": 708796.49
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.18915179494852,
+          "Lon_WGS84": 4.381821865362338,
+          "X_Lambert72": 150913.38,
+          "Y_Lambert72": 208796.28,
+          "X_Lambert2008": 650908.44,
+          "Y_Lambert2008": 708796.49
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18915179494852,
+          "Lon_WGS84": 4.381821865362338,
+          "X_Lambert72": 150913.38,
+          "Y_Lambert72": 208796.28,
+          "X_Lambert2008": 650908.44,
+          "Y_Lambert2008": 708796.49
+        }
+      }
+    }
+  ]
+}

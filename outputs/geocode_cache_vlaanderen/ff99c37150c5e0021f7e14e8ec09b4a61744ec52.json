@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Samberstraat",
+      "Housenumber": "2",
+      "ID": 1821834,
+      "FormattedAddress": "Samberstraat 2, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.232000363272206,
+        "Lon_WGS84": 4.427191221339555,
+        "X_Lambert72": 154081.48,
+        "Y_Lambert72": 213564.92,
+        "X_Lambert2008": 654075.94,
+        "Y_Lambert2008": 713565.47
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.232000363272206,
+          "Lon_WGS84": 4.427191221339555,
+          "X_Lambert72": 154081.48,
+          "Y_Lambert72": 213564.92,
+          "X_Lambert2008": 654075.94,
+          "Y_Lambert2008": 713565.47
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.232000363272206,
+          "Lon_WGS84": 4.427191221339555,
+          "X_Lambert72": 154081.48,
+          "Y_Lambert72": 213564.92,
+          "X_Lambert2008": 654075.94,
+          "Y_Lambert2008": 713565.47
+        }
+      }
+    }
+  ]
+}

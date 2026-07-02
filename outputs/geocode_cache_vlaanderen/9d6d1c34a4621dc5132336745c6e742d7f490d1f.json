@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Reyndersstraat",
+      "Housenumber": "49",
+      "ID": 677506,
+      "FormattedAddress": "Reyndersstraat 49, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21897004892645,
+        "Lon_WGS84": 4.400022665411125,
+        "X_Lambert72": 152184.42,
+        "Y_Lambert72": 212114.07,
+        "X_Lambert2008": 652179.07,
+        "Y_Lambert2008": 712114.4
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21897004892645,
+          "Lon_WGS84": 4.400022665411125,
+          "X_Lambert72": 152184.42,
+          "Y_Lambert72": 212114.07,
+          "X_Lambert2008": 652179.07,
+          "Y_Lambert2008": 712114.4
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21897004892645,
+          "Lon_WGS84": 4.400022665411125,
+          "X_Lambert72": 152184.42,
+          "Y_Lambert72": 212114.07,
+          "X_Lambert2008": 652179.07,
+          "Y_Lambert2008": 712114.4
+        }
+      }
+    }
+  ]
+}

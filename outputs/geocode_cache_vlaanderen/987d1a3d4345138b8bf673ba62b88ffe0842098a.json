@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Miraeusstraat",
+      "Housenumber": "15",
+      "ID": 742109,
+      "FormattedAddress": "Miraeusstraat 15, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20619404378771,
+        "Lon_WGS84": 4.400536180135818,
+        "X_Lambert72": 152220.92,
+        "Y_Lambert72": 210692.7,
+        "X_Lambert2008": 652215.74,
+        "Y_Lambert2008": 710693.05
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20619404378771,
+          "Lon_WGS84": 4.400536180135818,
+          "X_Lambert72": 152220.92,
+          "Y_Lambert72": 210692.7,
+          "X_Lambert2008": 652215.74,
+          "Y_Lambert2008": 710693.05
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20619404378771,
+          "Lon_WGS84": 4.400536180135818,
+          "X_Lambert72": 152220.92,
+          "Y_Lambert72": 210692.7,
+          "X_Lambert2008": 652215.74,
+          "Y_Lambert2008": 710693.05
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Ankerrui",
+      "Housenumber": "44",
+      "ID": 1876769,
+      "FormattedAddress": "Ankerrui 44, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22629303626304,
+        "Lon_WGS84": 4.412367591395875,
+        "X_Lambert72": 153046.45,
+        "Y_Lambert72": 212929.23,
+        "X_Lambert2008": 653041.0,
+        "Y_Lambert2008": 712929.66
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22629303626304,
+          "Lon_WGS84": 4.412367591395875,
+          "X_Lambert72": 153046.45,
+          "Y_Lambert72": 212929.23,
+          "X_Lambert2008": 653041.0,
+          "Y_Lambert2008": 712929.66
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22629303626304,
+          "Lon_WGS84": 4.412367591395875,
+          "X_Lambert72": 153046.45,
+          "Y_Lambert72": 212929.23,
+          "X_Lambert2008": 653041.0,
+          "Y_Lambert2008": 712929.66
+        }
+      }
+    }
+  ]
+}

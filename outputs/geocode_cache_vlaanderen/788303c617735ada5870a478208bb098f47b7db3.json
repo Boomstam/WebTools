@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Lange Herentalsestraat",
+      "Housenumber": "16",
+      "ID": 568710,
+      "FormattedAddress": "Lange Herentalsestraat 16, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21576351208185,
+        "Lon_WGS84": 4.417117373807792,
+        "X_Lambert72": 153379.03,
+        "Y_Lambert72": 211757.98,
+        "X_Lambert2008": 653373.71,
+        "Y_Lambert2008": 711758.46
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21576351208185,
+          "Lon_WGS84": 4.417117373807792,
+          "X_Lambert72": 153379.03,
+          "Y_Lambert72": 211757.98,
+          "X_Lambert2008": 653373.71,
+          "Y_Lambert2008": 711758.46
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21576351208185,
+          "Lon_WGS84": 4.417117373807792,
+          "X_Lambert72": 153379.03,
+          "Y_Lambert72": 211757.98,
+          "X_Lambert2008": 653373.71,
+          "Y_Lambert2008": 711758.46
+        }
+      }
+    }
+  ]
+}

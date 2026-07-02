@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Cogelsplein",
+      "Housenumber": "33",
+      "ID": 1718174,
+      "FormattedAddress": "Cogelsplein 33, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22038174039819,
+        "Lon_WGS84": 4.4556976838892774,
+        "X_Lambert72": 156074.14,
+        "Y_Lambert72": 212274.26,
+        "X_Lambert2008": 656068.74,
+        "Y_Lambert2008": 712275.05
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22038174039819,
+          "Lon_WGS84": 4.4556976838892774,
+          "X_Lambert72": 156074.14,
+          "Y_Lambert72": 212274.26,
+          "X_Lambert2008": 656068.74,
+          "Y_Lambert2008": 712275.05
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22038174039819,
+          "Lon_WGS84": 4.4556976838892774,
+          "X_Lambert72": 156074.14,
+          "Y_Lambert72": 212274.26,
+          "X_Lambert2008": 656068.74,
+          "Y_Lambert2008": 712275.05
+        }
+      }
+    }
+  ]
+}

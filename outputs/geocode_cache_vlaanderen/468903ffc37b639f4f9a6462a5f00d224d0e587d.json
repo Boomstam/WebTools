@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Gitschotellei",
+      "Housenumber": "288",
+      "ID": 617420,
+      "FormattedAddress": "Gitschotellei 288, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20030242601126,
+        "Lon_WGS84": 4.4493709035512605,
+        "X_Lambert72": 155634.56,
+        "Y_Lambert72": 210039.85,
+        "X_Lambert2008": 655629.43,
+        "Y_Lambert2008": 710040.61
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20030242601126,
+          "Lon_WGS84": 4.4493709035512605,
+          "X_Lambert72": 155634.56,
+          "Y_Lambert72": 210039.85,
+          "X_Lambert2008": 655629.43,
+          "Y_Lambert2008": 710040.61
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20030242601126,
+          "Lon_WGS84": 4.4493709035512605,
+          "X_Lambert72": 155634.56,
+          "Y_Lambert72": 210039.85,
+          "X_Lambert2008": 655629.43,
+          "Y_Lambert2008": 710040.61
+        }
+      }
+    }
+  ]
+}

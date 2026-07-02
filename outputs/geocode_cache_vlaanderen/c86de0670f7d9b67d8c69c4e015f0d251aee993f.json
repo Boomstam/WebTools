@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Heldenplein",
+      "Housenumber": "19",
+      "ID": 1800160,
+      "FormattedAddress": "Heldenplein 19, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.16433465407563,
+        "Lon_WGS84": 4.393927640325984,
+        "X_Lambert72": 151760.69,
+        "Y_Lambert72": 206035.53,
+        "X_Lambert2008": 651756.07,
+        "Y_Lambert2008": 706035.86
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.16433465407563,
+          "Lon_WGS84": 4.393927640325984,
+          "X_Lambert72": 151760.69,
+          "Y_Lambert72": 206035.53,
+          "X_Lambert2008": 651756.07,
+          "Y_Lambert2008": 706035.86
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.16433465407563,
+          "Lon_WGS84": 4.393927640325984,
+          "X_Lambert72": 151760.69,
+          "Y_Lambert72": 206035.53,
+          "X_Lambert2008": 651756.07,
+          "Y_Lambert2008": 706035.86
+        }
+      }
+    }
+  ]
+}

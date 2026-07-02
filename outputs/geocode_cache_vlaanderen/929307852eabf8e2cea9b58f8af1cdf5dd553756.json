@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Schoenmarkt",
+      "Housenumber": "20",
+      "ID": 1196594,
+      "FormattedAddress": "Schoenmarkt 20, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21825398393586,
+        "Lon_WGS84": 4.404248360420914,
+        "X_Lambert72": 152479.7,
+        "Y_Lambert72": 212034.54,
+        "X_Lambert2008": 652474.36,
+        "Y_Lambert2008": 712034.91
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21825398393586,
+          "Lon_WGS84": 4.404248360420914,
+          "X_Lambert72": 152479.7,
+          "Y_Lambert72": 212034.54,
+          "X_Lambert2008": 652474.36,
+          "Y_Lambert2008": 712034.91
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21825398393586,
+          "Lon_WGS84": 4.404248360420914,
+          "X_Lambert72": 152479.7,
+          "Y_Lambert72": 212034.54,
+          "X_Lambert2008": 652474.36,
+          "Y_Lambert2008": 712034.91
+        }
+      }
+    }
+  ]
+}

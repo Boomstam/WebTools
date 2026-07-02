@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Onderwijsstraat",
+      "Housenumber": "45",
+      "ID": 710998,
+      "FormattedAddress": "Onderwijsstraat 45, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.225726056541525,
+        "Lon_WGS84": 4.434758494767551,
+        "X_Lambert72": 154610.67,
+        "Y_Lambert72": 212867.32,
+        "X_Lambert2008": 654605.21,
+        "Y_Lambert2008": 712867.94
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.225726056541525,
+          "Lon_WGS84": 4.434758494767551,
+          "X_Lambert72": 154610.67,
+          "Y_Lambert72": 212867.32,
+          "X_Lambert2008": 654605.21,
+          "Y_Lambert2008": 712867.94
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.225726056541525,
+          "Lon_WGS84": 4.434758494767551,
+          "X_Lambert72": 154610.67,
+          "Y_Lambert72": 212867.32,
+          "X_Lambert2008": 654605.21,
+          "Y_Lambert2008": 712867.94
+        }
+      }
+    }
+  ]
+}

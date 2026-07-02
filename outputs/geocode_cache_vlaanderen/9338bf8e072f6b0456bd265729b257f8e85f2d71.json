@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Gallifortlei",
+      "Housenumber": "171",
+      "ID": 431856,
+      "FormattedAddress": "Gallifortlei 171, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.223805880868206,
+        "Lon_WGS84": 4.464126585160704,
+        "X_Lambert72": 156662.54,
+        "Y_Lambert72": 212655.94,
+        "X_Lambert2008": 656657.09,
+        "Y_Lambert2008": 712656.8
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.223805880868206,
+          "Lon_WGS84": 4.464126585160704,
+          "X_Lambert72": 156662.54,
+          "Y_Lambert72": 212655.94,
+          "X_Lambert2008": 656657.09,
+          "Y_Lambert2008": 712656.8
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.223805880868206,
+          "Lon_WGS84": 4.464126585160704,
+          "X_Lambert72": 156662.54,
+          "Y_Lambert72": 212655.94,
+          "X_Lambert2008": 656657.09,
+          "Y_Lambert2008": 712656.8
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Dijlestraat",
+      "Housenumber": "32",
+      "ID": 261453,
+      "FormattedAddress": "Dijlestraat 32, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.23151306196057,
+        "Lon_WGS84": 4.430764298695742,
+        "X_Lambert72": 154331.1,
+        "Y_Lambert72": 213510.91,
+        "X_Lambert2008": 654325.57,
+        "Y_Lambert2008": 713511.49
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.23151306196057,
+          "Lon_WGS84": 4.430764298695742,
+          "X_Lambert72": 154331.1,
+          "Y_Lambert72": 213510.91,
+          "X_Lambert2008": 654325.57,
+          "Y_Lambert2008": 713511.49
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.23151306196057,
+          "Lon_WGS84": 4.430764298695742,
+          "X_Lambert72": 154331.1,
+          "Y_Lambert72": 213510.91,
+          "X_Lambert2008": 654325.57,
+          "Y_Lambert2008": 713511.49
+        }
+      }
+    }
+  ]
+}

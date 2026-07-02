@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2050",
+      "Thoroughfarename": "Aalscholverlaan",
+      "Housenumber": "80",
+      "ID": 3658304,
+      "FormattedAddress": "Aalscholverlaan 80, 2050 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.216947420168495,
+        "Lon_WGS84": 4.372009844520359,
+        "X_Lambert72": 150227.23,
+        "Y_Lambert72": 211888.57,
+        "X_Lambert2008": 650221.92,
+        "Y_Lambert2008": 711888.67
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.216947420168495,
+          "Lon_WGS84": 4.372009844520359,
+          "X_Lambert72": 150227.23,
+          "Y_Lambert72": 211888.57,
+          "X_Lambert2008": 650221.92,
+          "Y_Lambert2008": 711888.67
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.216947420168495,
+          "Lon_WGS84": 4.372009844520359,
+          "X_Lambert72": 150227.23,
+          "Y_Lambert72": 211888.57,
+          "X_Lambert2008": 650221.92,
+          "Y_Lambert2008": 711888.67
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Somersstraat",
+      "Housenumber": "12",
+      "ID": 2426274,
+      "FormattedAddress": "Somersstraat 12, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21194893596749,
+        "Lon_WGS84": 4.425464560780187,
+        "X_Lambert72": 153962.6,
+        "Y_Lambert72": 211334.01,
+        "X_Lambert2008": 653957.33,
+        "Y_Lambert2008": 711334.56
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21194893596749,
+          "Lon_WGS84": 4.425464560780187,
+          "X_Lambert72": 153962.6,
+          "Y_Lambert72": 211334.01,
+          "X_Lambert2008": 653957.33,
+          "Y_Lambert2008": 711334.56
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21194893596749,
+          "Lon_WGS84": 4.425464560780187,
+          "X_Lambert72": 153962.6,
+          "Y_Lambert72": 211334.01,
+          "X_Lambert2008": 653957.33,
+          "Y_Lambert2008": 711334.56
+        }
+      }
+    }
+  ]
+}

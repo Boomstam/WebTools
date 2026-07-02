@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Gijzelaarsstraat",
+      "Housenumber": "52",
+      "ID": 1808627,
+      "FormattedAddress": "Gijzelaarsstraat 52, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20651530432788,
+        "Lon_WGS84": 4.388407207052905,
+        "X_Lambert72": 151373.25,
+        "Y_Lambert72": 210728.14,
+        "X_Lambert2008": 651368.07,
+        "Y_Lambert2008": 710728.39
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20651530432788,
+          "Lon_WGS84": 4.388407207052905,
+          "X_Lambert72": 151373.25,
+          "Y_Lambert72": 210728.14,
+          "X_Lambert2008": 651368.07,
+          "Y_Lambert2008": 710728.39
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20651530432788,
+          "Lon_WGS84": 4.388407207052905,
+          "X_Lambert72": 151373.25,
+          "Y_Lambert72": 210728.14,
+          "X_Lambert2008": 651368.07,
+          "Y_Lambert2008": 710728.39
+        }
+      }
+    }
+  ]
+}

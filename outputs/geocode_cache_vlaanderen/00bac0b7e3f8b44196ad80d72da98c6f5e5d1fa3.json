@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Lamorinièrestraat",
+      "Housenumber": "20",
+      "ID": 1702871,
+      "FormattedAddress": "Lamorinièrestraat 20, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.207438535964194,
+        "Lon_WGS84": 4.423405646024884,
+        "X_Lambert72": 153819.1,
+        "Y_Lambert72": 210832.1,
+        "X_Lambert2008": 653813.89,
+        "Y_Lambert2008": 710832.64
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.207438535964194,
+          "Lon_WGS84": 4.423405646024884,
+          "X_Lambert72": 153819.1,
+          "Y_Lambert72": 210832.1,
+          "X_Lambert2008": 653813.89,
+          "Y_Lambert2008": 710832.64
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.207438535964194,
+          "Lon_WGS84": 4.423405646024884,
+          "X_Lambert72": 153819.1,
+          "Y_Lambert72": 210832.1,
+          "X_Lambert2008": 653813.89,
+          "Y_Lambert2008": 710832.64
+        }
+      }
+    }
+  ]
+}

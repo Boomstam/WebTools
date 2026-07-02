@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Turnhoutsebaan",
+      "Housenumber": "308",
+      "ID": 2471013,
+      "FormattedAddress": "Turnhoutsebaan 308, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21373572737248,
+        "Lon_WGS84": 4.441130244259457,
+        "X_Lambert72": 155057.1,
+        "Y_Lambert72": 211533.76,
+        "X_Lambert2008": 655051.8,
+        "Y_Lambert2008": 711534.44
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21373572737248,
+          "Lon_WGS84": 4.441130244259457,
+          "X_Lambert72": 155057.1,
+          "Y_Lambert72": 211533.76,
+          "X_Lambert2008": 655051.8,
+          "Y_Lambert2008": 711534.44
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21373572737248,
+          "Lon_WGS84": 4.441130244259457,
+          "X_Lambert72": 155057.1,
+          "Y_Lambert72": 211533.76,
+          "X_Lambert2008": 655051.8,
+          "Y_Lambert2008": 711534.44
+        }
+      }
+    }
+  ]
+}

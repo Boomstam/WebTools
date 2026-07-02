@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Zeevaartstraat",
+      "Housenumber": "5",
+      "ID": 1917468,
+      "FormattedAddress": "Zeevaartstraat 5, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.227426488740335,
+        "Lon_WGS84": 4.4098450269002925,
+        "X_Lambert72": 152870.16,
+        "Y_Lambert72": 213055.23,
+        "X_Lambert2008": 652864.69,
+        "Y_Lambert2008": 713055.64
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.227426488740335,
+          "Lon_WGS84": 4.4098450269002925,
+          "X_Lambert72": 152870.16,
+          "Y_Lambert72": 213055.23,
+          "X_Lambert2008": 652864.69,
+          "Y_Lambert2008": 713055.64
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.227426488740335,
+          "Lon_WGS84": 4.4098450269002925,
+          "X_Lambert72": 152870.16,
+          "Y_Lambert72": 213055.23,
+          "X_Lambert2008": 652864.69,
+          "Y_Lambert2008": 713055.64
+        }
+      }
+    }
+  ]
+}

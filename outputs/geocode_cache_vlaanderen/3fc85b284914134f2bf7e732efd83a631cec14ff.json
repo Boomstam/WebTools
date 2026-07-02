@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Gagelveldenstraat",
+      "Housenumber": "42",
+      "ID": 1480272,
+      "FormattedAddress": "Gagelveldenstraat 42, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.24272290746999,
+        "Lon_WGS84": 4.436047847507361,
+        "X_Lambert72": 154699.01,
+        "Y_Lambert72": 214758.39,
+        "X_Lambert2008": 654693.33,
+        "Y_Lambert2008": 714759.0
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.24272290746999,
+          "Lon_WGS84": 4.436047847507361,
+          "X_Lambert72": 154699.01,
+          "Y_Lambert72": 214758.39,
+          "X_Lambert2008": 654693.33,
+          "Y_Lambert2008": 714759.0
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.24272290746999,
+          "Lon_WGS84": 4.436047847507361,
+          "X_Lambert72": 154699.01,
+          "Y_Lambert72": 214758.39,
+          "X_Lambert2008": 654693.33,
+          "Y_Lambert2008": 714759.0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Maria-Theresialei",
+      "Housenumber": "9",
+      "ID": 2501479,
+      "FormattedAddress": "Maria-Theresialei 9, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21569526094062,
+        "Lon_WGS84": 4.414974699619078,
+        "X_Lambert72": 153229.32,
+        "Y_Lambert72": 211750.29,
+        "X_Lambert2008": 653224.01,
+        "Y_Lambert2008": 711750.75
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21569526094062,
+          "Lon_WGS84": 4.414974699619078,
+          "X_Lambert72": 153229.32,
+          "Y_Lambert72": 211750.29,
+          "X_Lambert2008": 653224.01,
+          "Y_Lambert2008": 711750.75
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21569526094062,
+          "Lon_WGS84": 4.414974699619078,
+          "X_Lambert72": 153229.32,
+          "Y_Lambert72": 211750.29,
+          "X_Lambert2008": 653224.01,
+          "Y_Lambert2008": 711750.75
+        }
+      }
+    }
+  ]
+}

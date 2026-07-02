@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Pierebeekstraat",
+      "Housenumber": "28",
+      "ID": 1660063,
+      "FormattedAddress": "Pierebeekstraat 28, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.180177830536806,
+        "Lon_WGS84": 4.392474738193005,
+        "X_Lambert72": 151658.48,
+        "Y_Lambert72": 207798.09,
+        "X_Lambert2008": 651653.65,
+        "Y_Lambert2008": 707798.39
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.180177830536806,
+          "Lon_WGS84": 4.392474738193005,
+          "X_Lambert72": 151658.48,
+          "Y_Lambert72": 207798.09,
+          "X_Lambert2008": 651653.65,
+          "Y_Lambert2008": 707798.39
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.180177830536806,
+          "Lon_WGS84": 4.392474738193005,
+          "X_Lambert72": 151658.48,
+          "Y_Lambert72": 207798.09,
+          "X_Lambert2008": 651653.65,
+          "Y_Lambert2008": 707798.39
+        }
+      }
+    }
+  ]
+}

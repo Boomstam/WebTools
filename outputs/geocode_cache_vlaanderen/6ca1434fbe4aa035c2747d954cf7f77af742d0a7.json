@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2040",
+      "Thoroughfarename": "Reigersbosdreef",
+      "Housenumber": "3",
+      "ID": 2029141,
+      "FormattedAddress": "Reigersbosdreef 3, 2040 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.33897042559514,
+        "Lon_WGS84": 4.3137439773648705,
+        "X_Lambert72": 146166.06,
+        "Y_Lambert72": 225465.89,
+        "X_Lambert2008": 646159.17,
+        "Y_Lambert2008": 725465.4
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.33897042559514,
+          "Lon_WGS84": 4.3137439773648705,
+          "X_Lambert72": 146166.06,
+          "Y_Lambert72": 225465.89,
+          "X_Lambert2008": 646159.17,
+          "Y_Lambert2008": 725465.4
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.33897042559514,
+          "Lon_WGS84": 4.3137439773648705,
+          "X_Lambert72": 146166.06,
+          "Y_Lambert72": 225465.89,
+          "X_Lambert2008": 646159.17,
+          "Y_Lambert2008": 725465.4
+        }
+      }
+    }
+  ]
+}

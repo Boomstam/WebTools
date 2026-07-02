@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "De Manstraat",
+      "Housenumber": "78",
+      "ID": 1421630,
+      "FormattedAddress": "De Manstraat 78, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.227760084694665,
+        "Lon_WGS84": 4.456353026706846,
+        "X_Lambert72": 156118.95,
+        "Y_Lambert72": 213095.19,
+        "X_Lambert2008": 656113.45,
+        "Y_Lambert2008": 713095.98
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.227760084694665,
+          "Lon_WGS84": 4.456353026706846,
+          "X_Lambert72": 156118.95,
+          "Y_Lambert72": 213095.19,
+          "X_Lambert2008": 656113.45,
+          "Y_Lambert2008": 713095.98
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.227760084694665,
+          "Lon_WGS84": 4.456353026706846,
+          "X_Lambert72": 156118.95,
+          "Y_Lambert72": 213095.19,
+          "X_Lambert2008": 656113.45,
+          "Y_Lambert2008": 713095.98
+        }
+      }
+    }
+  ]
+}

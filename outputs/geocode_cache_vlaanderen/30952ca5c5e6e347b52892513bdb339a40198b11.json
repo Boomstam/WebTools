@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Sint-Bartholomeusstraat",
+      "Housenumber": "7",
+      "ID": 1858502,
+      "FormattedAddress": "Sint-Bartholomeusstraat 7, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.24111714265593,
+        "Lon_WGS84": 4.4405915150686734,
+        "X_Lambert72": 155016.48,
+        "Y_Lambert72": 214580.04,
+        "X_Lambert2008": 655010.82,
+        "Y_Lambert2008": 714580.69
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.24111714265593,
+          "Lon_WGS84": 4.4405915150686734,
+          "X_Lambert72": 155016.48,
+          "Y_Lambert72": 214580.04,
+          "X_Lambert2008": 655010.82,
+          "Y_Lambert2008": 714580.69
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.24111714265593,
+          "Lon_WGS84": 4.4405915150686734,
+          "X_Lambert72": 155016.48,
+          "Y_Lambert72": 214580.04,
+          "X_Lambert2008": 655010.82,
+          "Y_Lambert2008": 714580.69
+        }
+      }
+    }
+  ]
+}

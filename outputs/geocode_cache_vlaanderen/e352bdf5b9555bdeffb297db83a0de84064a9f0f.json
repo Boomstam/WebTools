@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Leopold de Waelstraat",
+      "Housenumber": "36",
+      "ID": 1324492,
+      "FormattedAddress": "Leopold de Waelstraat 36, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2075073698156,
+        "Lon_WGS84": 4.39126961704696,
+        "X_Lambert72": 151573.26,
+        "Y_Lambert72": 210838.57,
+        "X_Lambert2008": 651568.07,
+        "Y_Lambert2008": 710838.84
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2075073698156,
+          "Lon_WGS84": 4.39126961704696,
+          "X_Lambert72": 151573.26,
+          "Y_Lambert72": 210838.57,
+          "X_Lambert2008": 651568.07,
+          "Y_Lambert2008": 710838.84
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2075073698156,
+          "Lon_WGS84": 4.39126961704696,
+          "X_Lambert72": 151573.26,
+          "Y_Lambert72": 210838.57,
+          "X_Lambert2008": 651568.07,
+          "Y_Lambert2008": 710838.84
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Bouwhandelstraat",
+      "Housenumber": "105",
+      "ID": 1527094,
+      "FormattedAddress": "Bouwhandelstraat 105, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.203765937421835,
+        "Lon_WGS84": 4.4455059035502025,
+        "X_Lambert72": 155364.01,
+        "Y_Lambert72": 210424.89,
+        "X_Lambert2008": 655358.84,
+        "Y_Lambert2008": 710425.61
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.203765937421835,
+          "Lon_WGS84": 4.4455059035502025,
+          "X_Lambert72": 155364.01,
+          "Y_Lambert72": 210424.89,
+          "X_Lambert2008": 655358.84,
+          "Y_Lambert2008": 710425.61
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.203765937421835,
+          "Lon_WGS84": 4.4455059035502025,
+          "X_Lambert72": 155364.01,
+          "Y_Lambert72": 210424.89,
+          "X_Lambert2008": 655358.84,
+          "Y_Lambert2008": 710425.61
+        }
+      }
+    }
+  ]
+}

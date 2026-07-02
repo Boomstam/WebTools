@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Bleekhofstraat",
+      "Housenumber": "2",
+      "ID": 1728166,
+      "FormattedAddress": "Bleekhofstraat 2, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21171955732347,
+        "Lon_WGS84": 4.426370846490308,
+        "X_Lambert72": 154025.95,
+        "Y_Lambert72": 211308.54,
+        "X_Lambert2008": 654020.68,
+        "Y_Lambert2008": 711309.1
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21171955732347,
+          "Lon_WGS84": 4.426370846490308,
+          "X_Lambert72": 154025.95,
+          "Y_Lambert72": 211308.54,
+          "X_Lambert2008": 654020.68,
+          "Y_Lambert2008": 711309.1
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21171955732347,
+          "Lon_WGS84": 4.426370846490308,
+          "X_Lambert72": 154025.95,
+          "Y_Lambert72": 211308.54,
+          "X_Lambert2008": 654020.68,
+          "Y_Lambert2008": 711309.1
+        }
+      }
+    }
+  ]
+}

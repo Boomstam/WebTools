@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Jachtlaan",
+      "Housenumber": "39",
+      "ID": 1874374,
+      "FormattedAddress": "Jachtlaan 39, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.16747467886511,
+        "Lon_WGS84": 4.418114875525779,
+        "X_Lambert72": 153452.35,
+        "Y_Lambert72": 206385.73,
+        "X_Lambert2008": 653447.67,
+        "Y_Lambert2008": 706386.26
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.16747467886511,
+          "Lon_WGS84": 4.418114875525779,
+          "X_Lambert72": 153452.35,
+          "Y_Lambert72": 206385.73,
+          "X_Lambert2008": 653447.67,
+          "Y_Lambert2008": 706386.26
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.16747467886511,
+          "Lon_WGS84": 4.418114875525779,
+          "X_Lambert72": 153452.35,
+          "Y_Lambert72": 206385.73,
+          "X_Lambert2008": 653447.67,
+          "Y_Lambert2008": 706386.26
+        }
+      }
+    }
+  ]
+}

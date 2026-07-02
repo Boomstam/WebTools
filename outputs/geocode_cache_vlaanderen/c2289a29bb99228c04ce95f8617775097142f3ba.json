@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Florastraat",
+      "Housenumber": "126",
+      "ID": 921288,
+      "FormattedAddress": "Florastraat 126, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21932083860716,
+        "Lon_WGS84": 4.442020951330248,
+        "X_Lambert72": 155118.72,
+        "Y_Lambert72": 212155.19,
+        "X_Lambert2008": 655113.34,
+        "Y_Lambert2008": 712155.87
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21932083860716,
+          "Lon_WGS84": 4.442020951330248,
+          "X_Lambert72": 155118.72,
+          "Y_Lambert72": 212155.19,
+          "X_Lambert2008": 655113.34,
+          "Y_Lambert2008": 712155.87
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21932083860716,
+          "Lon_WGS84": 4.442020951330248,
+          "X_Lambert72": 155118.72,
+          "Y_Lambert72": 212155.19,
+          "X_Lambert2008": 655113.34,
+          "Y_Lambert2008": 712155.87
+        }
+      }
+    }
+  ]
+}

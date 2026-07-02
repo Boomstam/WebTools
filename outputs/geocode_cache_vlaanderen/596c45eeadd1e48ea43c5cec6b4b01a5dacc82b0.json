@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Oudestraat",
+      "Housenumber": "76",
+      "ID": 2471097,
+      "FormattedAddress": "Oudestraat 76, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17508275215118,
+        "Lon_WGS84": 4.353302336494063,
+        "X_Lambert72": 148919.19,
+        "Y_Lambert72": 207231.07,
+        "X_Lambert2008": 648914.45,
+        "Y_Lambert2008": 707231.05
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17508275215118,
+          "Lon_WGS84": 4.353302336494063,
+          "X_Lambert72": 148919.19,
+          "Y_Lambert72": 207231.07,
+          "X_Lambert2008": 648914.45,
+          "Y_Lambert2008": 707231.05
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17508275215118,
+          "Lon_WGS84": 4.353302336494063,
+          "X_Lambert72": 148919.19,
+          "Y_Lambert72": 207231.07,
+          "X_Lambert2008": 648914.45,
+          "Y_Lambert2008": 707231.05
+        }
+      }
+    }
+  ]
+}

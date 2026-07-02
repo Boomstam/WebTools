@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Ossenblokstraat",
+      "Housenumber": "28",
+      "ID": 1584653,
+      "FormattedAddress": "Ossenblokstraat 28, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20726258414275,
+        "Lon_WGS84": 4.448918563876057,
+        "X_Lambert72": 155602.1,
+        "Y_Lambert72": 210814.16,
+        "X_Lambert2008": 655596.88,
+        "Y_Lambert2008": 710814.91
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20726258414275,
+          "Lon_WGS84": 4.448918563876057,
+          "X_Lambert72": 155602.1,
+          "Y_Lambert72": 210814.16,
+          "X_Lambert2008": 655596.88,
+          "Y_Lambert2008": 710814.91
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20726258414275,
+          "Lon_WGS84": 4.448918563876057,
+          "X_Lambert72": 155602.1,
+          "Y_Lambert72": 210814.16,
+          "X_Lambert2008": 655596.88,
+          "Y_Lambert2008": 710814.91
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Falconplein",
+      "Housenumber": "25",
+      "ID": 724753,
+      "FormattedAddress": "Falconplein 25, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.225965616153196,
+        "Lon_WGS84": 4.40524908437594,
+        "X_Lambert72": 152549.19,
+        "Y_Lambert72": 212892.53,
+        "X_Lambert2008": 652543.75,
+        "Y_Lambert2008": 712892.9
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.225965616153196,
+          "Lon_WGS84": 4.40524908437594,
+          "X_Lambert72": 152549.19,
+          "Y_Lambert72": 212892.53,
+          "X_Lambert2008": 652543.75,
+          "Y_Lambert2008": 712892.9
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.225965616153196,
+          "Lon_WGS84": 4.40524908437594,
+          "X_Lambert72": 152549.19,
+          "Y_Lambert72": 212892.53,
+          "X_Lambert2008": 652543.75,
+          "Y_Lambert2008": 712892.9
+        }
+      }
+    }
+  ]
+}

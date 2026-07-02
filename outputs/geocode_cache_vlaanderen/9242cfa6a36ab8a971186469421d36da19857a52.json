@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Orteliuskaai",
+      "Housenumber": "2",
+      "ID": 276884,
+      "FormattedAddress": "Orteliuskaai 2, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.225609901958364,
+        "Lon_WGS84": 4.400187256237938,
+        "X_Lambert72": 152195.6,
+        "Y_Lambert72": 212852.79,
+        "X_Lambert2008": 652190.16,
+        "Y_Lambert2008": 712853.12
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.225609901958364,
+          "Lon_WGS84": 4.400187256237938,
+          "X_Lambert72": 152195.6,
+          "Y_Lambert72": 212852.79,
+          "X_Lambert2008": 652190.16,
+          "Y_Lambert2008": 712853.12
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.225609901958364,
+          "Lon_WGS84": 4.400187256237938,
+          "X_Lambert72": 152195.6,
+          "Y_Lambert72": 212852.79,
+          "X_Lambert2008": 652190.16,
+          "Y_Lambert2008": 712853.12
+        }
+      }
+    }
+  ]
+}

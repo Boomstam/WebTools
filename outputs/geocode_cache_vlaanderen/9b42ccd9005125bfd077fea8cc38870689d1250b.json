@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Belgiëlei",
+      "Housenumber": "68",
+      "ID": 610886,
+      "FormattedAddress": "Belgiëlei 68, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20740320094227,
+        "Lon_WGS84": 4.4196534610012925,
+        "X_Lambert72": 153556.88,
+        "Y_Lambert72": 210827.98,
+        "X_Lambert2008": 653551.67,
+        "Y_Lambert2008": 710828.49
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20740320094227,
+          "Lon_WGS84": 4.4196534610012925,
+          "X_Lambert72": 153556.88,
+          "Y_Lambert72": 210827.98,
+          "X_Lambert2008": 653551.67,
+          "Y_Lambert2008": 710828.49
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20740320094227,
+          "Lon_WGS84": 4.4196534610012925,
+          "X_Lambert72": 153556.88,
+          "Y_Lambert72": 210827.98,
+          "X_Lambert2008": 653551.67,
+          "Y_Lambert2008": 710828.49
+        }
+      }
+    }
+  ]
+}

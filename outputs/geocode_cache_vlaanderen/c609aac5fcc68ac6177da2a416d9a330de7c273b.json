@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Lange Leemstraat",
+      "Housenumber": "17",
+      "ID": 1593149,
+      "FormattedAddress": "Lange Leemstraat 17, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21025508485745,
+        "Lon_WGS84": 4.410026547789828,
+        "X_Lambert72": 152883.92,
+        "Y_Lambert72": 211144.84,
+        "X_Lambert2008": 652878.68,
+        "Y_Lambert2008": 711145.26
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21025508485745,
+          "Lon_WGS84": 4.410026547789828,
+          "X_Lambert72": 152883.92,
+          "Y_Lambert72": 211144.84,
+          "X_Lambert2008": 652878.68,
+          "Y_Lambert2008": 711145.26
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21025508485745,
+          "Lon_WGS84": 4.410026547789828,
+          "X_Lambert72": 152883.92,
+          "Y_Lambert72": 211144.84,
+          "X_Lambert2008": 652878.68,
+          "Y_Lambert2008": 711145.26
+        }
+      }
+    }
+  ]
+}

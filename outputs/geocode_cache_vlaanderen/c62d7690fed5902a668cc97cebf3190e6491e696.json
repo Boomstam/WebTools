@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Brederodestraat",
+      "Housenumber": "170",
+      "ID": 1598799,
+      "FormattedAddress": "Brederodestraat 170, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.201596266923445,
+        "Lon_WGS84": 4.391884896706592,
+        "X_Lambert72": 151616.47,
+        "Y_Lambert72": 210180.95,
+        "X_Lambert2008": 651611.36,
+        "Y_Lambert2008": 710181.23
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.201596266923445,
+          "Lon_WGS84": 4.391884896706592,
+          "X_Lambert72": 151616.47,
+          "Y_Lambert72": 210180.95,
+          "X_Lambert2008": 651611.36,
+          "Y_Lambert2008": 710181.23
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.201596266923445,
+          "Lon_WGS84": 4.391884896706592,
+          "X_Lambert72": 151616.47,
+          "Y_Lambert72": 210180.95,
+          "X_Lambert2008": 651611.36,
+          "Y_Lambert2008": 710181.23
+        }
+      }
+    }
+  ]
+}

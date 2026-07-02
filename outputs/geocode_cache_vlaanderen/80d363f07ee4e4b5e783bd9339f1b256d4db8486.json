@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2020",
+      "Thoroughfarename": "Stadionstraat",
+      "Housenumber": "71",
+      "ID": 1742184,
+      "FormattedAddress": "Stadionstraat 71, 2020 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.184573941464016,
+        "Lon_WGS84": 4.385307519453235,
+        "X_Lambert72": 151157.19,
+        "Y_Lambert72": 208287.03,
+        "X_Lambert2008": 651152.31,
+        "Y_Lambert2008": 708287.27
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.184573941464016,
+          "Lon_WGS84": 4.385307519453235,
+          "X_Lambert72": 151157.19,
+          "Y_Lambert72": 208287.03,
+          "X_Lambert2008": 651152.31,
+          "Y_Lambert2008": 708287.27
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.184573941464016,
+          "Lon_WGS84": 4.385307519453235,
+          "X_Lambert72": 151157.19,
+          "Y_Lambert72": 208287.03,
+          "X_Lambert2008": 651152.31,
+          "Y_Lambert2008": 708287.27
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Kernenergiestraat",
+      "Housenumber": "79",
+      "ID": 791358,
+      "FormattedAddress": "Kernenergiestraat 79, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.15694362014016,
+        "Lon_WGS84": 4.389338849324497,
+        "X_Lambert72": 151439.94,
+        "Y_Lambert72": 205213.16,
+        "X_Lambert2008": 651435.42,
+        "Y_Lambert2008": 705213.46
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.15694362014016,
+          "Lon_WGS84": 4.389338849324497,
+          "X_Lambert72": 151439.94,
+          "Y_Lambert72": 205213.16,
+          "X_Lambert2008": 651435.42,
+          "Y_Lambert2008": 705213.46
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.15694362014016,
+          "Lon_WGS84": 4.389338849324497,
+          "X_Lambert72": 151439.94,
+          "Y_Lambert72": 205213.16,
+          "X_Lambert2008": 651435.42,
+          "Y_Lambert2008": 705213.46
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Bredabaan",
+      "Housenumber": "530",
+      "ID": 1420938,
+      "FormattedAddress": "Bredabaan 530, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.24552509154327,
+        "Lon_WGS84": 4.447060659289884,
+        "X_Lambert72": 155467.73,
+        "Y_Lambert72": 215070.91,
+        "X_Lambert2008": 655462.0,
+        "Y_Lambert2008": 715071.61
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.24552509154327,
+          "Lon_WGS84": 4.447060659289884,
+          "X_Lambert72": 155467.73,
+          "Y_Lambert72": 215070.91,
+          "X_Lambert2008": 655462.0,
+          "Y_Lambert2008": 715071.61
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.24552509154327,
+          "Lon_WGS84": 4.447060659289884,
+          "X_Lambert72": 155467.73,
+          "Y_Lambert72": 215070.91,
+          "X_Lambert2008": 655462.0,
+          "Y_Lambert2008": 715071.61
+        }
+      }
+    }
+  ]
+}

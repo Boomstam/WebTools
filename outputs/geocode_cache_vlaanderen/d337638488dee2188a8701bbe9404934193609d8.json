@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Terlostraat",
+      "Housenumber": "8",
+      "ID": 633050,
+      "FormattedAddress": "Terlostraat 8, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21801986946135,
+        "Lon_WGS84": 4.4415699077639434,
+        "X_Lambert72": 155087.35,
+        "Y_Lambert72": 212010.42,
+        "X_Lambert2008": 655081.99,
+        "Y_Lambert2008": 712011.1
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21801986946135,
+          "Lon_WGS84": 4.4415699077639434,
+          "X_Lambert72": 155087.35,
+          "Y_Lambert72": 212010.42,
+          "X_Lambert2008": 655081.99,
+          "Y_Lambert2008": 712011.1
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21801986946135,
+          "Lon_WGS84": 4.4415699077639434,
+          "X_Lambert72": 155087.35,
+          "Y_Lambert72": 212010.42,
+          "X_Lambert2008": 655081.99,
+          "Y_Lambert2008": 712011.1
+        }
+      }
+    }
+  ]
+}

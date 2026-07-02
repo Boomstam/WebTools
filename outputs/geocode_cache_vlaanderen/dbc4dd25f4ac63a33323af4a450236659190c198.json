@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Haachtstraat",
+      "Housenumber": "23",
+      "ID": 1874431,
+      "FormattedAddress": "Haachtstraat 23, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19085405837025,
+        "Lon_WGS84": 4.447040325260987,
+        "X_Lambert72": 155472.78,
+        "Y_Lambert72": 208988.51,
+        "X_Lambert2008": 655467.78,
+        "Y_Lambert2008": 708989.26
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19085405837025,
+          "Lon_WGS84": 4.447040325260987,
+          "X_Lambert72": 155472.78,
+          "Y_Lambert72": 208988.51,
+          "X_Lambert2008": 655467.78,
+          "Y_Lambert2008": 708989.26
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19085405837025,
+          "Lon_WGS84": 4.447040325260987,
+          "X_Lambert72": 155472.78,
+          "Y_Lambert72": 208988.51,
+          "X_Lambert2008": 655467.78,
+          "Y_Lambert2008": 708989.26
+        }
+      }
+    }
+  ]
+}

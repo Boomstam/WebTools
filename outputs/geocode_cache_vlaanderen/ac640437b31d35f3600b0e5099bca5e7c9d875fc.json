@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2020",
+      "Thoroughfarename": "VIIde-Olympiadelaan",
+      "Housenumber": "135",
+      "ID": 900602,
+      "FormattedAddress": "VIIde-Olympiadelaan 135, 2020 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.182875863625036,
+        "Lon_WGS84": 4.382372485938697,
+        "X_Lambert72": 150952.01,
+        "Y_Lambert72": 208098.07,
+        "X_Lambert2008": 650947.15,
+        "Y_Lambert2008": 708098.29
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.182875863625036,
+          "Lon_WGS84": 4.382372485938697,
+          "X_Lambert72": 150952.01,
+          "Y_Lambert72": 208098.07,
+          "X_Lambert2008": 650947.15,
+          "Y_Lambert2008": 708098.29
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.182875863625036,
+          "Lon_WGS84": 4.382372485938697,
+          "X_Lambert72": 150952.01,
+          "Y_Lambert72": 208098.07,
+          "X_Lambert2008": 650947.15,
+          "Y_Lambert2008": 708098.29
+        }
+      }
+    }
+  ]
+}

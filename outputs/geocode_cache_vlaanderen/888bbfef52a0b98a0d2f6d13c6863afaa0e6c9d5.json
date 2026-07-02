@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Vuurkruislaan",
+      "Housenumber": "11",
+      "ID": 816533,
+      "FormattedAddress": "Vuurkruislaan 11, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.1637176618733,
+        "Lon_WGS84": 4.3940000638190515,
+        "X_Lambert72": 151765.78,
+        "Y_Lambert72": 205966.89,
+        "X_Lambert2008": 651761.17,
+        "Y_Lambert2008": 705967.22
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.1637176618733,
+          "Lon_WGS84": 4.3940000638190515,
+          "X_Lambert72": 151765.78,
+          "Y_Lambert72": 205966.89,
+          "X_Lambert2008": 651761.17,
+          "Y_Lambert2008": 705967.22
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.1637176618733,
+          "Lon_WGS84": 4.3940000638190515,
+          "X_Lambert72": 151765.78,
+          "Y_Lambert72": 205966.89,
+          "X_Lambert2008": 651761.17,
+          "Y_Lambert2008": 705967.22
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Constantia Teichmannplaats",
+      "Housenumber": "13",
+      "ID": 1469964,
+      "FormattedAddress": "Constantia Teichmannplaats 13, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20574282696634,
+        "Lon_WGS84": 4.408140902908787,
+        "X_Lambert72": 152752.42,
+        "Y_Lambert72": 210642.76,
+        "X_Lambert2008": 652747.24,
+        "Y_Lambert2008": 710643.17
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20574282696634,
+          "Lon_WGS84": 4.408140902908787,
+          "X_Lambert72": 152752.42,
+          "Y_Lambert72": 210642.76,
+          "X_Lambert2008": 652747.24,
+          "Y_Lambert2008": 710643.17
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20574282696634,
+          "Lon_WGS84": 4.408140902908787,
+          "X_Lambert72": 152752.42,
+          "Y_Lambert72": 210642.76,
+          "X_Lambert2008": 652747.24,
+          "Y_Lambert2008": 710643.17
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Komedieplaats",
+      "Housenumber": "5",
+      "ID": 1326766,
+      "FormattedAddress": "Komedieplaats 5, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21632010487244,
+        "Lon_WGS84": 4.406046577988026,
+        "X_Lambert72": 152605.45,
+        "Y_Lambert72": 211819.45,
+        "X_Lambert2008": 652600.13,
+        "Y_Lambert2008": 711819.83
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21632010487244,
+          "Lon_WGS84": 4.406046577988026,
+          "X_Lambert72": 152605.45,
+          "Y_Lambert72": 211819.45,
+          "X_Lambert2008": 652600.13,
+          "Y_Lambert2008": 711819.83
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21632010487244,
+          "Lon_WGS84": 4.406046577988026,
+          "X_Lambert72": 152605.45,
+          "Y_Lambert72": 211819.45,
+          "X_Lambert2008": 652600.13,
+          "Y_Lambert2008": 711819.83
+        }
+      }
+    }
+  ]
+}

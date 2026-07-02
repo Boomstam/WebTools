@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2180",
+      "Thoroughfarename": "Constant Jordaenslaan",
+      "Housenumber": "4",
+      "ID": 1846371,
+      "FormattedAddress": "Constant Jordaenslaan 4, 2180 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2745794064741,
+        "Lon_WGS84": 4.449487828465418,
+        "X_Lambert72": 155633.67,
+        "Y_Lambert72": 218303.57,
+        "X_Lambert2008": 655627.56,
+        "Y_Lambert2008": 718304.26
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2745794064741,
+          "Lon_WGS84": 4.449487828465418,
+          "X_Lambert72": 155633.67,
+          "Y_Lambert72": 218303.57,
+          "X_Lambert2008": 655627.56,
+          "Y_Lambert2008": 718304.26
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2745794064741,
+          "Lon_WGS84": 4.449487828465418,
+          "X_Lambert72": 155633.67,
+          "Y_Lambert72": 218303.57,
+          "X_Lambert2008": 655627.56,
+          "Y_Lambert2008": 718304.26
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Lange Koepoortstraat",
+      "Housenumber": "35",
+      "ID": 1923068,
+      "FormattedAddress": "Lange Koepoortstraat 35, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.222722865873884,
+        "Lon_WGS84": 4.402629927718615,
+        "X_Lambert72": 152366.39,
+        "Y_Lambert72": 212531.67,
+        "X_Lambert2008": 652360.99,
+        "Y_Lambert2008": 712532.02
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.222722865873884,
+          "Lon_WGS84": 4.402629927718615,
+          "X_Lambert72": 152366.39,
+          "Y_Lambert72": 212531.67,
+          "X_Lambert2008": 652360.99,
+          "Y_Lambert2008": 712532.02
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.222722865873884,
+          "Lon_WGS84": 4.402629927718615,
+          "X_Lambert72": 152366.39,
+          "Y_Lambert72": 212531.67,
+          "X_Lambert2008": 652360.99,
+          "Y_Lambert2008": 712532.02
+        }
+      }
+    }
+  ]
+}

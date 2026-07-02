@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2020",
+      "Thoroughfarename": "Floraliënlaan",
+      "Housenumber": "93",
+      "ID": 393863,
+      "FormattedAddress": "Floraliënlaan 93, 2020 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18775385825442,
+        "Lon_WGS84": 4.416707176316327,
+        "X_Lambert72": 153352.41,
+        "Y_Lambert72": 208641.78,
+        "X_Lambert2008": 653347.47,
+        "Y_Lambert2008": 708642.28
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.18775385825442,
+          "Lon_WGS84": 4.416707176316327,
+          "X_Lambert72": 153352.41,
+          "Y_Lambert72": 208641.78,
+          "X_Lambert2008": 653347.47,
+          "Y_Lambert2008": 708642.28
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18775385825442,
+          "Lon_WGS84": 4.416707176316327,
+          "X_Lambert72": 153352.41,
+          "Y_Lambert72": 208641.78,
+          "X_Lambert2008": 653347.47,
+          "Y_Lambert2008": 708642.28
+        }
+      }
+    }
+  ]
+}

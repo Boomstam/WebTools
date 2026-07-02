@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2150",
+      "Thoroughfarename": "Frans Beirenslaan",
+      "Housenumber": "94",
+      "ID": 30421244,
+      "FormattedAddress": "Frans Beirenslaan 94, 2150 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.1949081075496,
+        "Lon_WGS84": 4.479725110926166,
+        "X_Lambert72": 157757.1,
+        "Y_Lambert72": 209442.47,
+        "X_Lambert2008": 657752.03,
+        "Y_Lambert2008": 709443.49
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.1949081075496,
+          "Lon_WGS84": 4.479725110926166,
+          "X_Lambert72": 157757.1,
+          "Y_Lambert72": 209442.47,
+          "X_Lambert2008": 657752.03,
+          "Y_Lambert2008": 709443.49
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.1949081075496,
+          "Lon_WGS84": 4.479725110926166,
+          "X_Lambert72": 157757.1,
+          "Y_Lambert72": 209442.47,
+          "X_Lambert2008": 657752.03,
+          "Y_Lambert2008": 709443.49
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Oudemansstraat",
+      "Housenumber": "22",
+      "ID": 2150094,
+      "FormattedAddress": "Oudemansstraat 22, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22568526458107,
+        "Lon_WGS84": 4.401974934175781,
+        "X_Lambert72": 152320.48,
+        "Y_Lambert72": 212861.23,
+        "X_Lambert2008": 652315.04,
+        "Y_Lambert2008": 712861.57
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22568526458107,
+          "Lon_WGS84": 4.401974934175781,
+          "X_Lambert72": 152320.48,
+          "Y_Lambert72": 212861.23,
+          "X_Lambert2008": 652315.04,
+          "Y_Lambert2008": 712861.57
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22568526458107,
+          "Lon_WGS84": 4.401974934175781,
+          "X_Lambert72": 152320.48,
+          "Y_Lambert72": 212861.23,
+          "X_Lambert2008": 652315.04,
+          "Y_Lambert2008": 712861.57
+        }
+      }
+    }
+  ]
+}

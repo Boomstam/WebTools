@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Vestingstraat",
+      "Housenumber": "22",
+      "ID": 2471226,
+      "FormattedAddress": "Vestingstraat 22, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.216704704855744,
+        "Lon_WGS84": 4.418360502037485,
+        "X_Lambert72": 153465.82,
+        "Y_Lambert72": 211862.75,
+        "X_Lambert2008": 653460.49,
+        "Y_Lambert2008": 711863.24
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.216704704855744,
+          "Lon_WGS84": 4.418360502037485,
+          "X_Lambert72": 153465.82,
+          "Y_Lambert72": 211862.75,
+          "X_Lambert2008": 653460.49,
+          "Y_Lambert2008": 711863.24
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.216704704855744,
+          "Lon_WGS84": 4.418360502037485,
+          "X_Lambert72": 153465.82,
+          "Y_Lambert72": 211862.75,
+          "X_Lambert2008": 653460.49,
+          "Y_Lambert2008": 711863.24
+        }
+      }
+    }
+  ]
+}

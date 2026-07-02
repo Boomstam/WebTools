@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Van Roiestraat",
+      "Housenumber": "79",
+      "ID": 1671086,
+      "FormattedAddress": "Van Roiestraat 79, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.245666127306784,
+        "Lon_WGS84": 4.442757040174959,
+        "X_Lambert72": 155167.2,
+        "Y_Lambert72": 215086.29,
+        "X_Lambert2008": 655161.47,
+        "Y_Lambert2008": 715086.95
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.245666127306784,
+          "Lon_WGS84": 4.442757040174959,
+          "X_Lambert72": 155167.2,
+          "Y_Lambert72": 215086.29,
+          "X_Lambert2008": 655161.47,
+          "Y_Lambert2008": 715086.95
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.245666127306784,
+          "Lon_WGS84": 4.442757040174959,
+          "X_Lambert72": 155167.2,
+          "Y_Lambert72": 215086.29,
+          "X_Lambert2008": 655161.47,
+          "Y_Lambert2008": 715086.95
+        }
+      }
+    }
+  ]
+}

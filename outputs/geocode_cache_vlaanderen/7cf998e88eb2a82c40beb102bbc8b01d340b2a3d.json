@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Schuttershofstraat",
+      "Housenumber": "36",
+      "ID": 1394159,
+      "FormattedAddress": "Schuttershofstraat 36, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21639457671645,
+        "Lon_WGS84": 4.40834570207942,
+        "X_Lambert72": 152766.09,
+        "Y_Lambert72": 211827.82,
+        "X_Lambert2008": 652760.77,
+        "Y_Lambert2008": 711828.22
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21639457671645,
+          "Lon_WGS84": 4.40834570207942,
+          "X_Lambert72": 152766.09,
+          "Y_Lambert72": 211827.82,
+          "X_Lambert2008": 652760.77,
+          "Y_Lambert2008": 711828.22
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21639457671645,
+          "Lon_WGS84": 4.40834570207942,
+          "X_Lambert72": 152766.09,
+          "Y_Lambert72": 211827.82,
+          "X_Lambert2008": 652760.77,
+          "Y_Lambert2008": 711828.22
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Overwinningstraat",
+      "Housenumber": "61",
+      "ID": 525394,
+      "FormattedAddress": "Overwinningstraat 61, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.175420318184834,
+        "Lon_WGS84": 4.391438550679627,
+        "X_Lambert72": 151586.19,
+        "Y_Lambert72": 207268.78,
+        "X_Lambert2008": 651581.42,
+        "Y_Lambert2008": 707269.08
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.175420318184834,
+          "Lon_WGS84": 4.391438550679627,
+          "X_Lambert72": 151586.19,
+          "Y_Lambert72": 207268.78,
+          "X_Lambert2008": 651581.42,
+          "Y_Lambert2008": 707269.08
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.175420318184834,
+          "Lon_WGS84": 4.391438550679627,
+          "X_Lambert72": 151586.19,
+          "Y_Lambert72": 207268.78,
+          "X_Lambert2008": 651581.42,
+          "Y_Lambert2008": 707269.08
+        }
+      }
+    }
+  ]
+}

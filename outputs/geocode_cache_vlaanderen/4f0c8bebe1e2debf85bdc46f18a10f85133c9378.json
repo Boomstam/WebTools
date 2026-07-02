@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Oudeleeuwenrui",
+      "Housenumber": "46",
+      "ID": 2189799,
+      "FormattedAddress": "Oudeleeuwenrui 46, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.226710984779544,
+        "Lon_WGS84": 4.408378093407489,
+        "X_Lambert72": 152767.73,
+        "Y_Lambert72": 212975.57,
+        "X_Lambert2008": 652762.27,
+        "Y_Lambert2008": 712975.96
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.226710984779544,
+          "Lon_WGS84": 4.408378093407489,
+          "X_Lambert72": 152767.73,
+          "Y_Lambert72": 212975.57,
+          "X_Lambert2008": 652762.27,
+          "Y_Lambert2008": 712975.96
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.226710984779544,
+          "Lon_WGS84": 4.408378093407489,
+          "X_Lambert72": 152767.73,
+          "Y_Lambert72": 212975.57,
+          "X_Lambert2008": 652762.27,
+          "Y_Lambert2008": 712975.96
+        }
+      }
+    }
+  ]
+}

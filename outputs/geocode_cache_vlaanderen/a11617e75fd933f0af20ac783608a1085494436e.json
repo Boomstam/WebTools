@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Jozef De Bomstraat",
+      "Housenumber": "27",
+      "ID": 598864,
+      "FormattedAddress": "Jozef De Bomstraat 27, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20668054958017,
+        "Lon_WGS84": 4.405241863400463,
+        "X_Lambert72": 152549.76,
+        "Y_Lambert72": 210746.98,
+        "X_Lambert2008": 652544.57,
+        "Y_Lambert2008": 710747.37
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20668054958017,
+          "Lon_WGS84": 4.405241863400463,
+          "X_Lambert72": 152549.76,
+          "Y_Lambert72": 210746.98,
+          "X_Lambert2008": 652544.57,
+          "Y_Lambert2008": 710747.37
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20668054958017,
+          "Lon_WGS84": 4.405241863400463,
+          "X_Lambert72": 152549.76,
+          "Y_Lambert72": 210746.98,
+          "X_Lambert2008": 652544.57,
+          "Y_Lambert2008": 710747.37
+        }
+      }
+    }
+  ]
+}

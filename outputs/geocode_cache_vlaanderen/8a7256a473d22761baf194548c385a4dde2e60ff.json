@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Lumbeeckstraat",
+      "Housenumber": "131",
+      "ID": 1839056,
+      "FormattedAddress": "Lumbeeckstraat 131, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17700637387647,
+        "Lon_WGS84": 4.34348661838616,
+        "X_Lambert72": 148232.81,
+        "Y_Lambert72": 207445.26,
+        "X_Lambert2008": 648228.05,
+        "Y_Lambert2008": 707445.16
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17700637387647,
+          "Lon_WGS84": 4.34348661838616,
+          "X_Lambert72": 148232.81,
+          "Y_Lambert72": 207445.26,
+          "X_Lambert2008": 648228.05,
+          "Y_Lambert2008": 707445.16
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17700637387647,
+          "Lon_WGS84": 4.34348661838616,
+          "X_Lambert72": 148232.81,
+          "Y_Lambert72": 207445.26,
+          "X_Lambert2008": 648228.05,
+          "Y_Lambert2008": 707445.16
+        }
+      }
+    }
+  ]
+}

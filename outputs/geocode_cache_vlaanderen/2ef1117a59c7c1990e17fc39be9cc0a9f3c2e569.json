@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Waalsekaai",
+      "Housenumber": "56",
+      "ID": 1888253,
+      "FormattedAddress": "Waalsekaai 56, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20826092808062,
+        "Lon_WGS84": 4.386901188657124,
+        "X_Lambert72": 151267.95,
+        "Y_Lambert72": 210922.32,
+        "X_Lambert2008": 651262.75,
+        "Y_Lambert2008": 710922.55
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20826092808062,
+          "Lon_WGS84": 4.386901188657124,
+          "X_Lambert72": 151267.95,
+          "Y_Lambert72": 210922.32,
+          "X_Lambert2008": 651262.75,
+          "Y_Lambert2008": 710922.55
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20826092808062,
+          "Lon_WGS84": 4.386901188657124,
+          "X_Lambert72": 151267.95,
+          "Y_Lambert72": 210922.32,
+          "X_Lambert2008": 651262.75,
+          "Y_Lambert2008": 710922.55
+        }
+      }
+    }
+  ]
+}

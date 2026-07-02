@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Jozef Stormsstraat",
+      "Housenumber": "34",
+      "ID": 418094,
+      "FormattedAddress": "Jozef Stormsstraat 34, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18398917024999,
+        "Lon_WGS84": 4.356989568476692,
+        "X_Lambert72": 149177.2,
+        "Y_Lambert72": 208221.89,
+        "X_Lambert2008": 649172.34,
+        "Y_Lambert2008": 708221.9
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.18398917024999,
+          "Lon_WGS84": 4.356989568476692,
+          "X_Lambert72": 149177.2,
+          "Y_Lambert72": 208221.89,
+          "X_Lambert2008": 649172.34,
+          "Y_Lambert2008": 708221.9
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18398917024999,
+          "Lon_WGS84": 4.356989568476692,
+          "X_Lambert72": 149177.2,
+          "Y_Lambert72": 208221.89,
+          "X_Lambert2008": 649172.34,
+          "Y_Lambert2008": 708221.9
+        }
+      }
+    }
+  ]
+}

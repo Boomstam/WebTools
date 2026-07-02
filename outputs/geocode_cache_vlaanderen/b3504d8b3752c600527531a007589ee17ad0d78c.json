@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Bacchuslaan",
+      "Housenumber": "21",
+      "ID": 830980,
+      "FormattedAddress": "Bacchuslaan 21, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20133868688711,
+        "Lon_WGS84": 4.443714321510722,
+        "X_Lambert72": 155239.07,
+        "Y_Lambert72": 210154.72,
+        "X_Lambert2008": 655233.93,
+        "Y_Lambert2008": 710155.43
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20133868688711,
+          "Lon_WGS84": 4.443714321510722,
+          "X_Lambert72": 155239.07,
+          "Y_Lambert72": 210154.72,
+          "X_Lambert2008": 655233.93,
+          "Y_Lambert2008": 710155.43
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20133868688711,
+          "Lon_WGS84": 4.443714321510722,
+          "X_Lambert72": 155239.07,
+          "Y_Lambert72": 210154.72,
+          "X_Lambert2008": 655233.93,
+          "Y_Lambert2008": 710155.43
+        }
+      }
+    }
+  ]
+}

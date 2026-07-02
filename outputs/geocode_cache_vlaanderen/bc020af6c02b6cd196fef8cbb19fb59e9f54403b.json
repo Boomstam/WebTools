@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Gemzenstraat",
+      "Housenumber": "30",
+      "ID": 701882,
+      "FormattedAddress": "Gemzenstraat 30, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17484570868699,
+        "Lon_WGS84": 4.422275828530622,
+        "X_Lambert72": 153742.79,
+        "Y_Lambert72": 207205.98,
+        "X_Lambert2008": 653738.01,
+        "Y_Lambert2008": 707206.54
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17484570868699,
+          "Lon_WGS84": 4.422275828530622,
+          "X_Lambert72": 153742.79,
+          "Y_Lambert72": 207205.98,
+          "X_Lambert2008": 653738.01,
+          "Y_Lambert2008": 707206.54
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17484570868699,
+          "Lon_WGS84": 4.422275828530622,
+          "X_Lambert72": 153742.79,
+          "Y_Lambert72": 207205.98,
+          "X_Lambert2008": 653738.01,
+          "Y_Lambert2008": 707206.54
+        }
+      }
+    }
+  ]
+}

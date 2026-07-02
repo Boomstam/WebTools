@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Sterckshoflei",
+      "Housenumber": "25",
+      "ID": 1769599,
+      "FormattedAddress": "Sterckshoflei 25, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20912598000168,
+        "Lon_WGS84": 4.46338758942793,
+        "X_Lambert72": 156613.01,
+        "Y_Lambert72": 211022.67,
+        "X_Lambert2008": 656607.76,
+        "Y_Lambert2008": 711023.54
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20912598000168,
+          "Lon_WGS84": 4.46338758942793,
+          "X_Lambert72": 156613.01,
+          "Y_Lambert72": 211022.67,
+          "X_Lambert2008": 656607.76,
+          "Y_Lambert2008": 711023.54
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20912598000168,
+          "Lon_WGS84": 4.46338758942793,
+          "X_Lambert72": 156613.01,
+          "Y_Lambert72": 211022.67,
+          "X_Lambert2008": 656607.76,
+          "Y_Lambert2008": 711023.54
+        }
+      }
+    }
+  ]
+}

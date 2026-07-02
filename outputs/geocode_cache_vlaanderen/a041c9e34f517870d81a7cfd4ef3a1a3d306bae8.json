@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2180",
+      "Thoroughfarename": "Gebroeders Leemansstraat",
+      "Housenumber": "36",
+      "ID": 2030515,
+      "FormattedAddress": "Gebroeders Leemansstraat 36, 2180 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.28261197460459,
+        "Lon_WGS84": 4.415657547231722,
+        "X_Lambert72": 153272.26,
+        "Y_Lambert72": 219195.2,
+        "X_Lambert2008": 653266.06,
+        "Y_Lambert2008": 719195.6
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.28261197460459,
+          "Lon_WGS84": 4.415657547231722,
+          "X_Lambert72": 153272.26,
+          "Y_Lambert72": 219195.2,
+          "X_Lambert2008": 653266.06,
+          "Y_Lambert2008": 719195.6
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.28261197460459,
+          "Lon_WGS84": 4.415657547231722,
+          "X_Lambert72": 153272.26,
+          "Y_Lambert72": 219195.2,
+          "X_Lambert2008": 653266.06,
+          "Y_Lambert2008": 719195.6
+        }
+      }
+    }
+  ]
+}

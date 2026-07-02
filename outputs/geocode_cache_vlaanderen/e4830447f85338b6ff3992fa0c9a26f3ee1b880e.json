@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Oude Koornmarkt",
+      "Housenumber": "75",
+      "ID": 685618,
+      "FormattedAddress": "Oude Koornmarkt 75, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21887444662805,
+        "Lon_WGS84": 4.400556605196167,
+        "X_Lambert72": 152221.73,
+        "Y_Lambert72": 212103.45,
+        "X_Lambert2008": 652216.38,
+        "Y_Lambert2008": 712103.79
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21887444662805,
+          "Lon_WGS84": 4.400556605196167,
+          "X_Lambert72": 152221.73,
+          "Y_Lambert72": 212103.45,
+          "X_Lambert2008": 652216.38,
+          "Y_Lambert2008": 712103.79
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21887444662805,
+          "Lon_WGS84": 4.400556605196167,
+          "X_Lambert72": 152221.73,
+          "Y_Lambert72": 212103.45,
+          "X_Lambert2008": 652216.38,
+          "Y_Lambert2008": 712103.79
+        }
+      }
+    }
+  ]
+}

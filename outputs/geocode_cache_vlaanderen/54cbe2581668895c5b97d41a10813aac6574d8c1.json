@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Auwersstraat",
+      "Housenumber": "4",
+      "ID": 1074948,
+      "FormattedAddress": "Auwersstraat 4, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.200494742833,
+        "Lon_WGS84": 4.427908697984746,
+        "X_Lambert72": 154134.42,
+        "Y_Lambert72": 210059.82,
+        "X_Lambert2008": 654129.3,
+        "Y_Lambert2008": 710060.4
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.200494742833,
+          "Lon_WGS84": 4.427908697984746,
+          "X_Lambert72": 154134.42,
+          "Y_Lambert72": 210059.82,
+          "X_Lambert2008": 654129.3,
+          "Y_Lambert2008": 710060.4
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.200494742833,
+          "Lon_WGS84": 4.427908697984746,
+          "X_Lambert72": 154134.42,
+          "Y_Lambert72": 210059.82,
+          "X_Lambert2008": 654129.3,
+          "Y_Lambert2008": 710060.4
+        }
+      }
+    }
+  ]
+}

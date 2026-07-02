@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Dokter Van de Perrelei",
+      "Housenumber": "48",
+      "ID": 1765145,
+      "FormattedAddress": "Dokter Van de Perrelei 48, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20882238796942,
+        "Lon_WGS84": 4.448596011299135,
+        "X_Lambert72": 155579.37,
+        "Y_Lambert72": 210987.67,
+        "X_Lambert2008": 655574.13,
+        "Y_Lambert2008": 710988.42
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20882238796942,
+          "Lon_WGS84": 4.448596011299135,
+          "X_Lambert72": 155579.37,
+          "Y_Lambert72": 210987.67,
+          "X_Lambert2008": 655574.13,
+          "Y_Lambert2008": 710988.42
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20882238796942,
+          "Lon_WGS84": 4.448596011299135,
+          "X_Lambert72": 155579.37,
+          "Y_Lambert72": 210987.67,
+          "X_Lambert2008": 655574.13,
+          "Y_Lambert2008": 710988.42
+        }
+      }
+    }
+  ]
+}

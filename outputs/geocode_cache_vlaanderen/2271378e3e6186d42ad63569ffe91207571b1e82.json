@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Bisschoppenhoflaan",
+      "Housenumber": "21",
+      "ID": 1497864,
+      "FormattedAddress": "Bisschoppenhoflaan 21, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.230202765662035,
+        "Lon_WGS84": 4.444612544829329,
+        "X_Lambert72": 155298.54,
+        "Y_Lambert72": 213366.04,
+        "X_Lambert2008": 655293.02,
+        "Y_Lambert2008": 713366.73
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.230202765662035,
+          "Lon_WGS84": 4.444612544829329,
+          "X_Lambert72": 155298.54,
+          "Y_Lambert72": 213366.04,
+          "X_Lambert2008": 655293.02,
+          "Y_Lambert2008": 713366.73
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.230202765662035,
+          "Lon_WGS84": 4.444612544829329,
+          "X_Lambert72": 155298.54,
+          "Y_Lambert72": 213366.04,
+          "X_Lambert2008": 655293.02,
+          "Y_Lambert2008": 713366.73
+        }
+      }
+    }
+  ]
+}

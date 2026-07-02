@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Lange Beeldekensstraat",
+      "Housenumber": "15",
+      "ID": 501946,
+      "FormattedAddress": "Lange Beeldekensstraat 15, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2214719450198,
+        "Lon_WGS84": 4.422083565877512,
+        "X_Lambert72": 153725.57,
+        "Y_Lambert72": 212393.31,
+        "X_Lambert2008": 653720.18,
+        "Y_Lambert2008": 712393.82
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2214719450198,
+          "Lon_WGS84": 4.422083565877512,
+          "X_Lambert72": 153725.57,
+          "Y_Lambert72": 212393.31,
+          "X_Lambert2008": 653720.18,
+          "Y_Lambert2008": 712393.82
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2214719450198,
+          "Lon_WGS84": 4.422083565877512,
+          "X_Lambert72": 153725.57,
+          "Y_Lambert72": 212393.31,
+          "X_Lambert2008": 653720.18,
+          "Y_Lambert2008": 712393.82
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Minderbroedersrui",
+      "Housenumber": "8",
+      "ID": 1541511,
+      "FormattedAddress": "Minderbroedersrui 8, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2232335532142,
+        "Lon_WGS84": 4.403348153359391,
+        "X_Lambert72": 152416.54,
+        "Y_Lambert72": 212588.51,
+        "X_Lambert2008": 652411.13,
+        "Y_Lambert2008": 712588.87
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2232335532142,
+          "Lon_WGS84": 4.403348153359391,
+          "X_Lambert72": 152416.54,
+          "Y_Lambert72": 212588.51,
+          "X_Lambert2008": 652411.13,
+          "Y_Lambert2008": 712588.87
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2232335532142,
+          "Lon_WGS84": 4.403348153359391,
+          "X_Lambert72": 152416.54,
+          "Y_Lambert72": 212588.51,
+          "X_Lambert2008": 652411.13,
+          "Y_Lambert2008": 712588.87
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Godshuisstraat",
+      "Housenumber": "56",
+      "ID": 277674,
+      "FormattedAddress": "Godshuisstraat 56, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17241241968256,
+        "Lon_WGS84": 4.403577397113428,
+        "X_Lambert72": 152435.26,
+        "Y_Lambert72": 206934.48,
+        "X_Lambert2008": 652430.53,
+        "Y_Lambert2008": 706934.88
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17241241968256,
+          "Lon_WGS84": 4.403577397113428,
+          "X_Lambert72": 152435.26,
+          "Y_Lambert72": 206934.48,
+          "X_Lambert2008": 652430.53,
+          "Y_Lambert2008": 706934.88
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17241241968256,
+          "Lon_WGS84": 4.403577397113428,
+          "X_Lambert72": 152435.26,
+          "Y_Lambert72": 206934.48,
+          "X_Lambert2008": 652430.53,
+          "Y_Lambert2008": 706934.88
+        }
+      }
+    }
+  ]
+}

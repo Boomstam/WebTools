@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Frank Craeybeckxlaan",
+      "Housenumber": "10",
+      "ID": 1770137,
+      "FormattedAddress": "Frank Craeybeckxlaan 10, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22081596518174,
+        "Lon_WGS84": 4.459849776067759,
+        "X_Lambert72": 156364.17,
+        "Y_Lambert72": 212322.92,
+        "X_Lambert2008": 656358.76,
+        "Y_Lambert2008": 712323.75
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22081596518174,
+          "Lon_WGS84": 4.459849776067759,
+          "X_Lambert72": 156364.17,
+          "Y_Lambert72": 212322.92,
+          "X_Lambert2008": 656358.76,
+          "Y_Lambert2008": 712323.75
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22081596518174,
+          "Lon_WGS84": 4.459849776067759,
+          "X_Lambert72": 156364.17,
+          "Y_Lambert72": 212322.92,
+          "X_Lambert2008": 656358.76,
+          "Y_Lambert2008": 712323.75
+        }
+      }
+    }
+  ]
+}

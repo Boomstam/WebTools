@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "August Michielsstraat",
+      "Housenumber": "8",
+      "ID": 580299,
+      "FormattedAddress": "August Michielsstraat 8, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.23155723916993,
+        "Lon_WGS84": 4.410179871509869,
+        "X_Lambert72": 152893.29,
+        "Y_Lambert72": 213514.81,
+        "X_Lambert2008": 652887.77,
+        "Y_Lambert2008": 713515.22
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.23155723916993,
+          "Lon_WGS84": 4.410179871509869,
+          "X_Lambert72": 152893.29,
+          "Y_Lambert72": 213514.81,
+          "X_Lambert2008": 652887.77,
+          "Y_Lambert2008": 713515.22
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.23155723916993,
+          "Lon_WGS84": 4.410179871509869,
+          "X_Lambert72": 152893.29,
+          "Y_Lambert72": 213514.81,
+          "X_Lambert2008": 652887.77,
+          "Y_Lambert2008": 713515.22
+        }
+      }
+    }
+  ]
+}

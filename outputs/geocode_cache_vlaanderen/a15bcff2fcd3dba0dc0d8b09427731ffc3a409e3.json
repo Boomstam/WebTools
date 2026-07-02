@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Bervoetstraat",
+      "Housenumber": "8",
+      "ID": 484546,
+      "FormattedAddress": "Bervoetstraat 8, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21204948119452,
+        "Lon_WGS84": 4.401447976923779,
+        "X_Lambert72": 152284.35,
+        "Y_Lambert72": 211344.17,
+        "X_Lambert2008": 652279.09,
+        "Y_Lambert2008": 711344.52
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21204948119452,
+          "Lon_WGS84": 4.401447976923779,
+          "X_Lambert72": 152284.35,
+          "Y_Lambert72": 211344.17,
+          "X_Lambert2008": 652279.09,
+          "Y_Lambert2008": 711344.52
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21204948119452,
+          "Lon_WGS84": 4.401447976923779,
+          "X_Lambert72": 152284.35,
+          "Y_Lambert72": 211344.17,
+          "X_Lambert2008": 652279.09,
+          "Y_Lambert2008": 711344.52
+        }
+      }
+    }
+  ]
+}

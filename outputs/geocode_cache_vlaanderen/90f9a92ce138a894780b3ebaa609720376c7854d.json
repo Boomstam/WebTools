@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Schotensesteenweg",
+      "Housenumber": "49",
+      "ID": 1099043,
+      "FormattedAddress": "Schotensesteenweg 49, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22030569185604,
+        "Lon_WGS84": 4.476320871302579,
+        "X_Lambert72": 157515.01,
+        "Y_Lambert72": 212267.7,
+        "X_Lambert2008": 657509.6,
+        "Y_Lambert2008": 712268.67
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22030569185604,
+          "Lon_WGS84": 4.476320871302579,
+          "X_Lambert72": 157515.01,
+          "Y_Lambert72": 212267.7,
+          "X_Lambert2008": 657509.6,
+          "Y_Lambert2008": 712268.67
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22030569185604,
+          "Lon_WGS84": 4.476320871302579,
+          "X_Lambert72": 157515.01,
+          "Y_Lambert72": 212267.7,
+          "X_Lambert2008": 657509.6,
+          "Y_Lambert2008": 712268.67
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Confortalei",
+      "Housenumber": "266",
+      "ID": 761579,
+      "FormattedAddress": "Confortalei 266, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.23073638161353,
+        "Lon_WGS84": 4.4567397639796456,
+        "X_Lambert72": 156145.57,
+        "Y_Lambert72": 213426.35,
+        "X_Lambert2008": 656140.03,
+        "Y_Lambert2008": 713427.14
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.23073638161353,
+          "Lon_WGS84": 4.4567397639796456,
+          "X_Lambert72": 156145.57,
+          "Y_Lambert72": 213426.35,
+          "X_Lambert2008": 656140.03,
+          "Y_Lambert2008": 713427.14
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.23073638161353,
+          "Lon_WGS84": 4.4567397639796456,
+          "X_Lambert72": 156145.57,
+          "Y_Lambert72": 213426.35,
+          "X_Lambert2008": 656140.03,
+          "Y_Lambert2008": 713427.14
+        }
+      }
+    }
+  ]
+}

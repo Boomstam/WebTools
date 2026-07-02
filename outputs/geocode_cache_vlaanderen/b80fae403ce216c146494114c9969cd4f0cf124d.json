@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Albert Grisarstraat",
+      "Housenumber": "56",
+      "ID": 892031,
+      "FormattedAddress": "Albert Grisarstraat 56, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20011553198023,
+        "Lon_WGS84": 4.419066400237822,
+        "X_Lambert72": 153516.41,
+        "Y_Lambert72": 210017.17,
+        "X_Lambert2008": 653511.3,
+        "Y_Lambert2008": 710017.68
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20011553198023,
+          "Lon_WGS84": 4.419066400237822,
+          "X_Lambert72": 153516.41,
+          "Y_Lambert72": 210017.17,
+          "X_Lambert2008": 653511.3,
+          "Y_Lambert2008": 710017.68
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20011553198023,
+          "Lon_WGS84": 4.419066400237822,
+          "X_Lambert72": 153516.41,
+          "Y_Lambert72": 210017.17,
+          "X_Lambert2008": 653511.3,
+          "Y_Lambert2008": 710017.68
+        }
+      }
+    }
+  ]
+}

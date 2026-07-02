@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Leopoldstraat",
+      "Housenumber": "1",
+      "ID": 1241867,
+      "FormattedAddress": "Leopoldstraat 1, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21568723591151,
+        "Lon_WGS84": 4.406862687001147,
+        "X_Lambert72": 152662.51,
+        "Y_Lambert72": 211749.07,
+        "X_Lambert2008": 652657.2,
+        "Y_Lambert2008": 711749.46
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21568723591151,
+          "Lon_WGS84": 4.406862687001147,
+          "X_Lambert72": 152662.51,
+          "Y_Lambert72": 211749.07,
+          "X_Lambert2008": 652657.2,
+          "Y_Lambert2008": 711749.46
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21568723591151,
+          "Lon_WGS84": 4.406862687001147,
+          "X_Lambert72": 152662.51,
+          "Y_Lambert72": 211749.07,
+          "X_Lambert2008": 652657.2,
+          "Y_Lambert2008": 711749.46
+        }
+      }
+    }
+  ]
+}

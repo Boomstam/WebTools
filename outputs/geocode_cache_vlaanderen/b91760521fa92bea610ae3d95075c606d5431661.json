@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Gemeentestraat",
+      "Housenumber": "5",
+      "ID": 2429356,
+      "FormattedAddress": "Gemeentestraat 5, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21949971370801,
+        "Lon_WGS84": 4.418835841331117,
+        "X_Lambert72": 153498.82,
+        "Y_Lambert72": 212173.73,
+        "X_Lambert2008": 653493.45,
+        "Y_Lambert2008": 712174.22
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21949971370801,
+          "Lon_WGS84": 4.418835841331117,
+          "X_Lambert72": 153498.82,
+          "Y_Lambert72": 212173.73,
+          "X_Lambert2008": 653493.45,
+          "Y_Lambert2008": 712174.22
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21949971370801,
+          "Lon_WGS84": 4.418835841331117,
+          "X_Lambert72": 153498.82,
+          "Y_Lambert72": 212173.73,
+          "X_Lambert2008": 653493.45,
+          "Y_Lambert2008": 712174.22
+        }
+      }
+    }
+  ]
+}

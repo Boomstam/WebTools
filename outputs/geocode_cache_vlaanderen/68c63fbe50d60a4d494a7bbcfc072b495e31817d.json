@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Eethuisstraat",
+      "Housenumber": "126",
+      "ID": 2017091,
+      "FormattedAddress": "Eethuisstraat 126, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.249743365038036,
+        "Lon_WGS84": 4.4648751118147905,
+        "X_Lambert72": 156711.07,
+        "Y_Lambert72": 215541.69,
+        "X_Lambert2008": 656705.28,
+        "Y_Lambert2008": 715542.53
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.249743365038036,
+          "Lon_WGS84": 4.4648751118147905,
+          "X_Lambert72": 156711.07,
+          "Y_Lambert72": 215541.69,
+          "X_Lambert2008": 656705.28,
+          "Y_Lambert2008": 715542.53
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.249743365038036,
+          "Lon_WGS84": 4.4648751118147905,
+          "X_Lambert72": 156711.07,
+          "Y_Lambert72": 215541.69,
+          "X_Lambert2008": 656705.28,
+          "Y_Lambert2008": 715542.53
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Vijfhoekstraat",
+      "Housenumber": "33",
+      "ID": 2230782,
+      "FormattedAddress": "Vijfhoekstraat 33, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19504039650129,
+        "Lon_WGS84": 4.4132663268387455,
+        "X_Lambert72": 153111.35,
+        "Y_Lambert72": 209452.28,
+        "X_Lambert2008": 653106.31,
+        "Y_Lambert2008": 709452.74
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19504039650129,
+          "Lon_WGS84": 4.4132663268387455,
+          "X_Lambert72": 153111.35,
+          "Y_Lambert72": 209452.28,
+          "X_Lambert2008": 653106.31,
+          "Y_Lambert2008": 709452.74
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19504039650129,
+          "Lon_WGS84": 4.4132663268387455,
+          "X_Lambert72": 153111.35,
+          "Y_Lambert72": 209452.28,
+          "X_Lambert2008": 653106.31,
+          "Y_Lambert2008": 709452.74
+        }
+      }
+    }
+  ]
+}

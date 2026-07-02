@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Ballaarstraat",
+      "Housenumber": "91",
+      "ID": 203107,
+      "FormattedAddress": "Ballaarstraat 91, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2025476002198,
+        "Lon_WGS84": 4.402171437994069,
+        "X_Lambert72": 152335.39,
+        "Y_Lambert72": 210287.07,
+        "X_Lambert2008": 652330.26,
+        "Y_Lambert2008": 710287.43
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2025476002198,
+          "Lon_WGS84": 4.402171437994069,
+          "X_Lambert72": 152335.39,
+          "Y_Lambert72": 210287.07,
+          "X_Lambert2008": 652330.26,
+          "Y_Lambert2008": 710287.43
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2025476002198,
+          "Lon_WGS84": 4.402171437994069,
+          "X_Lambert72": 152335.39,
+          "Y_Lambert72": 210287.07,
+          "X_Lambert2008": 652330.26,
+          "Y_Lambert2008": 710287.43
+        }
+      }
+    }
+  ]
+}

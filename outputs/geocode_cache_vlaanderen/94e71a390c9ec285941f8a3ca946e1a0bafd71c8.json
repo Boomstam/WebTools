@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Sint-Jobstraat",
+      "Housenumber": null,
+      "ID": 2632,
+      "FormattedAddress": "Sint-Jobstraat, Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.229076829457526,
+        "Lon_WGS84": 4.4230548295887955,
+        "X_Lambert72": 153792.8,
+        "Y_Lambert72": 213239.44,
+        "X_Lambert2008": 653787.31,
+        "Y_Lambert2008": 713239.95
+      },
+      "LocationType": "basisregisters_straat",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.227193481658226,
+          "Lon_WGS84": 4.42270174199212,
+          "X_Lambert72": 153768.29,
+          "Y_Lambert72": 213029.89,
+          "X_Lambert2008": 653762.82,
+          "Y_Lambert2008": 713030.4
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22974989897265,
+          "Lon_WGS84": 4.424910691001792,
+          "X_Lambert72": 153922.38,
+          "Y_Lambert72": 213314.42,
+          "X_Lambert2008": 653916.88,
+          "Y_Lambert2008": 713314.95
+        }
+      }
+    }
+  ]
+}

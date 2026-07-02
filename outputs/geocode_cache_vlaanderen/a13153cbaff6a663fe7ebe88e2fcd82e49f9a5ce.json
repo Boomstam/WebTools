@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2150",
+      "Thoroughfarename": "Jan Goovaersstraat",
+      "Housenumber": "21",
+      "ID": 30425670,
+      "FormattedAddress": "Jan Goovaersstraat 21, 2150 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19358238488462,
+        "Lon_WGS84": 4.490792226936305,
+        "X_Lambert72": 158530.98,
+        "Y_Lambert72": 209296.2,
+        "X_Lambert2008": 658525.92,
+        "Y_Lambert2008": 709297.31
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19358238488462,
+          "Lon_WGS84": 4.490792226936305,
+          "X_Lambert72": 158530.98,
+          "Y_Lambert72": 209296.2,
+          "X_Lambert2008": 658525.92,
+          "Y_Lambert2008": 709297.31
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19358238488462,
+          "Lon_WGS84": 4.490792226936305,
+          "X_Lambert72": 158530.98,
+          "Y_Lambert72": 209296.2,
+          "X_Lambert2008": 658525.92,
+          "Y_Lambert2008": 709297.31
+        }
+      }
+    }
+  ]
+}

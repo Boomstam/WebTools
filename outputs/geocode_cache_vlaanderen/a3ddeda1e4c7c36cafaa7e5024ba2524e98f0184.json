@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2020",
+      "Thoroughfarename": "Floris Primsstraat",
+      "Housenumber": "3",
+      "ID": 2324941,
+      "FormattedAddress": "Floris Primsstraat 3, 2020 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19441416953585,
+        "Lon_WGS84": 4.392096807573369,
+        "X_Lambert72": 151631.54,
+        "Y_Lambert72": 209381.92,
+        "X_Lambert2008": 651626.52,
+        "Y_Lambert2008": 709382.21
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19441416953585,
+          "Lon_WGS84": 4.392096807573369,
+          "X_Lambert72": 151631.54,
+          "Y_Lambert72": 209381.92,
+          "X_Lambert2008": 651626.52,
+          "Y_Lambert2008": 709382.21
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19441416953585,
+          "Lon_WGS84": 4.392096807573369,
+          "X_Lambert72": 151631.54,
+          "Y_Lambert72": 209381.92,
+          "X_Lambert2008": 651626.52,
+          "Y_Lambert2008": 709382.21
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Belegstraat",
+      "Housenumber": "35",
+      "ID": 1298434,
+      "FormattedAddress": "Belegstraat 35, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20494471643096,
+        "Lon_WGS84": 4.395680761443764,
+        "X_Lambert72": 151881.64,
+        "Y_Lambert72": 210553.57,
+        "X_Lambert2008": 651876.48,
+        "Y_Lambert2008": 710553.88
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20494471643096,
+          "Lon_WGS84": 4.395680761443764,
+          "X_Lambert72": 151881.64,
+          "Y_Lambert72": 210553.57,
+          "X_Lambert2008": 651876.48,
+          "Y_Lambert2008": 710553.88
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20494471643096,
+          "Lon_WGS84": 4.395680761443764,
+          "X_Lambert72": 151881.64,
+          "Y_Lambert72": 210553.57,
+          "X_Lambert2008": 651876.48,
+          "Y_Lambert2008": 710553.88
+        }
+      }
+    }
+  ]
+}

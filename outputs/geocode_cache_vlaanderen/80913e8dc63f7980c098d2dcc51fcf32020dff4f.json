@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Dianalaan",
+      "Housenumber": "143",
+      "ID": 858251,
+      "FormattedAddress": "Dianalaan 143, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.196881849484136,
+        "Lon_WGS84": 4.444267599808196,
+        "X_Lambert72": 155278.25,
+        "Y_Lambert72": 209658.92,
+        "X_Lambert2008": 655273.17,
+        "Y_Lambert2008": 709659.64
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.196881849484136,
+          "Lon_WGS84": 4.444267599808196,
+          "X_Lambert72": 155278.25,
+          "Y_Lambert72": 209658.92,
+          "X_Lambert2008": 655273.17,
+          "Y_Lambert2008": 709659.64
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.196881849484136,
+          "Lon_WGS84": 4.444267599808196,
+          "X_Lambert72": 155278.25,
+          "Y_Lambert72": 209658.92,
+          "X_Lambert2008": 655273.17,
+          "Y_Lambert2008": 709659.64
+        }
+      }
+    }
+  ]
+}

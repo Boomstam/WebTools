@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Van Immerseelstraat",
+      "Housenumber": "7",
+      "ID": 1608055,
+      "FormattedAddress": "Van Immerseelstraat 7, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21296867727799,
+        "Lon_WGS84": 4.423187385655713,
+        "X_Lambert72": 153803.39,
+        "Y_Lambert72": 211447.34,
+        "X_Lambert2008": 653798.11,
+        "Y_Lambert2008": 711447.87
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21296867727799,
+          "Lon_WGS84": 4.423187385655713,
+          "X_Lambert72": 153803.39,
+          "Y_Lambert72": 211447.34,
+          "X_Lambert2008": 653798.11,
+          "Y_Lambert2008": 711447.87
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21296867727799,
+          "Lon_WGS84": 4.423187385655713,
+          "X_Lambert72": 153803.39,
+          "Y_Lambert72": 211447.34,
+          "X_Lambert2008": 653798.11,
+          "Y_Lambert2008": 711447.87
+        }
+      }
+    }
+  ]
+}

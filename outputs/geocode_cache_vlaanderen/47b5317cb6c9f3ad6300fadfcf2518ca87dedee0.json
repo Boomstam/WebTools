@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Isabellalei",
+      "Housenumber": "106",
+      "ID": 2450567,
+      "FormattedAddress": "Isabellalei 106, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20311759419874,
+        "Lon_WGS84": 4.418207779527857,
+        "X_Lambert72": 153456.17,
+        "Y_Lambert72": 210351.12,
+        "X_Lambert2008": 653451.02,
+        "Y_Lambert2008": 710351.62
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20311759419874,
+          "Lon_WGS84": 4.418207779527857,
+          "X_Lambert72": 153456.17,
+          "Y_Lambert72": 210351.12,
+          "X_Lambert2008": 653451.02,
+          "Y_Lambert2008": 710351.62
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20311759419874,
+          "Lon_WGS84": 4.418207779527857,
+          "X_Lambert72": 153456.17,
+          "Y_Lambert72": 210351.12,
+          "X_Lambert2008": 653451.02,
+          "Y_Lambert2008": 710351.62
+        }
+      }
+    }
+  ]
+}

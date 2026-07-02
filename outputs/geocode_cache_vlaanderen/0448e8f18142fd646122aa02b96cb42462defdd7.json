@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "De Bisthovenlei",
+      "Housenumber": "70",
+      "ID": 367290,
+      "FormattedAddress": "De Bisthovenlei 70, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.226847903541454,
+        "Lon_WGS84": 4.457007933547065,
+        "X_Lambert72": 156164.82,
+        "Y_Lambert72": 212993.76,
+        "X_Lambert2008": 656159.34,
+        "Y_Lambert2008": 712994.56
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.226847903541454,
+          "Lon_WGS84": 4.457007933547065,
+          "X_Lambert72": 156164.82,
+          "Y_Lambert72": 212993.76,
+          "X_Lambert2008": 656159.34,
+          "Y_Lambert2008": 712994.56
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.226847903541454,
+          "Lon_WGS84": 4.457007933547065,
+          "X_Lambert72": 156164.82,
+          "Y_Lambert72": 212993.76,
+          "X_Lambert2008": 656159.34,
+          "Y_Lambert2008": 712994.56
+        }
+      }
+    }
+  ]
+}

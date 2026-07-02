@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Valkenputstraat",
+      "Housenumber": "84",
+      "ID": 1235234,
+      "FormattedAddress": "Valkenputstraat 84, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.196888725092116,
+        "Lon_WGS84": 4.44530679310165,
+        "X_Lambert72": 155350.89,
+        "Y_Lambert72": 209659.76,
+        "X_Lambert2008": 655345.81,
+        "Y_Lambert2008": 709660.49
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.196888725092116,
+          "Lon_WGS84": 4.44530679310165,
+          "X_Lambert72": 155350.89,
+          "Y_Lambert72": 209659.76,
+          "X_Lambert2008": 655345.81,
+          "Y_Lambert2008": 709660.49
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.196888725092116,
+          "Lon_WGS84": 4.44530679310165,
+          "X_Lambert72": 155350.89,
+          "Y_Lambert72": 209659.76,
+          "X_Lambert2008": 655345.81,
+          "Y_Lambert2008": 709660.49
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Fruithoflaan",
+      "Housenumber": null,
+      "ID": 920,
+      "FormattedAddress": "Fruithoflaan, Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18286912748746,
+        "Lon_WGS84": 4.438644058214385,
+        "X_Lambert72": 154886.64,
+        "Y_Lambert72": 208099.57,
+        "X_Lambert2008": 654881.75,
+        "Y_Lambert2008": 708100.26
+      },
+      "LocationType": "basisregisters_straat",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17989352444399,
+          "Lon_WGS84": 4.433077439980626,
+          "X_Lambert72": 154497.7,
+          "Y_Lambert72": 207768.17,
+          "X_Lambert2008": 654492.85,
+          "Y_Lambert2008": 707768.81
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18639737738661,
+          "Lon_WGS84": 4.443746306583728,
+          "X_Lambert72": 155243.0,
+          "Y_Lambert72": 208492.45,
+          "X_Lambert2008": 655238.06,
+          "Y_Lambert2008": 708493.18
+        }
+      }
+    }
+  ]
+}

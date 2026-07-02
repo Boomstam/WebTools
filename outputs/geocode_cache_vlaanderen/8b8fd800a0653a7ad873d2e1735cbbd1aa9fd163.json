@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Lange Kievitstraat",
+      "Housenumber": "81",
+      "ID": 1502275,
+      "FormattedAddress": "Lange Kievitstraat 81, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21300437688711,
+        "Lon_WGS84": 4.420180716142092,
+        "X_Lambert72": 153593.29,
+        "Y_Lambert72": 211451.16,
+        "X_Lambert2008": 653588.01,
+        "Y_Lambert2008": 711451.67
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21300437688711,
+          "Lon_WGS84": 4.420180716142092,
+          "X_Lambert72": 153593.29,
+          "Y_Lambert72": 211451.16,
+          "X_Lambert2008": 653588.01,
+          "Y_Lambert2008": 711451.67
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21300437688711,
+          "Lon_WGS84": 4.420180716142092,
+          "X_Lambert72": 153593.29,
+          "Y_Lambert72": 211451.16,
+          "X_Lambert2008": 653588.01,
+          "Y_Lambert2008": 711451.67
+        }
+      }
+    }
+  ]
+}

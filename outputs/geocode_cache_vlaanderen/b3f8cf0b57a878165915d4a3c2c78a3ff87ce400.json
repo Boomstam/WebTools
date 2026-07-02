@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Aalmoezenierstraat",
+      "Housenumber": "34",
+      "ID": 389234,
+      "FormattedAddress": "Aalmoezenierstraat 34, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.214162540449,
+        "Lon_WGS84": 4.399582305832853,
+        "X_Lambert72": 152153.88,
+        "Y_Lambert72": 211579.2,
+        "X_Lambert2008": 652148.6,
+        "Y_Lambert2008": 711579.53
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.214162540449,
+          "Lon_WGS84": 4.399582305832853,
+          "X_Lambert72": 152153.88,
+          "Y_Lambert72": 211579.2,
+          "X_Lambert2008": 652148.6,
+          "Y_Lambert2008": 711579.53
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.214162540449,
+          "Lon_WGS84": 4.399582305832853,
+          "X_Lambert72": 152153.88,
+          "Y_Lambert72": 211579.2,
+          "X_Lambert2008": 652148.6,
+          "Y_Lambert2008": 711579.53
+        }
+      }
+    }
+  ]
+}

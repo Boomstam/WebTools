@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Sint-Bernardsesteenweg",
+      "Housenumber": "618",
+      "ID": 2056654,
+      "FormattedAddress": "Sint-Bernardsesteenweg 618, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18299917088525,
+        "Lon_WGS84": 4.372221494988791,
+        "X_Lambert72": 150242.23,
+        "Y_Lambert72": 208111.7,
+        "X_Lambert2008": 650237.37,
+        "Y_Lambert2008": 708111.83
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.18299917088525,
+          "Lon_WGS84": 4.372221494988791,
+          "X_Lambert72": 150242.23,
+          "Y_Lambert72": 208111.7,
+          "X_Lambert2008": 650237.37,
+          "Y_Lambert2008": 708111.83
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18299917088525,
+          "Lon_WGS84": 4.372221494988791,
+          "X_Lambert72": 150242.23,
+          "Y_Lambert72": 208111.7,
+          "X_Lambert2008": 650237.37,
+          "Y_Lambert2008": 708111.83
+        }
+      }
+    }
+  ]
+}

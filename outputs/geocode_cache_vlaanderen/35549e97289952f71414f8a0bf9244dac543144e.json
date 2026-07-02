@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Frankrijklei",
+      "Housenumber": "29",
+      "ID": 490198,
+      "FormattedAddress": "Frankrijklei 29, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21709658683502,
+        "Lon_WGS84": 4.4155654823878505,
+        "X_Lambert72": 153270.5,
+        "Y_Lambert72": 211906.22,
+        "X_Lambert2008": 653265.17,
+        "Y_Lambert2008": 711906.68
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21709658683502,
+          "Lon_WGS84": 4.4155654823878505,
+          "X_Lambert72": 153270.5,
+          "Y_Lambert72": 211906.22,
+          "X_Lambert2008": 653265.17,
+          "Y_Lambert2008": 711906.68
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21709658683502,
+          "Lon_WGS84": 4.4155654823878505,
+          "X_Lambert72": 153270.5,
+          "Y_Lambert72": 211906.22,
+          "X_Lambert2008": 653265.17,
+          "Y_Lambert2008": 711906.68
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Meeuwenhoflei",
+      "Housenumber": "84",
+      "ID": 294201,
+      "FormattedAddress": "Meeuwenhoflei 84, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22826997143087,
+        "Lon_WGS84": 4.452822488845908,
+        "X_Lambert72": 155872.26,
+        "Y_Lambert72": 213151.63,
+        "X_Lambert2008": 655866.76,
+        "Y_Lambert2008": 713152.39
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22826997143087,
+          "Lon_WGS84": 4.452822488845908,
+          "X_Lambert72": 155872.26,
+          "Y_Lambert72": 213151.63,
+          "X_Lambert2008": 655866.76,
+          "Y_Lambert2008": 713152.39
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22826997143087,
+          "Lon_WGS84": 4.452822488845908,
+          "X_Lambert72": 155872.26,
+          "Y_Lambert72": 213151.63,
+          "X_Lambert2008": 655866.76,
+          "Y_Lambert2008": 713152.39
+        }
+      }
+    }
+  ]
+}

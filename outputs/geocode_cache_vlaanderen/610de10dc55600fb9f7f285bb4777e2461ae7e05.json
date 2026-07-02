@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Italiëlei",
+      "Housenumber": "189",
+      "ID": 809864,
+      "FormattedAddress": "Italiëlei 189, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22256001836614,
+        "Lon_WGS84": 4.416628981385322,
+        "X_Lambert72": 153344.41,
+        "Y_Lambert72": 212514.1,
+        "X_Lambert2008": 653339.01,
+        "Y_Lambert2008": 712514.57
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22256001836614,
+          "Lon_WGS84": 4.416628981385322,
+          "X_Lambert72": 153344.41,
+          "Y_Lambert72": 212514.1,
+          "X_Lambert2008": 653339.01,
+          "Y_Lambert2008": 712514.57
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22256001836614,
+          "Lon_WGS84": 4.416628981385322,
+          "X_Lambert72": 153344.41,
+          "Y_Lambert72": 212514.1,
+          "X_Lambert2008": 653339.01,
+          "Y_Lambert2008": 712514.57
+        }
+      }
+    }
+  ]
+}

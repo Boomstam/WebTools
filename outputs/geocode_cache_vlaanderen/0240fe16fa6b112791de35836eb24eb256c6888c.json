@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Ruggeveldlaan",
+      "Housenumber": "530",
+      "ID": 1374003,
+      "FormattedAddress": "Ruggeveldlaan 530, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22089348119363,
+        "Lon_WGS84": 4.480517319211661,
+        "X_Lambert72": 157808.1,
+        "Y_Lambert72": 212333.53,
+        "X_Lambert2008": 657802.68,
+        "Y_Lambert2008": 712334.53
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22089348119363,
+          "Lon_WGS84": 4.480517319211661,
+          "X_Lambert72": 157808.1,
+          "Y_Lambert72": 212333.53,
+          "X_Lambert2008": 657802.68,
+          "Y_Lambert2008": 712334.53
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22089348119363,
+          "Lon_WGS84": 4.480517319211661,
+          "X_Lambert72": 157808.1,
+          "Y_Lambert72": 212333.53,
+          "X_Lambert2008": 657802.68,
+          "Y_Lambert2008": 712334.53
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Kortrijkstraat",
+      "Housenumber": "92",
+      "ID": 1486660,
+      "FormattedAddress": "Kortrijkstraat 92, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.222762034492824,
+        "Lon_WGS84": 4.441023151721399,
+        "X_Lambert72": 155048.63,
+        "Y_Lambert72": 212537.97,
+        "X_Lambert2008": 655043.21,
+        "Y_Lambert2008": 712538.64
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.222762034492824,
+          "Lon_WGS84": 4.441023151721399,
+          "X_Lambert72": 155048.63,
+          "Y_Lambert72": 212537.97,
+          "X_Lambert2008": 655043.21,
+          "Y_Lambert2008": 712538.64
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.222762034492824,
+          "Lon_WGS84": 4.441023151721399,
+          "X_Lambert72": 155048.63,
+          "Y_Lambert72": 212537.97,
+          "X_Lambert2008": 655043.21,
+          "Y_Lambert2008": 712538.64
+        }
+      }
+    }
+  ]
+}

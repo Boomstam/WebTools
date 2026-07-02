@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Pelikaanstraat",
+      "Housenumber": "42",
+      "ID": 1963365,
+      "FormattedAddress": "Pelikaanstraat 42, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.215755676366975,
+        "Lon_WGS84": 4.420301290365693,
+        "X_Lambert72": 153601.5,
+        "Y_Lambert72": 211757.26,
+        "X_Lambert2008": 653596.18,
+        "Y_Lambert2008": 711757.76
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.215755676366975,
+          "Lon_WGS84": 4.420301290365693,
+          "X_Lambert72": 153601.5,
+          "Y_Lambert72": 211757.26,
+          "X_Lambert2008": 653596.18,
+          "Y_Lambert2008": 711757.76
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.215755676366975,
+          "Lon_WGS84": 4.420301290365693,
+          "X_Lambert72": 153601.5,
+          "Y_Lambert72": 211757.26,
+          "X_Lambert2008": 653596.18,
+          "Y_Lambert2008": 711757.76
+        }
+      }
+    }
+  ]
+}

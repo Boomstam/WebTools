@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Dascottelei",
+      "Housenumber": "22",
+      "ID": 1057412,
+      "FormattedAddress": "Dascottelei 22, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20240865073549,
+        "Lon_WGS84": 4.465583100945242,
+        "X_Lambert72": 156767.42,
+        "Y_Lambert72": 210275.54,
+        "X_Lambert2008": 656762.25,
+        "Y_Lambert2008": 710276.43
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20240865073549,
+          "Lon_WGS84": 4.465583100945242,
+          "X_Lambert72": 156767.42,
+          "Y_Lambert72": 210275.54,
+          "X_Lambert2008": 656762.25,
+          "Y_Lambert2008": 710276.43
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20240865073549,
+          "Lon_WGS84": 4.465583100945242,
+          "X_Lambert72": 156767.42,
+          "Y_Lambert72": 210275.54,
+          "X_Lambert2008": 656762.25,
+          "Y_Lambert2008": 710276.43
+        }
+      }
+    }
+  ]
+}

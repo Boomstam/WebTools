@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Edmond Cretsstraat",
+      "Housenumber": "25",
+      "ID": 2457575,
+      "FormattedAddress": "Edmond Cretsstraat 25, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17367992724303,
+        "Lon_WGS84": 4.345456742423663,
+        "X_Lambert72": 148370.47,
+        "Y_Lambert72": 207075.14,
+        "X_Lambert2008": 648365.75,
+        "Y_Lambert2008": 707075.06
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17367992724303,
+          "Lon_WGS84": 4.345456742423663,
+          "X_Lambert72": 148370.47,
+          "Y_Lambert72": 207075.14,
+          "X_Lambert2008": 648365.75,
+          "Y_Lambert2008": 707075.06
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17367992724303,
+          "Lon_WGS84": 4.345456742423663,
+          "X_Lambert72": 148370.47,
+          "Y_Lambert72": 207075.14,
+          "X_Lambert2008": 648365.75,
+          "Y_Lambert2008": 707075.06
+        }
+      }
+    }
+  ]
+}

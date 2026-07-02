@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Vleerakkerstraat",
+      "Housenumber": "29",
+      "ID": 2186640,
+      "FormattedAddress": "Vleerakkerstraat 29, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20186410087589,
+        "Lon_WGS84": 4.4755648442236975,
+        "X_Lambert72": 157465.16,
+        "Y_Lambert72": 210215.92,
+        "X_Lambert2008": 657460.0,
+        "Y_Lambert2008": 710216.9
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20186410087589,
+          "Lon_WGS84": 4.4755648442236975,
+          "X_Lambert72": 157465.16,
+          "Y_Lambert72": 210215.92,
+          "X_Lambert2008": 657460.0,
+          "Y_Lambert2008": 710216.9
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20186410087589,
+          "Lon_WGS84": 4.4755648442236975,
+          "X_Lambert72": 157465.16,
+          "Y_Lambert72": 210215.92,
+          "X_Lambert2008": 657460.0,
+          "Y_Lambert2008": 710216.9
+        }
+      }
+    }
+  ]
+}

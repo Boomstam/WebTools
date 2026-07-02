@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Doornstraat",
+      "Housenumber": "181",
+      "ID": 2370331,
+      "FormattedAddress": "Doornstraat 181, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.16416176324728,
+        "Lon_WGS84": 4.398612020247327,
+        "X_Lambert72": 152088.37,
+        "Y_Lambert72": 206016.42,
+        "X_Lambert2008": 652083.75,
+        "Y_Lambert2008": 706016.79
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.16416176324728,
+          "Lon_WGS84": 4.398612020247327,
+          "X_Lambert72": 152088.37,
+          "Y_Lambert72": 206016.42,
+          "X_Lambert2008": 652083.75,
+          "Y_Lambert2008": 706016.79
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.16416176324728,
+          "Lon_WGS84": 4.398612020247327,
+          "X_Lambert72": 152088.37,
+          "Y_Lambert72": 206016.42,
+          "X_Lambert2008": 652083.75,
+          "Y_Lambert2008": 706016.79
+        }
+      }
+    }
+  ]
+}

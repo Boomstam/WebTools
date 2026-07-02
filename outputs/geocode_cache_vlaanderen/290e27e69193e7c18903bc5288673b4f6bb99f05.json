@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Antwerpsesteenweg",
+      "Housenumber": "89",
+      "ID": 860546,
+      "FormattedAddress": "Antwerpsesteenweg 89, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.1786206721331,
+        "Lon_WGS84": 4.355946489866655,
+        "X_Lambert72": 149104.17,
+        "Y_Lambert72": 207624.64,
+        "X_Lambert2008": 649099.38,
+        "Y_Lambert2008": 707624.64
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.1786206721331,
+          "Lon_WGS84": 4.355946489866655,
+          "X_Lambert72": 149104.17,
+          "Y_Lambert72": 207624.64,
+          "X_Lambert2008": 649099.38,
+          "Y_Lambert2008": 707624.64
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.1786206721331,
+          "Lon_WGS84": 4.355946489866655,
+          "X_Lambert72": 149104.17,
+          "Y_Lambert72": 207624.64,
+          "X_Lambert2008": 649099.38,
+          "Y_Lambert2008": 707624.64
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Isabella Brantstraat",
+      "Housenumber": "48",
+      "ID": 740530,
+      "FormattedAddress": "Isabella Brantstraat 48, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20523505695051,
+        "Lon_WGS84": 4.405151998554765,
+        "X_Lambert72": 152543.56,
+        "Y_Lambert72": 210586.16,
+        "X_Lambert2008": 652538.39,
+        "Y_Lambert2008": 710586.55
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20523505695051,
+          "Lon_WGS84": 4.405151998554765,
+          "X_Lambert72": 152543.56,
+          "Y_Lambert72": 210586.16,
+          "X_Lambert2008": 652538.39,
+          "Y_Lambert2008": 710586.55
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20523505695051,
+          "Lon_WGS84": 4.405151998554765,
+          "X_Lambert72": 152543.56,
+          "Y_Lambert72": 210586.16,
+          "X_Lambert2008": 652538.39,
+          "Y_Lambert2008": 710586.55
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2040",
+      "Thoroughfarename": "Bosstraat",
+      "Housenumber": "18",
+      "ID": 2481098,
+      "FormattedAddress": "Bosstraat 18, 2040 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.34836134617781,
+        "Lon_WGS84": 4.3260533527318525,
+        "X_Lambert72": 147024.47,
+        "Y_Lambert72": 226510.17,
+        "X_Lambert2008": 647017.45,
+        "Y_Lambert2008": 726509.77
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.34836134617781,
+          "Lon_WGS84": 4.3260533527318525,
+          "X_Lambert72": 147024.47,
+          "Y_Lambert72": 226510.17,
+          "X_Lambert2008": 647017.45,
+          "Y_Lambert2008": 726509.77
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.34836134617781,
+          "Lon_WGS84": 4.3260533527318525,
+          "X_Lambert72": 147024.47,
+          "Y_Lambert72": 226510.17,
+          "X_Lambert2008": 647017.45,
+          "Y_Lambert2008": 726509.77
+        }
+      }
+    }
+  ]
+}

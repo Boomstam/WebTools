@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Emiel de Harvenstraat",
+      "Housenumber": "32",
+      "ID": 3768270,
+      "FormattedAddress": "Emiel de Harvenstraat 32, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17603858633732,
+        "Lon_WGS84": 4.346279252737735,
+        "X_Lambert72": 148428.07,
+        "Y_Lambert72": 207337.53,
+        "X_Lambert2008": 648423.32,
+        "Y_Lambert2008": 707337.45
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17603858633732,
+          "Lon_WGS84": 4.346279252737735,
+          "X_Lambert72": 148428.07,
+          "Y_Lambert72": 207337.53,
+          "X_Lambert2008": 648423.32,
+          "Y_Lambert2008": 707337.45
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17603858633732,
+          "Lon_WGS84": 4.346279252737735,
+          "X_Lambert72": 148428.07,
+          "Y_Lambert72": 207337.53,
+          "X_Lambert2008": 648423.32,
+          "Y_Lambert2008": 707337.45
+        }
+      }
+    }
+  ]
+}

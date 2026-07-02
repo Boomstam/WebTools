@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Sneeuwbeslaan",
+      "Housenumber": "7",
+      "ID": 1746999,
+      "FormattedAddress": "Sneeuwbeslaan 7, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.1757233043487,
+        "Lon_WGS84": 4.397180494138385,
+        "X_Lambert72": 151987.73,
+        "Y_Lambert72": 207302.63,
+        "X_Lambert2008": 651982.96,
+        "Y_Lambert2008": 707302.98
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.1757233043487,
+          "Lon_WGS84": 4.397180494138385,
+          "X_Lambert72": 151987.73,
+          "Y_Lambert72": 207302.63,
+          "X_Lambert2008": 651982.96,
+          "Y_Lambert2008": 707302.98
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.1757233043487,
+          "Lon_WGS84": 4.397180494138385,
+          "X_Lambert72": 151987.73,
+          "Y_Lambert72": 207302.63,
+          "X_Lambert2008": 651982.96,
+          "Y_Lambert2008": 707302.98
+        }
+      }
+    }
+  ]
+}

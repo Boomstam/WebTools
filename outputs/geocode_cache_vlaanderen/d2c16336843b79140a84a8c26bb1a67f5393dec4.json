@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2020",
+      "Thoroughfarename": "Schijfstraat",
+      "Housenumber": "89",
+      "ID": 310053,
+      "FormattedAddress": "Schijfstraat 89, 2020 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19038591934168,
+        "Lon_WGS84": 4.37436502412338,
+        "X_Lambert72": 150392.04,
+        "Y_Lambert72": 208933.51,
+        "X_Lambert2008": 650387.09,
+        "Y_Lambert2008": 708933.65
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19038591934168,
+          "Lon_WGS84": 4.37436502412338,
+          "X_Lambert72": 150392.04,
+          "Y_Lambert72": 208933.51,
+          "X_Lambert2008": 650387.09,
+          "Y_Lambert2008": 708933.65
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19038591934168,
+          "Lon_WGS84": 4.37436502412338,
+          "X_Lambert72": 150392.04,
+          "Y_Lambert72": 208933.51,
+          "X_Lambert2008": 650387.09,
+          "Y_Lambert2008": 708933.65
+        }
+      }
+    }
+  ]
+}

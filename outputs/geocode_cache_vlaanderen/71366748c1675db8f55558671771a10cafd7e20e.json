@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Dambruggestraat",
+      "Housenumber": "62",
+      "ID": 1288960,
+      "FormattedAddress": "Dambruggestraat 62, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.220494408313776,
+        "Lon_WGS84": 4.423357163220995,
+        "X_Lambert72": 153814.63,
+        "Y_Lambert72": 212284.62,
+        "X_Lambert2008": 653809.25,
+        "Y_Lambert2008": 712285.14
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.220494408313776,
+          "Lon_WGS84": 4.423357163220995,
+          "X_Lambert72": 153814.63,
+          "Y_Lambert72": 212284.62,
+          "X_Lambert2008": 653809.25,
+          "Y_Lambert2008": 712285.14
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.220494408313776,
+          "Lon_WGS84": 4.423357163220995,
+          "X_Lambert72": 153814.63,
+          "Y_Lambert72": 212284.62,
+          "X_Lambert2008": 653809.25,
+          "Y_Lambert2008": 712285.14
+        }
+      }
+    }
+  ]
+}

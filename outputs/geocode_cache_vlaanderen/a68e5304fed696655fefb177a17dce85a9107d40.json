@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2610",
+      "Thoroughfarename": "Berkenlaan",
+      "Housenumber": "7",
+      "ID": 1867673,
+      "FormattedAddress": "Berkenlaan 7, 2610 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17764701202541,
+        "Lon_WGS84": 4.397978491347545,
+        "X_Lambert72": 152043.45,
+        "Y_Lambert72": 207516.67,
+        "X_Lambert2008": 652038.65,
+        "Y_Lambert2008": 707517.02
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17764701202541,
+          "Lon_WGS84": 4.397978491347545,
+          "X_Lambert72": 152043.45,
+          "Y_Lambert72": 207516.67,
+          "X_Lambert2008": 652038.65,
+          "Y_Lambert2008": 707517.02
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17764701202541,
+          "Lon_WGS84": 4.397978491347545,
+          "X_Lambert72": 152043.45,
+          "Y_Lambert72": 207516.67,
+          "X_Lambert2008": 652038.65,
+          "Y_Lambert2008": 707517.02
+        }
+      }
+    }
+  ]
+}

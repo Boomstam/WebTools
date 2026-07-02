@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "De Manstraat",
+      "Housenumber": "95",
+      "ID": 442627,
+      "FormattedAddress": "De Manstraat 95, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2270037896671,
+        "Lon_WGS84": 4.455888498858309,
+        "X_Lambert72": 156086.6,
+        "Y_Lambert72": 213011.01,
+        "X_Lambert2008": 656081.11,
+        "Y_Lambert2008": 713011.8
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2270037896671,
+          "Lon_WGS84": 4.455888498858309,
+          "X_Lambert72": 156086.6,
+          "Y_Lambert72": 213011.01,
+          "X_Lambert2008": 656081.11,
+          "Y_Lambert2008": 713011.8
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2270037896671,
+          "Lon_WGS84": 4.455888498858309,
+          "X_Lambert72": 156086.6,
+          "Y_Lambert72": 213011.01,
+          "X_Lambert2008": 656081.11,
+          "Y_Lambert2008": 713011.8
+        }
+      }
+    }
+  ]
+}

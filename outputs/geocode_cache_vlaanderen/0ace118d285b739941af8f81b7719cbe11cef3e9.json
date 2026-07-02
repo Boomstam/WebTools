@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Wiegstraat",
+      "Housenumber": "16",
+      "ID": 2285450,
+      "FormattedAddress": "Wiegstraat 16, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2179655117232,
+        "Lon_WGS84": 4.404361061224261,
+        "X_Lambert72": 152487.59,
+        "Y_Lambert72": 212002.45,
+        "X_Lambert2008": 652482.25,
+        "Y_Lambert2008": 712002.82
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2179655117232,
+          "Lon_WGS84": 4.404361061224261,
+          "X_Lambert72": 152487.59,
+          "Y_Lambert72": 212002.45,
+          "X_Lambert2008": 652482.25,
+          "Y_Lambert2008": 712002.82
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2179655117232,
+          "Lon_WGS84": 4.404361061224261,
+          "X_Lambert72": 152487.59,
+          "Y_Lambert72": 212002.45,
+          "X_Lambert2008": 652482.25,
+          "Y_Lambert2008": 712002.82
+        }
+      }
+    }
+  ]
+}

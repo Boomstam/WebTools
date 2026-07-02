@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Lange Noordstraat",
+      "Housenumber": "33",
+      "ID": 2397342,
+      "FormattedAddress": "Lange Noordstraat 33, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22458347823937,
+        "Lon_WGS84": 4.406913750057905,
+        "X_Lambert72": 152665.56,
+        "Y_Lambert72": 212738.82,
+        "X_Lambert2008": 652660.13,
+        "Y_Lambert2008": 712739.2
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22458347823937,
+          "Lon_WGS84": 4.406913750057905,
+          "X_Lambert72": 152665.56,
+          "Y_Lambert72": 212738.82,
+          "X_Lambert2008": 652660.13,
+          "Y_Lambert2008": 712739.2
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22458347823937,
+          "Lon_WGS84": 4.406913750057905,
+          "X_Lambert72": 152665.56,
+          "Y_Lambert72": 212738.82,
+          "X_Lambert2008": 652660.13,
+          "Y_Lambert2008": 712739.2
+        }
+      }
+    }
+  ]
+}

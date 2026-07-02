@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Vosstraat",
+      "Housenumber": "9",
+      "ID": 1521929,
+      "FormattedAddress": "Vosstraat 9, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.197884223438464,
+        "Lon_WGS84": 4.453745967883899,
+        "X_Lambert72": 155940.67,
+        "Y_Lambert72": 209771.16,
+        "X_Lambert2008": 655935.57,
+        "Y_Lambert2008": 709771.96
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.197884223438464,
+          "Lon_WGS84": 4.453745967883899,
+          "X_Lambert72": 155940.67,
+          "Y_Lambert72": 209771.16,
+          "X_Lambert2008": 655935.57,
+          "Y_Lambert2008": 709771.96
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.197884223438464,
+          "Lon_WGS84": 4.453745967883899,
+          "X_Lambert72": 155940.67,
+          "Y_Lambert72": 209771.16,
+          "X_Lambert2008": 655935.57,
+          "Y_Lambert2008": 709771.96
+        }
+      }
+    }
+  ]
+}

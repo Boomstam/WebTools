@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Pastoor Van de Wouwerstraat",
+      "Housenumber": "1",
+      "ID": 1014365,
+      "FormattedAddress": "Pastoor Van de Wouwerstraat 1, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.178891305257416,
+        "Lon_WGS84": 4.433561399392878,
+        "X_Lambert72": 154531.64,
+        "Y_Lambert72": 207656.7,
+        "X_Lambert2008": 654526.8,
+        "Y_Lambert2008": 707657.35
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.178891305257416,
+          "Lon_WGS84": 4.433561399392878,
+          "X_Lambert72": 154531.64,
+          "Y_Lambert72": 207656.7,
+          "X_Lambert2008": 654526.8,
+          "Y_Lambert2008": 707657.35
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.178891305257416,
+          "Lon_WGS84": 4.433561399392878,
+          "X_Lambert72": 154531.64,
+          "Y_Lambert72": 207656.7,
+          "X_Lambert2008": 654526.8,
+          "Y_Lambert2008": 707657.35
+        }
+      }
+    }
+  ]
+}

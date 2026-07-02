@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Tweemontstraat",
+      "Housenumber": "63",
+      "ID": 1005469,
+      "FormattedAddress": "Tweemontstraat 63, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.234149980916186,
+        "Lon_WGS84": 4.4538101975397995,
+        "X_Lambert72": 155940.5,
+        "Y_Lambert72": 213805.89,
+        "X_Lambert2008": 655934.92,
+        "Y_Lambert2008": 713806.66
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.234149980916186,
+          "Lon_WGS84": 4.4538101975397995,
+          "X_Lambert72": 155940.5,
+          "Y_Lambert72": 213805.89,
+          "X_Lambert2008": 655934.92,
+          "Y_Lambert2008": 713806.66
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.234149980916186,
+          "Lon_WGS84": 4.4538101975397995,
+          "X_Lambert72": 155940.5,
+          "Y_Lambert72": 213805.89,
+          "X_Lambert2008": 655934.92,
+          "Y_Lambert2008": 713806.66
+        }
+      }
+    }
+  ]
+}

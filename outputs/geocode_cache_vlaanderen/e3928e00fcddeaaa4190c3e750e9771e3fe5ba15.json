@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "De Bruynlaan",
+      "Housenumber": "181",
+      "ID": 2232908,
+      "FormattedAddress": "De Bruynlaan 181, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18241597135926,
+        "Lon_WGS84": 4.372865009402295,
+        "X_Lambert72": 150287.23,
+        "Y_Lambert72": 208046.82,
+        "X_Lambert2008": 650282.38,
+        "Y_Lambert2008": 708046.96
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.18241597135926,
+          "Lon_WGS84": 4.372865009402295,
+          "X_Lambert72": 150287.23,
+          "Y_Lambert72": 208046.82,
+          "X_Lambert2008": 650282.38,
+          "Y_Lambert2008": 708046.96
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18241597135926,
+          "Lon_WGS84": 4.372865009402295,
+          "X_Lambert72": 150287.23,
+          "Y_Lambert72": 208046.82,
+          "X_Lambert2008": 650282.38,
+          "Y_Lambert2008": 708046.96
+        }
+      }
+    }
+  ]
+}

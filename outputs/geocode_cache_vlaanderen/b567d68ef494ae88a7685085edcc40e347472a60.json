@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Plantin en Moretuslei",
+      "Housenumber": "131",
+      "ID": 1351431,
+      "FormattedAddress": "Plantin en Moretuslei 131, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21020999348932,
+        "Lon_WGS84": 4.428259596761084,
+        "X_Lambert72": 154158.07,
+        "Y_Lambert72": 211140.7,
+        "X_Lambert2008": 654152.82,
+        "Y_Lambert2008": 711141.28
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21020999348932,
+          "Lon_WGS84": 4.428259596761084,
+          "X_Lambert72": 154158.07,
+          "Y_Lambert72": 211140.7,
+          "X_Lambert2008": 654152.82,
+          "Y_Lambert2008": 711141.28
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21020999348932,
+          "Lon_WGS84": 4.428259596761084,
+          "X_Lambert72": 154158.07,
+          "Y_Lambert72": 211140.7,
+          "X_Lambert2008": 654152.82,
+          "Y_Lambert2008": 711141.28
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Grasmuslaan",
+      "Housenumber": "38",
+      "ID": 217056,
+      "FormattedAddress": "Grasmuslaan 38, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.171624212915624,
+        "Lon_WGS84": 4.360894757277608,
+        "X_Lambert72": 149450.12,
+        "Y_Lambert72": 206846.22,
+        "X_Lambert2008": 649445.42,
+        "Y_Lambert2008": 706846.27
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.171624212915624,
+          "Lon_WGS84": 4.360894757277608,
+          "X_Lambert72": 149450.12,
+          "Y_Lambert72": 206846.22,
+          "X_Lambert2008": 649445.42,
+          "Y_Lambert2008": 706846.27
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.171624212915624,
+          "Lon_WGS84": 4.360894757277608,
+          "X_Lambert72": 149450.12,
+          "Y_Lambert72": 206846.22,
+          "X_Lambert2008": 649445.42,
+          "Y_Lambert2008": 706846.27
+        }
+      }
+    }
+  ]
+}

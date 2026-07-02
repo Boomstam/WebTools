@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Terlindenhofstraat",
+      "Housenumber": "179",
+      "ID": 498788,
+      "FormattedAddress": "Terlindenhofstraat 179, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.24748272521517,
+        "Lon_WGS84": 4.443929871471027,
+        "X_Lambert72": 155248.89,
+        "Y_Lambert72": 215288.48,
+        "X_Lambert2008": 655243.14,
+        "Y_Lambert2008": 715289.15
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.24748272521517,
+          "Lon_WGS84": 4.443929871471027,
+          "X_Lambert72": 155248.89,
+          "Y_Lambert72": 215288.48,
+          "X_Lambert2008": 655243.14,
+          "Y_Lambert2008": 715289.15
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.24748272521517,
+          "Lon_WGS84": 4.443929871471027,
+          "X_Lambert72": 155248.89,
+          "Y_Lambert72": 215288.48,
+          "X_Lambert2008": 655243.14,
+          "Y_Lambert2008": 715289.15
+        }
+      }
+    }
+  ]
+}

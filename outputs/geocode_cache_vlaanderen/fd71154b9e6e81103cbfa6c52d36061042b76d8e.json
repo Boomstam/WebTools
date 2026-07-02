@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Gitschotellei",
+      "Housenumber": "117",
+      "ID": 605092,
+      "FormattedAddress": "Gitschotellei 117, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.200132146406105,
+        "Lon_WGS84": 4.44204103096655,
+        "X_Lambert72": 155122.25,
+        "Y_Lambert72": 210020.37,
+        "X_Lambert2008": 655117.13,
+        "Y_Lambert2008": 710021.07
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.200132146406105,
+          "Lon_WGS84": 4.44204103096655,
+          "X_Lambert72": 155122.25,
+          "Y_Lambert72": 210020.37,
+          "X_Lambert2008": 655117.13,
+          "Y_Lambert2008": 710021.07
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.200132146406105,
+          "Lon_WGS84": 4.44204103096655,
+          "X_Lambert72": 155122.25,
+          "Y_Lambert72": 210020.37,
+          "X_Lambert2008": 655117.13,
+          "Y_Lambert2008": 710021.07
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2020",
+      "Thoroughfarename": "Waarlooshofstraat",
+      "Housenumber": "58",
+      "ID": 1122190,
+      "FormattedAddress": "Waarlooshofstraat 58, 2020 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18685369046254,
+        "Lon_WGS84": 4.378445575088205,
+        "X_Lambert72": 150677.37,
+        "Y_Lambert72": 208540.57,
+        "X_Lambert2008": 650672.46,
+        "Y_Lambert2008": 708540.75
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.18685369046254,
+          "Lon_WGS84": 4.378445575088205,
+          "X_Lambert72": 150677.37,
+          "Y_Lambert72": 208540.57,
+          "X_Lambert2008": 650672.46,
+          "Y_Lambert2008": 708540.75
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18685369046254,
+          "Lon_WGS84": 4.378445575088205,
+          "X_Lambert72": 150677.37,
+          "Y_Lambert72": 208540.57,
+          "X_Lambert2008": 650672.46,
+          "Y_Lambert2008": 708540.75
+        }
+      }
+    }
+  ]
+}

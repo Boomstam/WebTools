@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Vleminckveld",
+      "Housenumber": "35",
+      "ID": 465076,
+      "FormattedAddress": "Vleminckveld 35, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21461732834822,
+        "Lon_WGS84": 4.403482313798653,
+        "X_Lambert72": 152426.37,
+        "Y_Lambert72": 211629.92,
+        "X_Lambert2008": 652421.08,
+        "Y_Lambert2008": 711630.28
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21461732834822,
+          "Lon_WGS84": 4.403482313798653,
+          "X_Lambert72": 152426.37,
+          "Y_Lambert72": 211629.92,
+          "X_Lambert2008": 652421.08,
+          "Y_Lambert2008": 711630.28
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21461732834822,
+          "Lon_WGS84": 4.403482313798653,
+          "X_Lambert72": 152426.37,
+          "Y_Lambert72": 211629.92,
+          "X_Lambert2008": 652421.08,
+          "Y_Lambert2008": 711630.28
+        }
+      }
+    }
+  ]
+}

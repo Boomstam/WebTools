@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Fuggerstraat",
+      "Housenumber": "34",
+      "ID": 1007260,
+      "FormattedAddress": "Fuggerstraat 34, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22826254387396,
+        "Lon_WGS84": 4.418483917991882,
+        "X_Lambert72": 153473.57,
+        "Y_Lambert72": 213148.62,
+        "X_Lambert2008": 653468.09,
+        "Y_Lambert2008": 713149.1
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22826254387396,
+          "Lon_WGS84": 4.418483917991882,
+          "X_Lambert72": 153473.57,
+          "Y_Lambert72": 213148.62,
+          "X_Lambert2008": 653468.09,
+          "Y_Lambert2008": 713149.1
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22826254387396,
+          "Lon_WGS84": 4.418483917991882,
+          "X_Lambert72": 153473.57,
+          "Y_Lambert72": 213148.62,
+          "X_Lambert2008": 653468.09,
+          "Y_Lambert2008": 713149.1
+        }
+      }
+    }
+  ]
+}

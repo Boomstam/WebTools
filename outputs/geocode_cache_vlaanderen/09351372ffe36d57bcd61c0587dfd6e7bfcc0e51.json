@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Ter Heydelaan",
+      "Housenumber": "61",
+      "ID": 1911076,
+      "FormattedAddress": "Ter Heydelaan 61, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22625203958638,
+        "Lon_WGS84": 4.459048821945137,
+        "X_Lambert72": 156307.47,
+        "Y_Lambert72": 212927.64,
+        "X_Lambert2008": 656301.99,
+        "Y_Lambert2008": 712928.46
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22625203958638,
+          "Lon_WGS84": 4.459048821945137,
+          "X_Lambert72": 156307.47,
+          "Y_Lambert72": 212927.64,
+          "X_Lambert2008": 656301.99,
+          "Y_Lambert2008": 712928.46
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22625203958638,
+          "Lon_WGS84": 4.459048821945137,
+          "X_Lambert72": 156307.47,
+          "Y_Lambert72": 212927.64,
+          "X_Lambert2008": 656301.99,
+          "Y_Lambert2008": 712928.46
+        }
+      }
+    }
+  ]
+}

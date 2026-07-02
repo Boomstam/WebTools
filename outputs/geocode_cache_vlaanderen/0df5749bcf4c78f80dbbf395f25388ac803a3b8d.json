@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Markgravelei",
+      "Housenumber": "129",
+      "ID": 2252067,
+      "FormattedAddress": "Markgravelei 129, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.197627301069296,
+        "Lon_WGS84": 4.404919483327387,
+        "X_Lambert72": 152527.73,
+        "Y_Lambert72": 209739.76,
+        "X_Lambert2008": 652522.66,
+        "Y_Lambert2008": 709740.15
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.197627301069296,
+          "Lon_WGS84": 4.404919483327387,
+          "X_Lambert72": 152527.73,
+          "Y_Lambert72": 209739.76,
+          "X_Lambert2008": 652522.66,
+          "Y_Lambert2008": 709740.15
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.197627301069296,
+          "Lon_WGS84": 4.404919483327387,
+          "X_Lambert72": 152527.73,
+          "Y_Lambert72": 209739.76,
+          "X_Lambert2008": 652522.66,
+          "Y_Lambert2008": 709740.15
+        }
+      }
+    }
+  ]
+}

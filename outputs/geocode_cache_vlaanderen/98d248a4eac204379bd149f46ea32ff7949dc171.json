@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Amerikalei",
+      "Housenumber": "100",
+      "ID": 505627,
+      "FormattedAddress": "Amerikalei 100, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.207273194463774,
+        "Lon_WGS84": 4.396343650052787,
+        "X_Lambert72": 151927.87,
+        "Y_Lambert72": 210812.64,
+        "X_Lambert2008": 651922.68,
+        "Y_Lambert2008": 710812.95
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.207273194463774,
+          "Lon_WGS84": 4.396343650052787,
+          "X_Lambert72": 151927.87,
+          "Y_Lambert72": 210812.64,
+          "X_Lambert2008": 651922.68,
+          "Y_Lambert2008": 710812.95
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.207273194463774,
+          "Lon_WGS84": 4.396343650052787,
+          "X_Lambert72": 151927.87,
+          "Y_Lambert72": 210812.64,
+          "X_Lambert2008": 651922.68,
+          "Y_Lambert2008": 710812.95
+        }
+      }
+    }
+  ]
+}

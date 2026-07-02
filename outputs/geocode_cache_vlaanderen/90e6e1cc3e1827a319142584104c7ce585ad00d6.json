@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Arthur Goemaerelei",
+      "Housenumber": "67",
+      "ID": 2354141,
+      "FormattedAddress": "Arthur Goemaerelei 67, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.1964420846736,
+        "Lon_WGS84": 4.400624095539013,
+        "X_Lambert72": 152227.54,
+        "Y_Lambert72": 209607.76,
+        "X_Lambert2008": 652222.49,
+        "Y_Lambert2008": 709608.12
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.1964420846736,
+          "Lon_WGS84": 4.400624095539013,
+          "X_Lambert72": 152227.54,
+          "Y_Lambert72": 209607.76,
+          "X_Lambert2008": 652222.49,
+          "Y_Lambert2008": 709608.12
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.1964420846736,
+          "Lon_WGS84": 4.400624095539013,
+          "X_Lambert72": 152227.54,
+          "Y_Lambert72": 209607.76,
+          "X_Lambert2008": 652222.49,
+          "Y_Lambert2008": 709608.12
+        }
+      }
+    }
+  ]
+}

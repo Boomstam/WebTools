@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Rosier",
+      "Housenumber": "27",
+      "ID": 274372,
+      "FormattedAddress": "Rosier 27, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21402322359821,
+        "Lon_WGS84": 4.403082723968973,
+        "X_Lambert72": 152398.48,
+        "Y_Lambert72": 211563.81,
+        "X_Lambert2008": 652393.2,
+        "Y_Lambert2008": 711564.17
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21402322359821,
+          "Lon_WGS84": 4.403082723968973,
+          "X_Lambert72": 152398.48,
+          "Y_Lambert72": 211563.81,
+          "X_Lambert2008": 652393.2,
+          "Y_Lambert2008": 711564.17
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21402322359821,
+          "Lon_WGS84": 4.403082723968973,
+          "X_Lambert72": 152398.48,
+          "Y_Lambert72": 211563.81,
+          "X_Lambert2008": 652393.2,
+          "Y_Lambert2008": 711564.17
+        }
+      }
+    }
+  ]
+}

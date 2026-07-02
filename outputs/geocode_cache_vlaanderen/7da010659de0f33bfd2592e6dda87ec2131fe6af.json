@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2050",
+      "Thoroughfarename": "August Vermeylenlaan",
+      "Housenumber": "23",
+      "ID": 31330850,
+      "FormattedAddress": "August Vermeylenlaan 23, 2050 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.229350299302055,
+        "Lon_WGS84": 4.379145498041587,
+        "X_Lambert72": 150725.6,
+        "Y_Lambert72": 213268.5,
+        "X_Lambert2008": 650720.13,
+        "Y_Lambert2008": 713268.65
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.229350299302055,
+          "Lon_WGS84": 4.379145498041587,
+          "X_Lambert72": 150725.6,
+          "Y_Lambert72": 213268.5,
+          "X_Lambert2008": 650720.13,
+          "Y_Lambert2008": 713268.65
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.229350299302055,
+          "Lon_WGS84": 4.379145498041587,
+          "X_Lambert72": 150725.6,
+          "Y_Lambert72": 213268.5,
+          "X_Lambert2008": 650720.13,
+          "Y_Lambert2008": 713268.65
+        }
+      }
+    }
+  ]
+}

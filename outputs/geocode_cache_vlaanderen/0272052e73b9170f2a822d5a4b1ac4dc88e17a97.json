@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Antwerpsesteenweg",
+      "Housenumber": "106",
+      "ID": 2013746,
+      "FormattedAddress": "Antwerpsesteenweg 106, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.178238282335904,
+        "Lon_WGS84": 4.356673468085187,
+        "X_Lambert72": 149155.0,
+        "Y_Lambert72": 207582.09,
+        "X_Lambert2008": 649150.22,
+        "Y_Lambert2008": 707582.1
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.178238282335904,
+          "Lon_WGS84": 4.356673468085187,
+          "X_Lambert72": 149155.0,
+          "Y_Lambert72": 207582.09,
+          "X_Lambert2008": 649150.22,
+          "Y_Lambert2008": 707582.1
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.178238282335904,
+          "Lon_WGS84": 4.356673468085187,
+          "X_Lambert72": 149155.0,
+          "Y_Lambert72": 207582.09,
+          "X_Lambert2008": 649150.22,
+          "Y_Lambert2008": 707582.1
+        }
+      }
+    }
+  ]
+}

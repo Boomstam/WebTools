@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Augustijnenstraat",
+      "Housenumber": "27",
+      "ID": 1929882,
+      "FormattedAddress": "Augustijnenstraat 27, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21669908180532,
+        "Lon_WGS84": 4.398503322070387,
+        "X_Lambert72": 152078.37,
+        "Y_Lambert72": 211861.37,
+        "X_Lambert2008": 652073.05,
+        "Y_Lambert2008": 711861.69
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21669908180532,
+          "Lon_WGS84": 4.398503322070387,
+          "X_Lambert72": 152078.37,
+          "Y_Lambert72": 211861.37,
+          "X_Lambert2008": 652073.05,
+          "Y_Lambert2008": 711861.69
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21669908180532,
+          "Lon_WGS84": 4.398503322070387,
+          "X_Lambert72": 152078.37,
+          "Y_Lambert72": 211861.37,
+          "X_Lambert2008": 652073.05,
+          "Y_Lambert2008": 711861.69
+        }
+      }
+    }
+  ]
+}

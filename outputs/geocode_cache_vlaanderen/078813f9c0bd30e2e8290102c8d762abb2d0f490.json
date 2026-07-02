@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Van Campenhoutstraat",
+      "Housenumber": "51",
+      "ID": 290955,
+      "FormattedAddress": "Van Campenhoutstraat 51, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.197507734438524,
+        "Lon_WGS84": 4.4226303473763515,
+        "X_Lambert72": 153765.73,
+        "Y_Lambert72": 209727.22,
+        "X_Lambert2008": 653760.65,
+        "Y_Lambert2008": 709727.76
+      },
+      "LocationType": "basisregisters_huisnummer_aangeduidDoorBeheerder",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.197507734438524,
+          "Lon_WGS84": 4.4226303473763515,
+          "X_Lambert72": 153765.73,
+          "Y_Lambert72": 209727.22,
+          "X_Lambert2008": 653760.65,
+          "Y_Lambert2008": 709727.76
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.197507734438524,
+          "Lon_WGS84": 4.4226303473763515,
+          "X_Lambert72": 153765.73,
+          "Y_Lambert72": 209727.22,
+          "X_Lambert2008": 653760.65,
+          "Y_Lambert2008": 709727.76
+        }
+      }
+    }
+  ]
+}

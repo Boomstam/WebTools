@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2180",
+      "Thoroughfarename": "Pastoor Goetschalckxstraat",
+      "Housenumber": "33",
+      "ID": 373670,
+      "FormattedAddress": "Pastoor Goetschalckxstraat 33, 2180 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.278688748752856,
+        "Lon_WGS84": 4.450868071859089,
+        "X_Lambert72": 155729.48,
+        "Y_Lambert72": 218760.87,
+        "X_Lambert2008": 655723.31,
+        "Y_Lambert2008": 718761.57
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.278688748752856,
+          "Lon_WGS84": 4.450868071859089,
+          "X_Lambert72": 155729.48,
+          "Y_Lambert72": 218760.87,
+          "X_Lambert2008": 655723.31,
+          "Y_Lambert2008": 718761.57
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.278688748752856,
+          "Lon_WGS84": 4.450868071859089,
+          "X_Lambert72": 155729.48,
+          "Y_Lambert72": 218760.87,
+          "X_Lambert2008": 655723.31,
+          "Y_Lambert2008": 718761.57
+        }
+      }
+    }
+  ]
+}

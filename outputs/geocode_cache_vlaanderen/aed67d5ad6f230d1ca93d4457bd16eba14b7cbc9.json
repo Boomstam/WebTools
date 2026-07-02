@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2600",
+      "Thoroughfarename": "Rodekruislaan",
+      "Housenumber": "4",
+      "ID": 3543340,
+      "FormattedAddress": "Rodekruislaan 4, 2600 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20191819485266,
+        "Lon_WGS84": 4.439786575315295,
+        "X_Lambert72": 154964.48,
+        "Y_Lambert72": 210218.92,
+        "X_Lambert2008": 654959.34,
+        "Y_Lambert2008": 710219.6
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20191819485266,
+          "Lon_WGS84": 4.439786575315295,
+          "X_Lambert72": 154964.48,
+          "Y_Lambert72": 210218.92,
+          "X_Lambert2008": 654959.34,
+          "Y_Lambert2008": 710219.6
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20191819485266,
+          "Lon_WGS84": 4.439786575315295,
+          "X_Lambert72": 154964.48,
+          "Y_Lambert72": 210218.92,
+          "X_Lambert2008": 654959.34,
+          "Y_Lambert2008": 710219.6
+        }
+      }
+    }
+  ]
+}

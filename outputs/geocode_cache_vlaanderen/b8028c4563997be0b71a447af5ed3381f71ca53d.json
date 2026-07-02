@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Visputtenhof",
+      "Housenumber": "15",
+      "ID": 3794151,
+      "FormattedAddress": "Visputtenhof 15, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17645106776466,
+        "Lon_WGS84": 4.341043672636492,
+        "X_Lambert72": 148061.95,
+        "Y_Lambert72": 207383.54,
+        "X_Lambert2008": 648057.2,
+        "Y_Lambert2008": 707383.42
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17645106776466,
+          "Lon_WGS84": 4.341043672636492,
+          "X_Lambert72": 148061.95,
+          "Y_Lambert72": 207383.54,
+          "X_Lambert2008": 648057.2,
+          "Y_Lambert2008": 707383.42
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17645106776466,
+          "Lon_WGS84": 4.341043672636492,
+          "X_Lambert72": 148061.95,
+          "Y_Lambert72": 207383.54,
+          "X_Lambert2008": 648057.2,
+          "Y_Lambert2008": 707383.42
+        }
+      }
+    }
+  ]
+}

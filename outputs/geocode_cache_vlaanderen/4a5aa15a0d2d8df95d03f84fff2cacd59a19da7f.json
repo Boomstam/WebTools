@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Van de Wervestraat",
+      "Housenumber": "62",
+      "ID": 1451015,
+      "FormattedAddress": "Van de Wervestraat 62, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22687187028053,
+        "Lon_WGS84": 4.416094079871275,
+        "X_Lambert72": 153306.73,
+        "Y_Lambert72": 212993.79,
+        "X_Lambert2008": 653301.27,
+        "Y_Lambert2008": 712994.25
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22687187028053,
+          "Lon_WGS84": 4.416094079871275,
+          "X_Lambert72": 153306.73,
+          "Y_Lambert72": 212993.79,
+          "X_Lambert2008": 653301.27,
+          "Y_Lambert2008": 712994.25
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22687187028053,
+          "Lon_WGS84": 4.416094079871275,
+          "X_Lambert72": 153306.73,
+          "Y_Lambert72": 212993.79,
+          "X_Lambert2008": 653301.27,
+          "Y_Lambert2008": 712994.25
+        }
+      }
+    }
+  ]
+}

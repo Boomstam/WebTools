@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Lange Kongostraat",
+      "Housenumber": "9",
+      "ID": 1287559,
+      "FormattedAddress": "Lange Kongostraat 9, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.223265713123936,
+        "Lon_WGS84": 4.437337652303033,
+        "X_Lambert72": 154791.1,
+        "Y_Lambert72": 212593.76,
+        "X_Lambert2008": 654785.67,
+        "Y_Lambert2008": 712594.4
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.223265713123936,
+          "Lon_WGS84": 4.437337652303033,
+          "X_Lambert72": 154791.1,
+          "Y_Lambert72": 212593.76,
+          "X_Lambert2008": 654785.67,
+          "Y_Lambert2008": 712594.4
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.223265713123936,
+          "Lon_WGS84": 4.437337652303033,
+          "X_Lambert72": 154791.1,
+          "Y_Lambert72": 212593.76,
+          "X_Lambert2008": 654785.67,
+          "Y_Lambert2008": 712594.4
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2150",
+      "Thoroughfarename": "Corneel Smitslei",
+      "Housenumber": "17",
+      "ID": 30425043,
+      "FormattedAddress": "Corneel Smitslei 17, 2150 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19678384543914,
+        "Lon_WGS84": 4.488137463019908,
+        "X_Lambert72": 158344.82,
+        "Y_Lambert72": 209652.07,
+        "X_Lambert2008": 658339.72,
+        "Y_Lambert2008": 709653.16
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19678384543914,
+          "Lon_WGS84": 4.488137463019908,
+          "X_Lambert72": 158344.82,
+          "Y_Lambert72": 209652.07,
+          "X_Lambert2008": 658339.72,
+          "Y_Lambert2008": 709653.16
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19678384543914,
+          "Lon_WGS84": 4.488137463019908,
+          "X_Lambert72": 158344.82,
+          "Y_Lambert72": 209652.07,
+          "X_Lambert2008": 658339.72,
+          "Y_Lambert2008": 709653.16
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Kipdorpbrug",
+      "Housenumber": "2",
+      "ID": 2044105,
+      "FormattedAddress": "Kipdorpbrug 2, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21962054028126,
+        "Lon_WGS84": 4.415312282500786,
+        "X_Lambert72": 153252.63,
+        "Y_Lambert72": 212187.01,
+        "X_Lambert2008": 653247.26,
+        "Y_Lambert2008": 712187.47
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21962054028126,
+          "Lon_WGS84": 4.415312282500786,
+          "X_Lambert72": 153252.63,
+          "Y_Lambert72": 212187.01,
+          "X_Lambert2008": 653247.26,
+          "Y_Lambert2008": 712187.47
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21962054028126,
+          "Lon_WGS84": 4.415312282500786,
+          "X_Lambert72": 153252.63,
+          "Y_Lambert72": 212187.01,
+          "X_Lambert2008": 653247.26,
+          "Y_Lambert2008": 712187.47
+        }
+      }
+    }
+  ]
+}

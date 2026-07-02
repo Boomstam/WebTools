@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2170",
+      "Thoroughfarename": "Maantjessteenweg",
+      "Housenumber": "83",
+      "ID": 1948339,
+      "FormattedAddress": "Maantjessteenweg 83, 2170 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.25535746579932,
+        "Lon_WGS84": 4.441336036397368,
+        "X_Lambert72": 155066.91,
+        "Y_Lambert72": 216164.41,
+        "X_Lambert2008": 655061.06,
+        "Y_Lambert2008": 716165.05
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.25535746579932,
+          "Lon_WGS84": 4.441336036397368,
+          "X_Lambert72": 155066.91,
+          "Y_Lambert72": 216164.41,
+          "X_Lambert2008": 655061.06,
+          "Y_Lambert2008": 716165.05
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.25535746579932,
+          "Lon_WGS84": 4.441336036397368,
+          "X_Lambert72": 155066.91,
+          "Y_Lambert72": 216164.41,
+          "X_Lambert2008": 655061.06,
+          "Y_Lambert2008": 716165.05
+        }
+      }
+    }
+  ]
+}

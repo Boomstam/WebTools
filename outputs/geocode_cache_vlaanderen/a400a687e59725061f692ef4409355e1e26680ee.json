@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Lange Koepoortstraat",
+      "Housenumber": "8",
+      "ID": 1339011,
+      "FormattedAddress": "Lange Koepoortstraat 8, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.22345986172498,
+        "Lon_WGS84": 4.40280481951794,
+        "X_Lambert72": 152378.57,
+        "Y_Lambert72": 212613.67,
+        "X_Lambert2008": 652373.16,
+        "Y_Lambert2008": 712614.02
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.22345986172498,
+          "Lon_WGS84": 4.40280481951794,
+          "X_Lambert72": 152378.57,
+          "Y_Lambert72": 212613.67,
+          "X_Lambert2008": 652373.16,
+          "Y_Lambert2008": 712614.02
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.22345986172498,
+          "Lon_WGS84": 4.40280481951794,
+          "X_Lambert72": 152378.57,
+          "Y_Lambert72": 212613.67,
+          "X_Lambert2008": 652373.16,
+          "Y_Lambert2008": 712614.02
+        }
+      }
+    }
+  ]
+}

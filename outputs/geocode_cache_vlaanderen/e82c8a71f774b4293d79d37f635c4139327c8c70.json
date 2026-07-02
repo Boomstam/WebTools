@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Van Eycklei",
+      "Housenumber": "27",
+      "ID": 520903,
+      "FormattedAddress": "Van Eycklei 27, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21024061133517,
+        "Lon_WGS84": 4.414594433350539,
+        "X_Lambert72": 153203.13,
+        "Y_Lambert72": 211143.42,
+        "X_Lambert2008": 653197.89,
+        "Y_Lambert2008": 711143.88
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21024061133517,
+          "Lon_WGS84": 4.414594433350539,
+          "X_Lambert72": 153203.13,
+          "Y_Lambert72": 211143.42,
+          "X_Lambert2008": 653197.89,
+          "Y_Lambert2008": 711143.88
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21024061133517,
+          "Lon_WGS84": 4.414594433350539,
+          "X_Lambert72": 153203.13,
+          "Y_Lambert72": 211143.42,
+          "X_Lambert2008": 653197.89,
+          "Y_Lambert2008": 711143.88
+        }
+      }
+    }
+  ]
+}

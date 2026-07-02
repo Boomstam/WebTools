@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Lange Elzenstraat",
+      "Housenumber": "85",
+      "ID": 2038970,
+      "FormattedAddress": "Lange Elzenstraat 85, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.19934985315548,
+        "Lon_WGS84": 4.394905317744447,
+        "X_Lambert72": 151827.67,
+        "Y_Lambert72": 209931.1,
+        "X_Lambert2008": 651822.58,
+        "Y_Lambert2008": 709931.41
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.19934985315548,
+          "Lon_WGS84": 4.394905317744447,
+          "X_Lambert72": 151827.67,
+          "Y_Lambert72": 209931.1,
+          "X_Lambert2008": 651822.58,
+          "Y_Lambert2008": 709931.41
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.19934985315548,
+          "Lon_WGS84": 4.394905317744447,
+          "X_Lambert72": 151827.67,
+          "Y_Lambert72": 209931.1,
+          "X_Lambert2008": 651822.58,
+          "Y_Lambert2008": 709931.41
+        }
+      }
+    }
+  ]
+}

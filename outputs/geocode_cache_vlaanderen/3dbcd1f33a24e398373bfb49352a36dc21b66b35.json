@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Windmolenstraat",
+      "Housenumber": "145",
+      "ID": 1543515,
+      "FormattedAddress": "Windmolenstraat 145, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17729547164605,
+        "Lon_WGS84": 4.366337289450971,
+        "X_Lambert72": 149830.78,
+        "Y_Lambert72": 207477.14,
+        "X_Lambert2008": 649826.0,
+        "Y_Lambert2008": 707477.23
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17729547164605,
+          "Lon_WGS84": 4.366337289450971,
+          "X_Lambert72": 149830.78,
+          "Y_Lambert72": 207477.14,
+          "X_Lambert2008": 649826.0,
+          "Y_Lambert2008": 707477.23
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17729547164605,
+          "Lon_WGS84": 4.366337289450971,
+          "X_Lambert72": 149830.78,
+          "Y_Lambert72": 207477.14,
+          "X_Lambert2008": 649826.0,
+          "Y_Lambert2008": 707477.23
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Hessenplein",
+      "Housenumber": "37",
+      "ID": 3913789,
+      "FormattedAddress": "Hessenplein 37, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.225839844336726,
+        "Lon_WGS84": 4.41014865320125,
+        "X_Lambert72": 152891.47,
+        "Y_Lambert72": 212878.72,
+        "X_Lambert2008": 652886.03,
+        "Y_Lambert2008": 712879.13
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.225839844336726,
+          "Lon_WGS84": 4.41014865320125,
+          "X_Lambert72": 152891.47,
+          "Y_Lambert72": 212878.72,
+          "X_Lambert2008": 652886.03,
+          "Y_Lambert2008": 712879.13
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.225839844336726,
+          "Lon_WGS84": 4.41014865320125,
+          "X_Lambert72": 152891.47,
+          "Y_Lambert72": 212878.72,
+          "X_Lambert2008": 652886.03,
+          "Y_Lambert2008": 712879.13
+        }
+      }
+    }
+  ]
+}

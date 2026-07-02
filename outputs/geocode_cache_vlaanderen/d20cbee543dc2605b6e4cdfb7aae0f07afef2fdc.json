@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2100",
+      "Thoroughfarename": "Bisschoppenhoflaan",
+      "Housenumber": "120",
+      "ID": 1697765,
+      "FormattedAddress": "Bisschoppenhoflaan 120, 2100 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.2306965403365,
+        "Lon_WGS84": 4.448869304018456,
+        "X_Lambert72": 155595.82,
+        "Y_Lambert72": 213421.29,
+        "X_Lambert2008": 655590.29,
+        "Y_Lambert2008": 713422.02
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.2306965403365,
+          "Lon_WGS84": 4.448869304018456,
+          "X_Lambert72": 155595.82,
+          "Y_Lambert72": 213421.29,
+          "X_Lambert2008": 655590.29,
+          "Y_Lambert2008": 713422.02
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.2306965403365,
+          "Lon_WGS84": 4.448869304018456,
+          "X_Lambert72": 155595.82,
+          "Y_Lambert72": 213421.29,
+          "X_Lambert2008": 655590.29,
+          "Y_Lambert2008": 713422.02
+        }
+      }
+    }
+  ]
+}

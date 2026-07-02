@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Maalbootstraat",
+      "Housenumber": "52",
+      "ID": 221014,
+      "FormattedAddress": "Maalbootstraat 52, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.172124013585204,
+        "Lon_WGS84": 4.338913438958107,
+        "X_Lambert72": 147912.79,
+        "Y_Lambert72": 206902.2,
+        "X_Lambert2008": 647908.1,
+        "Y_Lambert2008": 706902.07
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.172124013585204,
+          "Lon_WGS84": 4.338913438958107,
+          "X_Lambert72": 147912.79,
+          "Y_Lambert72": 206902.2,
+          "X_Lambert2008": 647908.1,
+          "Y_Lambert2008": 706902.07
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.172124013585204,
+          "Lon_WGS84": 4.338913438958107,
+          "X_Lambert72": 147912.79,
+          "Y_Lambert72": 206902.2,
+          "X_Lambert2008": 647908.1,
+          "Y_Lambert2008": 706902.07
+        }
+      }
+    }
+  ]
+}

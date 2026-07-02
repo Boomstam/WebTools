@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Sint-Erasmusstraat",
+      "Housenumber": "18",
+      "ID": 2403252,
+      "FormattedAddress": "Sint-Erasmusstraat 18, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21517781807461,
+        "Lon_WGS84": 4.431829437303148,
+        "X_Lambert72": 154407.06,
+        "Y_Lambert72": 211693.6,
+        "X_Lambert2008": 654401.74,
+        "Y_Lambert2008": 711694.2
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21517781807461,
+          "Lon_WGS84": 4.431829437303148,
+          "X_Lambert72": 154407.06,
+          "Y_Lambert72": 211693.6,
+          "X_Lambert2008": 654401.74,
+          "Y_Lambert2008": 711694.2
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21517781807461,
+          "Lon_WGS84": 4.431829437303148,
+          "X_Lambert72": 154407.06,
+          "Y_Lambert72": 211693.6,
+          "X_Lambert2008": 654401.74,
+          "Y_Lambert2008": 711694.2
+        }
+      }
+    }
+  ]
+}

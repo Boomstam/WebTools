@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2180",
+      "Thoroughfarename": "Willy Staeslei",
+      "Housenumber": "61",
+      "ID": 1996400,
+      "FormattedAddress": "Willy Staeslei 61, 2180 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.290092452297955,
+        "Lon_WGS84": 4.441654892202692,
+        "X_Lambert72": 155085.34,
+        "Y_Lambert72": 220028.94,
+        "X_Lambert2008": 655079.03,
+        "Y_Lambert2008": 720029.55
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.290092452297955,
+          "Lon_WGS84": 4.441654892202692,
+          "X_Lambert72": 155085.34,
+          "Y_Lambert72": 220028.94,
+          "X_Lambert2008": 655079.03,
+          "Y_Lambert2008": 720029.55
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.290092452297955,
+          "Lon_WGS84": 4.441654892202692,
+          "X_Lambert72": 155085.34,
+          "Y_Lambert72": 220028.94,
+          "X_Lambert2008": 655079.03,
+          "Y_Lambert2008": 720029.55
+        }
+      }
+    }
+  ]
+}

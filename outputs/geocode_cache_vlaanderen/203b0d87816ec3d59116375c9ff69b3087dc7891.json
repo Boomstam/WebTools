@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2060",
+      "Thoroughfarename": "Lovelingstraat",
+      "Housenumber": "7",
+      "ID": 1859295,
+      "FormattedAddress": "Lovelingstraat 7, 2060 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.220776655137904,
+        "Lon_WGS84": 4.432064532022289,
+        "X_Lambert72": 154422.95,
+        "Y_Lambert72": 212316.51,
+        "X_Lambert2008": 654417.56,
+        "Y_Lambert2008": 712317.11
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.220776655137904,
+          "Lon_WGS84": 4.432064532022289,
+          "X_Lambert72": 154422.95,
+          "Y_Lambert72": 212316.51,
+          "X_Lambert2008": 654417.56,
+          "Y_Lambert2008": 712317.11
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.220776655137904,
+          "Lon_WGS84": 4.432064532022289,
+          "X_Lambert72": 154422.95,
+          "Y_Lambert72": 212316.51,
+          "X_Lambert2008": 654417.56,
+          "Y_Lambert2008": 712317.11
+        }
+      }
+    }
+  ]
+}

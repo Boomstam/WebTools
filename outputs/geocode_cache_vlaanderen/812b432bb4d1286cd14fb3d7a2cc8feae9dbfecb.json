@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Draaiboomstraat",
+      "Housenumber": "34",
+      "ID": 548761,
+      "FormattedAddress": "Draaiboomstraat 34, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.17761454039866,
+        "Lon_WGS84": 4.359549351280597,
+        "X_Lambert72": 149356.1,
+        "Y_Lambert72": 207512.67,
+        "X_Lambert2008": 649351.32,
+        "Y_Lambert2008": 707512.7
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.17761454039866,
+          "Lon_WGS84": 4.359549351280597,
+          "X_Lambert72": 149356.1,
+          "Y_Lambert72": 207512.67,
+          "X_Lambert2008": 649351.32,
+          "Y_Lambert2008": 707512.7
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.17761454039866,
+          "Lon_WGS84": 4.359549351280597,
+          "X_Lambert72": 149356.1,
+          "Y_Lambert72": 207512.67,
+          "X_Lambert2008": 649351.32,
+          "Y_Lambert2008": 707512.7
+        }
+      }
+    }
+  ]
+}

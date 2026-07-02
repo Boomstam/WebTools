@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2040",
+      "Thoroughfarename": "Verbrandstraatje",
+      "Housenumber": "19",
+      "ID": 2006854,
+      "FormattedAddress": "Verbrandstraatje 19, 2040 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.360207304425145,
+        "Lon_WGS84": 4.317964142553098,
+        "X_Lambert72": 146461.75,
+        "Y_Lambert72": 227828.51,
+        "X_Lambert2008": 646454.58,
+        "Y_Lambert2008": 727828.03
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.360207304425145,
+          "Lon_WGS84": 4.317964142553098,
+          "X_Lambert72": 146461.75,
+          "Y_Lambert72": 227828.51,
+          "X_Lambert2008": 646454.58,
+          "Y_Lambert2008": 727828.03
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.360207304425145,
+          "Lon_WGS84": 4.317964142553098,
+          "X_Lambert72": 146461.75,
+          "Y_Lambert72": 227828.51,
+          "X_Lambert2008": 646454.58,
+          "Y_Lambert2008": 727828.03
+        }
+      }
+    }
+  ]
+}

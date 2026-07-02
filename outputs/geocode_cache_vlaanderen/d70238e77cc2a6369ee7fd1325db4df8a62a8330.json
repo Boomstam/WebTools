@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Lange Altaarstraat",
+      "Housenumber": "31",
+      "ID": 2023041,
+      "FormattedAddress": "Lange Altaarstraat 31, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20639404892253,
+        "Lon_WGS84": 4.43267653034545,
+        "X_Lambert72": 154467.1,
+        "Y_Lambert72": 210716.42,
+        "X_Lambert2008": 654461.9,
+        "Y_Lambert2008": 710717.04
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20639404892253,
+          "Lon_WGS84": 4.43267653034545,
+          "X_Lambert72": 154467.1,
+          "Y_Lambert72": 210716.42,
+          "X_Lambert2008": 654461.9,
+          "Y_Lambert2008": 710717.04
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20639404892253,
+          "Lon_WGS84": 4.43267653034545,
+          "X_Lambert72": 154467.1,
+          "Y_Lambert72": 210716.42,
+          "X_Lambert2008": 654461.9,
+          "Y_Lambert2008": 710717.04
+        }
+      }
+    }
+  ]
+}

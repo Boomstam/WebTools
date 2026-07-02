@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Kattenstraat",
+      "Housenumber": "23",
+      "ID": 1157507,
+      "FormattedAddress": "Kattenstraat 23, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.221586545687266,
+        "Lon_WGS84": 4.411876030732679,
+        "X_Lambert72": 153012.42,
+        "Y_Lambert72": 212405.59,
+        "X_Lambert2008": 653007.03,
+        "Y_Lambert2008": 712406.02
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.221586545687266,
+          "Lon_WGS84": 4.411876030732679,
+          "X_Lambert72": 153012.42,
+          "Y_Lambert72": 212405.59,
+          "X_Lambert2008": 653007.03,
+          "Y_Lambert2008": 712406.02
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.221586545687266,
+          "Lon_WGS84": 4.411876030732679,
+          "X_Lambert72": 153012.42,
+          "Y_Lambert72": 212405.59,
+          "X_Lambert2008": 653007.03,
+          "Y_Lambert2008": 712406.02
+        }
+      }
+    }
+  ]
+}

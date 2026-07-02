@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Bouwmeestersstraat",
+      "Housenumber": "1",
+      "ID": 2294586,
+      "FormattedAddress": "Bouwmeestersstraat 1, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.20794337107325,
+        "Lon_WGS84": 4.396347776892545,
+        "X_Lambert72": 151928.13,
+        "Y_Lambert72": 210887.2,
+        "X_Lambert2008": 651922.93,
+        "Y_Lambert2008": 710887.51
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.20794337107325,
+          "Lon_WGS84": 4.396347776892545,
+          "X_Lambert72": 151928.13,
+          "Y_Lambert72": 210887.2,
+          "X_Lambert2008": 651922.93,
+          "Y_Lambert2008": 710887.51
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.20794337107325,
+          "Lon_WGS84": 4.396347776892545,
+          "X_Lambert72": 151928.13,
+          "Y_Lambert72": 210887.2,
+          "X_Lambert2008": 651922.93,
+          "Y_Lambert2008": 710887.51
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2140",
+      "Thoroughfarename": "Leningstraat",
+      "Housenumber": "24",
+      "ID": 1507529,
+      "FormattedAddress": "Leningstraat 24, 2140 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21703946784087,
+        "Lon_WGS84": 4.438981020541507,
+        "X_Lambert72": 154906.57,
+        "Y_Lambert72": 211901.17,
+        "X_Lambert2008": 654901.23,
+        "Y_Lambert2008": 711901.83
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21703946784087,
+          "Lon_WGS84": 4.438981020541507,
+          "X_Lambert72": 154906.57,
+          "Y_Lambert72": 211901.17,
+          "X_Lambert2008": 654901.23,
+          "Y_Lambert2008": 711901.83
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21703946784087,
+          "Lon_WGS84": 4.438981020541507,
+          "X_Lambert72": 154906.57,
+          "Y_Lambert72": 211901.17,
+          "X_Lambert2008": 654901.23,
+          "Y_Lambert2008": 711901.83
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2660",
+      "Thoroughfarename": "Commandant Van Laethemstraat",
+      "Housenumber": "3",
+      "ID": 1447360,
+      "FormattedAddress": "Commandant Van Laethemstraat 3, 2660 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.18209340772183,
+        "Lon_WGS84": 4.348667474364196,
+        "X_Lambert72": 148595.26,
+        "Y_Lambert72": 208011.1,
+        "X_Lambert2008": 648590.43,
+        "Y_Lambert2008": 708011.04
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.18209340772183,
+          "Lon_WGS84": 4.348667474364196,
+          "X_Lambert72": 148595.26,
+          "Y_Lambert72": 208011.1,
+          "X_Lambert2008": 648590.43,
+          "Y_Lambert2008": 708011.04
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.18209340772183,
+          "Lon_WGS84": 4.348667474364196,
+          "X_Lambert72": 148595.26,
+          "Y_Lambert72": 208011.1,
+          "X_Lambert2008": 648590.43,
+          "Y_Lambert2008": 708011.04
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2180",
+      "Thoroughfarename": "Kapelsesteenweg",
+      "Housenumber": "41",
+      "ID": 1629367,
+      "FormattedAddress": "Kapelsesteenweg 41, 2180 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.26998505126628,
+        "Lon_WGS84": 4.459153454002606,
+        "X_Lambert72": 156308.81,
+        "Y_Lambert72": 217793.2,
+        "X_Lambert2008": 656302.75,
+        "Y_Lambert2008": 717793.98
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.26998505126628,
+          "Lon_WGS84": 4.459153454002606,
+          "X_Lambert72": 156308.81,
+          "Y_Lambert72": 217793.2,
+          "X_Lambert2008": 656302.75,
+          "Y_Lambert2008": 717793.98
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.26998505126628,
+          "Lon_WGS84": 4.459153454002606,
+          "X_Lambert72": 156308.81,
+          "Y_Lambert72": 217793.2,
+          "X_Lambert2008": 656302.75,
+          "Y_Lambert2008": 717793.98
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2000",
+      "Thoroughfarename": "Lange Nieuwstraat",
+      "Housenumber": "4",
+      "ID": 468616,
+      "FormattedAddress": "Lange Nieuwstraat 4, 2000 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.21993378704145,
+        "Lon_WGS84": 4.4055239491976295,
+        "X_Lambert72": 152568.73,
+        "Y_Lambert72": 212221.47,
+        "X_Lambert2008": 652563.37,
+        "Y_Lambert2008": 712221.85
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.21993378704145,
+          "Lon_WGS84": 4.4055239491976295,
+          "X_Lambert72": 152568.73,
+          "Y_Lambert72": 212221.47,
+          "X_Lambert2008": 652563.37,
+          "Y_Lambert2008": 712221.85
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.21993378704145,
+          "Lon_WGS84": 4.4055239491976295,
+          "X_Lambert72": 152568.73,
+          "Y_Lambert72": 212221.47,
+          "X_Lambert2008": 652563.37,
+          "Y_Lambert2008": 712221.85
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Antwerpen",
+      "Zipcode": "2018",
+      "Thoroughfarename": "Consciencestraat",
+      "Housenumber": "44",
+      "ID": 1542541,
+      "FormattedAddress": "Consciencestraat 44, 2018 Antwerpen",
+      "Location": {
+        "Lat_WGS84": 51.207365956074106,
+        "Lon_WGS84": 4.416105757293112,
+        "X_Lambert72": 153308.95,
+        "Y_Lambert72": 210823.67,
+        "X_Lambert2008": 653303.75,
+        "Y_Lambert2008": 710824.15
+      },
+      "LocationType": "basisregisters_huisnummer_afgeleidVanObject",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.207365956074106,
+          "Lon_WGS84": 4.416105757293112,
+          "X_Lambert72": 153308.95,
+          "Y_Lambert72": 210823.67,
+          "X_Lambert2008": 653303.75,
+          "Y_Lambert2008": 710824.15
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.207365956074106,
+          "Lon_WGS84": 4.416105757293112,
+          "X_Lambert72": 153308.95,
+          "Y_Lambert72": 210823.67,
+          "X_Lambert2008": 653303.75,
+          "Y_Lambert2008": 710824.15
+        }
+      }
+    }
+  ]
+}
