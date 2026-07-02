@@ -1,0 +1,85 @@
+{
+  "address": "Paardenmarkt 51, 2000 Antwerpen",
+  "address_key": "PAARDENMARKT|51|||2000|Antwerpen",
+  "query": "\"Paardenmarkt 51\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "IMDb : Ratings, Reviews, and Where to Watch the Best Movies & TV …",
+      "url": "https://www.imdb.com/",
+      "snippet": "IMDb is the world's most popular and authoritative source for movie, TV and celebrity content. Find ratings and reviews for the newest movie and TV shows. Get personalized recommendations, and …",
+      "domain": "imdb.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "IMDb Top 250 movies",
+      "url": "https://www.imdb.com/chart/top/",
+      "snippet": "As rated by regular IMDb voters. The top rated movie list only includes feature films. Shorts, TV movies, and documentaries are not included The list is ranked by a formula which includes the number of …",
+      "domain": "imdb.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "IMDb Search",
+      "url": "https://searchimdb.com/",
+      "snippet": "Fire up the same sleek IMDb-style search your visitors expect. Instantly browse films, television, and the creative talent behind every project without breaking immersion.",
+      "domain": "searchimdb.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "What to Watch - IMDb",
+      "url": "https://s.media-imdb.com/what-to-watch/watch-guides/",
+      "snippet": "List Everything New on Netflix This Month See the calendar Browse these IMDb collections to find the perfect next movie or TV show to watch Fan Favorites Top Picks From Your Watchlist Most Popular",
+      "domain": "s.media-imdb.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "IMDb - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IMDb",
+      "snippet": "IMDb ... IMDb, formerly known as the Internet Movie Database, is an online database of information related to films, television series, podcasts, video games, and streaming content online – including …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "IMDb : Movies & TV Shows - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.imdb.mobile&hl=en",
+      "snippet": "17 jun 2026 · IMDb is available worldwide in English, Spanish, German, French, Portuguese, Italian, Japanese, Korean, Chinese, Taiwanese, and Hindi. We love making IMDb better for you!",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "IMDb - YouTube",
+      "url": "https://www.youtube.com/imdb",
+      "snippet": "IMDb is the world's most popular and authoritative source for movie, TV and celebrity content.",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "IMDb : Movie & TV Guide - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.imdb.mobile&hl=en-GB",
+      "snippet": "17 jun 2026 · IMDb is available worldwide in English, Spanish, German, French, Portuguese, Italian, Japanese, Korean, Chinese, Taiwanese, and Hindi. We love making IMDb better for you!",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

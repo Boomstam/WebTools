@@ -1,0 +1,87 @@
+{
+  "address": "Boomsesteenweg 467, 2610 Wilrijk",
+  "address_key": "BOOMSESTEENWEG|467|||2610|Wilrijk",
+  "query": "\"Boomsesteenweg 467\" \"2610\" \"Wilrijk\"",
+  "results": [
+    {
+      "title": "Google",
+      "url": "https://www.google.nl/",
+      "snippet": "De missie van Google is alle informatie ter wereld te organiseren en universeel toegankelijk en bruikbaar te maken.",
+      "domain": "google.nl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Search - A new kind of help",
+      "url": "https://search.google/",
+      "snippet": "Explore a new kind of help for your everyday with breakthroughs in Search intelligence from Google I/O.",
+      "domain": "search.google",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Startpagina - Google als jouw startpagina!",
+      "url": "https://google.startpagina.nl/",
+      "snippet": "16 jun 2026 · Op deze pagina vind je van allemaal voor jou relevante links. Stel Google in als jouw startpagina en zoek snel door heel het internet.",
+      "domain": "google.startpagina.nl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Sign in - Google Accounts",
+      "url": "https://accounts.google.com/",
+      "snippet": "Not your computer? Use a private browsing window to sign in. Learn more about using Guest mode Next Create account",
+      "domain": "accounts.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com.ai/?hl=nl-US",
+      "snippet": "Google aangeboden in: English Adverteren Alles over Google Google.com",
+      "domain": "google.com.ai",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Learn More About Google 's Secure and Protected Accounts - Google",
+      "url": "https://myaccount.google.com/",
+      "snippet": "Sign in to your Google Account, and get the most out of all the Google services you use. Your account helps you do more by personalizing your Google experience and offering easy access to...",
+      "domain": "myaccount.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Over Google : onze producten, technologie en bedrijfsinformatie",
+      "url": "https://about.google/intl/nl_ALL/",
+      "snippet": "Leer Google beter kennen. Verken onze innovatieve AI-producten en -services en ontdek hoe we technologie gebruiken om wereldwijd levens te verbeteren.",
+      "domain": "about.google",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com/?hl=nl",
+      "snippet": "Adverteren Alles over Google Google.com in English © 2026 - Privacy - Voorwaarden",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

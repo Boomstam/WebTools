@@ -1,0 +1,85 @@
+{
+  "address": "Kattenstraat 23 bus 201, 2000 Antwerpen",
+  "address_key": "KATTENSTRAAT|23||201|2000|Antwerpen",
+  "query": "\"Kattenstraat 23\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "TikTok - Make Your Day",
+      "url": "https://www.tiktok.com/ar/",
+      "snippet": "TikTok - المقاطع الرائجة تبدأ من هنا. باستخدام جهازك أو من خلال الويب، يمكن للمشاهدين مشاهدة واكتشاف الملايين من الفيديوهات القصيرة المخصصة. قم بتنزيل التطبيق لتبدأ.",
+      "domain": "tiktok.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Log in | TikTok",
+      "url": "https://www.tiktok.com/login",
+      "snippet": "Manage your account, check notifications, comment on videos, and more.",
+      "domain": "tiktok.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "TikTok - Make Your Day",
+      "url": "https://www.tiktok.com/",
+      "snippet": "TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos. Download the app to get started.",
+      "domain": "tiktok.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Watch trending videos for you | TikTok",
+      "url": "https://www.tiktok.com/foryou",
+      "snippet": "It starts on TikTok. Join the millions of viewers discovering content and creators on TikTok - available on the web or on your mobile device.",
+      "domain": "tiktok.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Sign up - TikTok",
+      "url": "https://www.tiktok.com/signup",
+      "snippet": "Sign up for an account or log back into TikTok. Create an account to discover real people and real videos that will make your day.",
+      "domain": "tiktok.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "For You - TikTok LIVE feed",
+      "url": "https://www.tiktok.com/live",
+      "snippet": "Watch TikTok LIVE streams from the creators you follow or explore LIVE streams of gaming, lifestyle, chats, outdoors, talents, fashion, and more. Have fun interacting with others in real time.",
+      "domain": "tiktok.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "TikTok Coins: Buy and recharge Coins to send Gifts | TikTok",
+      "url": "https://www.tiktok.com/coin",
+      "snippet": "Get Coins to send Gifts to TikTok LIVE hosts here! Buy or recharge TikTok Coins at a lower price, with more payment options and a customizable recharge amount.",
+      "domain": "tiktok.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Explore - Find your favourite videos on TikTok",
+      "url": "https://www.tiktok.com/explore",
+      "snippet": "Discover the latest TikTok videos on our Explore page. Stay up-to-date on the latest trends and explore your interests here!",
+      "domain": "tiktok.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

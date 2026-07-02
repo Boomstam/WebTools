@@ -1,0 +1,87 @@
+{
+  "address": "Prinsstraat 36, 2000 Antwerpen",
+  "address_key": "PRINSSTRAAT|36|||2000|Antwerpen",
+  "query": "\"Prinsstraat 36\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "RuTracker.org",
+      "url": "https://rutracker.net/forum/index.php?c=1",
+      "snippet": "У Рутрекера юбилей - 20 лет! Место встречи изменить...",
+      "domain": "rutracker.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "RuTracker.org",
+      "url": "https://rutracker.net/forum/index.php?c=4",
+      "snippet": "Jean Dussouchet - Cours primaire de Grammaire Française. Brevet élémentair e / Начальный курс грамматики французского …",
+      "domain": "rutracker.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "[DL] The Binding of Isaac : Repentance [P] [RUS + ENG + 5 / ENG] …",
+      "url": "https://rutracker.org/forum/viewtopic.php?t=6072953",
+      "snippet": "Место на диске: 2 GB Описание: Испытайте современную классику The Binding of Isaac так, как вы ее еще никогда не …",
+      "domain": "rutracker.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "RuTracker.org",
+      "url": "https://rutracker.me/forum/index.php?c=9",
+      "snippet": "У Рутрекера юбилей - 20 лет! • Общение (ГИС, системы навигации и карты) • ГИС (Геоинформационные системы) • Карты, …",
+      "domain": "rutracker.me",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "phpbb/phpBB/ viewtopic . php at master · phpbb/phpbb · GitHub",
+      "url": "https://github.com/phpbb/phpbb/blob/master/phpBB/viewtopic.php",
+      "snippet": "phpBB Development: phpBB is a popular open-source bulletin board written in PHP. This repository also contains the history of …",
+      "domain": "github.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "RuTracker.org",
+      "url": "https://www.rutracker.org/forum/viewtopic.php?t=5324346",
+      "snippet": "We would like to show you a description here but the site won’t allow us.",
+      "domain": "rutracker.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "phpBB • List of forums using phpBB",
+      "url": "https://www.phpbb.com/community/viewtopic.php?t=2640181",
+      "snippet": "10 apr 2023 · If you mean \"the description\" or the alt= of the logo, then yes: but the logo itself (even if the image contains the \"word\" …",
+      "domain": "phpbb.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com/",
+      "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find …",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

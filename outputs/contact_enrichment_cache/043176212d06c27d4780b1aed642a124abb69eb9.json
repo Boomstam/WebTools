@@ -1,0 +1,93 @@
+{
+  "address": "Pelikaanstraat 112, 2018 Antwerpen",
+  "address_key": "PELIKAANSTRAAT|112|||2018|Antwerpen",
+  "query": "\"Pelikaanstraat 112\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "X . See what’s happening",
+      "url": "https://x.com/",
+      "snippet": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary. Available on the App …",
+      "domain": "x.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://x.com/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Explore - Trending Topics & Today's News | X - Twitter",
+      "url": "https://x.com/explore",
+      "snippet": "Discover trending topics and today's news on X. See live updates, top conversations, and what's happening right now across the world.",
+      "domain": "x.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://x.com/explore"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "X - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.twitter.android&hl=en",
+      "snippet": "X isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. …",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "X APK for Android Download - APKPure.com",
+      "url": "https://apkpure.com/x-formerly-twitter/com.twitter.android",
+      "snippet": "1 dag geleden · Download X latest version for Android. X is an open social media platform to let you know and discuss everything …",
+      "domain": "apkpure.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "X (Formerly Twitter) - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.twitter.android&hl=en-IN",
+      "snippet": "1 dag geleden · X isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and …",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Download X (Twitter) (free) for Android, APK, iOS and Web App",
+      "url": "https://gizmodo.com/download/x-twitter",
+      "snippet": "23 uur geleden · X is accessible through the web and as a mobile app on both Android and iOS. The platform is free to use, with a …",
+      "domain": "gizmodo.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "‎ X App - App Store",
+      "url": "https://apps.apple.com/us/app/x/id333903271",
+      "snippet": "X isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. …",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "X (Twitter) - Download",
+      "url": "https://twitter.en.softonic.com/",
+      "snippet": "7 mei 2026 · X, formerly known as Twitter, is a free social and communication app that lets you post GIFs, pictures, links, polls, text, …",
+      "domain": "twitter.en.softonic.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

@@ -1,0 +1,85 @@
+{
+  "address": "Ruytermansweg 55, 2040 Bezali",
+  "address_key": "RUYTERMANSWEG|55|||2040|Bezali",
+  "query": "\"Ruytermansweg 55\" \"2040\" \"Bezali\"",
+  "results": [
+    {
+      "title": "TMC en direct live TV | TF1+",
+      "url": "https://www.tf1.fr/tmc/direct",
+      "snippet": "23 uur geleden · TMC en direct : 🔴 Retrouvez gratuitement et en direct tous les programmes, émissions et séries de TMC sur TF1+",
+      "domain": "tf1.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "TMC : Replay, Direct, Vidéos en streaming et Actualités | TF1+",
+      "url": "https://www.tf1.fr/tmc",
+      "snippet": "Retrouvez vos émissions et séries TMC préférées. Suivez vos programmes TMC en direct et en streaming.",
+      "domain": "tf1.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Programme TV aujourd’hui sur TMC | Télé 7 Jours",
+      "url": "https://www.programme-television.org/tv/chaines/tmc",
+      "snippet": "Programme TV TMC d'aujourd'hui et ce soir : retrouvez gratuitement la grille complète des programmes TV de TMC, pour les 14 prochains jours avec Télé 7 Jours.",
+      "domain": "programme-television.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "TMC direct > regarder TMC en direct sur internet - tv-programme.com",
+      "url": "https://tv-programme.com/tmc/direct",
+      "snippet": "Suivez TMC en direct et profitez de vos émissions, séries et films préférés en streaming. Accédez au programme TV de la chaîne en temps réel et ne manquez aucun rendez-vous télévisé.",
+      "domain": "tv-programme.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Regarder TMC en direct - live streaming sur Molotov.tv",
+      "url": "https://www.molotov.tv/fr_fr/c/36/tmc",
+      "snippet": "Téléchargez gratuitement l'application Molotov TV afin de regarder tous les programmes de TMC en direct. Vos programmes préférés en live streaming.",
+      "domain": "molotov.tv",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "TMC en direct : regarder les émissions de TMC en live - Programme TV",
+      "url": "https://tvprogramme.fr/chaine/tmc/direct",
+      "snippet": "23 uur geleden · Regarder les émissions TV de TMC en direct live gratuitement et sans inscription (MYTF1)",
+      "domain": "tvprogramme.fr",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "TMC : programme tv ce soir et en ce moment sur TMC",
+      "url": "https://tv-programme.com/tmc",
+      "snippet": "Découvrez le programme TV complet de TMC pour ne manquer aucune émission, série ou film diffusé sur la chaîne. Consultez la grille horaire mise à jour quotidiennement pour savoir ce qui passe ce …",
+      "domain": "tv-programme.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Regarder TMC en direct sur internet – PlayTV",
+      "url": "https://playtv.fr/television/tmc/",
+      "snippet": "Regarder le direct télé de la chaîne TMC gratuitement sur le web avec PlayTV, votre plateforme de tv en live.",
+      "domain": "playtv.fr",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

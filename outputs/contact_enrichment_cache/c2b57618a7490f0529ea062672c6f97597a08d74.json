@@ -1,0 +1,85 @@
+{
+  "address": "Brederodestraat 41, 2018 Antwerpen",
+  "address_key": "BREDERODESTRAAT|41|||2018|Antwerpen",
+  "query": "\"Brederodestraat 41\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Open Command Prompt : Easy Steps for Windows Users - Lifewire",
+      "url": "https://www.lifewire.com/how-to-open-command-prompt-2618089",
+      "snippet": "18 feb 2026 · Find simple instructions to open Command Prompt across Windows versions, including Windows 11, 10, 8, and 7, for executing essential commands effortlessly.",
+      "domain": "lifewire.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to Open the Command Prompt in Windows 8, 10, and 11 - wikiHow",
+      "url": "https://www.wikihow.com/Open-the-Command-Prompt-in-Windows",
+      "snippet": "4 mrt 2025 · You must have administrator access to run the command prompt, so you won't be able to do this on school computers or other locked devices. This wikiHow will show you how to get to and …",
+      "domain": "wikihow.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Complete list of Command Prompt (CMD) commands",
+      "url": "https://www.thewindowsclub.com/complete-list-of-command-prompt-commands",
+      "snippet": "25 okt 2025 · This guide contains the complete list of nearly 300 Command Prompt commands, you can use to perform various tasks on Windows computer.",
+      "domain": "thewindowsclub.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to Open Command Prompt in Windows 11, 10, 8, 7",
+      "url": "https://www.geeksforgeeks.org/techtips/open-the-command-prompt-in-windows/",
+      "snippet": "11 nov 2025 · The Command Prompt is a tool in Windows for executing commands, troubleshooting issues, and automating tasks. Whether you're using Windows 11, 10, 8, or 7, this guide covers all the …",
+      "domain": "geeksforgeeks.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Windows commands | Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands",
+      "snippet": "24 feb 2026 · Windows has two command-line shells: the Command shell and PowerShell. Each shell is a software program that provides direct communication between you and the operating system or …",
+      "domain": "learn.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "The Full List of Command Prompt (CMD) Commands - Alphr",
+      "url": "https://www.alphr.com/full-list-command-prompt-commands/",
+      "snippet": "8 mrt 2024 · Unlock the full potential of Command Prompt with this comprehensive list of 280+ (CMD) commands for Windows.",
+      "domain": "alphr.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Basic CMD Commands List: Windows CMD Codes with Examples",
+      "url": "https://www.softwaretestinghelp.com/windows-cmd-commands/",
+      "snippet": "12 jun 2026 · Learn the complete list of basic CMD commands for Windows 10 and 11. This guide includes command prompt codes, syntax, and real examples.",
+      "domain": "softwaretestinghelp.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "كيفية فتح موجه الأوامر في نظامي التشغيل Windows 10 وWindows 11 ️",
+      "url": "https://tecnobits.com/ar/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D9%81%D8%AA%D8%AD-%D9%85%D9%88%D8%AC%D9%87-%D8%A7%D9%84%D8%A3%D9%88%D8%A7%D9%85%D8%B1-%D9%81%D9%8A-%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2-10-%D9%88%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2-11/",
+      "snippet": "5 jul 2023 · في الختام، يعد Command Prompt أداة متقدمة توفر لمستخدمي Windows 10 وWindows 11 واجهة سطر أوامر لتنفيذ العمليات المختلفة على نظام التشغيل.",
+      "domain": "tecnobits.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

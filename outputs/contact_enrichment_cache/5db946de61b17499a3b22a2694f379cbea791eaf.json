@@ -1,0 +1,85 @@
+{
+  "address": "Pluvierstraat 37, 2050 Antwerpen",
+  "address_key": "PLUVIERSTRAAT|37|||2050|Antwerpen",
+  "query": "\"Pluvierstraat 37\" \"2050\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Speedtest by Ookla - The Global Broadband Speed Test",
+      "url": "https://www.speedtest.net/",
+      "snippet": "Test your internet speed on any device with Speedtest by Ookla, available for free on desktop and mobile apps.",
+      "domain": "speedtest.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Speedtest door Ookla - De wereldwijde breedbandsnelheidstest",
+      "url": "https://www.speedtest.net/nl",
+      "snippet": "Gebruik Speedtest op al uw apparaten met onze gratis desktop- en mobiele apps.",
+      "domain": "speedtest.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Speedtest by Ookla - The Global Broadband Speed Test",
+      "url": "https://www.speedtest.net/settings",
+      "snippet": "Customize your Speedtest experience and manage settings for accurate broadband speed tests on all your devices with free desktop and mobile apps.",
+      "domain": "speedtest.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Settings - Speedtest by Ookla",
+      "url": "https://www.speedtest.net/zh-Hant/settings",
+      "snippet": "Create an Account Join the millions of other people helping us to accelerate the Internet! By creating an account, you'll be able to access your historical results anywhere and manage your Speedtest …",
+      "domain": "speedtest.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Speedtest Apps: Our internet speed test available across a variety of ...",
+      "url": "https://www.speedtest.net/apps",
+      "snippet": "Download Speedtest ® Test your internet speed at any time, on any device You connect to the internet using all kinds of devices. But are you getting the speeds you deserve? Find out with free native …",
+      "domain": "speedtest.net",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Speedtest od Ookla - globalny test prędkości łącza szerokopasmowego",
+      "url": "https://www.speedtest.net/pl",
+      "snippet": "Test your broadband speed with Speedtest by Ookla, available on all devices through free desktop and mobile apps.",
+      "domain": "speedtest.net",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Wi-Fi Not Working? 3 Simple Steps to Audit and Improve Your Home …",
+      "url": "https://www.speedtest.net/about/knowledge/simple-wifi-audit",
+      "snippet": "Learn what to do when your computer is not connecting to Wi-Fi and how Speedtest can help you audit your internet experience across your home network",
+      "domain": "speedtest.net",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "How Much Internet Speed Do You Really Need?",
+      "url": "https://www.speedtest.net/about/knowledge/how-much-speed-you-need",
+      "snippet": "So how much speed is right for you? When thinking about your own need for speed, it’s key to consider how your network will be used and how many people will use it. You likely don’t need a ton of speed …",
+      "domain": "speedtest.net",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

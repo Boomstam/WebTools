@@ -1,0 +1,85 @@
+{
+  "address": "Quellinstraat 56, 2018 Antwerpen",
+  "address_key": "QUELLINSTRAAT|56|||2018|Antwerpen",
+  "query": "\"Quellinstraat 56\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Prime Video: Filme, Serien, Sport und Live-TV ansehen - Amazon .de",
+      "url": "https://www.amazon.de/gp/video/storefront",
+      "snippet": "Streame im Rahmen deiner Prime-Mitgliedschaft beliebte Filme, Serien, Sport und Live-TV. Mit Zusatzkanälen hast du sogar Zugriff …",
+      "domain": "amazon.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Filme und Serien buchen, kaufen und leihen - Prime Video",
+      "url": "https://www.primevideo.com/-/de/store",
+      "snippet": "Tauche bei Prime Video in eine Welt voller Unterhaltung ein. Du kannst die beliebtesten und neuesten Videos buchen, kaufen oder …",
+      "domain": "primevideo.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Prime -Mitgliedschaft: Kosten & Leistungen im Überblick - DE About Amazon",
+      "url": "https://www.aboutamazon.de/news/amazon-prime-und-shopping/prime-mitgliedschaft-kosten",
+      "snippet": "18 sep 2025 · Erfahre alles über die Prime-Mitgliedschaft: Kosten und Vorteile inklusive Prime Video. Erlebe Streaming, kostenlosen …",
+      "domain": "aboutamazon.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Amazon .de: Amazon Prime",
+      "url": "https://www.amazon.de/amazonprime",
+      "snippet": "Als Prime-Mitglied kannst du exklusive Amazon Originals, Tausende beliebter Filme und Serien, sowie das Dienstags-Topspiel der …",
+      "domain": "amazon.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Amazon Prime Kosten & Test: Lohnt sich das Prime Abo 2026 noch?",
+      "url": "https://www.homeandsmart.de/was-kostet-amazon-prime-0001-669088",
+      "snippet": "4 dagen geleden · Amazon Prime ist mehr als schnelle Lieferung: Das Abo bündelt Streaming, Musik, Cloud-Speicher und Gamer …",
+      "domain": "homeandsmart.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Prime Video",
+      "url": "https://www.primevideo.com/splash/get/?language=de_DE",
+      "snippet": "AGB und Datenschutzerklärung Feedback senden Hilfe © 1996-2026 Amazon.com, Inc. oder Tochtergesellschaften",
+      "domain": "primevideo.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Amazon Prime Video Top 10: Die aktuell beliebtesten Filme des ...",
+      "url": "https://www.netzwelt.de/amazon-prime-video/amazon-prime-video-top-10-aktuell-beliebtesten-filme.html",
+      "snippet": "1 dag geleden · In der Top 10 von Amazon Prime Video findet ihr die größten Film-Highlights der Woche. Diese Woche schauen sich …",
+      "domain": "netzwelt.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Amazon Prime Day 2026: Jetzt die besten Deals sichern",
+      "url": "https://www.aboutamazon.de/news/amazon-prime-und-shopping/amazon-prime-day",
+      "snippet": "23 jun 2026 · Der Prime Day ist da – vier Tage lang erwarten dich hunderttausende exklusive Angebote. Entdecke jetzt die besten …",
+      "domain": "aboutamazon.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

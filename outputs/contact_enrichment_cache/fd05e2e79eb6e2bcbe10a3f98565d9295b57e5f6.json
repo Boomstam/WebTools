@@ -1,0 +1,87 @@
+{
+  "address": "Provinciestraat 169-173, 2018 Antwerpen",
+  "address_key": "PROVINCIESTRAAT|169|173||2018|Antwerpen",
+  "query": "\"Provinciestraat 169\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Hhhggg - YouTube",
+      "url": "https://m.youtube.com/watch?v=V20z50axZWU",
+      "snippet": "30 apr 2018 · Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "domain": "m.youtube.com",
+      "score": 30,
+      "reasons": [
+        "postcode"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Hamburgisches Hochschulgesetz (HmbHG) Vom 18. Juli 2001*",
+      "url": "https://www.jura.uni-hamburg.de/media/service/rechtsgrundlagen/a-allgemeines/a-i-hamburgisches-hochschulgesetz-hmbhg-2019.pdf",
+      "snippet": "Allgemeine Bestimmungen und Weiterentwicklung des Hochschulwesens Geltungsbereich Rechtsstellung, Ziel- und Leistungsvereinbarungen Gemeinsame Aufgaben der Hochschulen …",
+      "domain": "jura.uni-hamburg.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Landesrecht Hamburg",
+      "url": "https://www.landesrecht-hamburg.de/bsha/document/jlr-HSchulGHArahmen",
+      "snippet": "Recherche juristischer Informationen Suche in Alle Kategorien Erweiterte Suche",
+      "domain": "landesrecht-hamburg.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Hamburgisches Hochschulgesetz (HmbHG) Vom 18. Juli 2001 …",
+      "url": "https://www.lexaris.de/book/version/documentflat/head/1333708",
+      "snippet": "Verkündet als Artikel 1 des Gesetzes zur Neuordnung des Hochschulrechts vom 18. Juli 2001 (HmbGVBl. S. 171).",
+      "domain": "lexaris.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Koalition legt 'Haushaltsbegleitgesetz 2025' vor - Deutscher Bundestag",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1098822",
+      "snippet": "8 jul 2025 · Berlin: (hib/SCR) Die Fraktionen von CDU/CSU und SPD haben den „Entwurf eines Haushaltsbegleitgesetzes 2025“ (21/778(Dokument, öffnet ein neues Fenster)) in den Bundestag …",
+      "domain": "bundestag.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "ERSTER TEIL Allgemeine Bestimmungen und Weiterentwicklung des ...",
+      "url": "https://www.jura.uni-hamburg.de/media/service/rechtsgrundlagen/a-allgemeines/a--i--hamburgisches-hochschulgesetz--hmbhg-.pdf",
+      "snippet": "Die Hochschulen sorgen dafür, dass die Qualität ihrer Arbeit in Forschung und Lehre, zur Förderung des wissenschaftlichen und künstlerischen Nachwuchses und zur Erfüllung des Gleichstellungsauftrages …",
+      "domain": "jura.uni-hamburg.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Entwurf eines Haushaltsbegleitgesetzes 2025 vorgelegt",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1017204",
+      "snippet": "10 sep 2024 · Berlin: (hib/SCR) Die Bundesregierung hat den Entwurf eines 'Haushaltsbegleitgesetzes 2025' (20/12772 (Dokument, öffnet ein neues Fenster)) vorgelegt. Damit sollen die im …",
+      "domain": "bundestag.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Hhbhg - YouTube",
+      "url": "https://www.youtube.com/channel/UC5L7NT3LyiYc3B22xxg9vhg/videos",
+      "snippet": "Hhbhg @hhbhg1366 More about this channel ...more More about this channel ...more ...more",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

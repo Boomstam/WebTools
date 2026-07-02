@@ -1,0 +1,85 @@
+{
+  "address": "Statiestraat 43-45, 2600 Berchem",
+  "address_key": "STATIESTRAAT|43|45||2600|Berchem",
+  "query": "\"Statiestraat 43\" \"2600\" \"Berchem\"",
+  "results": [
+    {
+      "title": "Use Google Drive for desktop",
+      "url": "https://support.google.com/drive/answer/10838124?hl=en",
+      "snippet": "The space tracker in Drive for desktop shows the room left on your computer's hard drive, not your Google Account storage. Streaming a file uses almost no computer space, but mirroring downloads a …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Install Drive for desktop - Google Workspace Learning Center",
+      "url": "https://support.google.com/a/users/answer/13022292?hl=en",
+      "snippet": "Get started with Drive for Google Workspace Install Drive for desktop You can find and open your files from Google Drive on your computer with Drive for desktop. You can use Drive for desktop to keep …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "为什么国外用Drive来表示网盘/云盘/云服务？ - 知乎",
+      "url": "https://www.zhihu.com/question/67878615",
+      "snippet": "\"Drive\" 作为英语单词，表示驱动器或存储设备，因此与云盘、网盘等在线存储服务相关联。 这些服务使用“drive”一词强调它们提供的是一种类似于本地硬盘驱动器的存储空间，用户可以通过互联网访问并 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Drive Help",
+      "url": "https://support.google.com/drive/?hl=en",
+      "snippet": "Official Google Drive Help Center where you can find tips and tutorials on using Google Drive and other answers to frequently asked questions.",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to use Google Drive - Computer - Google Drive Help",
+      "url": "https://support.google.com/drive/answer/2424384?hl=en&co=GENIE.Platform%3DDesktop",
+      "snippet": "How to use Google Drive Want advanced Google Workspace features for your business? Try Google Workspace today! Google Drive helps you keep all your files together. You can upload and share …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Share files from Google Drive - Computer - Google Drive Help",
+      "url": "https://support.google.com/drive/answer/2494822?hl=en&co=GENIE.Platform%3DDesktop",
+      "snippet": "When you share from Google Drive, you can control whether people can edit, comment on, or only open the file. When you share content from Google Drive, the Google Drive program policies apply.",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Manage your storage in Drive, Gmail & Photos - Google Help",
+      "url": "https://support.google.com/mail/answer/6374270?hl=en",
+      "snippet": "When your account reaches its storage limit, you won't be able to upload or create files in Drive, send or receive emails in Gmail, or back up photos or videos to Google Photos. If you're over your storage …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "使用 Google 雲端硬碟電腦版",
+      "url": "https://support.google.com/drive/answer/10838124?hl=zh-Hant",
+      "snippet": "Sync files and folders to Drive for desktop Google Help 觀看平台： 透過 Google 雲端硬碟電腦版，你可以輕鬆處理檔案。 您也可以執行下列動作： 確保本機檔案安全無虞： 電腦檔案會安全儲存在雲端。",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

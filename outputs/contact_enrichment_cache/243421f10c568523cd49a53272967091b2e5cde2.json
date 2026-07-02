@@ -1,0 +1,85 @@
+{
+  "address": "Eendrachtstraat 15, 2060 Antwerpen",
+  "address_key": "EENDRACHTSTRAAT|15|||2060|Antwerpen",
+  "query": "\"Eendrachtstraat 15\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Cache leeren und Cookies löschen - Computer - Google-Konto-Hilfe",
+      "url": "https://support.google.com/accounts/answer/32050?hl=de&co=GENIE.Platform%3DDesktop",
+      "snippet": "Cache leeren und Cookies löschen Wenn Sie einen Browser wie Chrome verwenden, werden einige Daten von Websites im Cache und in Cookies gespeichert. Durch Löschen dieser Daten werden …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Clear cache & cookies - Computer - Google Account Help",
+      "url": "https://support.google.com/accounts/answer/32050?hl=en&co=GENIE.Platform%3DDesktop",
+      "snippet": "Clear cache & cookies When you use a browser, like Chrome, it saves some information from websites in its cache and cookies. Clearing them fixes certain problems, like loading or formatting issues on sites.",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Cache und Cookies in Google Chrome löschen (Windows)",
+      "url": "https://www.bitdefender.de/consumer/support/answer/12298/",
+      "snippet": "Erfahren Sie, wie Sie den Verlauf, den Cache und die Cookies in Google Chrome löschen, wenn dieser Browser unter Windows nicht funktioniert.",
+      "domain": "bitdefender.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Cache und Cookies in Mozilla Firefox löschen (Windows)",
+      "url": "https://www.bitdefender.de/consumer/support/answer/12296/",
+      "snippet": "Lernen Sie, Chronik, Cache und Cookies zu löschen, wenn der Mozilla Firefox Webbrowser unter Windows nicht wie erwartet funktioniert.",
+      "domain": "bitdefender.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Borrar la caché y las cookies - Ordenador - Ayuda de Cuenta de Google",
+      "url": "https://support.google.com/accounts/answer/32050?hl=es&co=GENIE.Platform%3DDesktop",
+      "snippet": "Borrar la caché y las cookies Cuando usas un navegador (por ejemplo, Chrome), este utiliza las cookies y la caché para guardar determinada información de los sitios web. Si borras estos datos, puedes …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Cache und Cookies in Google Chrome löschen (Mac) - Bitdefender",
+      "url": "https://www.bitdefender.de/consumer/support/answer/12319/",
+      "snippet": "Lernen Sie, Cache, Cookies und Erweiterungen zu löschen, wenn der Google Chrome Webbrowser unter Mac nicht wie erwartet funktioniert.",
+      "domain": "bitdefender.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Cookies in Chrome löschen, zulassen und verwalten - Computer",
+      "url": "https://support.google.com/chrome/answer/95647?hl=de&co=GENIE.Platform%3DDesktop",
+      "snippet": "Sie können vorhandene Cookies löschen, Drittanbieter-Cookies zulassen oder blockieren und Einstellungen für bestimmte Websites festlegen. Informationen zu Cookies Cookies sind Dateien, die …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Cache und Cookies in Safari löschen (Mac) - Bitdefender",
+      "url": "https://www.bitdefender.de/consumer/support/answer/12317/",
+      "snippet": "Erfahren Sie, wie Sie Verlauf, Cache, Cookies und Erweiterungen löschen und den Safari-Webbrowser unter macOS zurücksetzen.",
+      "domain": "bitdefender.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

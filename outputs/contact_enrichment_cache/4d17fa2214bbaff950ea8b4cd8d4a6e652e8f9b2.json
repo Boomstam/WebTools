@@ -1,0 +1,85 @@
+{
+  "address": "Reyndersstraat 27, 2000 Antwerpen",
+  "address_key": "REYNDERSSTRAAT|27|||2000|Antwerpen",
+  "query": "\"Reyndersstraat 27\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Liquidation Heatmap , BTC Liquidation Heatmap ,Crypto Liquidation …",
+      "url": "https://www.coinglass.com/pro/futures/LiquidationHeatMap",
+      "snippet": "By analyzing CoinGlass’s Liquidation Heatmap data, traders can identify potential risk zones, refine entry and stop-loss strategies, and improve the accuracy and success rate of their trading decisions.",
+      "domain": "coinglass.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Binance BTC /USDT Liquidation Heatmap - coinglass.com",
+      "url": "https://www.coinglass.com/pro/futures/LiquidationHeatMapModel3?coin=BTC&type=pair",
+      "snippet": "The Liquidation Heatmap provided by CoinGlass helps estimate price ranges where large-scale liquidation events may occur. Liquidations play a crucial role in the cryptocurrency market, often …",
+      "domain": "coinglass.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Bitcoin ( BTC ) Liquidation Heatmap : Live Data",
+      "url": "https://www.datawallet.com/liquidation-heatmap/bitcoin",
+      "snippet": "Live Bitcoin liquidation heatmap tracking BTC leverage clusters on Binance and Bybit. See where forced selling and buying are most likely to hit.",
+      "domain": "datawallet.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Bitcoin Liquidation Heatmap Live ( BTC /USDT) - coinperps.com",
+      "url": "https://www.coinperps.com/bitcoin-liquidation-heatmap",
+      "snippet": "Monitor real-time Bitcoin liquidations with an interactive heatmap that highlights critical price points, guiding smarter trades and informed market decisions.",
+      "domain": "coinperps.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Bitcoin Liquidation Heatmap | BitcoinCounterFlow",
+      "url": "https://bitcoincounterflow.com/liquidation-heatmap",
+      "snippet": "Track projected BTC liquidation clusters across major exchanges with a live heatmap, price overlay, and volume context.",
+      "domain": "bitcoincounterflow.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "BTC Liquidation Heatmap — Live Bitcoin Liquidation Levels | TapeSurf",
+      "url": "https://tapesurf.com/coin/btc/liquidation-heatmap",
+      "snippet": "What is a Bitcoin liquidation heatmap? A Bitcoin liquidation heatmap visualizes the price levels where leveraged BTC positions will be force-closed. The brighter a zone, the more leveraged exposure sits …",
+      "domain": "tapesurf.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Bitcoin Liquidation Heatmap - BTC Liquidation Levels | CoinsKid",
+      "url": "https://www.coinskid.com/bitcoin-heatmap",
+      "snippet": "Bitcoin Liquidation Heatmaps highlight high-risk price zones—mapped by our algorithm to show where over-leveraged traders are most likely to get wiped out. Track it live with our Bitcoin liquidation …",
+      "domain": "coinskid.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Bitcoin Liquidation Heatmap & Analytics | BitcoinCounterFlow",
+      "url": "https://bitcoincounterflow.com/",
+      "snippet": "See liquidation zones before the market moves. Real-time Bitcoin liquidation heatmap, open interest, funding rate, and professional market analytics in one platform.",
+      "domain": "bitcoincounterflow.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

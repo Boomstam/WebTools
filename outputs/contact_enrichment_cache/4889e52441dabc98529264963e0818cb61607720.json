@@ -1,0 +1,85 @@
+{
+  "address": "Britselei 44, 2000 Antwerpen",
+  "address_key": "BRITSELEI|44|||2000|Antwerpen",
+  "query": "\"Britselei 44\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Moda, hogar y belleza | Primark",
+      "url": "https://www.primark.com/es-es",
+      "snippet": "Descubre las últimas tendencias de moda en Primark. Encuentra nuevos modelos para hombre y mujer cada día y planifica tu próxima compra en nuestro sitio web.",
+      "domain": "primark.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Centro de Ayuda - Primark",
+      "url": "https://www.primark.com/ayuda/s/?language=es",
+      "snippet": "×Sorry to interrupt CSS Error",
+      "domain": "primark.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Primark ES Outlet | Pijamas, Vestidos & Camiseta Rebajas",
+      "url": "https://www.primark.com.es/",
+      "snippet": "Navega por Primark Outlet en España. Compra Pijamas, Jersey Navideño, Botas, Zapatillas, Chaqueta y Ropa Premamá. Obtén Rebajas y Descuentos Exclusivos.",
+      "domain": "primark.com.es",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Primark Madrid | Tiendas, información, horarios y empleo",
+      "url": "https://primarkblog.com/tiendas/primark-madrid/",
+      "snippet": "Primark Madrid Gran Vía. Descubre todas las tiendas de Madrid, información, horarios, ofertas de empleo y lo mejor de la moda a precios baratos.",
+      "domain": "primarkblog.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Primark CATÁLOGO online ️ julio 2026",
+      "url": "https://primarkblog.com/",
+      "snippet": "El catálogo de Primark presenta una amplia variedad de prendas de vestir para hombres, mujeres y niños. Además, siempre hay algo para todos, sin importar cuál sea su estilo.",
+      "domain": "primarkblog.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "PRIMARK Catálogo 01/07 - 31/07 >> online Rebajas 2026",
+      "url": "https://www.ofertero.es/primark/",
+      "snippet": "25 mei 2026 · Primark es una marca de moda y diseño que se caracteriza por sus ofertas. Aproveche los descuentos de esta semana del folleto Primark y consiga precios bajos y otros beneficios. Puede …",
+      "domain": "ofertero.es",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Fashion, Home & Beauty | Primark UK",
+      "url": "https://www.primark.com/en-gb",
+      "snippet": "Sitemap Store Accessibility Information INSIDE PRIMARK AND CAREERS Careers at Primark UK Gender Pay Report Modern Slavery Act Cruelty Free International",
+      "domain": "primark.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Ropa Elegante y Casual de Mujer - Primark",
+      "url": "https://www.primark.com/es-es/c/mujer/ropa",
+      "snippet": "Descubre todo tipo de prendas de ropa de mujer: pantalones, vestidos, zapatos, accesorios, básicos y más en nuestra colección de ropa de vestir para mujer.",
+      "domain": "primark.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

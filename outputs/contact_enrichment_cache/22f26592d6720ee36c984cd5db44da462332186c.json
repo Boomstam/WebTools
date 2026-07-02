@@ -1,0 +1,85 @@
+{
+  "address": "Ter Heydelaan 101, 2100 Deurne",
+  "address_key": "TER HEYDELAAN|101|||2100|Deurne",
+  "query": "\"Ter Heydelaan 101\" \"2100\" \"Deurne\"",
+  "results": [
+    {
+      "title": "TER : réservez vos billets régionaux sur SNCF Connect",
+      "url": "https://www.sncf-connect.com/fr-be/ter",
+      "snippet": "Avec SNCF Connect, trouvez toutes les informations sur TER et achetez vos billets directement en ligne pour vos voyages en région !",
+      "domain": "sncf-connect.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "TER : book your regional train tickets on SNCF Connect",
+      "url": "https://www.sncf-connect.com/en-en/ter",
+      "snippet": "TER stands for Transport Express Régional, the regional train service operated by SNCF. It allows you to explore France’s regions …",
+      "domain": "sncf-connect.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "SNCF TER Grand Est - Horaires , info trafic, achat de billets et …",
+      "url": "https://www.ter.sncf.com/grand-est",
+      "snippet": "Retrouvez toutes les informations du réseau TER Grand Est : horaires des trains, trafic en temps réel, achats de billets, offres et …",
+      "domain": "ter.sncf.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "SNCF TER Hauts-de-France - Horaires , info trafic, achat de billets et ...",
+      "url": "https://www.ter.sncf.com/hauts-de-france",
+      "snippet": "Retrouvez toutes les informations du réseau TER Hauts-de-France : horaires des trains, trafic en temps réel, achats de billets, offres …",
+      "domain": "ter.sncf.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Avec TER - SNCF Voyageurs",
+      "url": "https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/en-france/ter/",
+      "snippet": "Le réseau TER relie les territoires au quotidien grâce à des trains et autocars régionaux, opérés par SNCF Voyageurs en lien avec …",
+      "domain": "sncf-voyageurs.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Horaires et itinéraires | SNCF Voyageurs",
+      "url": "https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/horaires-et-itineraires/",
+      "snippet": "Réservation de billet Réservez vos voyages en train et vos billets au meilleur prix sur les TGV INOUI, OUIGO, Eurostar, TER et …",
+      "domain": "sncf-voyageurs.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "TER SNCF | Horaires | Billets Trains TER | Trainline",
+      "url": "https://www.thetrainline.com/fr/compagnies-ferroviaires/ter?msockid=162e5f2db283633312a048a4b3ec620d",
+      "snippet": "Réservez vos billets de train TER SNCF au meilleur prix et retrouvez toutes les informations sur les horaires, billets et services en …",
+      "domain": "thetrainline.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Transport express régional — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Transport_express_r%C3%A9gional",
+      "snippet": "Tous les éléments qui caractérisent le TER sont définis dans la charte TER, que les régions intéressées peuvent signer. Ainsi, le …",
+      "domain": "fr.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

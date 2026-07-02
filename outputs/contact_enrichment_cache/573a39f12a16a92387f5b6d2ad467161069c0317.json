@@ -1,0 +1,85 @@
+{
+  "address": "Hooftvunderlei 1, 2100 Deurne",
+  "address_key": "HOOFTVUNDERLEI|1|||2100|Deurne",
+  "query": "\"Hooftvunderlei 1\" \"2100\" \"Deurne\"",
+  "results": [
+    {
+      "title": "Sign in to GitHub · GitHub",
+      "url": "https://github.com/login",
+      "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million …",
+      "domain": "github.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "GitHub Copilot · Your AI pair programmer",
+      "url": "https://github.com/features/copilot",
+      "snippet": "GitHub Copilot works alongside you directly in your editor, suggesting whole lines or entire functions for you.",
+      "domain": "github.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Bảng giá ChatGPT mới nhất 2026 | Cách mua gói ưu đãi",
+      "url": "https://cellphones.com.vn/sforum/bang-gia-chatgpt",
+      "snippet": "26 mrt 2026 · Bảng giá ChatGPT mới nhất 2026, và hướng dẫn cách mua ChatGPT giá rẻ hay miễn phí, các gói sử dụng được bao …",
+      "domain": "cellphones.com.vn",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ChatGPT 4.0 là gì? 5 ưu điểm vượt trội của GPT-4 khi sử ...",
+      "url": "https://cellphones.com.vn/sforum/chatgpt-4-0-la-gi",
+      "snippet": "18 aug 2024 · Bạn đọc có thể tham khảo chi tiết tại website của Open AI nhé Chi phí sử dụng gói Chat GPT 4.0 là bao nhiêu? Theo …",
+      "domain": "cellphones.com.vn",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "如何评价 OpenAI 凌晨发布的 GPT-5？ - 知乎",
+      "url": "https://www.zhihu.com/question/1936601885311239615",
+      "snippet": "ChatGPT 中的非推理模型以 gpt-5-chat-latest API的形式提供。 GPT-5 是一个统一系统，内置一个智能高效、可回答大多数问题的模 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "o1、GPT4、GPT4o 这三个有什么区别？ - 知乎",
+      "url": "https://www.zhihu.com/question/5737732068",
+      "snippet": "GPT-4o 有强大的多模态处理能力，能同时处理文本、图像和音频输入；响应速度提升，支持更自然的实时对话和多种媒体的结合；整 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "GPT-API-free / DeepSeek-API-free - GitHub",
+      "url": "https://github.com/chatanywhere/GPT_API_free",
+      "snippet": "24 apr 2023 · ️ 免费API Key gpt-5系列模型的推理能力较弱，若需要更强的推理能力，可以购买付费API ️ 免费API Key仅可用于个 …",
+      "domain": "github.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Top 16+ Chat AI tiếng Việt miễn phí, tốt nhất 2026 - CellphoneS",
+      "url": "https://cellphones.com.vn/sforum/top-phan-mem-chat-ai-tot-nhat",
+      "snippet": "9 feb 2026 · Top các phần mềm chat AI tiếng Việt tốt và được nhiều người sử dụng nhất 2026, phần mềm chatbot AI online đem …",
+      "domain": "cellphones.com.vn",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

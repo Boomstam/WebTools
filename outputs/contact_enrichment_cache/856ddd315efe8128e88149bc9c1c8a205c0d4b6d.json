@@ -1,0 +1,85 @@
+{
+  "address": "Cruyslei 35-101, 2140 Borgerhout",
+  "address_key": "CRUYSLEI|35|101||2140|Borgerhout",
+  "query": "\"Cruyslei 35\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "Kostenlose Kleinanzeigen in Deutschland | markt .de",
+      "url": "https://www.markt.de/?msockid=263951bacff862bd291b4633ce46635c",
+      "snippet": "Kostenlose und schnelle Anzeigenaufgabe In Millionen gewerblichen und privaten Kleinanzeigen suchen Neu oder gebraucht In Deutschland und Umgebung",
+      "domain": "markt.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Kostenlose Kleinanzeigen in Landkreis Rottweil | markt .de",
+      "url": "https://www.markt.de/landkreis-rottweil/?msockid=263951bacff862bd291b4633ce46635c",
+      "snippet": "Für Rottweil bietet markt.de Anzeigen jeder Art von Autoanzeigen privater Gebrauchtwagen bis Immobilienanzeigen für günstige Wohnungen in Rottweil. Gerade für junge Familien mit Kindern sind …",
+      "domain": "markt.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Märkte - tourismus-rottweil.de",
+      "url": "https://www.tourismus-rottweil.de/das-erlebnis/veranstaltungen/maerkte",
+      "snippet": "Die Rottweiler Krämermärkte sind fester Bestandteil des Veranstaltungskalenders der Stadt. Mehrmals im Jahr bauen die Markthändler ihre Stände in der Rottweiler Fußgängerzone auf. Angeboten wird …",
+      "domain": "tourismus-rottweil.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Märkte | Stadt Rottweil - Die älteste Stadt Baden Württembergs",
+      "url": "https://www.rottweil.de/de/Stadt-Buerger/Aktuelles/Maerkte",
+      "snippet": "Erfahren Sie mehr über die Märkte in Rottweil, einschließlich Wochenmärkte und regionaler Produkte.",
+      "domain": "rottweil.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "REWE Markt Rottweil - Schramberger Str. 95",
+      "url": "https://www.rewe.de/marktseite/rottweil/8540555/rewe-markt-schramberger-str-95/?msockid=263951bacff862bd291b4633ce46635c",
+      "snippet": "Hol deine Produkte fertig gepackt am Markt ab. Finde spannende Jobs und Ausbildungen in deiner Nähe. Starte bei uns durch. Wir machen dir den Wechsel leicht, egal ob du aus der Gastro kommst, …",
+      "domain": "rewe.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "K- Markt Rottweil",
+      "url": "https://www.wohn-schick.de/k-markt/rottweil/",
+      "snippet": "K‑Markt – dein Wohn‑Discount für stylische Möbel, Küchen und Deko und zum kleinen Preis. Mit Sofort‑Mitnahme, persönlicher Beratung und starken Angeboten wird Einrichten bei uns ganz …",
+      "domain": "wohn-schick.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Wochenmarkt - Visit Rottweil | Rottweil entdecken",
+      "url": "https://www.visitrottweil.de/ausgehen/veranstaltungen/wochenmarkt/",
+      "snippet": "Der Wochenmarkt in Rottweil ist ein wichtiger Bestandteil des lokalen Lebens und findet ganzjährig mittwochs und samstags in der Zeit von 7.00 Uhr bis 12.30 Uhr in der Fußgängerzone (Obere …",
+      "domain": "visitrottweil.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Anzeigenmärkte - Schwarzwälder Bote",
+      "url": "https://www.schwarzwaelder-bote.de/anzeigen",
+      "snippet": "Im Marktplatz finden Sie alles rund um Verkäufe. (Hinweis: PKW- und Motorrad-Gesuchsanzeigen finden Sie im Marktplatz.)",
+      "domain": "schwarzwaelder-bote.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

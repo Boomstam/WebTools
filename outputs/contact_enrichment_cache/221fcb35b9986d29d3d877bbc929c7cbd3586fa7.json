@@ -1,0 +1,53 @@
+{
+  "address": "Fruithoflaan 118 bus 704, 2600 Berchem",
+  "address_key": "FRUITHOFLAAN|118||704|2600|Berchem",
+  "query": "\"Fruithoflaan 118\" \"2600\" \"Berchem\"",
+  "results": [
+    {
+      "title": "Ministry of Interior",
+      "url": "https://hail.moi.gov.sa/AbsherLogins",
+      "snippet": "The digital transformation platforms of the Ministry of Interior and its security sectors and regional emirates through its platforms (Individuals, Business, Government, Interior).",
+      "domain": "hail.moi.gov.sa",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "النفاذ الوطني الموحد",
+      "url": "https://www.iam.gov.sa/ar/index.html",
+      "snippet": "النفاذ الوطني الموحد ، الهوية الرقمية الوطنية النفاذ الوطني الموحد Experience the highly secured, trusted and reliable Identity Platform that boosts the confidence in online services across Kingdom Saudi Arabia",
+      "domain": "iam.gov.sa",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "أبشر - التطبيقات على Google Play",
+      "url": "https://play.google.com/store/apps/details?id=sa.gov.moi&hl=ar",
+      "snippet": "تطبيق أبشر، هو التطبيق الرسمي لمنصة وزارة الداخلية الإلكترونية \"أبشر\"، لخدمات الأفراد من المواطنين والمقيمين والزائرين في المملكة العربية السعودية. - تطبيق أبشر يدعم اللغتين العربية والإنجليزية، ويتيح لك الاستفادة ...",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Absher | أبشر - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=sa.gov.moi&hl=en-US",
+      "snippet": "Absher App is the official application of the electronic platform for the Ministry of Interior's services, providing individuals services to citizens, residents and visitors. Absher app supports both Arabic and …",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

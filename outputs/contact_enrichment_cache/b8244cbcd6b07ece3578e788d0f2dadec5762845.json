@@ -1,0 +1,85 @@
+{
+  "address": "Bredabaan 443, 2170 Merksem",
+  "address_key": "BREDABAAN|443|||2170|Merksem",
+  "query": "\"Bredabaan 443\" \"2170\" \"Merksem\"",
+  "results": [
+    {
+      "title": "emama - Forum dyskusyjne | Gazeta.pl",
+      "url": "https://forum.gazeta.pl/forum/f,567,emama.html",
+      "snippet": "Forum Gazeta.pl, tematyka: mama, emama, dziecko, macierzyństwo",
+      "domain": "forum.gazeta.pl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Kraj - Forum dyskusyjne | Gazeta.pl",
+      "url": "https://forum.gazeta.pl/forum/f,28,Kraj.html",
+      "snippet": "Forum Aktualności i Media Kraj ZMIEŃ Gazeta.pl: Kraj Kraj (7174421) Dyskusje o polskiej polityce i politykach Pozostałe wydarzenia i aktualności polska kraj politycy polityka Rozpocznij wątek …",
+      "domain": "forum.gazeta.pl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Psychologia - Forum dyskusyjne | Gazeta.pl",
+      "url": "https://forum.gazeta.pl/forum/f,210,Psychologia.html",
+      "snippet": "Forum Gazeta.pl, tematyka: psychologia, stres, porady, psychoterapia, psychanaliza",
+      "domain": "forum.gazeta.pl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Świat - Forum dyskusyjne | Gazeta.pl",
+      "url": "https://forum.gazeta.pl/forum/f,50,Swiat.html",
+      "snippet": "Forum Gazeta.pl, tematyka: świat, polityka, informacje, międzynarodowe, newsy, wydarzenia",
+      "domain": "forum.gazeta.pl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Zdrowie - Forum dyskusyjne | Gazeta.pl",
+      "url": "https://forum.gazeta.pl/forum/f,22,Zdrowie.html",
+      "snippet": "Forum Gazeta.pl, tematyka: zdrowie, badania, szpitale, zabiegi, chirurgia, choroby, leczenie",
+      "domain": "forum.gazeta.pl",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Wszystko o imionach - Forum dyskusyjne | Gazeta.pl",
+      "url": "https://forum.gazeta.pl/forum/f,12924,Wszystko_o_imionach.html",
+      "snippet": "Forum Gazeta.pl, tematyka: dzieci, imiona dzieci Forum dla rodziców wybierających imiona dla dzieci, ale także dla osób po prostu zainteresowanych imiennictwem. Zapraszamy do zakładania wątków, …",
+      "domain": "forum.gazeta.pl",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Chełmno - Forum dyskusyjne | Gazeta.pl",
+      "url": "https://forum.gazeta.pl/forum/f,635,Chelmno.html",
+      "snippet": "Forum Gazeta.pl, tematyka: Chełmno, rynek, zamek, zabytki, atrakcje, aktualnośći, ciekawostki",
+      "domain": "forum.gazeta.pl",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Szaradziarstwo - Forum dyskusyjne | Gazeta.pl",
+      "url": "https://forum.gazeta.pl/forum/f,10067,Szaradziarstwo.html",
+      "snippet": "Dyskusje, opinie, porady. Ponad 4000 forów dyskusyjnych dla każdego. Załóż własne forum!",
+      "domain": "forum.gazeta.pl",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

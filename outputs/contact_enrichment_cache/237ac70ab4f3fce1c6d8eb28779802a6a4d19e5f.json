@@ -1,0 +1,93 @@
+{
+  "address": "Zeevaartstraat 5, 2000 Antwerpen",
+  "address_key": "ZEEVAARTSTRAAT|5|||2000|Antwerpen",
+  "query": "\"Zeevaartstraat 5\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Ayala Land, Inc . | Makati - Facebook",
+      "url": "https://www.facebook.com/officialayalaland/",
+      "snippet": "Ayala Land developments are shaped through enduring collaborations with trusted partners. These partnerships bring together architecture, planning, and technical expertise, ensuring the same …",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/officialayalaland/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Ayala Land International Sales, Inc . | Makati - Facebook",
+      "url": "https://www.facebook.com/AyalaLandInternationalSalesOfficial/",
+      "snippet": "7 jun 2026 · Ayala Land International Sales, Inc., Makati. 31,141 likes · 851 talking about this · 2,939 were here. Ayala Land's dedicated International Sales Channel...",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/AyalaLandInternationalSalesOfficial/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Ayala Land",
+      "url": "https://ayalaland.com/",
+      "snippet": "Discover Ayala Land: Building sustainable communities through residential and commercial projects.",
+      "domain": "ayalaland.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Ayala Land I Philippine Real Estate Investment",
+      "url": "https://www.ayalaph.com/",
+      "snippet": "Ayala Land is the largest, most experienced, and the most trustworthy real estate developer in the Philippines. We deliver quality homes through our five brands: Ayala Land Premier, Alveo, Avida, …",
+      "domain": "ayalaph.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Ayala Land Properties - Redefining Your Living Spaces",
+      "url": "https://ayalaland.com/properties",
+      "snippet": "Ayala Land Properties - Explore our residential developments across the Philippines that inspire, enrich lives, and bring dreams to life.",
+      "domain": "ayalaland.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Ayala Land - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ayala_Land",
+      "snippet": "Ayala Land, Inc. (ALI) is a Philippine real estate company that is a publicly-traded subsidiary of Ayala Corporation. Its core businesses are in strategic landbank management, residential development, …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Ayala Land Philippines – Real Estate",
+      "url": "https://www.ayalalandphilippines.com/",
+      "snippet": "Its premium residential arm, Ayala Land, offers a full spectrum of property brands designed for different market segments: the ultra-luxury Ayala Land Premier, the upscale innovation-driven Alveo Land, …",
+      "domain": "ayalalandphilippines.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Ayala Land Estates Portal",
+      "url": "https://www.ayalalandestates.com.ph/",
+      "snippet": "Ayala Land Estates, Inc., a subsidiary of Ayala Land, Inc. (ALI), the Philippines’ leading developer, creates well-planned estates that integrate residential, retail, office, hotel, and leisure spaces.",
+      "domain": "ayalalandestates.com.ph",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

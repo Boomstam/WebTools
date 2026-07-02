@@ -1,0 +1,87 @@
+{
+  "address": "Dijlestraat 15, 2060 Antwerpen",
+  "address_key": "DIJLESTRAAT|15|||2060|Antwerpen",
+  "query": "\"Dijlestraat 15\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Monkstown Castle - Heritage Ireland",
+      "url": "https://heritageireland.ie/unguided-sites/monkstown-castle/",
+      "snippet": "Originally built by the Cistercian monks of St. Mary’s abbey for protection purposes, Monkstown Castle dates to around the 15 th or 16 th century, and changed hands multiple times throughout its history.",
+      "domain": "heritageireland.ie",
+      "score": 20,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Monkstown , Dublin - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Monkstown,_Dublin",
+      "snippet": "The coming of the railway in 1837 changed the topology of the coast and led to Monkstown becoming a commuter suburb of the city of Dublin. Most of the houses along Monkstown Road and the avenues …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Monkstown Village",
+      "url": "https://www.monkstownvillage.ie/",
+      "snippet": "The modern village of Monkstown developed in the nineteenth century - it really is a Victorian village. But historical Monkstown is much older, associated with an eighth century monastic settlement and a …",
+      "domain": "monkstownvillage.ie",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "The TINY Irish Village Cillian Murphy Calls HOME",
+      "url": "https://www.irelandbeforeyoudie.com/tiny-irish-village-cillian-murphy-calls-home/",
+      "snippet": "25 mei 2026 · While Cillian Murphy is known around the world for intense performances in Peaky Blinders and Oppenheimer, away from the cameras, he leads a far more relaxed existence in a …",
+      "domain": "irelandbeforeyoudie.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "THE 5 BEST Things to Do in Monkstown (2026) - Tripadvisor",
+      "url": "https://www.tripadvisor.com/Attractions-g616166-Activities-Monkstown_County_Dublin.html",
+      "snippet": "11 aug 2022 · The congregation holds ceremonies in the architecturally distinctive Monkstown Community Center a number of times a week. Their mission includes bringing as many people as …",
+      "domain": "tripadvisor.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Monkstown | Dún Laoghaire-Rathdown County Council",
+      "url": "https://www.dlrcoco.ie/monkstown",
+      "snippet": "Monkstown is on the coast, between Blackrock and Dún Laoghaire. Monkstown has two churches, Saint Mary's Church of Ireland (1831) and Saint Patrick's Catholic Church (1866), both on Carrickbrennan …",
+      "domain": "dlrcoco.ie",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Monkstown - Owen Reilly",
+      "url": "https://www.owenreilly.ie/neighbourhood/monkstown/",
+      "snippet": "Monkstown is a pretty coastal village in South Dublin, one of Dublin’s most sought after areas. Monkstown is also right next to the popular towns of Blackrock, Glasthule, and Dun Laoghaire.",
+      "domain": "owenreilly.ie",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Monkstown Village.com - Monkstown , County Dublin, Ireland",
+      "url": "https://monkstownvillage.com/index.html",
+      "snippet": "Welcome to Monkstown Village.com, a website for Monkstown, County Dublin, Ireland. Monkstown is situated on the coast between Dun Laoghaire and Blackrock in South County Dublin.",
+      "domain": "monkstownvillage.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

@@ -1,0 +1,85 @@
+{
+  "address": "Paardenmarkt 81, 2000 Antwerpen",
+  "address_key": "PAARDENMARKT|81|||2000|Antwerpen",
+  "query": "\"Paardenmarkt 81\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Corriere della Sera : News e Ultime notizie in tempo reale da Italia e …",
+      "url": "https://www.corriere.it/",
+      "snippet": "23 jun 2026 · Corriere della Sera è il primo quotidiano online aggiornato con le ultime notizie di Cronaca, Politica, Economia, Sport, Esteri, Spettacoli, Cultura e Tecnologia.",
+      "domain": "corriere.it",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Corriere della Sera - Ultime Notizie",
+      "url": "https://www.corriere.it/il-punto/",
+      "snippet": "29 jun 2021 · Notizie e approfondimenti di cronaca, politica, economia e sport con foto, immagini e video di Corriere TV. Meteo, salute, guide viaggi, Musica e giochi online. Annunci di lavoro, immobiliari e...",
+      "domain": "corriere.it",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Il Corriere - Quotidiano di informazione nazionale",
+      "url": "https://www.ilcorriere.it/",
+      "snippet": "Scopri le ultime notizie dall'Italia: cronaca, politica, economia, cultura e molto altro. Rimani aggiornato con approfondimenti e inchieste su Il Corriere.",
+      "domain": "ilcorriere.it",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Corriere dello Sport | News, dirette e cronaca sportiva",
+      "url": "https://www.corrieredellosport.it/",
+      "snippet": "Disastro Uruguay e il triste ritorno a casa: \"Cancellato il volo della squadra, ogni giocatore...\" Dopo la clamorosa eliminazione dai Mondiali arriva un'indiscrezione sul rientro della...",
+      "domain": "corrieredellosport.it",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ultime notizie - Il Corriere",
+      "url": "https://www.ilcorriere.it/sezioni/333/corriere-ultime-notizie",
+      "snippet": "Elisa Claps, «su chi ha aiutato Danilo Restivo c'è ancora molto da scoprire. Ecco da dove partire». I giornalisti del libro inchiesta sull'Abisso della chiesa della Trinità tracciano il solco",
+      "domain": "ilcorriere.it",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Corriere della Sera - Prima Pagina di oggi - 1 Luglio 2026",
+      "url": "https://www.giornalone.it/prima-pagina-corriere-della-sera/",
+      "snippet": "23 uur geleden · Il Corriere della Sera è uno storico quotidiano italiano a diffusione nazionale con sede a Milano. È stato fondato nel 1876. Scopri la prima pagina del giornale di oggi o la copertina …",
+      "domain": "giornalone.it",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Corriere della Sera : news e ultime notizie oggi da Italia e Mondo",
+      "url": "https://embed.corriere.it/",
+      "snippet": "Abbonati a Corriere della Sera | Gazzetta | El Mundo | Marca | RCS Mediagroup | Fondazione Corriere | Fondazione Cutuli | Quimamme | OFFERTE CORRIERE STORE | Buonpertutti |",
+      "domain": "embed.corriere.it",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Prima pagina del Corriere della Sera di oggi - Corriere .it",
+      "url": "https://www.corriere.it/primapagina/",
+      "snippet": "Scopri la prima pagina del Corriere della Sera cartaceo online: le notizie più importanti del giorno, approfondimenti e commenti dagli esperti del settore. Resta sempre aggiornato con la...",
+      "domain": "corriere.it",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

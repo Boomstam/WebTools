@@ -1,0 +1,85 @@
+{
+  "address": "Blancefloerlaan 335, 2050 Antwerpen",
+  "address_key": "BLANCEFLOERLAAN|335|||2050|Antwerpen",
+  "query": "\"Blancefloerlaan 335\" \"2050\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "WhatsApp Web",
+      "url": "https://web.whatsapp.com/",
+      "snippet": "Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with …",
+      "domain": "web.whatsapp.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "WhatsApp | Secure and Reliable Free Private Messaging and Calling",
+      "url": "https://www.whatsapp.com/",
+      "snippet": "Use WhatsApp Messenger to stay in touch with friends and family. WhatsApp is free and offers simple, secure, reliable messaging …",
+      "domain": "whatsapp.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "WhatsApp",
+      "url": "https://wa.me/",
+      "snippet": "Hosted by WhatsApp 2026 © WhatsApp LLC Privacy & Terms",
+      "domain": "wa.me",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Download WhatsApp",
+      "url": "https://www.whatsapp.com/download",
+      "snippet": "Download WhatsApp on your mobile device, tablet or desktop and stay connected with reliable private messaging and calling. …",
+      "domain": "whatsapp.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to Use WhatsApp on Your Computer (and Web )",
+      "url": "https://www.howtogeek.com/676621/how-to-use-whatsapp-on-your-computer-and-web/",
+      "snippet": "21 mei 2024 · While there's no standalone WhatsApp client, you can use WhatsApp's web app and desktop client to send messages …",
+      "domain": "howtogeek.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "WhatsApp Messaging",
+      "url": "https://www.whatsapp.com/messaging",
+      "snippet": "On WhatsApp, conversations can be expressive, fun and entirely you. Messaging on any device is protected by end-to-end …",
+      "domain": "whatsapp.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "About WhatsApp Web | WhatsApp Help Center",
+      "url": "https://faq.whatsapp.com/668538004658079",
+      "snippet": "WhatsApp Web lets you message privately from any browser on your desktop, keeping you connected. It offers the convenience and …",
+      "domain": "faq.whatsapp.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "How to use WhatsApp Web on the computer - Android Authority",
+      "url": "https://www.androidauthority.com/whatsapp-web-3076775/",
+      "snippet": "21 mrt 2025 · To use WhatsApp Web, open a browser and go to web.whatsapp.com. You'll need to log in and synchronize …",
+      "domain": "androidauthority.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

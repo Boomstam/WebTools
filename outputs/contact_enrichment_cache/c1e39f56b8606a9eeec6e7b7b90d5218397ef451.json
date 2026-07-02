@@ -1,0 +1,85 @@
+{
+  "address": "Solftplaats 6, 2040 Bezali",
+  "address_key": "SOLFTPLAATS|6|||2040|Bezali",
+  "query": "\"Solftplaats 6\" \"2040\" \"Bezali\"",
+  "results": [
+    {
+      "title": "Gmail Help - Google Help",
+      "url": "https://support.google.com/mail/?hl=en",
+      "snippet": "Official Gmail Help Center where you can find tips and tutorials on using Gmail and other answers to frequently asked questions.",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Download and install Google Chrome",
+      "url": "https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop",
+      "snippet": "How to install Chrome Important: Before you download, check if Chrome supports your operating system and you’ve met all other system requirements.",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "知乎 - 有问题，就会有答案",
+      "url": "https://www.zhihu.com/",
+      "snippet": "知乎是一个中文互联网高质量问答社区和创作者聚集的原创内容平台，致力于分享知识、经验和见解，帮助用户找到答案。",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Adobe Acrobat Pro DC破解版安装教程？ - 知乎",
+      "url": "https://www.zhihu.com/question/1978068314996626887",
+      "snippet": "Adobe Acrobat Pro DC 作为 PDF 原厂专业软件，兼容性出色，各类 PDF 打开排版不易错乱，支持 PDF 创建、格式互转、页面拆分合并与正文编辑，自带高精度 OCR 识别扫描文件，还能做内容脱敏加密 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Sign in to Gmail - Computer - Gmail Help - Google Help",
+      "url": "https://support.google.com/mail/answer/8494?hl=en&co=GENIE.Platform%3DDesktop",
+      "snippet": "Sign in to Gmail Tip: If you sign in to a public computer, make sure to sign out before you leave the computer. Learn how to sign in on a device that's not yours.",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "印度泰姬陵为什么会被称为世界七大建筑奇迹之一？ - 知乎",
+      "url": "https://www.zhihu.com/question/33267546",
+      "snippet": "^ Lesley A. DuTemple, \"The Taj Mahal\", Lerner Publishing Group (March 2003). pg 26: \"The Taj Mahal, a spectacular example of Moghul architecture, blends Islamic, Hindu and Persian styles\"",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google Help",
+      "url": "https://support.google.com/?hl=en",
+      "snippet": "If you're having trouble accessing a Google product, there's a chance we're currently experiencing a temporary problem. You can check for outages and downtime on the Google Workspace Status …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "以下关于泰姬陵的故事是否属实？ - 知乎",
+      "url": "https://www.zhihu.com/question/21098295",
+      "snippet": "同时认为，Taj Mahal这个词是梵语TejoMahalay的一种旧有形态，表示湿婆神庙。 所谓证据之一还有：一些与泰姬陵维修和保养有关的人曾看到古老的神圣湿婆林伽和其他神像被密封在厚厚的墙壁和密 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

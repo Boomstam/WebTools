@@ -1,0 +1,102 @@
+{
+  "address": "Haachtstraat 23, 2600 Berchem",
+  "address_key": "HAACHTSTRAAT|23|||2600|Berchem",
+  "query": "\"Haachtstraat 23\" \"2600\" \"Berchem\"",
+  "results": [
+    {
+      "title": "Facebook",
+      "url": "https://www.facebook.com/%23_",
+      "snippet": "When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.",
+      "domain": "facebook.com",
+      "score": 25,
+      "reasons": [
+        "huisnr",
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/%23_"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Facebook",
+      "url": "https://www.facebook.com/",
+      "snippet": "Connect and share with friends, family, and the world on Facebook.",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Log into Facebook",
+      "url": "https://www.facebook.com/login.php/",
+      "snippet": "Email or mobile number Password",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/login.php/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Log Into Facebook",
+      "url": "https://secure.facebook.com/login/",
+      "snippet": "Log into Facebook to start sharing and connecting with your friends, family, and people you know.",
+      "domain": "secure.facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://secure.facebook.com/login/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Facebook",
+      "url": "https://m.me/www.facebook.com",
+      "snippet": "Connect with friends and the world around you on Facebook.",
+      "domain": "m.me",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Facebook – Applications sur Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=fr",
+      "snippet": "Que ce soit pour vendre quelque chose, montrer un reel à un groupe de personnes qui vous comprennent ou partager des images drôles générées par l’IA, Facebook vous offre plus de …",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "‎ Facebook App - App Store",
+      "url": "https://apps.apple.com/us/app/facebook/id284882215",
+      "snippet": "Download Facebook by Meta Platforms, Inc. on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Facebook.",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Facebook - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en",
+      "snippet": "* Search Facebook on any topic and get more interactive results Connect with people and communities: * Join groups to learn tips from real people who’ve been there, done that * Get inspired by creators, …",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

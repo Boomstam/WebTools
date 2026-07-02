@@ -1,0 +1,87 @@
+{
+  "address": "Wolstraat 9, 2000 Antwerpen",
+  "address_key": "WOLSTRAAT|9|||2000|Antwerpen",
+  "query": "\"Wolstraat 9\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Bachelorstudium Psychologie . Skriptum zur Vorlesungsreihe aus der ...",
+      "url": "https://ucrisportal.univie.ac.at/de/publications/bachelorstudium-psychologie-skriptum-zur-vorlesungsreihe-aus-der--8/",
+      "snippet": "9 nov 2021 · Skriptum zur Vorlesungsreihe aus der Studieneingangs- und Orientierungsphase (Pflichtmodulgruppen A1 und A2) WS 2021/2022.",
+      "domain": "ucrisportal.univie.ac.at",
+      "score": 20,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Psycho logisch! Psycho . .",
+      "url": "https://static.uni-graz.at/fileadmin/_files/_project_sites/_studienzugang/PDF-Dateien/Lernskript_AV_BA_PSY_2026_Web.pdf",
+      "snippet": "Das vorliegende Skript wurde als Lerngrundlage für die Bacheloraufnahmeprüfung Psychologie, die an den Universitäten Salzburg, Wien, Graz und Innsbruck für das Studienjahr 2026/27 zum Einsatz …",
+      "domain": "static.uni-graz.at",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Prüfungsteil A - Lernunterlage Teil 2: Psychologie Skript Einführung in ...",
+      "url": "https://www.uibk.ac.at/studium/anmeldung-zulassung/aufnahmeverfahren-psychologie/ba-psychologie/lernunterlage_teil2_lernskript_psychologie_2023_24.pdf",
+      "snippet": "Dieses Skript wurde als ergänzende Lerngrundlage (Teil 2) für die Bachelorauf-nahmeprüfung Psychologie, die an den Universitäten Salzburg, Wien, Graz und Innsbruck für das Studienjahr …",
+      "domain": "uibk.ac.at",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Aufnahmeprüfung Bachelor Psychologie Studienjahr 21/22 - PLUS",
+      "url": "https://www.plus.ac.at/wp-content/uploads/2021/07/avpsy21_Teil_2_Lernskript_Psychologie_fassung_28juli21.pdf",
+      "snippet": "Dieses Skript wurde als ergänzende Lerngrundlage für die Bacheloraufnahmeprü- fung Psychologie, die an den Universitäten Salzburg, Wien, Graz und Innsbruck für das Studienjahr 21/22 zum Einsatz …",
+      "domain": "plus.ac.at",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Lernskript Aufnahmeprüfung Bachelor Psychologie 2026",
+      "url": "https://www.plus.ac.at/psychologie/studium/avpsy/bachelorpsychologie/korrekturen-lernskript-ba-psychologie/",
+      "snippet": "Wir empfehlen nach dem Skript für die Prüfung 2026 zu lernen. Gültige Fassung des Lernskripts für die Aufnahmeprüfung Bachelor Psychologie 2026 ca 7MB.",
+      "domain": "plus.ac.at",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Psychologie Aufnahmetest 2026 - Skript",
+      "url": "https://www.act-act-act.com/psychologisch-einfuehrung-psychologie-bachelor",
+      "snippet": "Dieses online kostenlos verfügbare Skript ist die Basis für den theoretischen Teil der Aufnahmeprügung für den Bachelor der Psychologie. Die Bachelor Aufnahmeprüfung ist an den Universitäten Wien, …",
+      "domain": "act-act-act.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Lernunterlage Teil 2: Einführung in die Psychologie - 2023/24",
+      "url": "https://www.studocu.com/de-at/document/universitat-wien/aufnahmetest-psychologie/lernunterlage-teil2-lernskript-psychologie-2023-24/67192144",
+      "snippet": "Diese Lernunterlage darf ausschließlich zur Vorbereitung auf die Aufnahmeprüfung zum Bachelorstudium Psychologie folgender Universitäten verwendet werden: Universität Salzburg, …",
+      "domain": "studocu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Avpsy 22 Lernunterlage Teil2 Lernskript Psychologie -2",
+      "url": "https://www.studocu.com/de-at/document/universitat-wien/aufnahmetest-psychologie/avpsy-22-lernunterlage-teil2-lernskript-psychologie-2/57369252",
+      "snippet": "Psychologie ist eine Wissenschaft, die sich dem menschlichen Erleben und Verhalten widmet und somit im unmittelbaren Zusammenhang mit dem menschli- chen Alltag steht.",
+      "domain": "studocu.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

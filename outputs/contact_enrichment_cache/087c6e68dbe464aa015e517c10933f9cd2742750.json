@@ -1,0 +1,85 @@
+{
+  "address": "Bredabaan 425, 2170 Merksem",
+  "address_key": "BREDABAAN|425|||2170|Merksem",
+  "query": "\"Bredabaan 425\" \"2170\" \"Merksem\"",
+  "results": [
+    {
+      "title": "vscode这个登录功能什么时候出现的,咋登录? - 知乎",
+      "url": "https://www.zhihu.com/question/402369560",
+      "snippet": "还是这个图标，还是这个位置，在七月更新中它已经带上登录并同步设置的功能了，目前支持登录微软和Github账号 这个登录功能实际是 Authentication Provider ，来自 2020 三月更新，并在五月更新中开 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Visual Studio 和 VSCode 哪个好？ - 知乎",
+      "url": "https://www.zhihu.com/question/384334551",
+      "snippet": "在 Windows 下进行 Linux 开发。编程语言是 C++。大佬能分析下用 Visual Studio 和 VSCode 各自的优缺点…",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Atalhos de teclado do VSCode para comentários",
+      "url": "https://pt.stackoverflow.com/questions/397399/atalhos-de-teclado-do-vscode-para-coment%c3%a1rios",
+      "snippet": "15 jul 2019 · No VSCode não estou conseguindo executar alguns atalhos. O atalho de comentários, por exemplo, não funciona. O atalho seria Ctrl+/, porém todos os atalhos que precisam de uma tecla …",
+      "domain": "pt.stackoverflow.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Como mudar todas as palavras selecionadas de uma só vez no VScode",
+      "url": "https://pt.stackoverflow.com/questions/309073/como-mudar-todas-as-palavras-selecionadas-de-uma-s%c3%b3-vez-no-vscode",
+      "snippet": "22 jun 2018 · Ola gostaria de saber como mudar todas as palavras de uma só vez no visual studio code obrigado",
+      "domain": "pt.stackoverflow.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "VSCode的下载和安装 - 百度经验",
+      "url": "https://jingyan.baidu.com/article/d3b74d640eadce1f76e60958.html",
+      "snippet": "18 sep 2018 · 首先需要下载VSCode，打开浏览器输入code.visualstudio (进入到官网),然后进入VSCode的首页，按照下图中红色箭头指示步骤点击下载，大家可以根据自己的操作系统进行下 …",
+      "domain": "jingyan.baidu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "vscode 是盈利的吗？微软为什么要持续投入开发资源？ - 知乎",
+      "url": "https://www.zhihu.com/question/10250194119",
+      "snippet": "评价高赞是个逆天的回答，别的不多说了。 VS Code 早期在我看来有两个主要目的： 一，改善微软在开源社区中的形象。因为此前的 CEO 让微软几乎成了开源届的敌人，CEO 换人后微软 180 度大转 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "O que é Workspace no Visual Studio Code - Stack Overflow em …",
+      "url": "https://pt.stackoverflow.com/questions/401407/o-que-%c3%a9-workspace-no-visual-studio-code",
+      "snippet": "3 aug 2019 · O que é um Workspace no Visual Studio Code e qual a diferença entre trabalhar com Estrutura de Pastas e trabalhar com Workspace?",
+      "domain": "pt.stackoverflow.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "vscode如何像spyder的variable explorer一样查看变量的值？",
+      "url": "https://www.zhihu.com/question/355497136",
+      "snippet": "vscode如何像spyder的variable explorer一样查看变量的值？ RT，vscode调试下有个变量窗口，不过我一直没见它显示过任何东西。 。。 显示全部 关注者 35 被浏览",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

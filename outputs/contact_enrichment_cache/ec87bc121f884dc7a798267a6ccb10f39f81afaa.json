@@ -1,0 +1,85 @@
+{
+  "address": "Cogelsplein 33, 2100 Deurne",
+  "address_key": "COGELSPLEIN|33|||2100|Deurne",
+  "query": "\"Cogelsplein 33\" \"2100\" \"Deurne\"",
+  "results": [
+    {
+      "title": "Versions of Google Earth (desktop, web, mobile)",
+      "url": "https://support.google.com/earth/community-guide/256123000/versions-of-google-earth-desktop-web-mobile?hl=en",
+      "snippet": "30 jan 2024 · There are three different versions of Google Earth: desktop, web and mobile. This guide attempts to give an overview of the different options available in each.",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Install & uninstall Google Earth Pro - Google Earth Help",
+      "url": "https://support.google.com/earth/answer/21955?hl=en",
+      "snippet": "Google Earth Pro functions with most recent versions of the Ubuntu and Fedora Linux distributions. Google Earth Pro may run on other popular distributions as well, but due to the wide variety of Linux …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Earth Pro installieren und deinstallieren - Google Earth-Hilfe",
+      "url": "https://support.google.com/earth/answer/21955?hl=de",
+      "snippet": "Google Earth Pro wird von den neuesten Versionen der Linux-Distributionen Ubuntu und Fedora unterstützt. Unter Umständen lässt sich die Anwendung auch mit anderen beliebten Distributionen …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Instalar e desinstalar o Google Earth Pro - Ajuda do Google Earth",
+      "url": "https://support.google.com/earth/answer/21955?hl=pt-BR",
+      "snippet": "Para instalar ou fazer upgrade para a versão mais recente do Google Earth Pro, faça o download do aplicativo. Requisitos do sistema Para que o Google Earth Pro seja executado no seu computador, é …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Volar por todo el mundo - Ayuda de Google Earth",
+      "url": "https://support.google.com/earth/answer/148089?hl=es",
+      "snippet": "Tener Google Earth instalado en un ordenador Mac, Windows o Linux Un joystick, o bien un ratón y un teclado Iniciar el simulador de vuelo Puedes abrir el simulador de vuelo desde el menú o utilizando …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Update Google Earth Pro",
+      "url": "https://support.google.com/earth/answer/168344?hl=en",
+      "snippet": "If you need to manually update Google Earth, you can download the most recent 7.x direct installers. Some of the following installers do not auto-update (not recommended).",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Instalace a odinstalování aplikace Google Earth Pro - Nápověda Google …",
+      "url": "https://support.google.com/earth/answer/21955?hl=cs",
+      "snippet": "Aplikace Google Earth Pro funguje s nejnovějšími verzemi Linuxových distribucí Ubuntu a Fedora. Aplikace může běžet i na dalších populárních distribucích, kvůli velkému množství dostupných …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Εγκατάσταση και απεγκατάσταση του Google Earth Pro",
+      "url": "https://support.google.com/earth/answer/21955?hl=el",
+      "snippet": "Διαμόρφωση συστήματος Linux Το Google Earth Pro λειτουργεί με τις πιο πρόσφατες εκδόσεις των διανομών Ubuntu και Fedora του Linux. Το Google Earth Pro μπορεί να λειτουργήσει και σε άλλες …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

@@ -1,0 +1,85 @@
+{
+  "address": "Dambruggestraat 145, 2060 Antwerpen",
+  "address_key": "DAMBRUGGESTRAAT|145|||2060|Antwerpen",
+  "query": "\"Dambruggestraat 145\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Is there a way to bulk download from content protected Telegram ...",
+      "url": "https://www.reddit.com/r/DataHoarder/comments/1akos4k/is_there_a_way_to_bulk_download_from_content/",
+      "snippet": "The Telegram-Media-Downloader web method works, but it's kinda slow. Seems that plus messenger is the \"best\" method since it's the most user friendly and easiest to use. If anyone can get that …",
+      "domain": "reddit.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How do I get the verification code without another device?",
+      "url": "https://www.reddit.com/r/Telegram/comments/1dj6bz2/how_do_i_get_the_verification_code_without/",
+      "snippet": "19 jun 2024 · Downloaded telegram on my computer (windows), it told me to use the app to sign in. Downloaded the app, entered my number, and it told me it send a verification code to my 'other …",
+      "domain": "reddit.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How do I create an account? : r/Telegram - Reddit",
+      "url": "https://www.reddit.com/r/Telegram/comments/1akah1q/how_do_i_create_an_account/",
+      "snippet": "6 feb 2024 · Whenever I use Telegram on Android or the web app, I get prompted to enter my phone number, then I get the screen below. The issue being that I don't have an \"other device\", as I never …",
+      "domain": "reddit.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Telegram Web not loading : r/Telegram - Reddit",
+      "url": "https://www.reddit.com/r/Telegram/comments/1d6mcqo/telegram_web_not_loading/",
+      "snippet": "2 jun 2024 · I use Microsoft Edge and have NVIDIA GPU,firstly telegram web suddenly broke and wasnt showing any chat,no search working, just not working interface without chat.",
+      "domain": "reddit.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Would you rate Telegram as trustworthy? : r/privacy - Reddit",
+      "url": "https://www.reddit.com/r/privacy/comments/ug8o1i/would_you_rate_telegram_as_trustworthy/",
+      "snippet": "1 mei 2022 · Telegram had a massive data breach of millions of users accounts and didn't disclose it until over a year later when a third party publication exposed the data was being sold on the dark web.",
+      "domain": "reddit.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "[Q] Telegram Web is soooooo slow compared to Telegram Desktop",
+      "url": "https://www.reddit.com/r/Telegram/comments/19cy7ax/q_telegram_web_is_soooooo_slow_compared_to/",
+      "snippet": "22 jan 2024 · I'd like to use the tab Telegram Web client of Edge, but it's crazy slow compared to Telegram Desktop. Is there any reason for that? It takes several seconds to load images, …",
+      "domain": "reddit.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Telegram not downloading media files, any solution to this?",
+      "url": "https://www.reddit.com/r/Telegram/comments/rpnayf/telegram_not_downloading_media_files_any_solution/",
+      "snippet": "27 dec 2021 · Telegram not downloading media files, any solution to this? Already tried clearing cache, made sure there is enough memory, and updated to the latest version. Still no luck. Also, if you look …",
+      "domain": "reddit.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Associate telegram links in browser : r/Telegram - Reddit",
+      "url": "https://www.reddit.com/r/Telegram/comments/oona0a/associate_telegram_links_in_browser/",
+      "snippet": "21 jul 2021 · Have you tried telegram web? web.telegram.org If you have both telegram desktop (application) and telegram web logged in on your device, clicking on telegram links will bring you to …",
+      "domain": "reddit.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

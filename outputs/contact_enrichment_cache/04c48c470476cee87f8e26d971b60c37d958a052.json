@@ -1,0 +1,85 @@
+{
+  "address": "Lode Cantensstraat 5, 2140 Borgerhout",
+  "address_key": "LODE CANTENSSTRAAT|5|||2140|Borgerhout",
+  "query": "\"Lode Cantensstraat 5\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "Telenet Webmail",
+      "url": "http://webmail.telenet.be/",
+      "snippet": "Wij willen hier een beschrijving geven, maar de site die u nu bekijkt staat dit niet toe.",
+      "domain": "webmail.telenet.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Aanmelden op Telenet Webmail | MyTelenet",
+      "url": "https://www2.telenet.be/residential/nl/klantenservice/internet/e-mail/aanmelden-op-telenet-webmail.html",
+      "snippet": "Eenvoudig inloggen op Telenet Webmail met je Telenet e-mailadres en wachtwoord. Blijf aangemeld en beheer je e-mails moeiteloos.",
+      "domain": "www2.telenet.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Login - Telenet Center",
+      "url": "https://app.telenet.center/auth/login",
+      "snippet": "Login Gebruikersnaam Nieuwe gebruiker met SSO",
+      "domain": "app.telenet.center",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Mijn Telenet",
+      "url": "https://mijn.telenet.be/mijntelenet/login/overview.do",
+      "snippet": "Door in te loggen via Google verkrijgen wij persoonsgegevens zoals je e-mailadres. Deze worden verwerkt volgens de richtlijnen van ons privacybeleid. Om deze login functionaliteit mogelijk te …",
+      "domain": "mijn.telenet.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Je e-mail | MyTelenet",
+      "url": "https://www2.telenet.be/residential/nl/klantenservice/internet/e-mail.html",
+      "snippet": "Hoe je e-mail instellen, een extra mailbox aanmaken of aanmelden op je Webmail? Lees er alles over op onze Klantenservice-website.",
+      "domain": "www2.telenet.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Connexion à Telenet Webmail | MyTelenet",
+      "url": "https://www2.telenet.be/residential/fr/serviceclient/internet/email/connexion-a-telenet-webmail.html",
+      "snippet": "Découvrez comment vous connecter facilement à Telenet Webmail. Suivez nos étapes simples et accédez rapidement à vos e-mails, où que vous soyez.",
+      "domain": "www2.telenet.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Wat is Telenet Webmail ? | MyTelenet",
+      "url": "https://www2.telenet.be/residential/nl/klantenservice/internet/e-mail/wat-is-telenet-webmail.html",
+      "snippet": "Met Telenet Webmail mail je zonder e-mailprogramma. Zo heb je altijd en overal toegang op elk toestel. Bovendien is Telenet Webmail helemaal gratis als Telenet-klant.",
+      "domain": "www2.telenet.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Telenet : Meld je aan",
+      "url": "https://login.prd.telenet.be/openid/login?client_id=mijntelenet&client_error=true&error=MT-ERR-611",
+      "snippet": "Er ging even iets mis, probeer het opnieuw.",
+      "domain": "login.prd.telenet.be",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

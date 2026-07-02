@@ -1,0 +1,93 @@
+{
+  "address": "Pastoor Van De Wouwerstraat 1, 2600 Berchem",
+  "address_key": "PASTOOR VAN DE WOUWERSTRAAT|1|||2600|Berchem",
+  "query": "\"Pastoor Van De Wouwerstraat 1\" \"2600\" \"Berchem\"",
+  "results": [
+    {
+      "title": "Zoveel verdient een pastoor in Vlaanderen: \"Grote werkzekerheid, …",
+      "url": "https://www.clint.be/actua/zoveel-verdient-een-pastoor-in-vlaanderen-grote-werkzekerheid-maar-heel-onregelmatige-werkuren",
+      "snippet": "15 mei 2025 · Verschillende getuigenissen geven aan dat een pastoor ongeveer 1.736 euro netto per maand ontvangt. Hoewel dit bedrag niet bijzonder hoog is in vergelijking met andere …",
+      "domain": "clint.be",
+      "score": 20,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Wie is wie in de katholieke kerk? - Thomas - Godsdienstonderwijs.be",
+      "url": "https://www.kuleuven.be/thomas/page/wie-is-wie-in-de-katholieke-kerk/",
+      "snippet": "1 nov 2014 · Priesters die de titel pastoor dragen, zijn benoemd in een parochie of dragen de verantwoordelijkheid voor een aantal parochies (vandaag pastorale eenheden of federaties genoemd).",
+      "domain": "kuleuven.be",
+      "score": 20,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Pastoor | Aalst - Facebook",
+      "url": "https://www.facebook.com/pastoorophetnet/",
+      "snippet": "Pastoor, Aalst. 2,985 likes · 5 talking about this · 300 were here. Kleren voor meneren. Garderobe voor dames. En interieur design.",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/pastoorophetnet/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Pastoor - Wikipedia",
+      "url": "https://nl.wikipedia.org/wiki/Pastoor",
+      "snippet": "Het woord pastoor komt van het Latijnse woord pastor, dat herder betekent. Dat verklaart waarom een pastoor soms over zijn kudde spreekt. De aanspreekvorm voor een pastoor is \"Zeereerwaarde Heer …",
+      "domain": "nl.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Home | PASTOOR | Webshop",
+      "url": "https://shop.pastoor-aalst.be/explore",
+      "snippet": "",
+      "domain": "shop.pastoor-aalst.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Het verschil tussen een priester, pater, pastoor en pastor? - Otheo",
+      "url": "https://www.otheo.be/artikel/verschil-tussen-priester-pater-pastoor-pastor",
+      "snippet": "Wat is een pastoor? De term pastoor komt van het Latijnse pastor, wat 'herder' betekent. Een pastoor is een priester die verantwoordelijk is voor de pastorale zorg binnen een parochie. Hij draagt zorg voor …",
+      "domain": "otheo.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Dit is het loon van een pastoor in Vlaanderen: \"Grote werkzekerheid ...",
+      "url": "https://www.clint.be/actua/dit-is-het-loon-van-een-pastoor-in-vlaanderen-grote-werkzekerheid-maar-heel-onregelmatige-werkuren",
+      "snippet": "25 feb 2025 · Pastoor zijn is een roeping, maar het is ook een beroep met een vast loon. In Vlaanderen worden pastoors en andere bedienaren van de eredienst door de overheid betaald.",
+      "domain": "clint.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "De rol van een pastoor vandaag en morgen - Kerknet",
+      "url": "https://www.kerknet.be/relevant/artikel/de-rol-van-een-pastoor-vandaag-en-morgen",
+      "snippet": "6 nov 2024 · De rol van een pastoor in de rooms-katholieke Kerk heeft al een lange traditie en wordt in detail omschreven in het kerkelijk recht. Dat recht schetst de plichten, de verantwoordelijkheden en …",
+      "domain": "kerknet.be",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

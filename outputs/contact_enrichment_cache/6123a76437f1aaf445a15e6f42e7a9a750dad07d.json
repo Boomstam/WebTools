@@ -1,0 +1,85 @@
+{
+  "address": "Constant Jordaenslaan 4, 2180 Ekeren",
+  "address_key": "CONSTANT JORDAENSLAAN|4|||2180|Ekeren",
+  "query": "\"Constant Jordaenslaan 4\" \"2180\" \"Ekeren\"",
+  "results": [
+    {
+      "title": "ID.3 - Volkswagen France",
+      "url": "https://www.volkswagen.fr/fr/modeles-et-configurateur/id-3.html",
+      "snippet": "Où que vous soyez, Volkswagen est là. Dès la mise en circulation de votre véhicule, vous bénéficiez automatiquement d’une assistance complète. Volkswagen vous accompagne 24h/24, 7j/7, en France …",
+      "domain": "volkswagen.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Nouvelle ID.3 Neo - Voiture 100% électrique | Volkswagen France",
+      "url": "https://www.volkswagen.fr/fr/modeles-et-configurateur/id-3-neo.html",
+      "snippet": "La Nouvelle ID.3 Neo est la version revue et sublimée de l'emblématique compacte 100 % électrique signée Volkswagen. Elle préfigure le nouveau style de la gamme ID. avec un équilibre parfait entre …",
+      "domain": "volkswagen.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Volkswagen ID.3 : prix, autonomie, batterie, fiche technique",
+      "url": "https://www.automobile-propre.com/voitures/volkswagen-id3/",
+      "snippet": "22 apr 2026 · Premier modèle de la gamme ID présenté par la marque allemande, la Volkswagen ID.3 est disponible depuis fin 2019 sur le marché français.",
+      "domain": "automobile-propre.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Test longue durée Volkswagen ID.3 . Bilan complet après plus de 170 …",
+      "url": "https://www.largus.fr/actualite-automobile/test-longue-duree-volkswagen-id-3-bilan-complet-apres-plus-de-170-000-km-30043547.html",
+      "snippet": "23 sep 2025 · L’ADAC (Automobile Club allemand) a soumis une Volkswagen ID.3 à un test d’endurance sur plus de 170 000 km pour évaluer la performance de sa batterie.",
+      "domain": "largus.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "tous les modèles et generations de Volkswagen Id.3 - Caradisiac",
+      "url": "https://www.caradisiac.com/gamme--volkswagen-id-3/",
+      "snippet": "Toutes les informations exclusives de la gamme Volkswagen Id.3 : présentation de tous les modèles et générations Volkswagen Id.3 : essais de la rédac, les avis des propriétaires sur le...",
+      "domain": "caradisiac.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Volkswagen ID.3 : Fiche technique & caractéristiques",
+      "url": "https://www.automobile-propre.com/voitures/volkswagen-id3/fiche-technique/",
+      "snippet": "22 apr 2026 · ⚡ Découvrez la fiche technique détaillée du Volkswagen ID.3 : prix dès 34 220 €, 630 km d'autonomie max, puissance, dimensions et caractéristiques de toutes les versions.",
+      "domain": "automobile-propre.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Volkswagen ID.3 Neo (2026). A bord de la compacte électrique",
+      "url": "https://www.largus.fr/actualite-automobile/volkswagen-id-3-neo-2026-a-bord-de-la-compacte-electrique-profondement-revue-30046357.html",
+      "snippet": "15 apr 2026 · Volkswagen retravaille en profondeur l’ID.3 et la renomme ID.3 Neo. La compacte électrique, rivale de la Renault Mégane E-Tech, gagne en ergonomie comme en autonomie.",
+      "domain": "largus.fr",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Volkswagen Id.3 : essais, fiabilité, avis, photos, prix - Caradisiac",
+      "url": "https://www.caradisiac.com/modele--volkswagen-id-3/",
+      "snippet": "Décryptage du modèle Volkswagen Id.3 par la rédaction Caradisiac: Essais, avis de propriétaires, comparatifs, fiabilité sur le modèle Volkswagen Id.3.",
+      "domain": "caradisiac.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

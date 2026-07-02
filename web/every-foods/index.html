@@ -1,0 +1,1590 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Every Foods crawler overzicht</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #1f2328;
+      --muted: #667085;
+      --line: #d8dee4;
+      --paper: #f7f5ef;
+      --panel: #ffffff;
+      --accent: #176b55;
+      --accent-2: #b54708;
+      --soft: #edf6f2;
+      --shadow: 0 12px 28px rgba(31, 35, 40, 0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+    }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      border-bottom: 1px solid var(--line);
+      background: rgba(247, 245, 239, 0.94);
+      backdrop-filter: blur(14px);
+    }
+    .bar {
+      max-width: 1320px;
+      margin: 0 auto;
+      padding: 16px 20px;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 16px;
+      align-items: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 22px;
+      line-height: 1.2;
+      letter-spacing: 0;
+    }
+    .meta {
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .actions {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+    button, input, select {
+      font: inherit;
+    }
+    .btn {
+      min-height: 36px;
+      border: 1px solid var(--line);
+      background: var(--panel);
+      color: var(--ink);
+      border-radius: 6px;
+      padding: 0 12px;
+      cursor: pointer;
+    }
+    .btn.primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: white;
+    }
+    main {
+      max-width: 1320px;
+      margin: 0 auto;
+      padding: 18px 20px 42px;
+      display: grid;
+      grid-template-columns: minmax(280px, 390px) minmax(0, 1fr);
+      gap: 18px;
+    }
+    .toolbar {
+      display: grid;
+      grid-template-columns: 1fr 130px;
+      gap: 8px;
+      margin-bottom: 12px;
+    }
+    .field {
+      width: 100%;
+      min-height: 38px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 0 10px;
+      background: var(--panel);
+      color: var(--ink);
+    }
+    .list {
+      display: grid;
+      gap: 10px;
+      max-height: calc(100vh - 150px);
+      overflow: auto;
+      padding-right: 4px;
+    }
+    .item {
+      display: grid;
+      grid-template-columns: 74px 1fr;
+      gap: 10px;
+      border: 1px solid var(--line);
+      background: var(--panel);
+      border-radius: 8px;
+      padding: 8px;
+      text-align: left;
+      box-shadow: none;
+      cursor: pointer;
+    }
+    .item[aria-selected="true"] {
+      outline: 2px solid var(--accent);
+      background: var(--soft);
+    }
+    .thumb {
+      width: 74px;
+      height: 74px;
+      border-radius: 6px;
+      object-fit: cover;
+      background: #ece7db;
+    }
+    .item-title {
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 4px;
+    }
+    .item-desc {
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.35;
+    }
+    .detail {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      min-height: calc(100vh - 132px);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+    .hero {
+      display: grid;
+      grid-template-columns: minmax(260px, 38%) 1fr;
+      gap: 22px;
+      padding: 18px;
+      border-bottom: 1px solid var(--line);
+    }
+    .hero img {
+      width: 100%;
+      aspect-ratio: 1;
+      object-fit: cover;
+      border-radius: 8px;
+      background: #ece7db;
+    }
+    .title-row {
+      display: flex;
+      align-items: start;
+      justify-content: space-between;
+      gap: 12px;
+    }
+    h2 {
+      margin: 0;
+      font-size: 30px;
+      line-height: 1.08;
+      letter-spacing: 0;
+    }
+    .price {
+      color: var(--accent-2);
+      font-weight: 800;
+      white-space: nowrap;
+    }
+    .section {
+      padding: 18px;
+      border-bottom: 1px solid var(--line);
+    }
+    .section:last-child {
+      border-bottom: 0;
+    }
+    h3 {
+      margin: 0 0 8px;
+      font-size: 14px;
+      text-transform: uppercase;
+      letter-spacing: 0;
+      color: var(--muted);
+    }
+    p {
+      margin: 0;
+      line-height: 1.55;
+    }
+    .long {
+      font-size: 18px;
+      line-height: 1.55;
+    }
+    pre {
+      margin: 0;
+      white-space: pre-wrap;
+      font-family: inherit;
+      line-height: 1.5;
+      color: #343942;
+    }
+    .muted {
+      color: var(--muted);
+    }
+    .fact-grid,
+    .nutrition-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+      gap: 10px;
+      margin-top: 10px;
+    }
+    .fact,
+    .nutrient {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 10px;
+      background: #fbfbf8;
+    }
+    .fact span,
+    .nutrient span {
+      display: block;
+      color: var(--muted);
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0;
+      margin-bottom: 4px;
+    }
+    .fact strong,
+    .nutrient strong {
+      font-size: 18px;
+      line-height: 1.2;
+    }
+    .tag-list,
+    .ingredient-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 10px;
+      padding: 0;
+      list-style: none;
+    }
+    .tag-list li,
+    .ingredient-list li {
+      border: 1px solid var(--line);
+      background: #fbfbf8;
+      border-radius: 999px;
+      padding: 6px 10px;
+      font-size: 13px;
+      color: #394150;
+    }
+    .ingredient-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 12px;
+      margin-top: 10px;
+    }
+    .ingredient-card {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 12px;
+      background: #fbfbf8;
+    }
+    .ingredient-card strong {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 16px;
+    }
+    .recipe {
+      background: #f2f7f0;
+      border-bottom: 0;
+    }
+    .chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 14px;
+    }
+    .chip {
+      border: 1px solid var(--line);
+      background: #fbfbf8;
+      border-radius: 999px;
+      padding: 6px 10px;
+      font-size: 13px;
+      color: #394150;
+    }
+    .empty {
+      padding: 22px;
+      color: var(--muted);
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+    }
+    @media (max-width: 900px) {
+      .bar, main, .hero {
+        grid-template-columns: 1fr;
+      }
+      .actions {
+        justify-content: flex-start;
+      }
+      .list {
+        max-height: none;
+      }
+      .detail {
+        min-height: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="bar">
+      <div>
+        <h1>Every Foods crawler overzicht</h1>
+        <div class="meta"><span id="count"></span> gerechten · bron: <a href="https://every-foods.nl/collections/all-products">https://every-foods.nl/collections/all-products</a> · crawl: 2026-07-01T22:22:57.268Z</div>
+      </div>
+      <div class="actions">
+        <button class="btn" id="copy-json">Kopieer JSON</button>
+        <button class="btn" id="download-json">Download JSON</button>
+        <button class="btn primary" id="download-csv">Download CSV</button>
+      </div>
+    </div>
+  </header>
+  <main>
+    <aside>
+      <div class="toolbar">
+        <input class="field" id="search" type="search" placeholder="Zoek gerecht of tekst">
+        <select class="field" id="sort">
+          <option value="site">Sitevolgorde</option>
+          <option value="name">Naam A-Z</option>
+          <option value="rating">Rating</option>
+        </select>
+      </div>
+      <div class="list" id="list"></div>
+    </aside>
+    <section class="detail" id="detail"></section>
+  </main>
+  <script id="products-data" type="application/json">{
+  "sourceUrl": "https://every-foods.nl/collections/all-products",
+  "crawledAt": "2026-07-01T22:22:57.268Z",
+  "products": [
+    {
+      "id": "product-0",
+      "sourceOrder": 1,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Coco Curry Pasta",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/a0b997ee2f/01_cococurrypasta.png",
+      "price": "7,99€",
+      "rating": "4.3",
+      "shortDescription": "Romige kokos-curry pasta met broccoli",
+      "nutrition": "Protein 18.5g | kcal 541 | Carbs 71.1g | Fats 17.6g",
+      "detailShortDescription": "Creamy coconut curry pasta with broccoli",
+      "longDescription": "Indulge in our Coco Curry Pasta, with fusili pasta in a creamy coconut milk sauce. Featuring broccoli, sweetcorn, lentils, chickpeas, and yellow bell pepper, enhanced with turmeric, coriander, and cumin, with a hint of ginger and mint.",
+      "keyIngredients": "Yellow Curry\nOur Coco Curry Pasta features a vibrant yellow curry, infused with turmeric, cumin, and coriander. This aromatic blend gives the dish a warm, spicy kick, perfectly balancing the creamy coconut milk base.\nBroccoli\nFresh broccoli florets add a nutritious crunch to our Coco Curry Pasta. Rich in vitamins and minerals, the broccoli complements the creamy curry sauce, providing a satisfying texture and a burst of green goodness.\nSweetcorn\nSweetcorn kernels bring a touch of natural sweetness to the Coco Curry Pasta. Their tender, juicy bites contrast beautifully with the rich, savory curry, making each mouthful a delightful experience.Cooked fusili pasta (water, DURUM WHEAT SEMOLINA) (31%), coconut milk (coconut, water) (13%), broccoli (13%), sweetcorn (9%), water, cooked brown lentils (water, brown lentils), chickpeas, yellow bell pepper, fried onions (onions, rapeseed oil), candied ginger (ginger, water, sugar), soy sauce (water, SOYBEANS, WHEAT, salt), water, salt, garlic, green mint, rice starch, lemon juice, potato starch, ginger, cayenne pepper, coriander, turmeric, cumin, paprika, black pepper.",
+      "detailText": "Coco Curry Pasta\n7,99€9,99€ / 450g\n22,20€ / kg incl. VAT, incl. shipping\n208 reviews\nCreamy coconut curry pasta with broccoli\nIndulge in our Coco Curry Pasta, with fusili pasta in a creamy coconut milk sauce. Featuring broccoli, sweetcorn, lentils, chickpeas, and yellow bell pepper, enhanced with turmeric, coriander, and cumin, with a hint of ginger and mint.\nVegan\nLow Sugar\nSource of Fiber\nSource of Protein\nNot spicy\nwithout Paprika\nPROTEIN\n18.5\nCARBS\n71.1\nFAT\n17.6\nKCAL\n541\nKey Ingredients\nYellow Curry\nOur Coco Curry Pasta features a vibrant yellow curry, infused with turmeric, cumin, and coriander. This aromatic blend gives the dish a warm, spicy kick, perfectly balancing the creamy coconut milk base.\nBroccoli\nFresh broccoli florets add a nutritious crunch to our Coco Curry Pasta. Rich in vitamins and minerals, the broccoli complements the creamy curry sauce, providing a satisfying texture and a burst of green goodness.\nSweetcorn\nSweetcorn kernels bring a touch of natural sweetness to the Coco Curry Pasta. Their tender, juicy bites contrast beautifully with the rich, savory curry, making each mouthful a delightful experience.Cooked fusili pasta (water, DURUM WHEAT SEMOLINA) (31%), coconut milk (coconut, water) (13%), broccoli (13%), sweetcorn (9%), water, cooked brown lentils (water, brown lentils), chickpeas, yellow bell pepper, fried onions (onions, rapeseed oil), candied ginger (ginger, water, sugar), soy sauce (water, SOYBEANS, WHEAT, salt), water, salt, garlic, green mint, rice starch, lemon juice, potato starch, ginger, cayenne pepper, coriander, turmeric, cumin, paprika, black pepper.\nIngredients\nNutritional Values\nPreparation\n4.3\nBased on 208 reviews",
+      "aiRecipeProposition": "For Coco Curry Pasta, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in yellow curry, broccoli, sweetcorn as the main flavor anchors. Build the sauce with ginger, garlic, curry spices, and either coconut milk or tomatoes, then balance it with lemon or lime. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-1",
+      "sourceOrder": 2,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Tikka Masala",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/01_TikkaMasala.png?v=1740055317",
+      "price": "8,79€",
+      "rating": "4.6",
+      "shortDescription": "Pittige curry met rijst en planted.pulled.",
+      "nutrition": "Protein 23.4g | kcal 491 | Carbs 51.3g | Fats 19.4g",
+      "detailShortDescription": "Creamy, spicy rice, peppers & planted.pulled.",
+      "longDescription": "The Indian classic, with an Every. twist! planted.pulled with crisp peppers, pak choi and tomatoes on a bed of basmati and wild rice. Blanketed in a luxurious, spicy sauce, flavoured with a blend of curry, cardamom, coriander, and turmeric.",
+      "keyIngredients": "Bok Choy\nA cousin of a good old cabbage, bok choy is light and crispy with a flavour in between cabbage and spinach.\nTurmeric\nAnother root we absolutely love: Yellow, peppery, bold & slightly bitter.\nBell Peppers\nGreen, yellow or red: we’re fascinated by bell peppers’ diversity in taste and their ability to bring lots of flavour to our dishes.",
+      "detailText": "Tikka Masala\n8,79€10,99€ / 450g\n24,42€ / kg incl. VAT, incl. shipping\n626 reviews\nCreamy, spicy rice, peppers & planted.pulled.\nThe Indian classic, with an Every. twist! planted.pulled with crisp peppers, pak choi and tomatoes on a bed of basmati and wild rice. Blanketed in a luxurious, spicy sauce, flavoured with a blend of curry, cardamom, coriander, and turmeric.\nVegan\nUnder 500 kcal\nLow Sugar\nNo Added Sugar\nSource of Fiber\nSource of Protein\nVery spicy\nwithout Paprika\nPROTEIN\n23.4\nCARBS\n51.3\nFAT\n19.4\nKCAL\n491\nKey Ingredients\nBok Choy\nA cousin of a good old cabbage, bok choy is light and crispy with a flavour in between cabbage and spinach.\nTurmeric\nAnother root we absolutely love: Yellow, peppery, bold & slightly bitter.\nBell Peppers\nGreen, yellow or red: we’re fascinated by bell peppers’ diversity in taste and their ability to bring lots of flavour to our dishes.\nIngredients\nNutritional Values\nPreparation\n4.6\nBased on 626 reviews",
+      "aiRecipeProposition": "For Tikka Masala, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in bok choy, turmeric, bell peppers as the main flavor anchors. Build the sauce with ginger, garlic, curry spices, and either coconut milk or tomatoes, then balance it with lemon or lime. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-2",
+      "sourceOrder": 3,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Peas & Love",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/Peas_Love.png?v=1740052195",
+      "price": "7,99€",
+      "rating": "4.6",
+      "shortDescription": "Cremige Erbsen-Basilikum Pasta mit Brokkoli",
+      "nutrition": "Protein 22g | kcal 546 | Carbs 67g | Fats 18.5g",
+      "detailShortDescription": "Creamy pea-basil pasta, romanesco & tomatoes",
+      "longDescription": "An ode to pesto, with a twist: blended green peas create an indulgent creaminess, complemented by flavorful basil. Paired with romanesco, broccoli and semi-dried tomatoes. Flavored with a sprinkle of pumpkin seeds and a dash of lemon juice.",
+      "keyIngredients": "Peas\nSweet, green & delicious! Did you know that peas pair perfectly with fresh herbs?\nBasil\nOne whiff of this fragrant beauty can bring you straight to an Italian Trattoria.\nSavoy Cabbage\nSweet and mild but with a slight peppery flavor.\nHalf-dried Tomatoes\nSweet umami: the perfect complement to the creamy sauce.",
+      "detailText": "Peas & Love\n7,99€9,99€ / 500g\n19,98€ / kg incl. VAT, incl. shipping\n745 reviews\nCreamy pea-basil pasta, romanesco & tomatoes\nAn ode to pesto, with a twist: blended green peas create an indulgent creaminess, complemented by flavorful basil. Paired with romanesco, broccoli and semi-dried tomatoes. Flavored with a sprinkle of pumpkin seeds and a dash of lemon juice.\nVegan\nLow in Saturated Fats\nLow Sugar\nNo Added Sugar\nSource of Fiber\nSource of Protein\nNot spicy\nwithout Recipe without Onion\nwithout Recipe without Coriander\nwithout Recipe without Cumin\nwithout Recipe without Soy\nwithout Soy*\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n22\nCARBS\n67\nFAT\n18.5\nKCAL\n546\nKey Ingredients\nPeas\nSweet, green & delicious! Did you know that peas pair perfectly with fresh herbs?\nBasil\nOne whiff of this fragrant beauty can bring you straight to an Italian Trattoria.\nSavoy Cabbage\nSweet and mild but with a slight peppery flavor.\nHalf-dried Tomatoes\nSweet umami: the perfect complement to the creamy sauce.\nIngredients\nNutritional Values\nPreparation\n4.6\nBased on 772 reviews",
+      "aiRecipeProposition": "For Peas & Love, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in peas, basil, savoy cabbage, half-dried tomatoes as the main flavor anchors. Blend basil, lemon, olive oil, peas or nuts into a bright green sauce and loosen it with pasta water. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-3",
+      "sourceOrder": 4,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Umami Rice",
+      "image": "https://a.storyblok.com/f/291086118523370/3125x3125/95e1156a7d/umami-rice.avif",
+      "price": "8,79€",
+      "rating": "4.3",
+      "shortDescription": "Pittige groente-rijst met planted.pulled.",
+      "nutrition": "Protein 27.9g | kcal 424 | Carbs 59.4g | Fats 5.9g",
+      "detailShortDescription": "Veggie-rice stir fry with planted.pulled.",
+      "longDescription": "Aromatic basmati & wild rice meet broccoli, red pepper, carrots & edamame. Tossed with hearty planted.pulled and a zesty blend of soy, ginger, mint & lemongrass. A fresh, vibrant bowl with bold flavors and satisfying texture.",
+      "keyIngredients": "Broccoli\nFresh broccoli adds a satisfying crunch and essential nutrients, perfectly balancing the richness of the dish.\nplanted.pulled\nPlanted's plant-based pulled protein adds a meaty texture, making the chili extra filling and satisfying.\nWildreis",
+      "detailText": "Umami Rice\n8,79€10,99€ / 450g\n24,42€ / kg incl. VAT, incl. shipping\n232 reviews\nVeggie-rice stir fry with planted.pulled.\nAromatic basmati & wild rice meet broccoli, red pepper, carrots & edamame. Tossed with hearty planted.pulled and a zesty blend of soy, ginger, mint & lemongrass. A fresh, vibrant bowl with bold flavors and satisfying texture.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nLow Sugar\nSource of Fiber\nHigh Protein\nNot spicy\nwithout Recipe without Cumin\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Paprika\nPROTEIN\n27.9\nCARBS\n59.4\nFAT\n5.9\nKCAL\n424\nKey Ingredients\nBroccoli\nFresh broccoli adds a satisfying crunch and essential nutrients, perfectly balancing the richness of the dish.\nplanted.pulled\nPlanted's plant-based pulled protein adds a meaty texture, making the chili extra filling and satisfying.\nWildreis\nIngredients\nNutritional Values\nPreparation\n4.3\nBased on 232 reviews",
+      "aiRecipeProposition": "For Umami Rice, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in broccoli as the main flavor anchors. Make a glossy pan sauce from soy sauce, ginger, sesame, and a little sweetness, then toss everything over high heat. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-4",
+      "sourceOrder": 5,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Red Curry",
+      "image": "https://a.storyblok.com/f/291086118523370/1625x1625/1e11b7b600/01_redcurry.png",
+      "price": "8,79€",
+      "rating": "4.6",
+      "shortDescription": "Milde rode curry met planted.pulled.",
+      "nutrition": "Protein 24.3g | kcal 509 | Carbs 52.2g | Fats 20.7g",
+      "detailShortDescription": "Mild red curry with planted.pulled.",
+      "longDescription": "Our homage to a classic Thai red curry! Basmati rice paired with string beans, yellow carrots and planted.pulled. Coated in a mild creamy coconut sauce with lemongrass and ginger for that sweet & complex curry taste.",
+      "keyIngredients": "Yellow Carrots\nAdding vibrant sunshine tones to any dish, yellow carrots are also a great source of beta carotene, which is important for the strength of your vision.\nGreen/String Beans\nString or green beans are immensely popular, and for a good reason: they are a great source of vitamin K & calcium. In addition, that light & juicy crunch is simply irresistible!\nLemongrass\nThanks to its fresh taste, lemongrass has been a crucial component of Southeast Asian cuisine. In addition, it is known for its antibacterial and anti-inflammatory properties.",
+      "detailText": "Red Curry\n8,79€10,99€ / 450g\n24,42€ / kg incl. VAT, incl. shipping\n248 reviews\nMild red curry with planted.pulled.\nOur homage to a classic Thai red curry! Basmati rice paired with string beans, yellow carrots and planted.pulled. Coated in a mild creamy coconut sauce with lemongrass and ginger for that sweet & complex curry taste.\nVegan\nLow Sugar\nNo Added Sugar\nSource of Fiber\nSource of Protein\nVery spicy\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n24.3\nCARBS\n52.2\nFAT\n20.7\nKCAL\n509\nKey Ingredients\nYellow Carrots\nAdding vibrant sunshine tones to any dish, yellow carrots are also a great source of beta carotene, which is important for the strength of your vision.\nGreen/String Beans\nString or green beans are immensely popular, and for a good reason: they are a great source of vitamin K & calcium. In addition, that light & juicy crunch is simply irresistible!\nLemongrass\nThanks to its fresh taste, lemongrass has been a crucial component of Southeast Asian cuisine. In addition, it is known for its antibacterial and anti-inflammatory properties.\nIngredients\nNutritional Values\nPreparation\n4.5\nBased on 248 reviews",
+      "aiRecipeProposition": "For Red Curry, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in yellow carrots, green/string beans, lemongrass as the main flavor anchors. Build the sauce with ginger, garlic, curry spices, and either coconut milk or tomatoes, then balance it with lemon or lime. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-5",
+      "sourceOrder": 6,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Bami Goreng",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/01_BamiGoreng.png?v=1740055371",
+      "price": "8,79€",
+      "rating": "4.5",
+      "shortDescription": "Noedels met planted.pulled & Pak Choi",
+      "nutrition": "Protein 25g | kcal 468 | Carbs 56.7g | Fats 12.2g",
+      "detailShortDescription": "Pak choi-noodle stir fry & planted.pulled.",
+      "longDescription": "A street food favourite, with planted.pulled and an invigorating combination of peppers, wood ear mushrooms, carrots, pak choi and spring onions. Combined with a zesty noodle and Sambal Olek base.",
+      "keyIngredients": "Carrots\nCrunchy, tasty and colourful. One of the most widely known vegetables due to its versatile use in both sweet and savoury dishes.\nBok Choy\nA cousin of a good old cabbage, bok choy is light and crispy with a flavour in between cabbage and spinach.\nWood Ear Mushroom\nA key component in Asian cuisines: wood ear mushrooms have great texture and light nutty taste.",
+      "detailText": "Bami Goreng\n8,79€10,99€ / 450g\n24,42€ / kg incl. VAT, incl. shipping\n627 reviews\nPak choi-noodle stir fry & planted.pulled.\nA street food favourite, with planted.pulled and an invigorating combination of peppers, wood ear mushrooms, carrots, pak choi and spring onions. Combined with a zesty noodle and Sambal Olek base.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nLow Sugar\nNo Added Sugar\nSource of Fiber\nHigh Protein\nVery spicy\nwithout Cumin\nwithout Paprika\nPROTEIN\n25\nCARBS\n56.7\nFAT\n12.2\nKCAL\n468\nKey Ingredients\nCarrots\nCrunchy, tasty and colourful. One of the most widely known vegetables due to its versatile use in both sweet and savoury dishes.\nBok Choy\nA cousin of a good old cabbage, bok choy is light and crispy with a flavour in between cabbage and spinach.\nWood Ear Mushroom\nA key component in Asian cuisines: wood ear mushrooms have great texture and light nutty taste.\nIngredients\nNutritional Values\nPreparation\n4.5\nBased on 627 reviews",
+      "aiRecipeProposition": "For Bami Goreng, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in carrots, bok choy, wood ear mushroom as the main flavor anchors. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-6",
+      "sourceOrder": 7,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Pasta Arrabbiata",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/b2fb696a4d/01_pastaarrabbiatta.png",
+      "price": "7,99€",
+      "rating": "4.3",
+      "shortDescription": "Pittige pasta met cherrytomaten en chilipeper",
+      "nutrition": "Protein 14g | kcal 410 | Carbs 63.5g | Fats 9g",
+      "detailShortDescription": "Spicy pasta with cherry tomatoes & chili",
+      "longDescription": "Bring Bella Italia into your kitchen and let yourself be carried away by sweet cherry tomatoes, tasty rigatoni pasta and yellow carrots. Covered in a spicy tomato sauce and aromatic chili peppers, this pasta bowl will warm you up and is the perfect comfort food for cold days, all without garlic and onions.",
+      "keyIngredients": "Chili\nChili is a true superfood, because of the capsaicin it contains, it can stimulate the metabolism as well as aid digestion.\nCherry tomatoes\nThanks to vitamin A and C, cherry tomatoes are natural skin boosters and support collagen production.\nYellow carrots\nAdd variety to your plate by incorporating yellow carrots into your diet, which have a slightly sweeter taste than their orange peers.",
+      "detailText": "Pasta Arrabbiata\n7,99€9,99€ / 500g\n19,98€ / kg incl. VAT, incl. shipping\n228 reviews\nSpicy pasta with cherry tomatoes & chili\nBring Bella Italia into your kitchen and let yourself be carried away by sweet cherry tomatoes, tasty rigatoni pasta and yellow carrots. Covered in a spicy tomato sauce and aromatic chili peppers, this pasta bowl will warm you up and is the perfect comfort food for cold days, all without garlic and onions.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nLow Sugar\nNo Added Sugar\nSource of Fiber\nSource of Protein\nVery spicy\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n14\nCARBS\n63.5\nFAT\n9\nKCAL\n410\nKey Ingredients\nChili\nChili is a true superfood, because of the capsaicin it contains, it can stimulate the metabolism as well as aid digestion.\nCherry tomatoes\nThanks to vitamin A and C, cherry tomatoes are natural skin boosters and support collagen production.\nYellow carrots\nAdd variety to your plate by incorporating yellow carrots into your diet, which have a slightly sweeter taste than their orange peers.\nIngredients\nNutritional Values\nPreparation\n4.3\nBased on 228 reviews",
+      "aiRecipeProposition": "For Pasta Arrabbiata, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in chili, cherry tomatoes, yellow carrots as the main flavor anchors. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-7",
+      "sourceOrder": 8,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Brilliant Bolognese",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/BrilliantBolognese.png?v=1740052092",
+      "price": "7,99€",
+      "rating": "4.6",
+      "shortDescription": "Vegane Bolognese met linzen-aubergine ragù.",
+      "nutrition": "Protein 18g | kcal 519 | Carbs 81g | Fats 10.5g",
+      "detailShortDescription": "Vegan Bolognese with lentil-aubergine ragù",
+      "longDescription": "A vegan version of the ultimate crowd pleaser. An earthy, hearty mixture of eggplant, parsnips, carrots and lentils paired with al-dente linguine. Outstanding flavour that will transport you straight to Nonna’s kitchen.",
+      "keyIngredients": "Lentils\nThey belong to the oldest crops and are rich in protein and dietary fibers.\nRoasted Eggplant\nAn actual berry by botanical definition. Eggplant is low in carbs but has a very indulging flavour and texture. It gives that instant holiday feel, especially when they’re well roasted.\nParsnip\nThis amazing root vegetable is responsible for the amazing aroma in our Bolognese – and a true super-ingredient.",
+      "detailText": "Brilliant Bolognese\n7,99€9,99€ / 500g\n19,98€ / kg incl. VAT, incl. shipping\n756 reviews\nVegan Bolognese with lentil-aubergine ragù\nA vegan version of the ultimate crowd pleaser. An earthy, hearty mixture of eggplant, parsnips, carrots and lentils paired with al-dente linguine. Outstanding flavour that will transport you straight to Nonna’s kitchen.\nVegan\nLow Fat\nLow in Saturated Fats\nLow Sugar\nNo Added Sugar\nSource of Fiber\nSource of Protein\nNot spicy\nwithout Soy*\nwithout Cumin\nwithout Coriander\nPROTEIN\n18\nCARBS\n81\nFAT\n10.5\nKCAL\n519\nKey Ingredients\nLentils\nThey belong to the oldest crops and are rich in protein and dietary fibers.\nRoasted Eggplant\nAn actual berry by botanical definition. Eggplant is low in carbs but has a very indulging flavour and texture. It gives that instant holiday feel, especially when they’re well roasted.\nParsnip\nThis amazing root vegetable is responsible for the amazing aroma in our Bolognese – and a true super-ingredient.\nIngredients\nNutritional Values\nPreparation\n4.6\nBased on 797 reviews",
+      "aiRecipeProposition": "For Brilliant Bolognese, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in lentils, roasted eggplant, parsnip as the main flavor anchors. Let the fruit stay bright, balancing sweetness with citrus, warm spice, or a tiny pinch of salt. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-8",
+      "sourceOrder": 9,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Red Pesto Gnocchi",
+      "image": "https://a.storyblok.com/f/291086118523370/2000x2000/cae495c20d/en-red-pest-gnocchi.png",
+      "price": "7,99€",
+      "rating": "4.1",
+      "shortDescription": "Gnocchi met rode pesto & cashew crunch",
+      "nutrition": "Protein 19.6g | kcal 597 | Carbs 80.8g | Fats 23.6g",
+      "detailShortDescription": "Gnocchi with red pesto & cashew crunch",
+      "longDescription": "Soft gnocchi meet grilled zucchini, bell pepper and protein-rich chickpeas. Finished with a rich red pesto of tomato and basil. Cashews add a delicate crunch – Mediterranean, hearty and full of flavor.",
+      "keyIngredients": "Cashew\nCashews have a mild, creamy and slightly sweet aroma with delicate nutty and buttery notes.\nChickpeas\nA staple of vegan cooking. Chickpeas have a mild flavour and are an excellent source of plant-based protein.\nBell Pepper\nWhether green, yellow or red, we are fascinated by the versatility of bell peppers and their ability to add depth of flavour to our dishes.",
+      "detailText": "Red Pesto Gnocchi\n7,99€9,99€ / 400g\n24,98€ / kg incl. VAT, incl. shipping\n10 reviews\nGnocchi with red pesto & cashew crunch\nSoft gnocchi meet grilled zucchini, bell pepper and protein-rich chickpeas. Finished with a rich red pesto of tomato and basil. Cashews add a delicate crunch – Mediterranean, hearty and full of flavor.\nVegan\nLow in Saturated Fats\nLow Sugar\nNo Added Sugar\nSource of Fiber\nNot spicy\nwithout Soy*\nwithout Cumin\nwithout Coriander\nPROTEIN\n19.6\nCARBS\n80.8\nFAT\n23.6\nKCAL\n597\nKey Ingredients\nCashew\nCashews have a mild, creamy and slightly sweet aroma with delicate nutty and buttery notes.\nChickpeas\nA staple of vegan cooking. Chickpeas have a mild flavour and are an excellent source of plant-based protein.\nBell Pepper\nWhether green, yellow or red, we are fascinated by the versatility of bell peppers and their ability to add depth of flavour to our dishes.\nIngredients\nNutritional Values\nPreparation\n4.1\nBased on 10 reviews",
+      "aiRecipeProposition": "For Red Pesto Gnocchi, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in cashew, chickpeas, bell pepper as the main flavor anchors. Blend basil, lemon, olive oil, peas or nuts into a bright green sauce and loosen it with pasta water. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-9",
+      "sourceOrder": 10,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Creamy Paprika Pasta",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/2026-03-24Every27162.jpg?v=1777022892",
+      "price": "8,79€",
+      "rating": "3.9",
+      "shortDescription": "Romige curry met mango, groenten & wilde rijst.",
+      "nutrition": "Protein 21.2g | kcal 446 | Carbs 50.4g | Fats 15.8g",
+      "detailShortDescription": "Creamy paprika pasta with plant-based protein",
+      "longDescription": "Ribbon pasta coated in a creamy, spiced paprika sauce with a hint of heat. With bell peppers, cherry tomatoes and juicy plant-based protein – rich, smooth and true comfort food.",
+      "keyIngredients": "Paprika\nSweet and slightly smoky, paprika gives the sauce its vibrant color and signature flavor.\nCoconut milk\nCreamy coconut milk creates a smooth texture and balances the spices with subtle sweetness.\nplanted.pulled\nTender and protein-rich, it adds a satisfying, meaty texture to this comforting pasta dish.",
+      "detailText": "Creamy Paprika Pasta\n8,79€10,99€ / 450g\n24,42€ / kg incl. VAT, incl. shipping\n14 reviews\nCreamy paprika pasta with plant-based protein\nRibbon pasta coated in a creamy, spiced paprika sauce with a hint of heat. With bell peppers, cherry tomatoes and juicy plant-based protein – rich, smooth and true comfort food.\nVegan\nUnder 500 kcal\nLow Sugar\nSource of Fiber\nSource of Protein\nNot spicy\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n21.2\nCARBS\n50.4\nFAT\n15.8\nKCAL\n446\nKey Ingredients\nPaprika\nSweet and slightly smoky, paprika gives the sauce its vibrant color and signature flavor.\nCoconut milk\nCreamy coconut milk creates a smooth texture and balances the spices with subtle sweetness.\nplanted.pulled\nTender and protein-rich, it adds a satisfying, meaty texture to this comforting pasta dish.\nIngredients\nNutritional Values\nPreparation\n3.9\nBased on 14 reviews",
+      "aiRecipeProposition": "For Creamy Paprika Pasta, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in paprika, coconut milk as the main flavor anchors. Build the sauce with ginger, garlic, curry spices, and either coconut milk or tomatoes, then balance it with lemon or lime. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-10",
+      "sourceOrder": 11,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Paprika Thai Ragout",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/d46e4c86a9/every_thai_pepper_bolo_v4.png",
+      "price": "8,79€",
+      "rating": "4.3",
+      "shortDescription": "Thai stoofpot met noedels, Boonian en paprika.",
+      "nutrition": "Protein 25g | kcal 510 | Carbs 66.5g | Fats 13g",
+      "detailShortDescription": "Lentil Boonian stew with bell peppers and spices.",
+      "longDescription": "Asian Thai stew with noodles, Boonian crumbles, carrots, bell peppers, and zucchini. Refined with soy sauce, tomato paste, and an aromatic Thai paste made from spices such as cumin, coriander, and lemongrass. A spicy, nutritious dish.",
+      "keyIngredients": "Boonian\nSavoury crumbles made from soy protein and gluten-free soy sauce. Reminiscent of minced meat in texture and flavour, with a deep umami note from yeast extracts and mushroom powder.\nSoybeans\nSmall but powerful. Soybeans are an excellent plant-based protein source with a mildly nutty flavour and a pleasant bite.\nThai Paste\nAn aromatic spice paste made from garlic, paprika, chilli, coriander, cumin and cardamom, refined with ginger, lemongrass and lime leaves. It adds depth, freshness and a balanced heat to the dish.",
+      "detailText": "Paprika Thai Ragout\n8,79€10,99€ / 500g\n21,98€ / kg incl. VAT, incl. shipping\n14 reviews\nLentil Boonian stew with bell peppers and spices.\nAsian Thai stew with noodles, Boonian crumbles, carrots, bell peppers, and zucchini. Refined with soy sauce, tomato paste, and an aromatic Thai paste made from spices such as cumin, coriander, and lemongrass. A spicy, nutritious dish.\nVegan\nLow Fat\nLow in Saturated Fats\nLow Sugar\nNo Added Sugar\nSource of Fiber\nSource of Protein\nVery spicy\nwithout Onion\nwithout Paprika\nPROTEIN\n25\nCARBS\n66.5\nFAT\n13\nKCAL\n510\nKey Ingredients\nBoonian\nSavoury crumbles made from soy protein and gluten-free soy sauce. Reminiscent of minced meat in texture and flavour, with a deep umami note from yeast extracts and mushroom powder.\nSoybeans\nSmall but powerful. Soybeans are an excellent plant-based protein source with a mildly nutty flavour and a pleasant bite.\nThai Paste\nAn aromatic spice paste made from garlic, paprika, chilli, coriander, cumin and cardamom, refined with ginger, lemongrass and lime leaves. It adds depth, freshness and a balanced heat to the dish.\nIngredients\nNutritional Values\nPreparation\n4.3\nBased on 14 reviews",
+      "aiRecipeProposition": "For Paprika Thai Ragout, start from the main base and texture described above. Cook the fruit until juicy, cover it with an oat, nut, and seed crumble, then bake until the topping is crisp. Bring in boonian, soybeans, thai paste as the main flavor anchors. Make a glossy pan sauce from soy sauce, ginger, sesame, and a little sweetness, then toss everything over high heat. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-11",
+      "sourceOrder": 12,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Peanut Noodles",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/829d20591e/1_6_7169dbdc-e582-4c69-acac-3409a9a1ec0e.jpg",
+      "price": "7,99€",
+      "rating": "4.0",
+      "shortDescription": "Noedels in pindakaassaus met groenten.",
+      "nutrition": "Protein 20.3g | kcal 491 | Carbs 48.2g | Fats 23.4g",
+      "detailShortDescription": "Noodles in peanut butter sauce with vegetables.",
+      "longDescription": "Noodles in a creamy peanut butter sauce with bell peppers, carrots, snow peas, and mushrooms. Refined with spring onions, lemongrass, soy sauce, and spices such as cumin, coriander, and chili – an aromatic, nutty dish.",
+      "keyIngredients": "Peanuts\nUsed in the sauce as peanut butter. They add rich, nutty depth and create a rounded, well-balanced flavour.\nCarrots\nCrisp, colourful and full of flavour. One of the most popular vegetables thanks to its versatility in both sweet and savoury dishes.\nSnow Peas\nDelicate and fresh in flavour. Snow peas add lightness and a subtle green note to the dish.",
+      "detailText": "Peanut Noodles\n7,99€9,99€ / 450g\n22,20€ / kg incl. VAT, incl. shipping\n38 reviews\nNoodles in peanut butter sauce with vegetables.\nNoodles in a creamy peanut butter sauce with bell peppers, carrots, snow peas, and mushrooms. Refined with spring onions, lemongrass, soy sauce, and spices such as cumin, coriander, and chili – an aromatic, nutty dish.\nVegan\nUnder 500 kcal\nLow in Saturated Fats\nLow Sugar\nNo Added Sugar\nSource of Fiber\nSource of Protein\nLow Carb\nNot spicy\nwithout Paprika\nPROTEIN\n20.3\nCARBS\n48.2\nFAT\n23.4\nKCAL\n491\nKey Ingredients\nPeanuts\nUsed in the sauce as peanut butter. They add rich, nutty depth and create a rounded, well-balanced flavour.\nCarrots\nCrisp, colourful and full of flavour. One of the most popular vegetables thanks to its versatility in both sweet and savoury dishes.\nSnow Peas\nDelicate and fresh in flavour. Snow peas add lightness and a subtle green note to the dish.\nIngredients\nNutritional Values\nPreparation\n4.0\nBased on 38 reviews",
+      "aiRecipeProposition": "For Peanut Noodles, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in peanuts, carrots, snow peas as the main flavor anchors. Make a glossy pan sauce from soy sauce, ginger, sesame, and a little sweetness, then toss everything over high heat. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-12",
+      "sourceOrder": 13,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Lemongrass Thai Ragout",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/33799db57d/1_5.jpg",
+      "price": "8,79€",
+      "rating": "4.5",
+      "shortDescription": "Citroengras stoofpot met noedels en Boonian.",
+      "nutrition": "Protein 20.5g | kcal 445 | Carbs 64g | Fats 10g",
+      "detailShortDescription": "Lemongrass stew with noodles and Boonian.",
+      "longDescription": "Spicy Thai stew with noodles, Boonian crumbles, and vegetables such as zucchini and carrots. Refined with an aromatic lemongrass paste, soy sauce, tomato paste, and a variety of spices – a fresh, intense flavor experience.",
+      "keyIngredients": "Boonian\nSavoury crumbles made from soy protein and gluten-free soy sauce. Reminiscent of minced meat in texture and flavour, with a deep umami note from yeast extracts and mushroom powder.\nZucchini\nMild in flavour and pleasantly subtle. Zucchini adds freshness and balance to the dish while giving space to the other aromas.\nLemongrass Purée:\nFinely puréed lemongrass with a fresh, citrusy aroma. It brings lightness, freshness and a clear Southeast Asian note to the dish.",
+      "detailText": "Lemongrass Thai Ragout\n8,79€10,99€ / 500g\n21,98€ / kg incl. VAT, incl. shipping\n29 reviews\nLemongrass stew with noodles and Boonian.\nSpicy Thai stew with noodles, Boonian crumbles, and vegetables such as zucchini and carrots. Refined with an aromatic lemongrass paste, soy sauce, tomato paste, and a variety of spices – a fresh, intense flavor experience.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nLow Sugar\nNo Added Sugar\nSource of Fiber\nSource of Protein\nVery spicy\nwithout Paprika\nPROTEIN\n20.5\nCARBS\n64\nFAT\n10\nKCAL\n445\nKey Ingredients\nBoonian\nSavoury crumbles made from soy protein and gluten-free soy sauce. Reminiscent of minced meat in texture and flavour, with a deep umami note from yeast extracts and mushroom powder.\nZucchini\nMild in flavour and pleasantly subtle. Zucchini adds freshness and balance to the dish while giving space to the other aromas.\nLemongrass Purée:\nFinely puréed lemongrass with a fresh, citrusy aroma. It brings lightness, freshness and a clear Southeast Asian note to the dish.\nIngredients\nNutritional Values\nPreparation\n4.5\nBased on 29 reviews",
+      "aiRecipeProposition": "For Lemongrass Thai Ragout, start from the main base and texture described above. Cook the fruit until juicy, cover it with an oat, nut, and seed crumble, then bake until the topping is crisp. Bring in boonian, zucchini, lemongrass purée: as the main flavor anchors. Make a glossy pan sauce from soy sauce, ginger, sesame, and a little sweetness, then toss everything over high heat. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-13",
+      "sourceOrder": 14,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Sambal Curry Noodles",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/82730dcd12/every_sambal_curry_noodles_v2.png",
+      "price": "7,99€",
+      "rating": "3.9",
+      "shortDescription": "Romige mie-noedels met groenten & kokos-curry.",
+      "nutrition": "Protein 9.9g | kcal 394 | Carbs 46.4g | Fats 17.1g",
+      "detailShortDescription": "Creamy mie noodles with veggies & coconut curry",
+      "longDescription": "Mie noodles in a mild coconut curry sauce with yellow carrots, mushrooms, pak choi, peppers and mung bean sprouts. Finished with lemongrass, Thai basil, and ginger – aromatic and delightfully creamy.",
+      "keyIngredients": "Yellow carrots\nThey bring sunshine to any dish! Yellow carrots are a great source of beta-carotene – essential for eye health and naturally sweet in flavor.\nPak Choi\nTender, juicy, and mild – pak choi adds a fresh crunch and a subtle cabbage note to any dish. Its crisp stems and soft leaves make it the perfect companion.\nMung bean sprouts\nFresh, crisp, and slightly nutty – mung bean sprouts add a light texture and refreshing crunch to any dish. Ideal as a vibrant topping.",
+      "detailText": "Sambal Curry Noodles\n7,99€9,99€ / 450g\n22,20€ / kg incl. VAT, incl. shipping\n21 reviews\nCreamy mie noodles with veggies & coconut curry\nMie noodles in a mild coconut curry sauce with yellow carrots, mushrooms, pak choi, peppers and mung bean sprouts. Finished with lemongrass, Thai basil, and ginger – aromatic and delightfully creamy.\nVegan\nUnder 500 kcal\nLow Sugar\nNo Added Sugar\nSource of Fiber\nLow Carb\nMedium spicy\nwithout Soy*\nwithout Cumin\nwithout Coriander\nPROTEIN\n9.9\nCARBS\n46.4\nFAT\n17.1\nKCAL\n394\nKey Ingredients\nYellow carrots\nThey bring sunshine to any dish! Yellow carrots are a great source of beta-carotene – essential for eye health and naturally sweet in flavor.\nPak Choi\nTender, juicy, and mild – pak choi adds a fresh crunch and a subtle cabbage note to any dish. Its crisp stems and soft leaves make it the perfect companion.\nMung bean sprouts\nFresh, crisp, and slightly nutty – mung bean sprouts add a light texture and refreshing crunch to any dish. Ideal as a vibrant topping.\nIngredients\nNutritional Values\nPreparation\n3.9\nBased on 21 reviews",
+      "aiRecipeProposition": "For Sambal Curry Noodles, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in yellow carrots, pak choi, mung bean sprouts as the main flavor anchors. Build the sauce with ginger, garlic, curry spices, and either coconut milk or tomatoes, then balance it with lemon or lime. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-14",
+      "sourceOrder": 15,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Pasta Rustica",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/04af65c913/pastacaponata_topshot_ff75d90f-260a-4d2e-a3b9-bac7e84f5cf8.png",
+      "price": "7,99€",
+      "rating": "4.1",
+      "shortDescription": "Penne met groenten & tomaatsaus.",
+      "nutrition": "Protein 14g | kcal 385 | Carbs 52.7g | Fats 11.3g",
+      "detailShortDescription": "Penne with veggies in tomato sauce.",
+      "longDescription": "Al dente penne in a creamy, spiced tomato-sauce with grilled peppers, zucchini, eggplant, and spinach. Finished with herbs, garlic, pumpkin seeds and a hint of smoked paprika. For deep, Mediterranean flavor.",
+      "keyIngredients": "Grilled bell pepper\nSmoky, sweet, and full of flavor - grilled bell pepper adds Mediterranean flair and juicy texture to any dish.\nGrilled zucchini\nMild in flavor, with a tender texture and fine roasted aromas. Grilled zucchini adds a pleasant lightness to every bowl.\nPumpkin Seeds\nA powerful little seed that we love for their great nutty aroma and crispy texture",
+      "detailText": "Pasta Rustica\n7,99€9,99€ / 450g\n22,20€ / kg incl. VAT, incl. shipping\n21 reviews\nPenne with veggies in tomato sauce.\nAl dente penne in a creamy, spiced tomato-sauce with grilled peppers, zucchini, eggplant, and spinach. Finished with herbs, garlic, pumpkin seeds and a hint of smoked paprika. For deep, Mediterranean flavor.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nLow Sugar\nNo Added Sugar\nSource of Fiber\nSource of Protein\nNot spicy\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n14\nCARBS\n52.7\nFAT\n11.3\nKCAL\n385\nKey Ingredients\nGrilled bell pepper\nSmoky, sweet, and full of flavor - grilled bell pepper adds Mediterranean flair and juicy texture to any dish.\nGrilled zucchini\nMild in flavor, with a tender texture and fine roasted aromas. Grilled zucchini adds a pleasant lightness to every bowl.\nPumpkin Seeds\nA powerful little seed that we love for their great nutty aroma and crispy texture\nIngredients\nNutritional Values\nPreparation\n4.1\nBased on 21 reviews",
+      "aiRecipeProposition": "For Pasta Rustica, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in grilled bell pepper, grilled zucchini, pumpkin seeds as the main flavor anchors. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-15",
+      "sourceOrder": 16,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Mushroom Gnocchi",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/c17bed4d96/mushroom_gnocchi_topshot.png",
+      "price": "7,99€",
+      "rating": "4.2",
+      "shortDescription": "Gnocchi met paddenstoelen & linzen in saus.",
+      "nutrition": "Protein 17.6g | kcal 484 | Carbs 71.1g | Fats 12.2g",
+      "detailShortDescription": "Gnocchi with mushrooms, lentils & creamy sauce.",
+      "longDescription": "Gnocchi with mushrooms, brown lentils, cherry tomatoes, and fried onions, enhanced with coconut milk, soft tomatoes, tomato paste, olive oil, soy sauce, and mustard. Finished with herbs, porcini powder, and spices. Creamy, hearty, and flavorful.",
+      "keyIngredients": "Fried onions\nBriefly fried for a deep aroma. They deliver subtle sweetness and a layered, savory flavor that completes any dish.\nLentils\nThey belong to the oldest crops and are rich in protein and dietary fibres.\nMushrooms\nAromatic mushrooms give the sauce an earthy flavor, enhancing the dish with a hearty, savory touch.",
+      "detailText": "Mushroom Gnocchi\n7,99€9,99€ / 450g\n22,20€ / kg incl. VAT, incl. shipping\n30 reviews\nGnocchi with mushrooms, lentils & creamy sauce.\nGnocchi with mushrooms, brown lentils, cherry tomatoes, and fried onions, enhanced with coconut milk, soft tomatoes, tomato paste, olive oil, soy sauce, and mustard. Finished with herbs, porcini powder, and spices. Creamy, hearty, and flavorful.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nLow Sugar\nSource of Fiber\nSource of Protein\nNot spicy\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n17.6\nCARBS\n71.1\nFAT\n12.2\nKCAL\n484\nKey Ingredients\nFried onions\nBriefly fried for a deep aroma. They deliver subtle sweetness and a layered, savory flavor that completes any dish.\nLentils\nThey belong to the oldest crops and are rich in protein and dietary fibres.\nMushrooms\nAromatic mushrooms give the sauce an earthy flavor, enhancing the dish with a hearty, savory touch.\nIngredients\nNutritional Values\nPreparation\n4.2\nBased on 30 reviews",
+      "aiRecipeProposition": "For Mushroom Gnocchi, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in fried onions, lentils, mushrooms as the main flavor anchors. Make a glossy pan sauce from soy sauce, ginger, sesame, and a little sweetness, then toss everything over high heat. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-16",
+      "sourceOrder": 17,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Spätzle Goulash",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/8c703d64c1/goulash_topshot.png",
+      "price": "8,79€",
+      "rating": "4.3",
+      "shortDescription": "Hartige spätzle met paddenstoelen & paprika.",
+      "nutrition": "Protein 25.7g | kcal 518 | Carbs 46.8g | Fats 23g",
+      "detailShortDescription": "Savory spätzle with mushrooms & peppers.",
+      "longDescription": "Hearty spätzle combined with savory planted.pulled, mushrooms, and red bell pepper. Seasoned with onions, tomato paste, soy sauce and spices – for a rustic, plant-based comfort dish with a twist.",
+      "keyIngredients": "planted.pulled\nPlanted's plant-based pulled protein adds a meaty texture, making the Goulash extra filling and satisfying.\nSpätzle\nOur vegan spätzle are tender and perfectly cooked, serving as the ideal base for this hearty dish and absorbing the creamy sauce beautifully.\nMushrooms\nAromatic mushrooms give the sauce an earthy flavor, enhancing the dish with a hearty, savory touch.",
+      "detailText": "Spätzle Goulash\n8,79€10,99€ / 450g\n24,42€ / kg incl. VAT, incl. shipping\n33 reviews\nSavory spätzle with mushrooms & peppers.\nHearty spätzle combined with savory planted.pulled, mushrooms, and red bell pepper. Seasoned with onions, tomato paste, soy sauce and spices – for a rustic, plant-based comfort dish with a twist.\nVegan\nLow in Saturated Fats\nLow Sugar\nNo Added Sugar\nSource of Fiber\nSource of Protein\nLow Carb\nNot spicy\nwithout Cumin\nwithout Coriander\nPROTEIN\n25.7\nCARBS\n46.8\nFAT\n23\nKCAL\n518\nKey Ingredients\nplanted.pulled\nPlanted's plant-based pulled protein adds a meaty texture, making the Goulash extra filling and satisfying.\nSpätzle\nOur vegan spätzle are tender and perfectly cooked, serving as the ideal base for this hearty dish and absorbing the creamy sauce beautifully.\nMushrooms\nAromatic mushrooms give the sauce an earthy flavor, enhancing the dish with a hearty, savory touch.\nIngredients\nNutritional Values\nPreparation\n4.3\nBased on 33 reviews",
+      "aiRecipeProposition": "For Spätzle Goulash, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in spätzle, mushrooms as the main flavor anchors. Make a glossy pan sauce from soy sauce, ginger, sesame, and a little sweetness, then toss everything over high heat. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-17",
+      "sourceOrder": 18,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Ramen Noodles",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/bdf37f33af/ramennoodles_1c4054dc-a239-4701-b301-e66b6a145da5.png",
+      "price": "7,99€",
+      "rating": "4.0",
+      "shortDescription": "Noedelsoep met sojasaus",
+      "nutrition": "Protein 18.2g | kcal 440 | Carbs 63.3g | Fats 10.5g",
+      "detailShortDescription": "Soy-infused noodle soup with veggies",
+      "longDescription": "Elevate your taste buds with our Mie Noodle Ramen! Savor the perfect blend of rich soy & vegetable broth, savory savoy cabbage, grilled aubergines, crunchy soybean kernels and sweet corn. A symphony of flavors in every slurp!",
+      "keyIngredients": "Soy & vegetable broth\nOur Noodle Ramen's broth is a cozy blend of soy and assorted veggies, providing a simple yet flavorful base that adds a touch of warmth to every spoonful.\nWood-ear mushroom\nThe wood-ear mushrooms contribute a chewy texture and subtle earthy notes, enhancing the overall umami experience in a gentle and delightful way.\nSavoy Cabbage\nThe crunch of cabbage brings a satisfying texture, complementing the noodles with its mild sweetness, creating a comforting bowl of goodness.",
+      "detailText": "Ramen Noodles\n7,99€9,99€ / 550g\n18,16€ / kg incl. VAT, incl. shipping\n230 reviews\nSoy-infused noodle soup with veggies\nElevate your taste buds with our Mie Noodle Ramen! Savor the perfect blend of rich soy & vegetable broth, savory savoy cabbage, grilled aubergines, crunchy soybean kernels and sweet corn. A symphony of flavors in every slurp!\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nLow Sugar\nSource of Fiber\nSource of Protein\nVery spicy\nwithout Cumin\nwithout Paprika\nPROTEIN\n18.2\nCARBS\n63.3\nFAT\n10.5\nKCAL\n440\nKey Ingredients\nSoy & vegetable broth\nOur Noodle Ramen's broth is a cozy blend of soy and assorted veggies, providing a simple yet flavorful base that adds a touch of warmth to every spoonful.\nWood-ear mushroom\nThe wood-ear mushrooms contribute a chewy texture and subtle earthy notes, enhancing the overall umami experience in a gentle and delightful way.\nSavoy Cabbage\nThe crunch of cabbage brings a satisfying texture, complementing the noodles with its mild sweetness, creating a comforting bowl of goodness.\nIngredients\nNutritional Values\nPreparation\n4.0\nBased on 230 reviews",
+      "aiRecipeProposition": "For Ramen Noodles, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in soy & vegetable broth, wood-ear mushroom, savoy cabbage as the main flavor anchors. Make a glossy pan sauce from soy sauce, ginger, sesame, and a little sweetness, then toss everything over high heat. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-18",
+      "sourceOrder": 19,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Edamame Zen",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/690c01d50e/2_925ca011-9bf4-458f-a57f-759aba4204fd.jpg",
+      "price": "7,99€",
+      "rating": "3.7",
+      "shortDescription": "Noedels met paksoi, wilde rijst & edamame.",
+      "nutrition": "Protein 20.3g | kcal 423 | Carbs 67.1g | Fats 5.4g",
+      "detailShortDescription": "Noodles with pak choi, wild rice & edamame.",
+      "longDescription": "Ribbon noodles and wild rice meet crunchy carrots, pak choi and soybeans. Refined with soy sauce, leek, lemongrass, ginger and fresh herbs – for a light, aromatic Far Eastern culinary experience.",
+      "keyIngredients": "Pak Choi\nTender, juicy, and mild – pak choi adds a fresh crunch and a subtle cabbage note to any dish. Its crisp stems and soft leaves make it the perfect companion.\nWild Rice\nDid you know that this baby is not an actual rice but a type of grass? With a nutty and toasty smell that’s hard to resist, wild rice is a perfect ingredient to elevate this bowl!\nSoybean kernels\nSmall but mighty – soybean kernels are packed with plant-based protein, offering a mildly nutty flavor and satisfying texture.",
+      "detailText": "Edamame Zen\n7,99€9,99€ / 450g\n22,20€ / kg incl. VAT, incl. shipping\n134 reviews\nNoodles with pak choi, wild rice & edamame.\nRibbon noodles and wild rice meet crunchy carrots, pak choi and soybeans. Refined with soy sauce, leek, lemongrass, ginger and fresh herbs – for a light, aromatic Far Eastern culinary experience.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nLow Sugar\nSource of Fiber\nSource of Protein\nNot spicy\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Paprika\nPROTEIN\n20.3\nCARBS\n67.1\nFAT\n5.4\nKCAL\n423\nKey Ingredients\nPak Choi\nTender, juicy, and mild – pak choi adds a fresh crunch and a subtle cabbage note to any dish. Its crisp stems and soft leaves make it the perfect companion.\nWild Rice\nDid you know that this baby is not an actual rice but a type of grass? With a nutty and toasty smell that’s hard to resist, wild rice is a perfect ingredient to elevate this bowl!\nSoybean kernels\nSmall but mighty – soybean kernels are packed with plant-based protein, offering a mildly nutty flavor and satisfying texture.\nIngredients\nNutritional Values\nPreparation\n3.7\nBased on 134 reviews",
+      "aiRecipeProposition": "For Edamame Zen, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in pak choi, wild rice, soybean kernels as the main flavor anchors. Make a glossy pan sauce from soy sauce, ginger, sesame, and a little sweetness, then toss everything over high heat. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-19",
+      "sourceOrder": 20,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Teriyaki Wok",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/da86ac72a4/01_teriyakiwoktopshot.png",
+      "price": "8,79€",
+      "rating": "4.0",
+      "shortDescription": "Aziatische noedels met planted.pulled & edamame",
+      "nutrition": "Protein 16.5g | kcal 590 | Carbs 55g | Fats 31g",
+      "detailShortDescription": "Asian noodles with planted.pulled & edamame.",
+      "longDescription": "An umami-rich noodle bowl inspired by Asian street food. With planted.pulled, Mu-Err mushrooms, peppers, soybeans & wide noodles in a savory-sweet ginger-soy sauce. Balanced, vibrant, and satisfying.",
+      "keyIngredients": "Mu-Err-Mushrooms\nDark, tender, and slightly crunchy to the bite. Mu-Err mushrooms offer a unique texture and absorb sauces especially well. Their mild flavor makes them the perfect companion in savory dishes.\nEdamame\nEdamame are young soybeans that are an excellent source of protein and add a light, sweet crunch to our bowls.\nPlant-based protein\nTender, protein-rich pieces absorb the flavors of the sauce and create a satisfying, nourishing meal.",
+      "detailText": "Teriyaki Wok\n8,79€10,99€ / 500g\n21,98€ / kg incl. VAT, incl. shipping\n64 reviews\nAsian noodles with planted.pulled & edamame.\nAn umami-rich noodle bowl inspired by Asian street food. With planted.pulled, Mu-Err mushrooms, peppers, soybeans & wide noodles in a savory-sweet ginger-soy sauce. Balanced, vibrant, and satisfying.\nVegan\nLow in Saturated Fats\nLow Sugar\nSource of Fiber\nHigh Protein\nNot spicy\nwithout Cumin\nwithout Paprika\nPROTEIN\n16.5\nCARBS\n55\nFAT\n31\nKCAL\n590\nKey Ingredients\nMu-Err-Mushrooms\nDark, tender, and slightly crunchy to the bite. Mu-Err mushrooms offer a unique texture and absorb sauces especially well. Their mild flavor makes them the perfect companion in savory dishes.\nEdamame\nEdamame are young soybeans that are an excellent source of protein and add a light, sweet crunch to our bowls.\nPlant-based protein\nTender, protein-rich pieces absorb the flavors of the sauce and create a satisfying, nourishing meal.\nIngredients\nNutritional Values\nPreparation\n4.0\nBased on 64 reviews",
+      "aiRecipeProposition": "For Teriyaki Wok, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in mu-err-mushrooms, edamame, plant-based protein as the main flavor anchors. Make a glossy pan sauce from soy sauce, ginger, sesame, and a little sweetness, then toss everything over high heat. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-20",
+      "sourceOrder": 21,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Mushroom Spätzle",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/e5c282b2b6/01_mushroomspaetzle.png",
+      "price": "7,99€",
+      "rating": "4.0",
+      "shortDescription": "Romige spätzle met paddenstoelen & hartige groenten",
+      "nutrition": "Protein 16g | kcal 430 | Carbs 54.5g | Fats 14g",
+      "detailShortDescription": "Creamy spätzle with mushrooms & hearty veggies",
+      "longDescription": "Savory spätzle with broccoli, mushrooms, and white cabbage, combined with chestnuts. Refined with coconut milk, porcini powder, and thyme. A rustic comfort dish.",
+      "keyIngredients": "Spätzle\nOur vegan spätzle are tender and perfectly cooked, serving as the ideal base for this hearty dish and absorbing the creamy mushroom sauce beautifully.\nBroccoli\nFresh broccoli adds a satisfying crunch and essential nutrients, perfectly balancing the richness of the dish.\nMushrooms\nAromatic mushrooms give the sauce an earthy flavor, enhancing the dish with a hearty, savory touch.",
+      "detailText": "Mushroom Spätzle\n7,99€9,99€ / 500g\n19,98€ / kg incl. VAT, incl. shipping\n209 reviews\nCreamy spätzle with mushrooms & hearty veggies\nSavory spätzle with broccoli, mushrooms, and white cabbage, combined with chestnuts. Refined with coconut milk, porcini powder, and thyme. A rustic comfort dish.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nLow Sugar\nSource of Fiber\nSource of Protein\nNot spicy\nwithout Cumin\nwithout Coriander\nPROTEIN\n16\nCARBS\n54.5\nFAT\n14\nKCAL\n430\nKey Ingredients\nSpätzle\nOur vegan spätzle are tender and perfectly cooked, serving as the ideal base for this hearty dish and absorbing the creamy mushroom sauce beautifully.\nBroccoli\nFresh broccoli adds a satisfying crunch and essential nutrients, perfectly balancing the richness of the dish.\nMushrooms\nAromatic mushrooms give the sauce an earthy flavor, enhancing the dish with a hearty, savory touch.\nIngredients\nNutritional Values\nPreparation\n4.0\nBased on 209 reviews",
+      "aiRecipeProposition": "For Mushroom Spätzle, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in spätzle, broccoli, mushrooms as the main flavor anchors. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-21",
+      "sourceOrder": 22,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Green Curry Noodles",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/GreenCurryNoodles.png?v=1740052620",
+      "price": "7,99€",
+      "rating": "4.5",
+      "shortDescription": "Geurige currynoedels, bloemkool en spinazie",
+      "nutrition": "Protein 14.0g | kcal 477 | Carbs 64.4g | Fats 16.2g",
+      "detailShortDescription": "Fragrant curry noodles, cauliflower & spinach.",
+      "longDescription": "Get ready for a flavour punch: Imagine Mie noodles coated in lush green curry, cozy in coconut milk. Loaded with cauliflower, spinach, aromatics such as lemongrass, Thai basil, coriander, and a subtle kick of chilli and ginger.",
+      "keyIngredients": "Spinach\nVibrant and nutrient-packed, spinach adds a burst of green goodness to the dish, providing essential vitamins and a tender, earthy flavor.\nCauliflower\nVersatile and hearty, cauliflower brings a delightful texture and mild taste that complements the curry. On top of that, it is rich in dietary fiber.\nGreen Curry\nA luscious blend of aromatic herbs and spices, green curry infuses the dish with an irresistible Thai essence. Its harmonious mix of flavors offers a balance of heat, sweetness, and complexity.",
+      "detailText": "Green Curry Noodles\n7,99€9,99€ / 450g\n22,20€ / kg incl. VAT, incl. shipping\n261 reviews\nFragrant curry noodles, cauliflower & spinach.\nGet ready for a flavour punch: Imagine Mie noodles coated in lush green curry, cozy in coconut milk. Loaded with cauliflower, spinach, aromatics such as lemongrass, Thai basil, coriander, and a subtle kick of chilli and ginger.\nVegan\nUnder 500 kcal\nLow Sugar\nSource of Fiber\nSource of Protein\nVery spicy\nwithout Paprika\nPROTEIN\n14.0\nCARBS\n64.4\nFAT\n16.2\nKCAL\n477\nKey Ingredients\nSpinach\nVibrant and nutrient-packed, spinach adds a burst of green goodness to the dish, providing essential vitamins and a tender, earthy flavor.\nCauliflower\nVersatile and hearty, cauliflower brings a delightful texture and mild taste that complements the curry. On top of that, it is rich in dietary fiber.\nGreen Curry\nA luscious blend of aromatic herbs and spices, green curry infuses the dish with an irresistible Thai essence. Its harmonious mix of flavors offers a balance of heat, sweetness, and complexity.\nIngredients\nNutritional Values\nPreparation\n4.5\nBased on 261 reviews",
+      "aiRecipeProposition": "For Green Curry Noodles, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in spinach, cauliflower, green curry as the main flavor anchors. Build the sauce with ginger, garlic, curry spices, and either coconut milk or tomatoes, then balance it with lemon or lime. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-22",
+      "sourceOrder": 23,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Garden Gnocchi",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/01_GardenGnocchi.png?v=1740054490",
+      "price": "7,99€",
+      "rating": "4.6",
+      "shortDescription": "Gnocchi met groenten en kruidenpesto",
+      "nutrition": "Protein 15.8g | kcal 468 | Carbs 72.9g | Fats 10.8g",
+      "detailShortDescription": "Gnocchi with garden veggies and herb pesto",
+      "longDescription": "An uplifting dish, full of vibrant Mediterranean garden veggies: string beans, spinach and tomato, accompanied by soft and fluffy gnocchi. All mixed in a sumptuous herb-bell pepper pesto, with a touch of crispy pumpkin seeds.",
+      "keyIngredients": "Gnocchi\nPotato dumplings that are part of the pasta family. A staple in Italian cuisine. Gnocchi can be enjoyed in creamy sauces or fried in a pan until they form an irresistible golden brown crust.\nString Beans\nString or green beans are immensely popular. And for good reason, that light and juicy crunch is just irresistible!\nPumpkin Seeds\nA powerful little seed that we love for their great nutty aroma and crispy texture.",
+      "detailText": "Garden Gnocchi\n7,99€9,99€ / 450g\n22,20€ / kg incl. VAT, incl. shipping\n308 reviews\nGnocchi with garden veggies and herb pesto\nAn uplifting dish, full of vibrant Mediterranean garden veggies: string beans, spinach and tomato, accompanied by soft and fluffy gnocchi. All mixed in a sumptuous herb-bell pepper pesto, with a touch of crispy pumpkin seeds.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nLow Sugar\nNo Added Sugar\nSource of Fiber\nSource of Protein\nNot spicy\nwithout Soy*\nwithout Cumin\nwithout Coriander\nPROTEIN\n15.8\nCARBS\n72.9\nFAT\n10.8\nKCAL\n468\nKey Ingredients\nGnocchi\nPotato dumplings that are part of the pasta family. A staple in Italian cuisine. Gnocchi can be enjoyed in creamy sauces or fried in a pan until they form an irresistible golden brown crust.\nString Beans\nString or green beans are immensely popular. And for good reason, that light and juicy crunch is just irresistible!\nPumpkin Seeds\nA powerful little seed that we love for their great nutty aroma and crispy texture.\nIngredients\nNutritional Values\nPreparation\n4.6\nBased on 308 reviews",
+      "aiRecipeProposition": "For Garden Gnocchi, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in gnocchi, string beans, pumpkin seeds as the main flavor anchors. Blend basil, lemon, olive oil, peas or nuts into a bright green sauce and loosen it with pasta water. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-23",
+      "sourceOrder": 24,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Lemon Zucchini Gnocchi",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/2026-03-24_Every27212.jpg?v=1777022803",
+      "price": "7,99€",
+      "rating": "4.1",
+      "shortDescription": "Citroen gnocchi met courgette & champignons",
+      "nutrition": "Protein 14.9g | kcal 473 | Carbs 67.5g | Fats 13.5g",
+      "detailShortDescription": "Lemon gnocchi with zucchini & mushrooms",
+      "longDescription": "Gnocchi in a creamy, fresh lemon sauce with a subtle kick. With grilled zucchini, mushrooms, leek and chickpeas – light, aromatic and perfectly balanced.",
+      "keyIngredients": "Lemon\nFresh and zesty, lemon brings brightness and a light acidity that lifts the entire dish.\nZucchini\nMild and tender, zucchini adds lightness and delicate roasted notes.\nMushrooms\nAromatic mushrooms provide an earthy depth and enhance the savory profile.",
+      "detailText": "Lemon Zucchini Gnocchi\n7,99€9,99€ / 450g\n22,20€ / kg incl. VAT, incl. shipping\n11 reviews\nLemon gnocchi with zucchini & mushrooms\nGnocchi in a creamy, fresh lemon sauce with a subtle kick. With grilled zucchini, mushrooms, leek and chickpeas – light, aromatic and perfectly balanced.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nLow Sugar\nSource of Fiber\nSource of Protein\nNot spicy\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n14.9\nCARBS\n67.5\nFAT\n13.5\nKCAL\n473\nKey Ingredients\nLemon\nFresh and zesty, lemon brings brightness and a light acidity that lifts the entire dish.\nZucchini\nMild and tender, zucchini adds lightness and delicate roasted notes.\nMushrooms\nAromatic mushrooms provide an earthy depth and enhance the savory profile.\nIngredients\nNutritional Values\nPreparation\n4.1\nBased on 11 reviews",
+      "aiRecipeProposition": "For Lemon Zucchini Gnocchi, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in lemon, zucchini, mushrooms as the main flavor anchors. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-24",
+      "sourceOrder": 25,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Japanese Sweet Curry",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/ed1b8fd649/every_japanese_sweet_curry_v2.png",
+      "price": "8,79€",
+      "rating": "4.1",
+      "shortDescription": "Curry met planted.pulled, groenten & aardappelen.",
+      "nutrition": "Protein 25g | kcal 450 | Carbs 53g | Fats 12.5g",
+      "detailShortDescription": "Curry with planted.pulled, vegetables, & potatoes.",
+      "longDescription": "Rice, fried potatoes and planted.pulled meet carrots, mushrooms and soybeans. Refined with tomato paste, Worcestershire sauce, spices and a hint of ginger – hearty, warming and full of depth.",
+      "keyIngredients": "Potatoes\nFried potatoes add a hearty base to the curry and pair perfectly with the spiced tomato sauce.\nMushrooms\nAromatic mushrooms give the sauce an earthy flavor, enhancing the dish with a hearty, savory touch.\nCarrots\nCrunchy, tasty and colourful. One of the most widely known vegetables due to its versatile use in both sweet and savoury dishes.",
+      "detailText": "Japanese Sweet Curry\n8,79€10,99€ / 500g\n21,98€ / kg incl. VAT, incl. shipping\n22 reviews\nCurry with planted.pulled, vegetables, & potatoes.\nRice, fried potatoes and planted.pulled meet carrots, mushrooms and soybeans. Refined with tomato paste, Worcestershire sauce, spices and a hint of ginger – hearty, warming and full of depth.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nLow Sugar\nSource of Fiber\nHigh Protein\nMedium spicy\nwithout Paprika\nPROTEIN\n25\nCARBS\n53\nFAT\n12.5\nKCAL\n450\nKey Ingredients\nPotatoes\nFried potatoes add a hearty base to the curry and pair perfectly with the spiced tomato sauce.\nMushrooms\nAromatic mushrooms give the sauce an earthy flavor, enhancing the dish with a hearty, savory touch.\nCarrots\nCrunchy, tasty and colourful. One of the most widely known vegetables due to its versatile use in both sweet and savoury dishes.\nIngredients\nNutritional Values\nPreparation\n4.1\nBased on 22 reviews",
+      "aiRecipeProposition": "For Japanese Sweet Curry, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in potatoes, mushrooms, carrots as the main flavor anchors. Build the sauce with ginger, garlic, curry spices, and either coconut milk or tomatoes, then balance it with lemon or lime. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-25",
+      "sourceOrder": 26,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Creamy Mango Curry",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/0c992ae049/creamymangocurry_topshot.png",
+      "price": "7,99€",
+      "rating": "3.6",
+      "shortDescription": "Romige curry met mango, groenten & wilde rijst.",
+      "nutrition": "Protein 10.5g | kcal 398 | Carbs 46g | Fats 17g",
+      "detailShortDescription": "Cremiges Mango-Curry mit Pak Choi, Karotten, gelber Paprika, Blumenkohl, Kartoffeln und Süßkartoffeln. Verfeinert mit Kokosmilch, Wildreis, Kürbiskernen, Zitronengras, Ingwer und Gewürzen – exotisch, cremig und süß-sauer aromatisch.",
+      "longDescription": "Creamy curry with pak choi, carrots, yellow bell pepper, cauliflower, potatoes, and sweet potatoes. Juicy mango adds fruity sweetness. Roasted pumpkin seeds provide a crunchy bite. With coconut milk, wild rice, lemongrass, ginger, and spices.",
+      "keyIngredients": "Mango\nFruity, juicy, and exotic – mango brings natural sweetness and tropical freshness to any dish. Perfect for a well-balanced flavor profile.\nSweet Potatoes\nRoasted to perfection, adding natural sweetness and depth to the dish.\nCauliflower\nVersatile and hearty, cauliflower brings a delightful texture and mild taste that complements the curry. On top of that, it is rich in dietary fiber.",
+      "detailText": "Creamy Mango Curry\n7,99€9,99€ / 500g\n19,98€ / kg incl. VAT, incl. shipping\n20 reviews\nCremiges Mango-Curry mit Pak Choi, Karotten, gelber Paprika, Blumenkohl, Kartoffeln und Süßkartoffeln. Verfeinert mit Kokosmilch, Wildreis, Kürbiskernen, Zitronengras, Ingwer und Gewürzen – exotisch, cremig und süß-sauer aromatisch.\nCreamy curry with pak choi, carrots, yellow bell pepper, cauliflower, potatoes, and sweet potatoes. Juicy mango adds fruity sweetness. Roasted pumpkin seeds provide a crunchy bite. With coconut milk, wild rice, lemongrass, ginger, and spices.\nVegan\nUnder 500 kcal\nLow Sugar\nNo Added Sugar\nSource of Fiber\nLow Carb\nMedium spicy\nwithout Gluten*\nwithout Soy*\nwithout Onion\nwithout Cumin\nwithout Paprika\nPROTEIN\n10.5\nCARBS\n46\nFAT\n17\nKCAL\n398\nKey Ingredients\nMango\nFruity, juicy, and exotic – mango brings natural sweetness and tropical freshness to any dish. Perfect for a well-balanced flavor profile.\nSweet Potatoes\nRoasted to perfection, adding natural sweetness and depth to the dish.\nCauliflower\nVersatile and hearty, cauliflower brings a delightful texture and mild taste that complements the curry. On top of that, it is rich in dietary fiber.\nIngredients\nNutritional Values\nPreparation\n4.5\nBased on 349 reviews",
+      "aiRecipeProposition": "For Creamy Mango Curry, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in mango, sweet potatoes, cauliflower as the main flavor anchors. Build the sauce with ginger, garlic, curry spices, and either coconut milk or tomatoes, then balance it with lemon or lime. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-26",
+      "sourceOrder": 27,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Better Butter Chicken",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/ed603ad938/01_betterbutterchicken.png",
+      "price": "8,79€",
+      "rating": "4.5",
+      "shortDescription": "Creamy Butter Chicken with planted.pulled.",
+      "nutrition": "Protein 24g | kcal 470 | Carbs 50g | Fats 18g",
+      "detailShortDescription": "Creamy Butter Chicken with planted.pulled.",
+      "longDescription": "Indulge in rich, creamy Butter Chicken packed with planted.pulled. This Indian-inspired dish features a velvety tomato-based sauce, aromatic spices, and tender protein pieces, delivering bold flavors and ultimate comfort.",
+      "keyIngredients": "Tomato Sauce\nA rich, creamy tomato-based sauce infused with warming Indian spices, creating a comforting and indulgent experience.\nPlant-Based Protein\nTender, protein-packed pieces absorb the flavors of the sauce, delivering a satisfying and nutritious bite.\nAromatic Spices\nA balanced mix of garam masala, turmeric, and cumin enhances depth, making each bite full of authentic Indian flavor.",
+      "detailText": "Better Butter Chicken\n8,79€10,99€ / 500g\n21,98€ / kg incl. VAT, incl. shipping\n103 reviews\nCreamy Butter Chicken with planted.pulled.\nIndulge in rich, creamy Butter Chicken packed with planted.pulled. This Indian-inspired dish features a velvety tomato-based sauce, aromatic spices, and tender protein pieces, delivering bold flavors and ultimate comfort.\nVegan\nUnder 500 kcal\nLow Sugar\nSource of Fiber\nHigh Protein\nNot spicy\nwithout Soya\nwithout Onion\nwithout Paprika\nPROTEIN\n24\nCARBS\n50\nFAT\n18\nKCAL\n470\nKey Ingredients\nTomato Sauce\nA rich, creamy tomato-based sauce infused with warming Indian spices, creating a comforting and indulgent experience.\nPlant-Based Protein\nTender, protein-packed pieces absorb the flavors of the sauce, delivering a satisfying and nutritious bite.\nAromatic Spices\nA balanced mix of garam masala, turmeric, and cumin enhances depth, making each bite full of authentic Indian flavor.\nIngredients\nNutritional Values\nPreparation\n4.5\nBased on 103 reviews",
+      "aiRecipeProposition": "For Better Butter Chicken, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in tomato sauce, plant-based protein, aromatic spices as the main flavor anchors. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-27",
+      "sourceOrder": 28,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Golden Curry",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/01_GoldenCurry.png?v=1740387376",
+      "price": "7,99€",
+      "rating": "4.7",
+      "shortDescription": "Pompoen, kurkuma-curry en wilde rijst",
+      "nutrition": "Protein 14.5g | kcal 423 | Carbs 51g | Fats 21g",
+      "detailShortDescription": "Creamy chickpea curry with pumpkin & spinach",
+      "longDescription": "This ultimate comfort food bowl offers comfort minus the guilt. Indulge in a concoction of pumpkin, chickpeas, spinach and coconut milk. Infused with blends of garlic, ginger and turmeric to create a bowl of wholesome goodness.",
+      "keyIngredients": "Hokkaido pumpkin\nTechnically a fruit. Closely related to melon and cucumber. We’re absolutely in love with hokkaido for its creamy and mild texture.\nChickpeas\nAn essential in vegan cuisine: chickpeas are rich in protein and have a mild taste.\nSpinach\nGreen, wild and powerful! Fresh, sautéed or cooked, we love spinach in every form.",
+      "detailText": "Golden Curry\n7,99€9,99€ / 500g\n19,98€ / kg incl. VAT, incl. shipping\n815 reviews\nCreamy chickpea curry with pumpkin & spinach\nThis ultimate comfort food bowl offers comfort minus the guilt. Indulge in a concoction of pumpkin, chickpeas, spinach and coconut milk. Infused with blends of garlic, ginger and turmeric to create a bowl of wholesome goodness.\nLow sugar\nSource of fibre\ngluten\nVegan\nUnder 500 kcal\nLow Sugar\nSource of Fiber\nSource of Protein\nNot spicy\nwithout Gluten*\nwithout Soy*\nwithout Paprika\nPROTEIN\n14.5\nCARBS\n51\nFAT\n21\nKCAL\n423\nKey Ingredients\nHokkaido pumpkin\nTechnically a fruit. Closely related to melon and cucumber. We’re absolutely in love with hokkaido for its creamy and mild texture.\nChickpeas\nAn essential in vegan cuisine: chickpeas are rich in protein and have a mild taste.\nSpinach\nGreen, wild and powerful! Fresh, sautéed or cooked, we love spinach in every form.\nIngredients\nNutritional Values\nPreparation\n4.6\nBased on 836 reviews",
+      "aiRecipeProposition": "For Golden Curry, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in hokkaido pumpkin, chickpeas, spinach as the main flavor anchors. Build the sauce with ginger, garlic, curry spices, and either coconut milk or tomatoes, then balance it with lemon or lime. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-28",
+      "sourceOrder": 29,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Dal Delight",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/01_DalDelight.png?v=1740054441",
+      "price": "7,99€",
+      "rating": "4.6",
+      "shortDescription": "Zoete aardappel, linzen, kokosmelk",
+      "nutrition": "Protein 23.9g | kcal 493 | Carbs 53.6g | Fats 18g",
+      "detailShortDescription": "Lentil Dal with carrots, beans & sweet potato",
+      "longDescription": "Light up your day with Dal Delight, a savory bowl with lentils and beans, sweet potatoes and fresh spinach. Creamy coconut is enriched with oriental spices and lemon juice. A flavorful delight inspired by the Indian classic Dal Makhani.",
+      "keyIngredients": "Sweet potato\nThis one really is sweet because it provides us with lots of dietary fibers. The creamy texture & mild flavour of sweet potato can be easily incorporated in your every-day meals.\nCarrots\nCrunchy, tasty and colourful. One of the most widely known vegetables due to it’s versatile use in both sweet and savoury dishes.\nLentils\nThey belong to the oldest crops and are rich in protein and dietary fibers.",
+      "detailText": "Dal Delight\n7,99€9,99€ / 450g\n22,20€ / kg incl. VAT, incl. shipping\n654 reviews\nLentil Dal with carrots, beans & sweet potato\nLight up your day with Dal Delight, a savory bowl with lentils and beans, sweet potatoes and fresh spinach. Creamy coconut is enriched with oriental spices and lemon juice. A flavorful delight inspired by the Indian classic Dal Makhani.\nVegan\nUnder 500 kcal\nLow Sugar\nNo Added Sugar\nHigh in fibre\nSource of Protein\nNot spicy\nwithout Recipe without Gluten\nwithout Recipe without Soy\nwithout Gluten*\nwithout Soy*\nwithout Paprika\nPROTEIN\n23.9\nCARBS\n53.6\nFAT\n18\nKCAL\n493\nKey Ingredients\nSweet potato\nThis one really is sweet because it provides us with lots of dietary fibers. The creamy texture & mild flavour of sweet potato can be easily incorporated in your every-day meals.\nCarrots\nCrunchy, tasty and colourful. One of the most widely known vegetables due to it’s versatile use in both sweet and savoury dishes.\nLentils\nThey belong to the oldest crops and are rich in protein and dietary fibers.\nIngredients\nNutritional Values\nPreparation\n4.6\nBased on 654 reviews",
+      "aiRecipeProposition": "For Dal Delight, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in sweet potato, carrots, lentils as the main flavor anchors. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-29",
+      "sourceOrder": 30,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Sesame Fried Rice",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/1_8.jpg?v=1777022535",
+      "price": "7,99€",
+      "rating": "4.1",
+      "shortDescription": "Sesamrijst met groenten & nootachtige crunch",
+      "nutrition": "Protein 19.6g | kcal 748 | Carbs 80.8g | Fats 35.6g",
+      "detailShortDescription": "Sesame rice with veggies & nutty crunch",
+      "longDescription": "Red and whole-grain rice meet broccoli, zucchini, and sweet potato. Refined with a savory sesame and soy sauce. Toasted nuts provide the crunch – hearty, balanced, and full of flavor.",
+      "keyIngredients": "Sesame oil\nRich and aromatic, sesame oil gives the dish its signature nutty depth and contains valuable unsaturated fats.\nRed rice\nSlightly nutty with earthy notes and a firm bite, red rice is a wholesome base rich in fiber\nPistachios\nDelicate, slightly sweet and aromatic. Pistachios add an elegant crunch and provide healthy fats and nutrients.",
+      "detailText": "Sesame Fried Rice\n7,99€9,99€ / 400g\n24,98€ / kg incl. VAT, incl. shipping\n9 reviews\nSesame rice with veggies & nutty crunch\nRed and whole-grain rice meet broccoli, zucchini, and sweet potato. Refined with a savory sesame and soy sauce. Toasted nuts provide the crunch – hearty, balanced, and full of flavor.\nVegan\nLow in Saturated Fats\nLow Sugar\nNo Added Sugar\nSource of Fiber\nNot spicy\nwithout Garlic\nwithout Cumin\nwithout Coriander\nPROTEIN\n19.6\nCARBS\n80.8\nFAT\n35.6\nKCAL\n748\nKey Ingredients\nSesame oil\nRich and aromatic, sesame oil gives the dish its signature nutty depth and contains valuable unsaturated fats.\nRed rice\nSlightly nutty with earthy notes and a firm bite, red rice is a wholesome base rich in fiber\nPistachios\nDelicate, slightly sweet and aromatic. Pistachios add an elegant crunch and provide healthy fats and nutrients.\nIngredients\nNutritional Values\nPreparation\n4.1\nBased on 9 reviews",
+      "aiRecipeProposition": "For Sesame Fried Rice, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in sesame oil, red rice, pistachios as the main flavor anchors. Make a glossy pan sauce from soy sauce, ginger, sesame, and a little sweetness, then toss everything over high heat. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-30",
+      "sourceOrder": 31,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Smoky Lentil Stew",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/eeb5ef6e86/every_smokey_lentil_stew_v3.png",
+      "price": "8,79€",
+      "rating": "4.7",
+      "shortDescription": "Linzen-Boonian stoofpot met paprika en kruiden.",
+      "nutrition": "Protein 23.9g | kcal 384 | Carbs 34.7g | Fats 10.4g",
+      "detailShortDescription": "Lentil Boonian stew with bell peppers and spices.",
+      "longDescription": "Hearty lentil Boonian stew with bell peppers, broccoli, cauliflower, and chickpeas. Refined with tomato paste, balsamic vinegar, smoked paprika, and a mix of spices such as cumin and coriander – aromatic and nutritious.",
+      "keyIngredients": "Boonian\nSavoury crumbles made from soy protein and gluten-free soy sauce. Reminiscent of minced meat in texture and flavour, with a deep umami note from yeast extracts and mushroom powder.\nBroccoli\nDelicate in flavour and well balanced. Broccoli adds freshness and a green note to the dish.\nPotatoes\nA true classic. Filling, familiar in taste and the perfect base for savoury dishes.",
+      "detailText": "Smoky Lentil Stew\n8,79€10,99€ / 450g\n24,42€ / kg incl. VAT, incl. shipping\n17 reviews\nLentil Boonian stew with bell peppers and spices.\nHearty lentil Boonian stew with bell peppers, broccoli, cauliflower, and chickpeas. Refined with tomato paste, balsamic vinegar, smoked paprika, and a mix of spices such as cumin and coriander – aromatic and nutritious.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nLow Sugar\nNo Added Sugar\nHigh in fibre\nHigh Protein\nLow Carb\nNot spicy\nwithout Onion\nwithout Paprika\nPROTEIN\n23.9\nCARBS\n34.7\nFAT\n10.4\nKCAL\n384\nKey Ingredients\nBoonian\nSavoury crumbles made from soy protein and gluten-free soy sauce. Reminiscent of minced meat in texture and flavour, with a deep umami note from yeast extracts and mushroom powder.\nBroccoli\nDelicate in flavour and well balanced. Broccoli adds freshness and a green note to the dish.\nPotatoes\nA true classic. Filling, familiar in taste and the perfect base for savoury dishes.\nIngredients\nNutritional Values\nPreparation\n4.7\nBased on 17 reviews",
+      "aiRecipeProposition": "For Smoky Lentil Stew, start from the main base and texture described above. Cook the fruit until juicy, cover it with an oat, nut, and seed crumble, then bake until the topping is crisp. Bring in boonian, broccoli, potatoes as the main flavor anchors. Make a glossy pan sauce from soy sauce, ginger, sesame, and a little sweetness, then toss everything over high heat. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-31",
+      "sourceOrder": 32,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Farmhouse Ratatouille",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/c39e289edb/farmhouseratatouille_topshot.png",
+      "price": "7,99€",
+      "rating": "4.4",
+      "shortDescription": "Spelt met gegrilde groente en tomatensaus.",
+      "nutrition": "Protein 9.5g | kcal 463 | Carbs 45.9g | Fats 24.8g",
+      "detailShortDescription": "Spelt with grilled vegetables in tomato sauce.",
+      "longDescription": "Tender spelt meets grilled zucchini and aubergine. Refined with crispy peppers, olive oil, Mediterranean herbs and a rich tomato-based sauce. Hearty, plant-based and perfect for cooler days.",
+      "keyIngredients": "Roasted Eggplant\nAn actual berry by botanical definition. Gives us that instant holiday feel, especially when they’re well roasted.\nCherry Tomatoes\nJuicy cherry tomatoes bring fruity freshness and a vibrant note to every bite.\nGrilled zucchini\nMild im Geschmack, mit zarter Textur und feinen Röstaromen. Gegrillte Zucchini bringen eine angenehme Leichtigkeit in jede Bowl.",
+      "detailText": "Farmhouse Ratatouille\n7,99€9,99€ / 450g\n22,20€ / kg incl. VAT, incl. shipping\n194 reviews\nSpelt with grilled vegetables in tomato sauce.\nTender spelt meets grilled zucchini and aubergine. Refined with crispy peppers, olive oil, Mediterranean herbs and a rich tomato-based sauce. Hearty, plant-based and perfect for cooler days.\nVegan\nUnder 500 kcal\nLow in Saturated Fats\nLow Sugar\nSource of Fiber\nLow Carb\nNot spicy\nwithout Soy*\nwithout Cumin\nwithout Coriander\nPROTEIN\n9.5\nCARBS\n45.9\nFAT\n24.8\nKCAL\n463\nKey Ingredients\nRoasted Eggplant\nAn actual berry by botanical definition. Gives us that instant holiday feel, especially when they’re well roasted.\nCherry Tomatoes\nJuicy cherry tomatoes bring fruity freshness and a vibrant note to every bite.\nGrilled zucchini\nMild im Geschmack, mit zarter Textur und feinen Röstaromen. Gegrillte Zucchini bringen eine angenehme Leichtigkeit in jede Bowl.\nIngredients\nNutritional Values\nPreparation\n4.4\nBased on 194 reviews",
+      "aiRecipeProposition": "For Farmhouse Ratatouille, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in roasted eggplant, cherry tomatoes, grilled zucchini as the main flavor anchors. Let the fruit stay bright, balancing sweetness with citrus, warm spice, or a tiny pinch of salt. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-32",
+      "sourceOrder": 33,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Nasi Goreng",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/85de22ee4a/4_7b8707de-bfed-4e24-ab1d-830c08fcf71a.jpg",
+      "price": "8,79€",
+      "rating": "4.1",
+      "shortDescription": "Hartige basmatirijst met planted.pulled, knapperige erwten, wortel, savooiekool en mu-rrr paddenstoelen. Afgewerkt met sojasaus, kokos, kurkuma en specerijen – voor een gedurfde, exotische smaakbeleving.",
+      "nutrition": "Protein 25.7g | kcal 527 | Carbs 57.2g | Fats 18.9g",
+      "detailShortDescription": "Basmati rice with veg & planted.pulled.",
+      "longDescription": "Hearty basmati rice meets planted.pulled, crunchy peas, carrots, savoy cabbage and Mu-Err mushrooms. Finished with soy sauce, coconut, turmeric and spices – for a bold, exotic flavour experience.",
+      "keyIngredients": "Savoy Cabbage\nSweet and mild but with a slight peppery flavour.\nplanted.pulled\nPlanted's plant-based pulled protein adds a meaty texture, making the chili extra filling and satisfying.\nCarrots\nCrunchy, tasty and colourful. One of the most widely known vegetables due to its versatile use in both sweet and savoury dishes.",
+      "detailText": "Nasi Goreng\n8,79€10,99€ / 450g\n24,42€ / kg incl. VAT, incl. shipping\n40 reviews\nBasmati rice with veg & planted.pulled.\nHearty basmati rice meets planted.pulled, crunchy peas, carrots, savoy cabbage and Mu-Err mushrooms. Finished with soy sauce, coconut, turmeric and spices – for a bold, exotic flavour experience.\nVegan\nLow in Saturated Fats\nLow Sugar\nNo Added Sugar\nSource of Fiber\nSource of Protein\nNot spicy\nwithout Onion\nwithout Paprika\nPROTEIN\n25.7\nCARBS\n57.2\nFAT\n18.9\nKCAL\n527\nKey Ingredients\nSavoy Cabbage\nSweet and mild but with a slight peppery flavour.\nplanted.pulled\nPlanted's plant-based pulled protein adds a meaty texture, making the chili extra filling and satisfying.\nCarrots\nCrunchy, tasty and colourful. One of the most widely known vegetables due to its versatile use in both sweet and savoury dishes.\nIngredients\nNutritional Values\nPreparation\n4.1\nBased on 40 reviews",
+      "aiRecipeProposition": "For Nasi Goreng, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in savoy cabbage, carrots as the main flavor anchors. Make a glossy pan sauce from soy sauce, ginger, sesame, and a little sweetness, then toss everything over high heat. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-33",
+      "sourceOrder": 34,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Paella Del Sol",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/f66f3d4250/01_paelladelsoltopshot.png",
+      "price": "8,79€",
+      "rating": "4.4",
+      "shortDescription": "Mediterrane paella met olijven & tomaten.",
+      "nutrition": "Protein 19g | kcal 445 | Carbs 48.5g | Fats 17.5g",
+      "detailShortDescription": "Lust auf Sonnenschein in der Bowl? Diese mediterrane Paella vereint Kurkuma-Reis mit süßen Cherrytomaten, gegrillter Paprika, Erbsen, schwarzen Oliven und kräftigem pflanzlichen Protein. Lebendig, aromatisch und voller Gute-Laune-Geschmack.",
+      "longDescription": "Vegan",
+      "keyIngredients": "",
+      "detailText": "Paella Del Sol\n8,79€10,99€ / 500g\n21,98€ / kg incl. VAT, incl. shipping\n45 reviews\nLust auf Sonnenschein in der Bowl? Diese mediterrane Paella vereint Kurkuma-Reis mit süßen Cherrytomaten, gegrillter Paprika, Erbsen, schwarzen Oliven und kräftigem pflanzlichen Protein. Lebendig, aromatisch und voller Gute-Laune-Geschmack.\nVegan\nUnder 500 kcal\nLow in Saturated Fats\nLow Sugar\nSource of Fiber\nSource of Protein\nLow Carb\nNot spicy\nwithout Gluten*\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n19\nCARBS\n48.5\nFAT\n17.5\nKCAL\n445\nKey Ingredients\nIngredients\nNutritional Values\nPreparation\n4.4\nBased on 45 reviews",
+      "aiRecipeProposition": "For Paella Del Sol, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-34",
+      "sourceOrder": 35,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Golden Glow Bowl",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/e08bdb83f9/01_goldenglowbowl.png",
+      "price": "7,99€",
+      "rating": "4.4",
+      "shortDescription": "Süßliche Gemüse-Bowl mit Süßkartoffel",
+      "nutrition": "Protein 16.5g | kcal 590 | Carbs 55g | Fats 31g",
+      "detailShortDescription": "Süßliche Gemüse-Bowl mit Süßkartoffel",
+      "longDescription": "Vegan",
+      "keyIngredients": "",
+      "detailText": "Golden Glow Bowl\n7,99€9,99€ / 500g\n19,98€ / kg incl. VAT, incl. shipping\n67 reviews\nSüßliche Gemüse-Bowl mit Süßkartoffel\nVegan\nLow Sugar\nSource of Fiber\nNot spicy\nwithout Gluten*\nwithout Soy*\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n16.5\nCARBS\n55\nFAT\n31\nKCAL\n590\nKey Ingredients\nIngredients\nNutritional Values\nPreparation\n4.4\nBased on 67 reviews",
+      "aiRecipeProposition": "For Golden Glow Bowl, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-35",
+      "sourceOrder": 36,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Chili sin Carne",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/14b2f5dabf/01_chili_sin_carne.png",
+      "price": "8,79€",
+      "rating": "4.3",
+      "shortDescription": "Hartige vegan chili met planted.pulled.",
+      "nutrition": "Protein 24.8g | kcal 446 | Carbs 49.5g | Fats 13.1g",
+      "detailShortDescription": "Hearty vegan chili with planted.pulled.",
+      "longDescription": "This high protein spicy vegan chili combines beans and potatoes in a bold, tomato-rich sauce. Add a squeeze of lime, creamy yogurt, and crushed tortilla chips to complete this crave-worthy, warming dish full of vibrant colors and flavors.",
+      "keyIngredients": "Potatoes\nCrispy fried potatoes add a hearty base to the chili and pair perfectly with the spiced tomato sauce.\nBell Peppers\nYellow and red bell peppers provide natural sweetness and a fresh crunch, perfectly contrasting the rich sauce.\nPlanted\nPlanted's plant-based pulled protein adds a meaty texture, making the chili extra filling and satisfying.",
+      "detailText": "Chili sin Carne\n8,79€10,99€ / 450g\n24,42€ / kg incl. VAT, incl. shipping\n115 reviews\nHearty vegan chili with planted.pulled.\nThis high protein spicy vegan chili combines beans and potatoes in a bold, tomato-rich sauce. Add a squeeze of lime, creamy yogurt, and crushed tortilla chips to complete this crave-worthy, warming dish full of vibrant colors and flavors.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nLow Sugar\nHigh in fibre\nHigh Protein\nLow Carb\nVery spicy\nwithout Gluten*\nwithout Paprika\nPROTEIN\n24.8\nCARBS\n49.5\nFAT\n13.1\nKCAL\n446\nKey Ingredients\nPotatoes\nCrispy fried potatoes add a hearty base to the chili and pair perfectly with the spiced tomato sauce.\nBell Peppers\nYellow and red bell peppers provide natural sweetness and a fresh crunch, perfectly contrasting the rich sauce.\nPlanted\nPlanted's plant-based pulled protein adds a meaty texture, making the chili extra filling and satisfying.\nIngredients\nNutritional Values\nPreparation\n4.3\nBased on 115 reviews",
+      "aiRecipeProposition": "For Chili sin Carne, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in potatoes, bell peppers, planted as the main flavor anchors. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-36",
+      "sourceOrder": 37,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Potato Panorama",
+      "image": "https://a.storyblok.com/f/291086118523370/0x0/29b3a70674/01_potatopanorama.png",
+      "price": "7,99€",
+      "rating": "4.2",
+      "shortDescription": "Mediterrane zoete aardappel en spelt bowl",
+      "nutrition": "Protein 8.6g | kcal 441 | Carbs 54g | Fats 19.4g",
+      "detailShortDescription": "Mediterranean sweet potato and spelt bowl",
+      "longDescription": "Experience our Potato Panorama with a slightly sweet taste and lots of fibre thanks to the sweet potato. Spelt provides a hearty bite and a nutty note, while basil, garlic, fennel, rosemary and oregano bring Mediterranean flavours to your plate.",
+      "keyIngredients": "Sweet Potato\nIndulge in the velvety goodness of fried sweet potatoes, bathed in sunflower oil, lending a caramelized exterior to the sweet, creamy interior—a delightful contrast in every bite.\nSpelt\nImmerse yourself in the wholesome satisfaction of cooked spelt, where the nutty essence of spelt wheat meets a tender chewiness, creating a hearty and nutritious foundation for your meal.\nItalian herb-mix\nElevate your dish with the aromatic dance of our Italian herb mix—a blend of basil, garlic, marjoram, fennel, paprika powder, thyme, rosemary, and oregano—adding a symphony of flavors that will transport you to the heart of Mediterranean cuisine.",
+      "detailText": "Potato Panorama\n7,99€9,99€ / 500g\n19,98€ / kg incl. VAT, incl. shipping\n158 reviews\nMediterranean sweet potato and spelt bowl\nExperience our Potato Panorama with a slightly sweet taste and lots of fibre thanks to the sweet potato. Spelt provides a hearty bite and a nutty note, while basil, garlic, fennel, rosemary and oregano bring Mediterranean flavours to your plate.\nVegan\nUnder 500 kcal\nLow in Saturated Fats\nLow Sugar\nSource of Fiber\nNot spicy\nwithout Soy*\nwithout Cumin\nwithout Coriander\nPROTEIN\n8.6\nCARBS\n54\nFAT\n19.4\nKCAL\n441\nKey Ingredients\nSweet Potato\nIndulge in the velvety goodness of fried sweet potatoes, bathed in sunflower oil, lending a caramelized exterior to the sweet, creamy interior—a delightful contrast in every bite.\nSpelt\nImmerse yourself in the wholesome satisfaction of cooked spelt, where the nutty essence of spelt wheat meets a tender chewiness, creating a hearty and nutritious foundation for your meal.\nItalian herb-mix\nElevate your dish with the aromatic dance of our Italian herb mix—a blend of basil, garlic, marjoram, fennel, paprika powder, thyme, rosemary, and oregano—adding a symphony of flavors that will transport you to the heart of Mediterranean cuisine.\nIngredients\nNutritional Values\nPreparation\n4.2\nBased on 158 reviews",
+      "aiRecipeProposition": "For Potato Panorama, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in sweet potato, spelt, italian herb-mix as the main flavor anchors. Blend basil, lemon, olive oil, peas or nuts into a bright green sauce and loosen it with pasta water. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-37",
+      "sourceOrder": 38,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Green Forest Bowl",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/01_ForestGreen.png?v=1740055423",
+      "price": "7,99€",
+      "rating": "4.4",
+      "shortDescription": "Champignons, asperges, spelt",
+      "nutrition": "Protein 18g | kcal 532 | Carbs 42.2g | Fats 32g",
+      "detailShortDescription": "Asparagus & porcini on creamy, garlicky spelt",
+      "longDescription": "Eat your greens! But, no, really trust us you want to. This luxurious combination consists of mushrooms, crisp asparagus and seared zucchini. Topped with pumpkin seeds and wild garlic pesto, eating greens has never been tastier.",
+      "keyIngredients": "Porcini\nThe king of mushrooms! Their nutty flavor and dense texture adds a great complexity to any dish.\nAsparagus\nNothing screams spring more than the greenness and light crunch of asparagus!\nWild garlic\nFound in woodlands at springtime, wild garlic, even though similar in taste as garlic that we know, is much milder and subtle. Perfect for incorporating into pesto, creamy dishes or simply as a garnish.",
+      "detailText": "Green Forest Bowl\n7,99€9,99€ / 450g\n22,20€ / kg incl. VAT, incl. shipping\n572 reviews\nAsparagus & porcini on creamy, garlicky spelt\nEat your greens! But, no, really trust us you want to. This luxurious combination consists of mushrooms, crisp asparagus and seared zucchini. Topped with pumpkin seeds and wild garlic pesto, eating greens has never been tastier.\nVegan\nLow in Saturated Fats\nLow Sugar\nNo Added Sugar\nSource of Fiber\nSource of Protein\nLow Carb\nNot spicy\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n18\nCARBS\n42.2\nFAT\n32\nKCAL\n532\nKey Ingredients\nPorcini\nThe king of mushrooms! Their nutty flavor and dense texture adds a great complexity to any dish.\nAsparagus\nNothing screams spring more than the greenness and light crunch of asparagus!\nWild garlic\nFound in woodlands at springtime, wild garlic, even though similar in taste as garlic that we know, is much milder and subtle. Perfect for incorporating into pesto, creamy dishes or simply as a garnish.\nIngredients\nNutritional Values\nPreparation\n4.4\nBased on 572 reviews",
+      "aiRecipeProposition": "For Green Forest Bowl, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in porcini, asparagus, wild garlic as the main flavor anchors. Blend basil, lemon, olive oil, peas or nuts into a bright green sauce and loosen it with pasta water. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-38",
+      "sourceOrder": 39,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Naked Taco",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/01_NakedTaco.png?v=1740054670",
+      "price": "7,99€",
+      "rating": "4.6",
+      "shortDescription": "Rijstbowl met bonen, tomaten en maïs",
+      "nutrition": "Protein 15.3g | kcal 494 | Carbs 72.5g | Fats 13.1g",
+      "detailShortDescription": "Tex-Mex rice-bean mix with tomatoes & corn",
+      "longDescription": "You won’t miss the taco with this delicious bowl. A hearty mixture of a variety of rice, and beans, paired with sweet corn, onions and tomatoes. Rounded off with a spice blend of cumin, chili, paprika, cardamom and oregano.",
+      "keyIngredients": "Black Beans\nA staple ingredient in Mexican cuisine. Loaded with protein and with a delightful soft, creamy and mild taste.\nWild Rice\nDid you know that this baby is not an actual rice but a species of grass? With a nutty and toasty smell that’s hard to resist, wild rice is a perfect ingredient to elevate this bowl!\nBell Pepper\nGreen, yellow or red: peppers always bring flavour to our dishes and are fun to eat!\nSweet Corn\nSweet and juicy, corn is just perfect in this dish!",
+      "detailText": "Naked Taco\n7,99€9,99€ / 450g\n22,20€ / kg incl. VAT, incl. shipping\n333 reviews\nTex-Mex rice-bean mix with tomatoes & corn\nYou won’t miss the taco with this delicious bowl. A hearty mixture of a variety of rice, and beans, paired with sweet corn, onions and tomatoes. Rounded off with a spice blend of cumin, chili, paprika, cardamom and oregano.\nLow fat\nLow sugar\nNo added sugar\nSource of fibre\ngluten\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nLow Sugar\nNo Added Sugar\nSource of Fiber\nSource of Protein\nVery spicy\nwithout Gluten*\nwithout Soy*\nwithout Coriander\nPROTEIN\n15.3\nCARBS\n72.5\nFAT\n13.1\nKCAL\n494\nKey Ingredients\nBlack Beans\nA staple ingredient in Mexican cuisine. Loaded with protein and with a delightful soft, creamy and mild taste.\nWild Rice\nDid you know that this baby is not an actual rice but a species of grass? With a nutty and toasty smell that’s hard to resist, wild rice is a perfect ingredient to elevate this bowl!\nBell Pepper\nGreen, yellow or red: peppers always bring flavour to our dishes and are fun to eat!\nSweet Corn\nSweet and juicy, corn is just perfect in this dish!\nIngredients\nNutritional Values\nPreparation\n4.6\nBased on 333 reviews",
+      "aiRecipeProposition": "For Naked Taco, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in black beans, wild rice, bell pepper, sweet corn as the main flavor anchors. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-39",
+      "sourceOrder": 40,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Creamy Fricassée",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/2026-03-24_Every27230.jpg?v=1777022964",
+      "price": "8,79€",
+      "rating": "4.0",
+      "shortDescription": "Romige fricassee met rijst & planted.pulled",
+      "nutrition": "Protein 20.7g | kcal 450 | Carbs 59.9g | Fats 12.2g",
+      "detailShortDescription": "Creamy fricassee with rice & planted.pulled",
+      "longDescription": "Rice in a creamy fricassee sauce with tender planted.pulled, asparagus, mushrooms, peas and carrots. Finished with parsley and nutmeg – hearty, mild and true comfort food.",
+      "keyIngredients": "planted.pulled\nTender and protein-rich, it adds a satisfying, meaty texture while supporting a balanced, plant-based diet.\nAsparagus\nGreen asparagus brings freshness, a slight bite and is naturally rich in vitamins and fiber.\nPeas\nTender and slightly sweet, peas add freshness, color and are a natural source of plant-based protein and fiber.",
+      "detailText": "Creamy Fricassée\n8,79€10,99€ / 450g\n24,42€ / kg incl. VAT, incl. shipping\n13 reviews\nCreamy fricassee with rice & planted.pulled\nRice in a creamy fricassee sauce with tender planted.pulled, asparagus, mushrooms, peas and carrots. Finished with parsley and nutmeg – hearty, mild and true comfort food.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nLow Sugar\nSource of Fiber\nSource of Protein\nNot spicy\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n20.7\nCARBS\n59.9\nFAT\n12.2\nKCAL\n450\nKey Ingredients\nplanted.pulled\nTender and protein-rich, it adds a satisfying, meaty texture while supporting a balanced, plant-based diet.\nAsparagus\nGreen asparagus brings freshness, a slight bite and is naturally rich in vitamins and fiber.\nPeas\nTender and slightly sweet, peas add freshness, color and are a natural source of plant-based protein and fiber.\nIngredients\nNutritional Values\nPreparation\n4.0\nBased on 13 reviews",
+      "aiRecipeProposition": "For Creamy Fricassée, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Bring in asparagus, peas as the main flavor anchors. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-40",
+      "sourceOrder": 41,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Red Berry Porridge",
+      "image": "https://cdn.shopify.com/s/files/1/0625/6404/0943/files/13_x600.png?v=1768921328",
+      "price": "10,39€",
+      "rating": "4.0",
+      "shortDescription": "Red Berry Porridge is our modern take on a breakfast classic: creamy, fruity, and rich in protein",
+      "nutrition": "Protein 19g | kcal 381 | Carbs 42g | Fats 10g",
+      "detailShortDescription": "Red Berry Porridge is our modern take on a breakfast classic: creamy, fruity, and rich in protein",
+      "longDescription": "Berry Porridge ist unsere moderne Version eines Frühstücksklassikers: cremig, fruchtig und proteinreich dank gekeimten Getreiden, Superseeds und echten Beeren. Gefriergetrocknete Beeren sorgen für frische Säure, gekeimter Buchweizen, Quinoa und Sonnenblumenkerne für Crunch und wertvolle Nährstoffe.",
+      "keyIngredients": "You can enjoy Red Berry Porridge warm, as overnight oats, or even as a dessert.",
+      "detailText": "Red Berry Porridge\n10,39€12,99€ / 400g\n32,48€ / kg incl. VAT, incl. shipping\n5 reviews\nRed Berry Porridge is our modern take on a breakfast classic: creamy, fruity, and rich in protein\nBerry Porridge ist unsere moderne Version eines Frühstücksklassikers: cremig, fruchtig und proteinreich dank gekeimten Getreiden, Superseeds und echten Beeren. Gefriergetrocknete Beeren sorgen für frische Säure, gekeimter Buchweizen, Quinoa und Sonnenblumenkerne für Crunch und wertvolle Nährstoffe.\nVegan\nUnder 500 kcal\nNo Added Sugar\nHigh in fibre\nHigh Protein\nLow Carb\nNot spicy\nwithout Gluten*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n19\nCARBS\n42\nFAT\n10\nKCAL\n381\nKey Ingredients\nYou can enjoy Red Berry Porridge warm, as overnight oats, or even as a dessert.\nIngredients\nNutritional Values\nPreparation\n4.0\nBased on 5 reviews",
+      "aiRecipeProposition": "For Red Berry Porridge, start from the main base and texture described above. Warm oats, quinoa, or buckwheat with plant milk and a pinch of salt until creamy, then fold in fruit, seeds, and a little nut butter for body. Let the fruit stay bright, balancing sweetness with citrus, warm spice, or a tiny pinch of salt. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-41",
+      "sourceOrder": 42,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Apple Cinnamon Porridge",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/11.png?v=1768920192",
+      "price": "9,59€",
+      "rating": "5.0",
+      "shortDescription": "Organic Apple Cinnamon porridge with seeds and quinoa.",
+      "nutrition": "",
+      "detailShortDescription": "Organic Apple Cinnamon porridge with seeds and quinoa.",
+      "longDescription": "Our hearty Apple Cinnamon Porridge combines an intense apple flavour from real apple pieces, with Ceylon cinnamon and Bourbon vanilla. Made with quinoa flakes for plant based protein, gluten free oats, sprouted grains and seeds, it becomes creamy, slightly crunchy and naturally nutrient rich. Enjoy it warm or as overnight oats.",
+      "keyIngredients": "",
+      "detailText": "Apple Cinnamon Porridge\n9,59€11,99€ / 400g\n29,98€ / kg incl. VAT, incl. shipping\n4 reviews\nOrganic Apple Cinnamon porridge with seeds and quinoa.\nOur hearty Apple Cinnamon Porridge combines an intense apple flavour from real apple pieces, with Ceylon cinnamon and Bourbon vanilla. Made with quinoa flakes for plant based protein, gluten free oats, sprouted grains and seeds, it becomes creamy, slightly crunchy and naturally nutrient rich. Enjoy it warm or as overnight oats.\nWhat makes this porridge special\nSource of protein\nHigh in fibre\nHigh in omega-3 fatty acids\nSource of magnesium, phosphorus, manganese & vitamin B1\nOrganic & gluten free\nVegan\nUnder 500 kcal\nLow in Saturated Fats\nNo Added Sugar\nHigh in fibre\nSource of Protein\nLow Carb\nNot spicy\nwithout Gluten*\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nKey Ingredients\nIngredients\nNutritional Values\nPreparation\n5.0\nBased on 4 reviews",
+      "aiRecipeProposition": "For Apple Cinnamon Porridge, start from the main base and texture described above. Warm oats, quinoa, or buckwheat with plant milk and a pinch of salt until creamy, then fold in fruit, seeds, and a little nut butter for body. Let the fruit stay bright, balancing sweetness with citrus, warm spice, or a tiny pinch of salt. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-42",
+      "sourceOrder": 43,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Vanilla Hazelnut Müsli",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/Untitled_design_2.png?v=1768919953",
+      "price": "9,59€",
+      "rating": "4.8",
+      "shortDescription": "Nourishing nut muesli with seeds & nuts.",
+      "nutrition": "",
+      "detailShortDescription": "Nourishing nut muesli with seeds & nuts.",
+      "longDescription": "Vanilla Hazelnut Muesli combines large oats with roasted hazelnuts, cashews, soy flakes and dates. Sprouted grains and real Bourbon vanilla create a nutty, lightly sweet and satisfying bite. Made in a small artisanal facility and full of natural energy.",
+      "keyIngredients": "",
+      "detailText": "Vanilla Hazelnut Müsli\n9,59€11,99€ / 400g\n29,98€ / kg incl. VAT, incl. shipping\n5 reviews\nNourishing nut muesli with seeds & nuts.\nVanilla Hazelnut Muesli combines large oats with roasted hazelnuts, cashews, soy flakes and dates. Sprouted grains and real Bourbon vanilla create a nutty, lightly sweet and satisfying bite. Made in a small artisanal facility and full of natural energy.\n✔️ High in fiber ✔️ Source of protein ✔️ High in omega 3 fatty acids ✔️ Source of iron ✔️ Organic, naturally gluten free ✔️ Sweetened with dates, no added sugar\nVegan\nUnder 500 kcal\nNo Added Sugar\nHigh in fibre\nSource of Protein\nLow Carb\nNot spicy\nwithout Gluten*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nKey Ingredients\nIngredients\nNutritional Values\nPreparation\n4.8\nBased on 5 reviews",
+      "aiRecipeProposition": "For Vanilla Hazelnut Müsli, start from the main base and texture described above. Toast oats, nuts, seeds, and spices gently, then cool completely before adding dried fruit or chocolate. Make a glossy pan sauce from soy sauce, ginger, sesame, and a little sweetness, then toss everything over high heat. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-43",
+      "sourceOrder": 44,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Pistachio Pecan Granola",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/12_328872d5-d22d-4612-af32-3f89896207d2.png?v=1768920062",
+      "price": "10,39€",
+      "rating": "4.8",
+      "shortDescription": "Baked granola with pistachios & nuts.",
+      "nutrition": "",
+      "detailShortDescription": "Baked granola with pistachios & nuts.",
+      "longDescription": "Baked granola with gently roasted pistachios, pecans and cashews, crafted in a small artisanal facility. Date paste, wholesome seeds, black sesame and vanilla create a nutty, delicately sweet and crunchy flavor – a premium moment of enjoyment for breakfast or as a snack.",
+      "keyIngredients": "",
+      "detailText": "Pistachio Pecan Granola\n10,39€12,99€ / 350g\n37,11€ / kg incl. VAT, incl. shipping\n5 reviews\nBaked granola with pistachios & nuts.\nBaked granola with gently roasted pistachios, pecans and cashews, crafted in a small artisanal facility. Date paste, wholesome seeds, black sesame and vanilla create a nutty, delicately sweet and crunchy flavor – a premium moment of enjoyment for breakfast or as a snack.\n✔️ High in fiber ✔️ Organic, naturally gluten free ✔️ Sweetened with dates, no added sugar ✔️ Source of magnesium\nVegan\nUnder 500 kcal\nNo Added Sugar\nHigh in fibre\nLow Carb\nNot spicy\nwithout Gluten*\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nKey Ingredients\nIngredients\nNutritional Values\nPreparation\n4.8\nBased on 5 reviews",
+      "aiRecipeProposition": "For Pistachio Pecan Granola, start from the main base and texture described above. Toast oats, nuts, seeds, and spices gently, then cool completely before adding dried fruit or chocolate. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-44",
+      "sourceOrder": 45,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Triple Berry Smoothie",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/17_2ce98e76-f97b-4b9b-a106-7ee414bb9101.png?v=1771940936",
+      "price": "3,19€",
+      "rating": "4.2",
+      "shortDescription": "Berry blend with açaí",
+      "nutrition": "Protein 2.0g | kcal 153 | Carbs 28.7g | Fats 1.5g",
+      "detailShortDescription": "Berry blend with açaí",
+      "longDescription": "Indulge in a rich blend of strawberry, blueberry, black currant, and dates, enhanced with açaí puree for a nutritious boost.",
+      "keyIngredients": "",
+      "detailText": "Triple Berry Smoothie\n3,19€3,99€ / 184g\n21,68€ / kg incl. VAT, incl. shipping\n12 reviews\nBerry blend with açaí\nIndulge in a rich blend of strawberry, blueberry, black currant, and dates, enhanced with açaí puree for a nutritious boost.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nNo Added Sugar\nHigh in fibre\nLow Carb\nNot spicy\nwithout Gluten*\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n2.0\nCARBS\n28.7\nFAT\n1.5\nKCAL\n153\nKey Ingredients\nIngredients\nNutritional Values\nPreparation\n4.2\nBased on 12 reviews",
+      "aiRecipeProposition": "For Triple Berry Smoothie, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Let the fruit stay bright, balancing sweetness with citrus, warm spice, or a tiny pinch of salt. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-45",
+      "sourceOrder": 46,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Daily Greens Smoothie",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/18_db331f3d-26ad-438f-a0f4-b48bd4516404.png?v=1771941019",
+      "price": "3,19€",
+      "rating": "3.9",
+      "shortDescription": "Refreshing apple, spinach, and tangy lime",
+      "nutrition": "Protein 5.7g | kcal 167 | Carbs 31.1g | Fats 1.1g",
+      "detailShortDescription": "Refreshing apple, spinach, and tangy lime",
+      "longDescription": "A revitalizing mix of apple, spinach, broccoli, and dates, with a zesty touch of lime and the freshness of parsley and mint.",
+      "keyIngredients": "",
+      "detailText": "Daily Greens Smoothie\n3,19€3,99€ / 184g\n21,68€ / kg incl. VAT, incl. shipping\n9 reviews\nRefreshing apple, spinach, and tangy lime\nA revitalizing mix of apple, spinach, broccoli, and dates, with a zesty touch of lime and the freshness of parsley and mint.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nNo Added Sugar\nHigh in fibre\nSource of Protein\nLow Carb\nNot spicy\nwithout Gluten*\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n5.7\nCARBS\n31.1\nFAT\n1.1\nKCAL\n167\nKey Ingredients\nIngredients\nNutritional Values\nPreparation\n3.9\nBased on 9 reviews",
+      "aiRecipeProposition": "For Daily Greens Smoothie, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Let the fruit stay bright, balancing sweetness with citrus, warm spice, or a tiny pinch of salt. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-46",
+      "sourceOrder": 47,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Pitaya Mango Smoothie",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/15_1b962d90-4230-4e0e-8523-76622454a42e.png?v=1771940966",
+      "price": "3,19€",
+      "rating": "4.6",
+      "shortDescription": "Exotic pitaya and creamy coconut",
+      "nutrition": "Protein 2.8g | kcal 221 | Carbs 34.4g | Fats 7.0g",
+      "detailShortDescription": "Exotic pitaya and creamy coconut",
+      "longDescription": "Experience the exotic flavors of red dragon fruit, mango, and creamy coconut milk, perfectly sweetened with dates.",
+      "keyIngredients": "",
+      "detailText": "Pitaya Mango Smoothie\n3,19€3,99€ / 184g\n21,68€ / kg incl. VAT, incl. shipping\n8 reviews\nExotic pitaya and creamy coconut\nExperience the exotic flavors of red dragon fruit, mango, and creamy coconut milk, perfectly sweetened with dates.\nVegan\nUnder 500 kcal\nNo Added Sugar\nSource of Fiber\nLow Carb\nNot spicy\nwithout Gluten*\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n2.8\nCARBS\n34.4\nFAT\n7.0\nKCAL\n221\nKey Ingredients\nIngredients\nNutritional Values\nPreparation\n4.6\nBased on 8 reviews",
+      "aiRecipeProposition": "For Pitaya Mango Smoothie, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Let the fruit stay bright, balancing sweetness with citrus, warm spice, or a tiny pinch of salt. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-47",
+      "sourceOrder": 48,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Mango Tango Smoothie",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/16_9fcc93b1-1d21-4820-93ec-bec0399f6b36.png?v=1771940986",
+      "price": "3,19€",
+      "rating": "4.5",
+      "shortDescription": "Tropical mango and passion fruit",
+      "nutrition": "Protein 1.7g | kcal 188 | Carbs 31.8g | Fats 5.0g",
+      "detailShortDescription": "Tropical mango and passion fruit",
+      "longDescription": "Dive into a tropical paradise with mango, pineapple, passion fruit, and acerola, complemented by the smoothness of coconut milk and dates.",
+      "keyIngredients": "",
+      "detailText": "Mango Tango Smoothie\n3,19€3,99€ / 184g\n21,68€ / kg incl. VAT, incl. shipping\n13 reviews\nTropical mango and passion fruit\nDive into a tropical paradise with mango, pineapple, passion fruit, and acerola, complemented by the smoothness of coconut milk and dates.\nVegan\nUnder 500 kcal\nLow Fat\nNo Added Sugar\nSource of Fiber\nLow Carb\nNot spicy\nwithout Gluten*\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n1.7\nCARBS\n31.8\nFAT\n5.0\nKCAL\n188\nKey Ingredients\nIngredients\nNutritional Values\nPreparation\n4.5\nBased on 13 reviews",
+      "aiRecipeProposition": "For Mango Tango Smoothie, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Let the fruit stay bright, balancing sweetness with citrus, warm spice, or a tiny pinch of salt. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-48",
+      "sourceOrder": 49,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Green Garden Shot",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/22_fadadda4-5b3d-4f8b-afa7-a977d76c90a5.png?v=1771941169",
+      "price": "2,79€",
+      "rating": "4.7",
+      "shortDescription": "Herbal slow-juice shot with cucumber and lemon.",
+      "nutrition": "Protein 2.4g | kcal 86 | Carbs 14.2g | Fats 1g",
+      "detailShortDescription": "Herbal slow-juice shot with cucumber and lemon.",
+      "longDescription": "Support your health naturally with our Cleanse slow-juice shot. Packed with nutrient-rich herbs, this shot is made tastier with cucumber, apple, and lemon juice. Rich in vitamins C and K, and iron, it boosts your immune system, energy, and bone health.",
+      "keyIngredients": "",
+      "detailText": "Green Garden Shot\n2,79€3,49€ / 50g\n69,80€ / kg incl. VAT, incl. shipping\n3 reviews\nHerbal slow-juice shot with cucumber and lemon.\nSupport your health naturally with our Cleanse slow-juice shot. Packed with nutrient-rich herbs, this shot is made tastier with cucumber, apple, and lemon juice. Rich in vitamins C and K, and iron, it boosts your immune system, energy, and bone health.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nNo Added Sugar\nHigh in fibre\nLow Carb\nNot spicy\nwithout Gluten*\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Paprika\nPROTEIN\n2.4\nCARBS\n14.2\nFAT\n1\nKCAL\n86\nKey Ingredients\nIngredients\nNutritional Values\nPreparation\n4.7\nBased on 3 reviews",
+      "aiRecipeProposition": "For Green Garden Shot, start from the main base and texture described above. Blend or juice the herbs, roots, fruit, and citrus very finely, strain if you want a clean shot, and serve it sharply chilled. Let the fruit stay bright, balancing sweetness with citrus, warm spice, or a tiny pinch of salt. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-49",
+      "sourceOrder": 50,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Berry Boost Shot",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/21.png?v=1771941216",
+      "price": "2,79€",
+      "rating": "5.0",
+      "shortDescription": "Slow-juiced berries with pomegranate & spices",
+      "nutrition": "Protein 2.6g | kcal 94 | Carbs 24.4g | Fats 1g",
+      "detailShortDescription": "Slow-juiced berries with pomegranate & spices",
+      "longDescription": "For this antioxidant juice, we slow-juice wild berries, pomegranate, and spices. The result is a tangy shot with a spicy twist, packed with antioxidants like vitamins C and E. Naturally organic and delicious, it supports cell protection and boosts your energy.",
+      "keyIngredients": "",
+      "detailText": "Berry Boost Shot\n2,79€3,49€ / 50g\n69,80€ / kg incl. VAT, incl. shipping\n3 reviews\nSlow-juiced berries with pomegranate & spices\nFor this antioxidant juice, we slow-juice wild berries, pomegranate, and spices. The result is a tangy shot with a spicy twist, packed with antioxidants like vitamins C and E. Naturally organic and delicious, it supports cell protection and boosts your energy.\nLow Fat\nLow in Saturated Fats\nHigh in fibre\nLow Carb\nNot spicy\nwithout Gluten*\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n2.6\nCARBS\n24.4\nFAT\n1\nKCAL\n94\nKey Ingredients\nIngredients\nNutritional Values\nPreparation\n5.0\nBased on 3 reviews",
+      "aiRecipeProposition": "For Berry Boost Shot, start from the main base and texture described above. Blend or juice the herbs, roots, fruit, and citrus very finely, strain if you want a clean shot, and serve it sharply chilled. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-50",
+      "sourceOrder": 51,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Ginger Glow Shot",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/19_e92722ef-6bec-4bc4-aec0-104790ad9fa6.png?v=1771941110",
+      "price": "2,79€",
+      "rating": "4.0",
+      "shortDescription": "Spicy slow-juiced ginger with lemon balm and ginseng",
+      "nutrition": "Protein 1.2g | kcal 56 | Carbs 8.6g | Fats 0.6g",
+      "detailShortDescription": "Spicy slow-juiced ginger with lemon balm and ginseng",
+      "longDescription": "This powerful, slow-juiced ginger shot, made from fresh ginger and enriched with lemon balm, cinnamon, ginseng, and orange, is packed with vitamins A and C. It supports your immune system, protects cells and tissues with antioxidants, and enhances metabolism.",
+      "keyIngredients": "",
+      "detailText": "Ginger Glow Shot\n2,79€3,49€ / 50g\n69,80€ / kg incl. VAT, incl. shipping\n4 reviews\nSpicy slow-juiced ginger with lemon balm and ginseng\nThis powerful, slow-juiced ginger shot, made from fresh ginger and enriched with lemon balm, cinnamon, ginseng, and orange, is packed with vitamins A and C. It supports your immune system, protects cells and tissues with antioxidants, and enhances metabolism.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nNo Added Sugar\nHigh in fibre\nLow Carb\nNot spicy\nwithout Gluten*\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n1.2\nCARBS\n8.6\nFAT\n0.6\nKCAL\n56\nKey Ingredients\nIngredients\nNutritional Values\nPreparation\n4.0\nBased on 4 reviews",
+      "aiRecipeProposition": "For Ginger Glow Shot, start from the main base and texture described above. Blend or juice the herbs, roots, fruit, and citrus very finely, strain if you want a clean shot, and serve it sharply chilled. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-51",
+      "sourceOrder": 52,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Golden Roots Shot",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/20.png?v=1771941235",
+      "price": "2,79€",
+      "rating": "4.2",
+      "shortDescription": "Slow-juiced turmeric shot with citrus and honey",
+      "nutrition": "Protein 1.2g | kcal 56 | Carbs 8.6g | Fats 0.6g",
+      "detailShortDescription": "Slow-juiced turmeric shot with citrus and honey",
+      "longDescription": "This slow-juiced turmeric shot, with its peppery and earthy taste, is balanced by the sweet flavors of orange, lemon, and a touch of honey. Packed with iron, copper, and vitamin C, it supports your immune system and offers a refreshing taste sensation.",
+      "keyIngredients": "",
+      "detailText": "Golden Roots Shot\n2,79€3,49€ / 50g\n69,80€ / kg incl. VAT, incl. shipping\n6 reviews\nSlow-juiced turmeric shot with citrus and honey\nThis slow-juiced turmeric shot, with its peppery and earthy taste, is balanced by the sweet flavors of orange, lemon, and a touch of honey. Packed with iron, copper, and vitamin C, it supports your immune system and offers a refreshing taste sensation.\nwithout Garlic\nPROTEIN\n1.2\nCARBS\n8.6\nFAT\n0.6\nKCAL\n56\nKey Ingredients\nIngredients\nNutritional Values\nPreparation\n4.2\nBased on 6 reviews",
+      "aiRecipeProposition": "For Golden Roots Shot, start from the main base and texture described above. Blend or juice the herbs, roots, fruit, and citrus very finely, strain if you want a clean shot, and serve it sharply chilled. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-52",
+      "sourceOrder": 53,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Lime-Mint Ice-Cream",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/Untitled_design_18.png?v=1772464655",
+      "price": "5,19€",
+      "rating": "0",
+      "shortDescription": "Vegan Sorbet with lime, mint & coconut – 420ml",
+      "nutrition": "Protein 1.26g | kcal 353 | Carbs 67.2g | Fats 6.3g",
+      "detailShortDescription": "5,19€6,49€ / 420g",
+      "longDescription": "15,45€ / kg incl. VAT, incl. shipping",
+      "keyIngredients": "",
+      "detailText": "Lime-Mint Ice-Cream\n5,19€6,49€ / 420g\n15,45€ / kg incl. VAT, incl. shipping\nVegan Sorbet with lime, mint & coconut – 420ml\nCool off with our refreshing Lime Mint Sorbet! This plant-based creation blends tangy lime, zesty lemon, and a hint of mint with creamy coconut milk – all from organic ingredients. A light, summery treat you'll crave again and again.\ngluten\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nSource of Fiber\nNot spicy\nwithout Gluten*\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n1.26\nCARBS\n67.2\nFAT\n6.3\nKCAL\n353\nKey Ingredients\nIngredients\nNutritional Values\nPreparation",
+      "aiRecipeProposition": "For Lime-Mint Ice-Cream, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-53",
+      "sourceOrder": 54,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Lemon Cake Ball",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/25.png?v=1772121207",
+      "price": "1,75€",
+      "rating": "0",
+      "shortDescription": "Citroenbal met vanille & amandel.",
+      "nutrition": "Protein 2.1g | kcal 100 | Carbs 11g | Fats 4.5g",
+      "detailShortDescription": "1,75€2,19€ / 25g",
+      "longDescription": "87,60€ / kg incl. VAT, incl. shipping",
+      "keyIngredients": "",
+      "detailText": "Lemon Cake Ball\n1,75€2,19€ / 25g\n87,60€ / kg incl. VAT, incl. shipping\nLemon ball with vanilla & almonds.\nLemon ball with vanilla, oats, nut butter & coconut nectar, topped with raw almonds for crunch. Zesty, creamy & bright. Organic, vegan & gluten-free – for the perfect citrus moment!\nVegan\nUnder 500 kcal\nSource of Fiber\nLow Carb\nNot spicy\nwithout Gluten*\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n2.1\nCARBS\n11\nFAT\n4.5\nKCAL\n100\nKey Ingredients\nIngredients\nNutritional Values\nPreparation",
+      "aiRecipeProposition": "For Lemon Cake Ball, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-54",
+      "sourceOrder": 55,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Swedish Cinnamon Bun Ball",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/26_e6f85990-d2cf-4208-ad06-38403333b8ad.png?v=1772121165",
+      "price": "1,75€",
+      "rating": "0",
+      "shortDescription": "Nordic cinnamon ball organic & vegan.",
+      "nutrition": "Protein 2.5g | kcal 110 | Carbs 11g | Fats 6g",
+      "detailShortDescription": "1,75€2,19€ / 25g",
+      "longDescription": "87,60€ / kg incl. VAT, incl. shipping",
+      "keyIngredients": "",
+      "detailText": "Swedish Cinnamon Bun Ball\n1,75€2,19€ / 25g\n87,60€ / kg incl. VAT, incl. shipping\nNordic cinnamon ball organic & vegan.\nSwedish cinnamon ball with cardamom, cinnamon and gluten free oats. Inspired by a Nordic classic, naturally sweetened with coconut nectar. Organic, vegan & gluten free for the perfect cinnamon moment.\nPROTEIN\n2.5\nCARBS\n11\nFAT\n6\nKCAL\n110\nKey Ingredients\nIngredients\nNutritional Values\nPreparation",
+      "aiRecipeProposition": "For Swedish Cinnamon Bun Ball, start from the main base and texture described above. Pulse oats, nuts, dates or coconut nectar, spices, and a pinch of salt into a sticky dough, then roll and chill. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-55",
+      "sourceOrder": 56,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Swedish Chocolate Ball",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/24_f80ecb0c-a3ef-4fa9-9164-7957ecf4c8f2.png?v=1772121224",
+      "price": "1,75€",
+      "rating": "0",
+      "shortDescription": "Cacao ball with coffee & coconut flakes.",
+      "nutrition": "Protein 1.9g | kcal 120 | Carbs 9g | Fats 8.3g",
+      "detailShortDescription": "1,75€2,19€ / 25g",
+      "longDescription": "87,60€ / kg incl. VAT, incl. shipping",
+      "keyIngredients": "",
+      "detailText": "Swedish Chocolate Ball\n1,75€2,19€ / 25g\n87,60€ / kg incl. VAT, incl. shipping\nCacao ball with coffee & coconut flakes.\nSwedish chocolate ball with cacao, coffee, oats & shredded coconut. A wholesome treat inspired by a Nordic classic. Organic, vegan & gluten-free – for that perfect chocolate moment!\nVegan\nUnder 500 kcal\nHigh in fibre\nLow Carb\nNot spicy\nwithout Gluten*\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n1.9\nCARBS\n9\nFAT\n8.3\nKCAL\n120\nKey Ingredients\nIngredients\nNutritional Values\nPreparation",
+      "aiRecipeProposition": "For Swedish Chocolate Ball, start from the main base and texture described above. Pulse oats, nuts, dates or coconut nectar, spices, and a pinch of salt into a sticky dough, then roll and chill. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-56",
+      "sourceOrder": 57,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Raspberry Crumble",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/29_f125ff93-b2cb-45d6-9854-ba856f08d3bc.png?v=1772121047",
+      "price": "1,99€",
+      "rating": "0",
+      "shortDescription": "No-bake treat with raspberry & nut butter.",
+      "nutrition": "Protein 3.5g | kcal 180 | Carbs 18g | Fats 8.8g",
+      "detailShortDescription": "1,99€2,49€ / 35g",
+      "longDescription": "71,14€ / kg incl. VAT, incl. shipping",
+      "keyIngredients": "",
+      "detailText": "Raspberry Crumble\n1,99€2,49€ / 35g\n71,14€ / kg incl. VAT, incl. shipping\nNo-bake treat with raspberry & nut butter.\nA no-bake delight with gluten-free oats, almond & cashew butter. Sweetened with coconut nectar and topped with tangy freeze-dried raspberries. Organic, vegan, and gluten-free.\nVegan\nUnder 500 kcal\nHigh in fibre\nLow Carb\nNot spicy\nwithout Gluten*\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n3.5\nCARBS\n18\nFAT\n8.8\nKCAL\n180\nKey Ingredients\nIngredients\nNutritional Values\nPreparation",
+      "aiRecipeProposition": "For Raspberry Crumble, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Let the fruit stay bright, balancing sweetness with citrus, warm spice, or a tiny pinch of salt. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-57",
+      "sourceOrder": 58,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Blueberry White Chocolate Crumble",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/28.png?v=1772121068",
+      "price": "1,99€",
+      "rating": "0",
+      "shortDescription": "No-bake with white choc & blueberries.",
+      "nutrition": "Protein 3.5g | kcal 180 | Carbs 18g | Fats 8.8g",
+      "detailShortDescription": "1,99€2,49€ / 35g",
+      "longDescription": "71,14€ / kg incl. VAT, incl. shipping",
+      "keyIngredients": "",
+      "detailText": "Blueberry White Chocolate Crumble\n1,99€2,49€ / 35g\n71,14€ / kg incl. VAT, incl. shipping\nNo-bake with white choc & blueberries.\nA no-bake delight with gluten-free oats & creamy cashew butter. Sweetened with coconut nectar and topped with tangy freeze-dried blueberries and chunks of white chocolate. Organic, vegan, and gluten-free.\nVegan\nUnder 500 kcal\nSource of Fiber\nLow Carb\nNot spicy\nwithout Gluten*\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n3.5\nCARBS\n18\nFAT\n8.8\nKCAL\n180\nKey Ingredients\nIngredients\nNutritional Values\nPreparation",
+      "aiRecipeProposition": "For Blueberry White Chocolate Crumble, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-58",
+      "sourceOrder": 59,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Apple Crumble",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/27.png?v=1772121090",
+      "price": "1,99€",
+      "rating": "0",
+      "shortDescription": "No-bake with apple & cashew crunch.",
+      "nutrition": "Protein 3.3g | kcal 160 | Carbs 19g | Fats 8g",
+      "detailShortDescription": "1,99€2,49€ / 35g",
+      "longDescription": "71,14€ / kg incl. VAT, incl. shipping",
+      "keyIngredients": "",
+      "detailText": "Apple Crumble\n1,99€2,49€ / 35g\n71,14€ / kg incl. VAT, incl. shipping\nNo-bake with apple & cashew crunch.\nA no-bake delight with gluten-free oats & creamy cashew butter. Sweetened with coconut nectar and topped with tangy freeze-dried apples. Organic, vegan, and gluten-free.\nVegan\nUnder 500 kcal\nSource of Fiber\nLow Carb\nNot spicy\nwithout Gluten*\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n3.3\nCARBS\n19\nFAT\n8\nKCAL\n160\nKey Ingredients\nIngredients\nNutritional Values\nPreparation",
+      "aiRecipeProposition": "For Apple Crumble, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Let the fruit stay bright, balancing sweetness with citrus, warm spice, or a tiny pinch of salt. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-59",
+      "sourceOrder": 60,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Super Crunch 45g (Sachet)",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/9_d0aaffab-6729-419d-bd88-7221d970ea03.jpg?v=1766395230",
+      "price": "2,39€",
+      "rating": "0",
+      "shortDescription": "24-seed nut topping with herbs & superfoods",
+      "nutrition": "",
+      "detailShortDescription": "2,39€2,99€ / 45g",
+      "longDescription": "66,44€ / kg incl. VAT, incl. shipping",
+      "keyIngredients": "",
+      "detailText": "Super Crunch 45g (Sachet)\n2,39€2,99€ / 45g\n66,44€ / kg incl. VAT, incl. shipping\n24-seed nut topping with herbs & superfoods\nSuper Crunch is a 24-ingredient, plant-based topping designed to bring natural nourishment into your daily meals, with nutty depth, savory notes and a gentle umami crunch.\n1 sachet = 3 portions (15g per portion)\nWhat makes it special?\n✔️ 24 high-quality plant-based ingredients ✔️ Source of protein ✔️ Rich in fiber ✔️ Rich in calcium, contributes to the normal function of digestive enzymes ✔️ Gluten-free ✔️ 100% natural\nKey Ingredients\nIngredients\nNutritional Values\nPreparation",
+      "aiRecipeProposition": "For Super Crunch 45g (Sachet), start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    },
+    {
+      "id": "product-60",
+      "sourceOrder": 61,
+      "sourceUrl": "https://every-foods.nl/collections/all-products",
+      "name": "Miso Paste",
+      "image": "https://cdn.shopify.com/s/files/1/0228/6528/1104/files/Untitleddesign_1.png?v=1758179226",
+      "price": "9,59€",
+      "rating": "5.0",
+      "shortDescription": "Umami miso made from barley & chickpeas.",
+      "nutrition": "Protein 0.4g | kcal 9.7 | Carbs 1.7g | Fats 0.1g",
+      "detailShortDescription": "Umami miso made from barley & chickpeas.",
+      "longDescription": "Hearty and savoury miso made from barley and chickpeas. Traditionally fermented for a rich umami flavour. Perfectly complements our bowls and is also great in dressings or soups.",
+      "keyIngredients": "",
+      "detailText": "Miso Paste\n9,59€11,99€ / 230g\n52,13€ / kg incl. VAT, incl. shipping\n2 reviews\nUmami miso made from barley & chickpeas.\nHearty and savoury miso made from barley and chickpeas. Traditionally fermented for a rich umami flavour. Perfectly complements our bowls and is also great in dressings or soups.\nVegan\nUnder 500 kcal\nLow Fat\nLow in Saturated Fats\nLow Sugar\nSource of Fiber\nSource of Protein\nLow Carb\nNot spicy\nwithout Soy*\nwithout Garlic\nwithout Onion\nwithout Cumin\nwithout Coriander\nPROTEIN\n0.4\nCARBS\n1.7\nFAT\n0.1\nKCAL\n9.7\nKey Ingredients\nIngredients\nNutritional Values\nPreparation\n5.0\nBased on 2 reviews",
+      "aiRecipeProposition": "For Miso Paste, start from the main base and texture described above. Prepare the pasta, rice, noodles, or gnocchi separately, then saute the vegetables and aromatics before combining everything with the sauce. Season in layers and aim for the texture described on the product card. Finish by tasting for salt, acidity, heat, and creaminess so the final dish lands close to the product's flavor profile."
+    }
+  ]
+}</script>
+  <script>
+    const payload = JSON.parse(document.getElementById('products-data').textContent);
+    const products = payload.products;
+    let selectedId = products[0]?.id;
+
+    const listEl = document.getElementById('list');
+    const detailEl = document.getElementById('detail');
+    const searchEl = document.getElementById('search');
+    const sortEl = document.getElementById('sort');
+    document.getElementById('count').textContent = products.length;
+
+    function escapeHtml(value) {
+      return String(value ?? '').replace(/[&<>"']/g, (char) => ({
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#39;'
+      }[char]));
+    }
+
+    function visibleProducts() {
+      const query = searchEl.value.trim().toLowerCase();
+      const rows = products.filter((product) => {
+        if (!query) return true;
+        return [product.name, product.shortDescription, product.longDescription, product.aiRecipeProposition, product.detailText]
+          .join(' ')
+          .toLowerCase()
+          .includes(query);
+      });
+      if (sortEl.value === 'name') rows.sort((a, b) => a.name.localeCompare(b.name));
+      if (sortEl.value === 'rating') rows.sort((a, b) => Number(String(b.rating).replace(',', '.')) - Number(String(a.rating).replace(',', '.')));
+      return rows;
+    }
+
+    function lines(value) {
+      return String(value || '').split('\n').map((line) => line.trim()).filter(Boolean);
+    }
+
+    function unique(values) {
+      return [...new Set(values.filter(Boolean))];
+    }
+
+    function splitIngredientList(value) {
+      const text = String(value || '').trim();
+      if (!text) return [];
+      const parts = [];
+      let depth = 0;
+      let current = '';
+      for (const char of text) {
+        if (char === '(') depth += 1;
+        if (char === ')') depth = Math.max(0, depth - 1);
+        if (char === ',' && depth === 0) {
+          if (current.trim()) parts.push(current.trim());
+          current = '';
+        } else {
+          current += char;
+        }
+      }
+      if (current.trim()) parts.push(current.trim());
+      return parts;
+    }
+
+    function splitGluedIngredients(line) {
+      const match = String(line || '').match(/^(.+?[.!?])((?:Cooked|Organic|Water|Coconut|Basmati|Apple|Strawberry|Buckwheat|Oats|Dates|Mango|Cucumber|Tomato|Potato|Rice|Pasta|Red|White|Whole|Gluten-free|Durum|Carrot|Banana|Spinach|Broccoli|SOY|WHEAT).+)$/);
+      return match ? { text: match[1], ingredients: match[2] } : { text: line, ingredients: '' };
+    }
+
+    function parseKeyIngredients(rawLines) {
+      const cleaned = [];
+      let ingredientText = '';
+      for (const rawLine of rawLines) {
+        const split = splitGluedIngredients(rawLine);
+        if (split.text) cleaned.push(split.text);
+        if (split.ingredients) ingredientText = split.ingredients;
+      }
+
+      const cards = [];
+      const notes = [];
+      for (let index = 0; index < cleaned.length; index += 1) {
+        const title = cleaned[index];
+        const description = cleaned[index + 1] || '';
+        const titleLike = title.length <= 36 && !/[.!?]/.test(title) && description.length > 20;
+        if (titleLike) {
+          cards.push({ title, description });
+          index += 1;
+        } else {
+          notes.push(title);
+        }
+      }
+
+      return {
+        cards,
+        notes,
+        ingredients: splitIngredientList(ingredientText),
+      };
+    }
+
+    function detailSections(product) {
+      const detailLines = lines(product.detailText);
+      const proteinIndex = detailLines.indexOf('PROTEIN');
+      const keyIndex = detailLines.indexOf('Key Ingredients');
+      const ingredientsMarkerIndex = detailLines.indexOf('Ingredients');
+      const longIndex = detailLines.indexOf(product.longDescription);
+      const tagEnd = proteinIndex >= 0 ? proteinIndex : keyIndex >= 0 ? keyIndex : detailLines.length;
+      const tags = longIndex >= 0 ? unique(detailLines.slice(longIndex + 1, tagEnd)) : [];
+
+      const nutrition = ['PROTEIN', 'CARBS', 'FAT', 'KCAL'].map((label) => {
+        const labelIndex = detailLines.indexOf(label);
+        return { label, value: labelIndex >= 0 ? detailLines[labelIndex + 1] || '' : '' };
+      }).filter((item) => item.value);
+
+      const keyRaw = keyIndex >= 0
+        ? detailLines.slice(keyIndex + 1, ingredientsMarkerIndex >= 0 ? ingredientsMarkerIndex : detailLines.length)
+        : lines(product.keyIngredients);
+      const keyIngredients = parseKeyIngredients(keyRaw);
+
+      return {
+        tags,
+        nutrition,
+        keyIngredients,
+      };
+    }
+
+    function renderList() {
+      const rows = visibleProducts();
+      listEl.innerHTML = rows.length ? rows.map((product) => `
+        <button class="item" data-id="${escapeHtml(product.id)}" aria-selected="${product.id === selectedId}">
+          <img class="thumb" src="${escapeHtml(product.image)}" alt="">
+          <span>
+            <span class="item-title">${escapeHtml(product.name)}</span>
+            <span class="item-desc">${escapeHtml(product.shortDescription || product.detailShortDescription || '')}</span>
+          </span>
+        </button>
+      `).join('') : '<div class="empty">Geen gerechten gevonden.</div>';
+      for (const button of listEl.querySelectorAll('.item')) {
+        button.addEventListener('click', () => {
+          selectedId = button.dataset.id;
+          render();
+        });
+      }
+    }
+
+    function renderDetail() {
+      const product = products.find((row) => row.id === selectedId) || visibleProducts()[0] || products[0];
+      if (!product) {
+        detailEl.innerHTML = '<div class="empty">Geen data beschikbaar.</div>';
+        return;
+      }
+      selectedId = product.id;
+      const sections = detailSections(product);
+      const chips = [product.nutrition, product.rating ? `Rating ${product.rating}` : '', product.price]
+        .filter(Boolean)
+        .map((chip) => `<span class="chip">${escapeHtml(chip)}</span>`)
+        .join('');
+      const descriptions = unique([product.shortDescription, product.detailShortDescription]).map((description) => `
+        <p>${escapeHtml(description)}</p>
+      `).join('');
+      const tags = sections.tags.length ? `
+        <h3>Kenmerken</h3>
+        <ul class="tag-list">${sections.tags.map((tag) => `<li>${escapeHtml(tag)}</li>`).join('')}</ul>
+      ` : '';
+      const nutrition = sections.nutrition.length ? `
+        <h3>Voedingswaarden</h3>
+        <div class="nutrition-grid">
+          ${sections.nutrition.map((item) => `
+            <div class="nutrient"><span>${escapeHtml(item.label)}</span><strong>${escapeHtml(item.value)}</strong></div>
+          `).join('')}
+        </div>
+      ` : '';
+      const keyIngredients = sections.keyIngredients.cards.length ? `
+        <div class="ingredient-grid">
+          ${sections.keyIngredients.cards.map((item) => `
+            <div class="ingredient-card">
+              <strong>${escapeHtml(item.title)}</strong>
+              <p>${escapeHtml(item.description)}</p>
+            </div>
+          `).join('')}
+        </div>
+      ` : sections.keyIngredients.notes.length ? `
+        <p>${escapeHtml(sections.keyIngredients.notes.join(' '))}</p>
+      ` : '<p class="muted">Geen aparte key ingredients gevonden.</p>';
+      const ingredientList = sections.keyIngredients.ingredients.length ? `
+        <div class="section">
+          <h3>Ingrediëntenlijst</h3>
+          <ul class="ingredient-list">${sections.keyIngredients.ingredients.map((item) => `<li>${escapeHtml(item)}</li>`).join('')}</ul>
+        </div>
+      ` : '';
+      detailEl.innerHTML = `
+        <div class="hero">
+          <img src="${escapeHtml(product.image)}" alt="${escapeHtml(product.name)}">
+          <div>
+            <div class="title-row">
+              <h2>${escapeHtml(product.name)}</h2>
+              <div class="price">${escapeHtml(product.price)}</div>
+            </div>
+            <div class="chips">${chips}</div>
+            <div class="section" style="padding-left:0;padding-right:0;border-bottom:0">
+              <h3>In het kort</h3>
+              ${descriptions || '<p class="muted">Geen korte beschrijving gevonden.</p>'}
+            </div>
+          </div>
+        </div>
+        <div class="section">
+          <h3>Beschrijving</h3>
+          <p class="long">${escapeHtml(product.longDescription)}</p>
+        </div>
+        <div class="section">
+          <div class="fact-grid">
+            <div class="fact"><span>Prijs</span><strong>${escapeHtml(product.price || 'n.v.t.')}</strong></div>
+            <div class="fact"><span>Rating</span><strong>${escapeHtml(product.rating || 'n.v.t.')}</strong></div>
+            <div class="fact"><span>Bronpositie</span><strong>#${escapeHtml(product.sourceOrder || '')}</strong></div>
+          </div>
+          <div style="margin-top:16px">${tags}</div>
+          <div style="margin-top:16px">${nutrition}</div>
+        </div>
+        <div class="section">
+          <h3>Key ingredients</h3>
+          ${keyIngredients}
+        </div>
+        ${ingredientList}
+        <div class="section recipe">
+          <h3>AI-proposition: receptidee</h3>
+          <p>${escapeHtml(product.aiRecipeProposition)}</p>
+        </div>
+      `;
+    }
+
+    function render() {
+      renderList();
+      renderDetail();
+    }
+
+    function download(filename, body, type) {
+      const blob = new Blob([body], { type });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.href = url;
+      link.download = filename;
+      link.click();
+      URL.revokeObjectURL(url);
+    }
+
+    function toCsv(rows) {
+      const headers = ['name', 'image', 'price', 'rating', 'shortDescription', 'detailShortDescription', 'longDescription', 'aiRecipeProposition', 'nutrition'];
+      const quote = (value) => '"' + String(value ?? '').replace(/"/g, '""') + '"';
+      return [headers.join(','), ...rows.map((row) => headers.map((header) => quote(row[header])).join(','))].join('\n');
+    }
+
+    searchEl.addEventListener('input', render);
+    sortEl.addEventListener('change', render);
+    document.getElementById('copy-json').addEventListener('click', async () => {
+      await navigator.clipboard.writeText(JSON.stringify(products, null, 2));
+    });
+    document.getElementById('download-json').addEventListener('click', () => {
+      download('every-foods-products.json', JSON.stringify(products, null, 2), 'application/json');
+    });
+    document.getElementById('download-csv').addEventListener('click', () => {
+      download('every-foods-products.csv', toCsv(products), 'text/csv');
+    });
+
+    render();
+  </script>
+</body>
+</html>

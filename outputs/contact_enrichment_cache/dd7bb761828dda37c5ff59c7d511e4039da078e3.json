@@ -1,0 +1,87 @@
+{
+  "address": "Simonsstraat 14, 2018 Antwerpen",
+  "address_key": "SIMONSSTRAAT|14|||2018|Antwerpen",
+  "query": "\"Simonsstraat 14\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "电脑动态壁纸软件哪个好？ - 知乎",
+      "url": "https://www.zhihu.com/question/2420180862",
+      "snippet": "• Wallpaper Maker（造物主壁纸）：这是一款免费的动态壁纸软件，用户界面简洁，提供了许多高清壁纸，可以在Steam上搜索并下载。 • Lively Wallpaper：这是一款开源免费的壁纸工具，支持将视频或 …",
+      "domain": "zhihu.com",
+      "score": 30,
+      "reasons": [
+        "postcode"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "r/LivelyWallpaper - Reddit",
+      "url": "https://www.reddit.com/r/LivelyWallpaper/",
+      "snippet": "Free and open-source software that allows setting animated desktop wallpapers and screensavers. https://livelywallpaper.net",
+      "domain": "reddit.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How do I install the VLC plugin? : r/LivelyWallpaper - Reddit",
+      "url": "https://www.reddit.com/r/LivelyWallpaper/comments/17ysnhc/how_do_i_install_the_vlc_plugin/",
+      "snippet": "19 nov 2023 · VLC player is just experimental at the moment and doesn't support pausing when fullscreen apps run and other important features. As for the steps just copy the vlc files to the …",
+      "domain": "reddit.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "在哪里可以下载lively wallpaper壁纸？ - 知乎",
+      "url": "https://www.zhihu.com/question/437236078",
+      "snippet": "安装lively wallpaper之后，除了自带的12款壁纸，还可以去哪里下载别的壁纸啊。别说换成wallpaper engine…",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "桌面动态壁纸软件 Lively Wallpaper v2.2.1.0 - 吾爱破解 ...",
+      "url": "https://www.52pojie.cn/thread-2091544-1-1.html",
+      "snippet": "11 feb 2026 · 发布原因：由于前面大佬发布的主题自动关闭，不再接受新的回复，故更新新版本需要重新开帖。工具简介：免费且开源的软件，允许用户设置由WinUI3驱动的动画桌面壁纸和屏 ...",
+      "domain": "52pojie.cn",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "动态壁纸软件 Lively Wallpaper 1.1.9.4 - 吾爱破解 - 52pojie.cn",
+      "url": "https://www.52pojie.cn/thread-1371087-1-1.html",
+      "snippet": "15 feb 2021 · 先上图之前找了下论坛，莫得新版的，于是我就自己更新了我的从1.1.8.0 - > 1.1.9.4（软件棒，但是缺资源，只能自己找了）更新内容：（更 ...",
+      "domain": "52pojie.cn",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Living Room Wallpaper - Audio reactive, music and customisable - Reddit",
+      "url": "https://www.reddit.com/r/LivelyWallpaper/comments/13opdrm/living_room_wallpaper_audio_reactive_music_and/",
+      "snippet": "22 mei 2023 · Rocksdanister MOD Living Room Wallpaper - Audio reactive, music and customisable Sort by: Add a Comment Rocksdanister",
+      "domain": "reddit.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "白嫖党最爱动态壁纸Lively Wallpaper安装、壁纸导入教程",
+      "url": "https://www.zhihu.com/zvideo/1390818052594851840",
+      "snippet": "22 jun 2021 · Lively Wallpaperのインストールと壁紙のインポート方法を紹介するページです。",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

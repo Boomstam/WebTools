@@ -1,0 +1,20 @@
+{
+  "address": "Bredabaan 53, 2170 Merksem",
+  "address_key": "BREDABAAN|53|||2170|Merksem",
+  "query": "\"Bredabaan 53\" \"2170\" \"Merksem\"",
+  "results": [
+    {
+      "title": "Gmail",
+      "url": "https://mail.google.com/mail?hl=en",
+      "snippet": "We would like to show you a description here but the site won’t allow us.",
+      "domain": "mail.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

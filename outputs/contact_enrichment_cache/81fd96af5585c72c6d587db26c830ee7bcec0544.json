@@ -1,0 +1,85 @@
+{
+  "address": "Trapstraat 42, 2060 Antwerpen",
+  "address_key": "TRAPSTRAAT|42|||2060|Antwerpen",
+  "query": "\"Trapstraat 42\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Startsida | Abisko nationalpark | Sveriges Nationalparker",
+      "url": "https://www.sverigesnationalparker.se/sv/upptack-nationalparkerna/abisko-nationalpark",
+      "snippet": "Abisko är den mest besökta nationalparken i Norrbottens län. I Abiskodalen växter fjällbjörkar och här finns även Skandinaviens …",
+      "domain": "sverigesnationalparker.se",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Start page | Abisko National Park | Sweden's national parks",
+      "url": "https://www.sverigesnationalparker.se/en/parks/abisko-national-park",
+      "snippet": "Abisko is a high‑northern mountain landscape with birch forests, open heaths and meadows, and rugged areas of bare mountain …",
+      "domain": "sverigesnationalparker.se",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Allt du behöver veta inför ditt besök i Abisko nationalpark",
+      "url": "https://visitfjallen.se/resmal/fjallens-nationalparker/abisko-nationalpark/",
+      "snippet": "Abisko nationalpark är 7700 hektar och ligger i Kiruna kommun, söder om Torneträsk. Här finner du den fjällbjörksklädda …",
+      "domain": "visitfjallen.se",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Abisko Nationalpark : Porten till fjällvärlden och Kungsledens början",
+      "url": "https://hikingstore.se/blogg/abisko-nationalpark-porten-till-fjallvarlden-och-kungsledens-borjan",
+      "snippet": "Abisko Nationalpark är porten till något större. Oavsett om det är din första vandring eller om du är en erfaren räv som söker nya …",
+      "domain": "hikingstore.se",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Abisko nationalpark – Wikipedia",
+      "url": "https://sv.wikipedia.org/wiki/Abisko_nationalpark",
+      "snippet": "Abisko nationalpark är en av Sveriges nationalparker och ligger vid småorten Abisko söder om Torneträsk i norra Lappland. Parken …",
+      "domain": "sv.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Abisko nationalpark — Naturkartan",
+      "url": "https://www.naturkartan.se/sv/norrbottens-lan/abisko-nationalpark",
+      "snippet": "Abisko nationalpark ligger söder om Torneträsk, i Kiruna kommun. Här finner du den fjällbjörksklädda Abiskodalen och det vackra …",
+      "domain": "naturkartan.se",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Sevärdheter och platser att besöka i Abisko nationalpark - Komoot",
+      "url": "https://www.komoot.com/sv-se/guide/513477/sevaerdheter-i-abisko-nationalpark",
+      "snippet": "22 jun 2026 · Utforska de vackraste platserna att besöka i Abisko nationalpark. Planera din nästa vandring eller cykeltur till en av de …",
+      "domain": "komoot.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Abisko nationalpark — Kirunas ikon mellan forskning, friluftsliv och ...",
+      "url": "https://kirunanytt.se/samhalle/abisko-nationalpark-kirunas-ikon-mellan-forskning-friluftsliv-och-framtid-42254",
+      "snippet": "26 apr 2026 · Abisko nationalpark – Kirunas ikon mellan norrsken, forskning och friluftsliv Abisko nationalpark är mer än en vacker vy …",
+      "domain": "kirunanytt.se",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

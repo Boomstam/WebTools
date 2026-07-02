@@ -1,0 +1,87 @@
+{
+  "address": "Bordink 10, 2170 Merksem",
+  "address_key": "BORDINK|10|||2170|Merksem",
+  "query": "\"Bordink 10\" \"2170\" \"Merksem\"",
+  "results": [
+    {
+      "title": "How to Get Help in Windows 11 & 10 (Fast Way) - geekzag.com",
+      "url": "https://geekzag.com/guides/computers/how-to-get-help-in-windows-11-10/",
+      "snippet": "20 jun 2026 · Need help in Windows 11? Discover 15 proven ways — from built-in tools to expert tips — to solve problems fast",
+      "domain": "geekzag.com",
+      "score": 20,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to get help in Windows - Microsoft Support",
+      "url": "https://support.microsoft.com/en-us/windows/how-to-get-help-in-windows-711b6492-0435-0038-8706-7c6b0feb200a",
+      "snippet": "Search for help on the taskbar, use the Tips app, select the Get help link in the Settings app, or go to support.microsoft.com/windows.",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to Get Help in Windows 11 : A Comprehensive Guide for Users",
+      "url": "https://www.techbloat.com/how-to-get-help-in-windows-11-a-comprehensive-guide-for-users.html",
+      "snippet": "15 uur geleden · This guide walks through the best ways to get help in Windows 11, from the built-in Get Help app and troubleshooters to Microsoft Support, Quick Assist, Copilot, forums, and manufacturer …",
+      "domain": "techbloat.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Windows help and learning | Microsoft Support",
+      "url": "https://support.microsoft.com/en-us/windows/",
+      "snippet": "Find help and how-to articles for Windows operating systems. Get support for Windows and learn about installation, updates, privacy, security and more.",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to Get Help in Windows 11 - TechBloat",
+      "url": "https://www.techbloat.com/how-to-get-help-in-windows-11.html",
+      "snippet": "2 dagen geleden · This guide walks through the best ways to get help in Windows 11, from the built-in Get Help app and Settings search to Quick Assist, Microsoft Support, community forums, and …",
+      "domain": "techbloat.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "How to get Help in Windows 11 [Fast] - MSPoweruser",
+      "url": "https://mspoweruser.com/how-to-get-help-in-windows-11/",
+      "snippet": "6 nov 2025 · Need help with Windows 11? Whether it’s a system error, missing feature, or setup issue, this guide shows you exactly where to find answers, tools, and live support – fast. Follow these steps …",
+      "domain": "mspoweruser.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "How to Get Help in Windows 11 : A Complete Guide for Users",
+      "url": "https://www.solveyourtech.com/how-to-get-help-in-windows-11-a-complete-guide-for-users/",
+      "snippet": "7 nov 2025 · Discover how to access support in Windows 11 with our complete guide, covering tips, tools, and resources to resolve issues efficiently.",
+      "domain": "solveyourtech.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "How To Get Help In Windows 11 (All Methods)",
+      "url": "https://thetechgorilla.com/how-to-get-help-in-windows-11/",
+      "snippet": "4 jul 2025 · Learn how to get help in Windows 11 with built-in support tools, troubleshooting guides, and Microsoft's virtual assistant for quick problem resolution",
+      "domain": "thetechgorilla.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

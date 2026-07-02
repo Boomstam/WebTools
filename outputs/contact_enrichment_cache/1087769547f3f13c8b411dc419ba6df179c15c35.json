@@ -1,0 +1,85 @@
+{
+  "address": "Statiestraat 11, 2018 Antwerpen",
+  "address_key": "STATIESTRAAT|11|||2018|Antwerpen",
+  "query": "\"Statiestraat 11\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Carrefour : Magasins et Courses en ligne (Drive, Livraison à Domicile)",
+      "url": "https://www.carrefour.fr/?msockid=213f1f098b9c67091fa108808a56666e",
+      "snippet": "Faites vos Courses sur Carrefour.fr et retrouvez des milliers de produits au meilleur prix dans vos Magasins, en retrait Drive ou en Livraison à Domicile. Toutes les infos magasins, catalogues, services.",
+      "domain": "carrefour.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Carrefour Paris Auteuil : Votre Hypermarché à Paris",
+      "url": "https://www.carrefour.fr/magasin/paris-auteuil?msockid=213f1f098b9c67091fa108808a56666e",
+      "snippet": "Découvrez votre Hypermarché Carrefour Paris Auteuil et retrouvez les catalogues, services, promotions et horaires d'ouvertures de votre magasin.",
+      "domain": "carrefour.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Home - Bienvenue chez Carrefour | Groupe Carrefour",
+      "url": "https://www.carrefour.com/fr",
+      "snippet": "Favoriser l’accès à une alimentation de qualité , saine, qui a du goût est la mission qui mobilise toutes nos équipes depuis un an. Elle s’inscrit dans des actions concrètes sur lesquelles Carrefour …",
+      "domain": "carrefour.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Home - Welcome at Carrefour | Carrefour Group",
+      "url": "https://www.carrefour.com/en",
+      "snippet": "Our mission is to provide our customers with quality services, products and food accessible to all across all distribution channels. Thanks to the competence of our employees, to a responsible and …",
+      "domain": "carrefour.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Groupe Carrefour — Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Groupe_Carrefour",
+      "snippet": "Carrefour est une multinationale française du secteur de la grande distribution, pionnier du concept d' hypermarché en 1963. Devenu en 1999 le numéro un européen de la grande distribution en …",
+      "domain": "fr.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Carrefour à Paris - Hypermarchés et Supermarchés",
+      "url": "https://www.pagesjaunes.fr/annuaire/paris-75/carrefour",
+      "snippet": "Carrefour à Paris (75) : trouver les numéros de téléphone et adresses des professionnels de votre département ou de votre ville dans l'annuaire PagesJaunes",
+      "domain": "pagesjaunes.fr",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Carrefour Paris - Liste des magasins - bonial.fr",
+      "url": "https://www.bonial.fr/Magasins/Paris/Carrefour/v-r106",
+      "snippet": "Retrouvez les adresses, horaires ainsi que les promos de vos magasins Carrefour à Paris et à proximité !",
+      "domain": "bonial.fr",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "CARREFOUR Cours Action CA, Cotation Bourse Euronext Paris",
+      "url": "https://www.boursorama.com/cours/1rPCA/",
+      "snippet": "23 uur geleden · Le cours de l'action CARREFOUR CA en temps réel sur Boursorama : historique de la cotation sur Euronext Paris, graphique, actualités, consensus des analystes et informations boursières",
+      "domain": "boursorama.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

@@ -1,0 +1,85 @@
+{
+  "address": "Vosstraat 9, 2140 Borgerhout",
+  "address_key": "VOSSTRAAT|9|||2140|Borgerhout",
+  "query": "\"Vosstraat 9\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/?gl=DE&hl=de",
+      "snippet": "Auf YouTube findest du großartige Videos und erstklassige Musik. Außerdem kannst du eigene Inhalte hochladen und mit Freunden oder mit der ganzen Welt ...",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/",
+      "snippet": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube – Apps bei Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=de",
+      "snippet": "Hol dir die offizielle YouTube App auf Android-Smartphones und -Tablets und entdecke angesagte Videos weltweit – von den coolsten Musikvideos bis hin zu Hits in Sachen Gaming, Fashion, Beauty, …",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "About YouTube - YouTube",
+      "url": "https://about.youtube/",
+      "snippet": "YouTube's mission is to give everyone a voice and show them the world. Learn about our brand, community, careers and more.",
+      "domain": "about.youtube",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/YouTube",
+      "snippet": "YouTube (Aussprache [ˈjuːtuːb oder ˈjuːtjuːb]) ist ein 2005 gegründetes Videoportal des US-amerikanischen Unternehmens YouTube, LLC mit Sitz im kalifornischen San Bruno, welches seit …",
+      "domain": "de.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "YouTube – Apps bei Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.automotive.youtube&hl=gsw",
+      "snippet": "Get the official YouTube app in your car. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more.",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "YouTuber – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/YouTuber",
+      "snippet": "Meist spezialisieren sich YouTuber auf ein bestimmtes Genre von YouTube-Videos. Die bekanntesten Genres sind Erklärvideos, Vlogs, Tutorials, Nachrichten, Pranks oder Let’s Plays.",
+      "domain": "de.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "YouTube - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/YouTube",
+      "snippet": "Established media, news, and entertainment corporations have also created and expanded their visibility on YouTube channels to reach bigger audiences. YouTube has had unprecedented social impact, …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

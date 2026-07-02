@@ -1,0 +1,89 @@
+{
+  "address": "Dorpsbeekstraat 84, 2040 Bezali",
+  "address_key": "DORPSBEEKSTRAAT|84|||2040|Bezali",
+  "query": "\"Dorpsbeekstraat 84\" \"2040\" \"Bezali\"",
+  "results": [
+    {
+      "title": "Denník N - Facebook",
+      "url": "https://www.facebook.com/projektn.sk/",
+      "snippet": "Od predplatiteľov Denníka N často počúvame, že naše články sú pre vás dôležité a zaujímavé, ale nie vždy ich máte čas čítať. Nestíhate čítať? Vyskúšajte naše nové zhrnutia článkov Kvalitná žurnalistika …",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/projektn.sk/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Denník N - Nezávislý denník",
+      "url": "https://dennikn.sk/",
+      "snippet": "V odpovedi na infožiadosť to Denníku N oznámila manažérka kancelárie fondu. Medzi žiadateľmi boli kultúrne centrá Nová Cvernovka Bratislava, Tabačka Košice, Stanica Žilina-Záriečie a Nová …",
+      "domain": "dennikn.sk",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Minúta po minúte, rýchle správy Denníka N",
+      "url": "https://dennikn.sk/minuta",
+      "snippet": "V SHMÚ majú rozsiahly výpadok informačno-komunikačných prostriedkov, potvrdil hovorca Ivan Garčár. „Na odstránení intenzívne pracujeme.“ Jeden zdroj z prostredia ústavu pre Denník N tvrdí, že ide o …",
+      "domain": "dennikn.sk",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Deník N - Nezávislý český deník",
+      "url": "https://denikn.cz/",
+      "snippet": "Příběh ozonu: Radnice vás před ním varovala, ekologové zas varují před jeho úbytkem. Kdo má pravdu? „Tak seš teplej, a co?“ Jáhen husitské církve líčí, jak našel vnitřní klid a proč odešel od …",
+      "domain": "denikn.cz",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Traja z pôvodných investorov Denníka N predali svoje podiely redakcii",
+      "url": "https://www.aktuality.sk/clanok/WRZIemm/traja-z-povodnych-investorov-dennika-n-predali-svoje-podiely-redakcii/",
+      "snippet": "27 jun 2025 · Traja pôvodní investori Denníka N – Peter Paško, Miroslav Trnka a Anton Zajac – predali svoje podiely v spoločnosti. Novými majiteľmi sa stali priamo zamestnanci a spolupracovníci …",
+      "domain": "aktuality.sk",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Denník N - YouTube",
+      "url": "https://www.youtube.com/@DenniknSk",
+      "snippet": "Reflektor je relácia Denníka N, v ktorej sa Šimona Tomková rozpráva s osobnosťami zo sveta hudby, médií, športu, vedy či zábavy o dôležitých momentoch ich kariéry.",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Minúta po minúte, rýchle správy Denníka N",
+      "url": "https://www.obchod.denikn.cz/minuta/dolezite",
+      "snippet": "Počasie na dnes: Bude mimoriadne teplo, teploty vystúpia na 30 až 39 stupňov. SHMÚ vydalo výstrahy 3. stupňa pred horúčavami pre juhozápad krajiny. (shmú) Fejkový odborár vyhorel, píše Miro Kern v …",
+      "domain": "obchod.denikn.cz",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "SME | Aktuálne spravodajstvo. Najnovšie správy z domova",
+      "url": "https://www.sme.sk/domov",
+      "snippet": "SME | Aktuálne spravodajstvo. Najnovšie správy z domova. Danko chce kvôli nej pád Tarabu, Únia môže zastaviť stámilióny. Na vládu mieri sporná zonácia. Kto kreslí budúcnosť národných parkov? …",
+      "domain": "sme.sk",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

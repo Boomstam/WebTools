@@ -1,0 +1,85 @@
+{
+  "address": "Falconplein 25, 2000 Antwerpen",
+  "address_key": "FALCONPLEIN|25|||2000|Antwerpen",
+  "query": "\"Falconplein 25\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Gemini.pl - produkty z kategorii zdrowia i urody",
+      "url": "https://gemini.pl/",
+      "snippet": "Gemini.pl to Twoja platforma zdrowia i wygodny sposób na zakupy produktów z kategorii zdrowia i urody. Mamy niemal 27 000 produktów dostępnych od ręki.",
+      "domain": "gemini.pl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Wszystkie produkty - Gemini",
+      "url": "https://gemini.pl/grupa-produktow/akcja-wszystkie",
+      "snippet": "Wszystkie produkty w Gemini. Produkty z grupy polecamy można zamówić online na stronie Gemini. Oferujemy płatność online i za pobraniem oraz wysyłkę kurierem lub odbiór osobisty. Posiadamy …",
+      "domain": "gemini.pl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Logowanie do konta Gemini zaloguj się | Gemini",
+      "url": "https://konto.gemini.pl/files/prod/templates/unified.html",
+      "snippet": "Wejdź na stronę logowania Gemini. Zaloguj się na swoje konto lub załóż nowe, aby robić szybsze i wygodniejsze zakupy w Gemini.",
+      "domain": "konto.gemini.pl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Kosmetyki i dermokosmetyki | Gemini",
+      "url": "https://gemini.pl/kategoria/kosmetyki",
+      "snippet": "Szeroka gama kosmetyków do pielęgnacji całego ciała. Kosmetyki dla kobiet i mężczyzn, olejki, dezodoranty. Pielęgnacja włosów, paznokci, po opalaniu",
+      "domain": "gemini.pl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Preparaty bez recepty - tabletki bez recepty - Gemini.pl",
+      "url": "https://gemini.pl/kategoria/zdrowie",
+      "snippet": "W asortymencie Gemini znajdują się środki na przeziębienie, ból gardła, hemoroidy, chorobę lokomocyjną czy biegunkę, a także preparaty uzupełniające niedobory witamin i mikroelementów. …",
+      "domain": "gemini.pl",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Produkty z darmową dostawą - Gemini",
+      "url": "https://gemini.pl/grupa-produktow/darmowa-dostawa-wszystkie-produkty",
+      "snippet": "Produkty z darmową dostawą w Gemini. Produkty z grupy polecamy można zamówić online na stronie Gemini. Oferujemy płatność online i za pobraniem oraz wysyłkę kurierem lub odbiór osobisty. …",
+      "domain": "gemini.pl",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Podziękowanie za zamówienie - Apteka Internetowa Gemini",
+      "url": "https://apteka2.gemini.pl/dziekujemy",
+      "snippet": "Potwierdzenie wysłaliśmy na Twój adres e-mail Wróć do strony głównej",
+      "domain": "apteka2.gemini.pl",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Sprzęt medyczny - akcesoria i artykuły medyczne - Gemini",
+      "url": "https://gemini.pl/kategoria/sprzet-i-akcesoria-medyczne",
+      "snippet": "Akcesoria medyczne Wśród dostępnych w Gemini akcesoriów medycznych dostępne są produkty, których zastosowanie poprawi komfort codziennego funkcjonowania. W tej kategorii znaleźć można …",
+      "domain": "gemini.pl",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

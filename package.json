@@ -7,7 +7,9 @@
     "write:hello": "node src/write-hello.js",
     "probe:2dehands": "node src/probe-2dehands.js",
     "sync:caravans": "node src/sync-caravans.js",
-    "review:caravans": "node src/review-server.js"
+    "review:caravans": "node src/review-server.js",
+    "scrape:every-foods": "node src/scrape-every-foods.js",
+    "render:every-foods": "node src/scrape-every-foods.js --render-existing"
   },
   "dependencies": {
     "@google-cloud/local-auth": "^3.0.1",

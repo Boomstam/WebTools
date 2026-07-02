@@ -1,0 +1,85 @@
+{
+  "address": "Bredastraat 12, 2060 Antwerpen",
+  "address_key": "BREDASTRAAT|12|||2060|Antwerpen",
+  "query": "\"Bredastraat 12\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "How can I download .vsix files now that the Visual Studio Code ...",
+      "url": "https://stackoverflow.com/questions/79359919/how-can-i-download-vsix-files-now-that-the-visual-studio-code-marketplace-no-lo",
+      "snippet": "16 jan 2025 · FWIW, VS Code Marketplace has a public \"extensionquery\" API endpoint, where if you pass a filter, it will return the …",
+      "domain": "stackoverflow.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "What are the differences between Visual Studio Code and Visual Studio ...",
+      "url": "https://stackoverflow.com/questions/30527522/what-are-the-differences-between-visual-studio-code-and-visual-studio",
+      "snippet": "29 mei 2015 · Microsoft recently released Visual Studio Code and I am a little confused about its usage, since Visual Studio has lot …",
+      "domain": "stackoverflow.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "vs code not opening up in windows - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/61707561/vs-code-not-opening-up-in-windows",
+      "snippet": "10 mei 2020 · VS Code desktop versions starting with 1.71 (August 2022) will no longer run on Windows 7 and you will need to …",
+      "domain": "stackoverflow.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to update VS Code on Windows? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/60807557/how-to-update-vs-code-on-windows",
+      "snippet": "23 mrt 2020 · VS Code will automatically update itself on windows 10. If you'd like to force an update check there's an option …",
+      "domain": "stackoverflow.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Set language for syntax highlighting in Visual Studio Code",
+      "url": "https://stackoverflow.com/questions/30775551/set-language-for-syntax-highlighting-in-visual-studio-code",
+      "snippet": "VS Code has a setting, files.defaultLanguage, to configure a default language for untitled files. With this release, the setting can take …",
+      "domain": "stackoverflow.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Why is the Visual Studio Code Tab ↹ Key not inserting a tab?",
+      "url": "https://stackoverflow.com/questions/35519538/why-is-the-visual-studio-code-tab-key-not-inserting-a-tab",
+      "snippet": "The indentation of a code line when pressing the Tab key was not possible because the key binding for indentation was set to a 4 …",
+      "domain": "stackoverflow.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "How do you switch between branches in Visual Studio Code with Git ...",
+      "url": "https://stackoverflow.com/questions/56429228/how-do-you-switch-between-branches-in-visual-studio-code-with-git",
+      "snippet": "When in the Visual Studio Code IDE, do the following: on the bottom left, press on the Git branch which will give a list: Select a ref to …",
+      "domain": "stackoverflow.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "python - How can I activate my virtualenv in the Visual Studio Code ...",
+      "url": "https://stackoverflow.com/questions/72969269/how-can-i-activate-my-virtualenv-in-the-visual-studio-code-terminal",
+      "snippet": "13 jul 2022 · How can I activate my virtual environment in the Visual Studio Code terminal? I've tried using the workspace settings …",
+      "domain": "stackoverflow.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

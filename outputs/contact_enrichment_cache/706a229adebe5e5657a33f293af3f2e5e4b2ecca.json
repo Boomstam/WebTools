@@ -1,0 +1,85 @@
+{
+  "address": "Congresstraat 1 bus 16, 2060 Antwerpen",
+  "address_key": "CONGRESSTRAAT|1||16|2060|Antwerpen",
+  "query": "\"Congresstraat 1\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Contact Us - Microsoft Support",
+      "url": "https://support.microsoft.com/en-gb/contactus",
+      "snippet": "Contact Microsoft Support. Find solutions to common problems, or get help from a support agent.",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft 365 Customer Service and Support",
+      "url": "https://support.microsoft.com/en-us/office/microsoft-365-customer-service-and-support-96162163-b3aa-498b-bbbb-5e757b0f31da",
+      "snippet": "The type of support Microsoft provides for consumers depends on the product you're calling about and if you have a product for home or for business use. It can also depend on if you want help for an issue …",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Redeem a gift card or code to your Microsoft account",
+      "url": "https://support.microsoft.com/en-us/accounts-billing/redeem-a-gift-card-or-code-to-your-microsoft-account",
+      "snippet": "Learn how to redeem a gift card, code, or Office product key and spend your balance at Microsoft Store online, on Windows, or Xbox.",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Home | Microsoft Community Hub",
+      "url": "https://techcommunity.microsoft.com/",
+      "snippet": "Our community is a collaborative place to learn about our products and ask questions! Check out our most popular conversations!",
+      "domain": "techcommunity.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Find your BitLocker recovery key | Microsoft Support",
+      "url": "https://support.microsoft.com/en-us/windows/security/encryption/find-your-bitlocker-recovery-key",
+      "snippet": "Summary A BitLocker recovery key is needed when BitLocker can’t automatically unlock an encrypted drive in Windows. This is a 48‑digit number that lets you regain access to your drive.",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Get started with Microsoft 365 Copilot Notebooks",
+      "url": "https://support.microsoft.com/en-us/Microsoft-365-Copilot/get-started-with-microsoft-365-copilot-notebooks",
+      "snippet": "Introducing Copilot Notebooks–your own AI-powered workspace designed for the content that matters most to your task. Bring together all your relevant resources including Copilot Chat, files, pages, …",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Outlook help & learning | Microsoft Support",
+      "url": "https://support.microsoft.com/en-us/outlook/",
+      "snippet": "Get help with Outlook for Windows, the Outlook app, Outlook.com, and more. Find training videos, how-to articles, and Outlook support content",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "How to help keep your Microsoft account secure",
+      "url": "https://support.microsoft.com/en-us/accounts-billing/manage/how-to-help-keep-your-microsoft-account-secure",
+      "snippet": "Learn how to keep your Microsoft account safe, including making a strong password, identifying safe emails, and reviewing account activity.",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

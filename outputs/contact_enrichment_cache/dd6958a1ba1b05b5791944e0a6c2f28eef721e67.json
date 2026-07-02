@@ -1,0 +1,85 @@
+{
+  "address": "Oudebareellei 69-71, 2170 Merksem",
+  "address_key": "OUDEBAREELLEI|69|71||2170|Merksem",
+  "query": "\"Oudebareellei 69\" \"2170\" \"Merksem\"",
+  "results": [
+    {
+      "title": "Sign in to your account - Outlook",
+      "url": "https://outlook.office365.com/mail/login.html?authRedirect=true&bO=1",
+      "snippet": "Sign in to your Outlook account to manage emails and access Office 365 services.",
+      "domain": "outlook.office365.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Office 365 login",
+      "url": "https://www.office.com/",
+      "snippet": "Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, and OneNote. Save documents, spreadsheets, and presentations online, in OneDrive.",
+      "domain": "office.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Sign in to your account - Outlook",
+      "url": "https://outlook.office365.com/mail/",
+      "snippet": "Sign in to Microsoft Outlook to access your email and manage messages efficiently.",
+      "domain": "outlook.office365.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Sign in to your account",
+      "url": "https://outlook.office.com/mail/",
+      "snippet": "Securely sign in to access your Microsoft account and manage emails, calendars, and other services efficiently.",
+      "domain": "outlook.office.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Outlook Log In | Microsoft 365",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/outlook/log-in?msockid=2610586d572568690d574fe4565169b9",
+      "snippet": "Sign in to Outlook with Microsoft 365 to access your email, calendar, and more. Download the app or log in online for enhanced organization and productivity.",
+      "domain": "microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Inicio de sesión de Outlook | Microsoft 365",
+      "url": "https://www.microsoft.com/es-es/microsoft-365/outlook/log-in?msockid=2610586d572568690d574fe4565169b9",
+      "snippet": "Inicia sesión en Outlook con Microsoft 365 para acceder a tu correo electrónico, calendario y mucho más. Descarga la aplicación o inicia sesión en línea para mejorar la organización y la productividad.",
+      "domain": "microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Outlook Personal Email and Calendar | Microsoft 365",
+      "url": "https://www.outlook.com/",
+      "snippet": "Download free Microsoft Outlook email and calendar, plus Office Online apps like Word, Excel, and PowerPoint. Sign in to access your Outlook email account.",
+      "domain": "outlook.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.com/owa/Office365.com",
+      "snippet": "Outlook",
+      "domain": "outlook.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

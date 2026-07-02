@@ -1,0 +1,85 @@
+{
+  "address": "Karel Soetelaan 25 bus 1, 2150 Borsbeek",
+  "address_key": "KAREL SOETELAAN|25||1|2150|Borsbeek",
+  "query": "\"Karel Soetelaan 25\" \"2150\" \"Borsbeek\"",
+  "results": [
+    {
+      "title": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps",
+      "url": "https://www.microsoft.com/en-us?msockid=0cd6e2b7fd9467a20cfef53efc89665e",
+      "snippet": "Explore Microsoft products and services and support for your home or business. Shop Microsoft 365, Copilot, Teams, Xbox, Windows, Azure, Surface and more.",
+      "domain": "microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft account | Sign In or Create Your Account Today – Microsoft",
+      "url": "https://account.microsoft.com/account",
+      "snippet": "Get access to free online versions of Outlook, Word, Excel, and PowerPoint.",
+      "domain": "account.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Office 365 login",
+      "url": "https://www.office.com/",
+      "snippet": "Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, and OneNote. Save documents, spreadsheets, and presentations online, in OneDrive.",
+      "domain": "office.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Sign in to your account - outlook .office.com",
+      "url": "https://outlook.office.com/mail/inbox",
+      "snippet": "Sign in to Outlook to access and manage your email efficiently.",
+      "domain": "outlook.office.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Outlook Personal Email and Calendar | Microsoft 365",
+      "url": "https://www.outlook.com/",
+      "snippet": "Download free Microsoft Outlook email and calendar, plus Office Online apps like Word, Excel, and PowerPoint. Sign in to access your Outlook email account.",
+      "domain": "outlook.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "XBOX Official Site (United Kingdom): Play Games Anywhere | XBOX",
+      "url": "https://www.xbox.com/en-GB?msockid=0cd6e2b7fd9467a20cfef53efc89665e",
+      "snippet": "Discover the latest Xbox consoles, games, and accessories to elevate your gaming experience. Explore a new generation of entertainment with Xbox.",
+      "domain": "xbox.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Store | Xbox",
+      "url": "https://www.xbox.com/en-us/microsoft-store?msockid=0cd6e2b7fd9467a20cfef53efc89665e",
+      "snippet": "What you used to get on Xbox Store you can now find on Microsoft Store. The destination to get the games and entertainment you love for your Xbox.",
+      "domain": "xbox.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

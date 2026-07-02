@@ -1,0 +1,85 @@
+{
+  "address": "Bouwhandelstraat 105, 2140 Borgerhout",
+  "address_key": "BOUWHANDELSTRAAT|105|||2140|Borgerhout",
+  "query": "\"Bouwhandelstraat 105\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "Főoldal - Lakossági Portál - gov . hu",
+      "url": "https://www.eeszt.gov.hu/hu/",
+      "snippet": "A digitális önrendelkezés lehetőséget ad Önnek, hogy az EESZT által kezelt egészségügyi adataihoz történő hozzáférést szabályozza. Folyamatosan követheti, hogy ki kért hozzáférést az Ön adataihoz, …",
+      "domain": "eeszt.gov.hu",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Lakossági portál - EESZT Információs portál",
+      "url": "https://e-egeszsegugy.gov.hu/lakossagi-portal",
+      "snippet": "Látogasson el az EESZT Lakossági Portál felületére (https://eeszt.gov.hu), ahol az Ügyfélkapus bejelentkezést követően bármikor megtekintheti az egészségügyi ellátás során keletkezett EESZT …",
+      "domain": "e-egeszsegugy.gov.hu",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "EESZT Alkalmazás / EESZT Lakossági - Lakossági Portál - gov . hu",
+      "url": "https://www.eeszt.gov.hu/hu/eeszt-alkalmazas-/-eeszt-lakossagi",
+      "snippet": "Az EESZT applikáció (a továbbiakban: Alkalmazás) használata bejelentkezéshez kötött. A bejelentkezéshez első lépésben Ügyfélkapus belépési adataival azonosítania kell magát, majd meg …",
+      "domain": "eeszt.gov.hu",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "bejelentkezés az EESZT oldalra - Belépés -regisztráció. hu",
+      "url": "https://belepes-regisztracio.hu/eeszt-belepes-eeszt-bejelentkezes/",
+      "snippet": "EESZT belépés asztali számítógépen A belépés megkezdéséhez klikkeljünk erre a linkre , vagy nyissuk meg böngészőnkben az EESZT nyitó oldalát a https://www.eeszt.gov.hu linket beírva böngészőnk …",
+      "domain": "belepes-regisztracio.hu",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "KAÜ - Lakossági Portál - gov . hu",
+      "url": "https://www.eeszt.gov.hu/hu/kau",
+      "snippet": "1014 Budapest, Szentháromság tér 6.",
+      "domain": "eeszt.gov.hu",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "gov . hu - Üdvözöljük az EESZT felületén!",
+      "url": "http://www.eeszt.gov.hu/",
+      "snippet": "Üdvözöljük az EESZT felületén! FIGYELEM! A Digitális COVID-igazolvány és ellenőrző alkalmazás ingyenesen elérhető a Google Play, az App Store és az AppGallery áruházakban EgészségAblak …",
+      "domain": "eeszt.gov.hu",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Egészségügyi dokumentumok - Lakossági Portál - gov . hu",
+      "url": "https://www.eeszt.gov.hu/hu/egeszsegugyi-dokumentumok",
+      "snippet": "Az EESZT rendszerébe feltöltött egészégügyi dokumentumok szinte azonnal elérhetővé válnak a felhasználók részére, amelyekről e-mail, valamint okoseszköz használata esetén felugró (push) …",
+      "domain": "eeszt.gov.hu",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Belépés az EESZT -be - EESZT Információs portál",
+      "url": "https://e-egeszsegugy.gov.hu/belepes-az-eeszt-be",
+      "snippet": "Belépés az EESZT-be - EESZT Információs portál. Ugrás a fő tartalomhoz . Weboldalunkon sütiket (cookie) használunk, hogy biztonságos böngészés mellett a legjobb felhasználói élményt …",
+      "domain": "e-egeszsegugy.gov.hu",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

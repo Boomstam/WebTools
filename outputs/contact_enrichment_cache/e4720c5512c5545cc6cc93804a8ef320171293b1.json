@@ -1,0 +1,85 @@
+{
+  "address": "Florastraat 126, 2140 Borgerhout",
+  "address_key": "FLORASTRAAT|126|||2140|Borgerhout",
+  "query": "\"Florastraat 126\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "Android Apps on Google Play",
+      "url": "https://play.google.com/",
+      "snippet": "Hey, want to come out and play with us? When dinner time arrives, everyone returns home and sends messages in the group chat on their phones, talking about the fun moments of the day.",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Play Store Download Android APK Free - 52.0.21 | TechSpot",
+      "url": "https://www.techspot.com/downloads/6105-google-play-store.html",
+      "snippet": "1 dag geleden · Operated and developed by Google, the Play Store is an essential system component rather than just a storefront – one that most users rely on daily without ever having to think about it.",
+      "domain": "techspot.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Play Store - Kotaku",
+      "url": "https://kotaku.com/download/google-playstore",
+      "snippet": "1 dag geleden · The Google Play Store is the primary place for Android users to download apps, games, books, tools, and other content to their devices and manage subscriptions.",
+      "domain": "kotaku.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "We connect billions of people with millions of app, game, and book ...",
+      "url": "https://google.play/about/",
+      "snippet": "Google Play brings together people, apps, and games. Learn about our brand, community, and more.",
+      "domain": "google.play",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Play for Android - Download the APK from Uptodown",
+      "url": "https://google-play.en.uptodown.com/android",
+      "snippet": "23 uur geleden · Google Play is Google's official store for Android operating systems, where you can find games, books, audiobooks, and apps. With the app, you can purchase and download all this …",
+      "domain": "google-play.en.uptodown.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google Play Store APK for Android Download - APKPure.com",
+      "url": "https://apkpure.com/google-play-store-app/com.android.vending",
+      "snippet": "23 uur geleden · Google Play Store apk brings discovery, purchases, and account controls into one familiar place across Android screens. When you are ready, explore curated sections, manage your …",
+      "domain": "apkpure.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Download Google Play Store : PC, Android (APK) - CCM",
+      "url": "https://ccm.net/downloads/internet/7177-google-play-store-apk/",
+      "snippet": "22 jan 2024 · We offer you the latest version of Google Play Store, from which you can download and install apps, games, movies, music, and more media content on all your Android devices.",
+      "domain": "ccm.net",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Download Google Play Store APKs for Android - APKMirror",
+      "url": "https://www.apkmirror.com/apk/google-inc/google-play-store/",
+      "snippet": "Download Google Play Store APKs for Android - APKMirror Free and safe Android APK downloads",
+      "domain": "apkmirror.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

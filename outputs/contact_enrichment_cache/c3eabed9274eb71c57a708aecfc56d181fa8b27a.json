@@ -1,0 +1,85 @@
+{
+  "address": "Ballaarstraat 25, 2018 Antwerpen",
+  "address_key": "BALLAARSTRAAT|25|||2018|Antwerpen",
+  "query": "\"Ballaarstraat 25\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "RTBF Auvio : toute l'offre audio, vidéo et direct de la RTBF",
+      "url": "https://auvio.rtbf.be/",
+      "snippet": "Suivez-nous Les chaînes RTBF sur Auvio La Une Tipik La Trois Classic 21 La 1ère Vivacité Musiq3 Tarmac JAM Viva+ Viva sport Les catégories sur Auvio Séries Films Info Sport Documentaires...",
+      "domain": "auvio.rtbf.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Direct - Auvio",
+      "url": "https://auvio.rtbf.be/direct",
+      "snippet": "Le 19h30 Prochain direct Aujourd’hui à 10h30 JT langue des signes sur Auvio Prochain direct Aujourd’hui à 10h50 Météo",
+      "domain": "auvio.rtbf.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "RTBF Auvio : direct et replay - App Store",
+      "url": "https://apps.apple.com/be/app/rtbf-auvio-direct-et-replay/id1249992761",
+      "snippet": "Cette mise à jour apporte des améliorations techniques majeures pour rendre RTBF Auvio plus fluide, plus réactive et plus agréable à utiliser au quotidien. Elle corrige également plusieurs bugs mineurs …",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "RTBF Auvio : direct et replay - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=be.rtbf.auvio&hl=en-US",
+      "snippet": "12 jun 2026 · Watch your favorite RTBF shows anywhere, live or delayed. The Auvio application takes into account your lifestyle and your desires, you decide when and where to browse for free the audio …",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "RTBF Auvio : direct et replay – Applications sur Google Play",
+      "url": "https://play.google.com/store/apps/details?id=be.rtbf.auvio&hl=fr",
+      "snippet": "L’application Auvio tient compte de votre train de vie et de vos envies, vous décidez quand et où parcourir gratuitement les programmes audio et vidéo des chaînes de la RTBF (info, sport, météo,...",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Télécharger RTBF Auvio (gratuit) Web, Android, iOS - Clubic",
+      "url": "https://www.clubic.com/telecharger-fiche611362-rtbf-auvio.html",
+      "snippet": "30 apr 2026 · RTBF Auvio est une application de vidéo et radio qui permet d’accéder aux contenus de la RTBF. Elle regroupe télévision en direct, replay et émissions audio dans une interface claire.",
+      "domain": "clubic.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Mon Auvio - Auvio",
+      "url": "https://auvio.rtbf.be/mon-auvio",
+      "snippet": "Disponible sur Google Play Disponible sur App Store Suivez-nous Les chaînes RTBF sur Auvio La Une Tipik La Trois Classic 21 La 1ère Vivacité Musiq3 Tarmac JAM Viva+ Viva sport Les catégories sur...",
+      "domain": "auvio.rtbf.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Tous les programmes - Auvio",
+      "url": "https://auvio.rtbf.be/programmes",
+      "snippet": "Disponible sur Google Play Disponible sur App Store Suivez-nous Les chaînes RTBF sur Auvio La Une Tipik La Trois Classic 21 La 1ère Vivacité Musiq3 Tarmac JAM Viva+ Viva sport Les catégories sur...",
+      "domain": "auvio.rtbf.be",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

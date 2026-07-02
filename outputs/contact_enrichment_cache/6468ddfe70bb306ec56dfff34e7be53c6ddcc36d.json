@@ -1,0 +1,85 @@
+{
+  "address": "Amsterdamstraat 35 bus 401, 2000 Antwerpen",
+  "address_key": "AMSTERDAMSTRAAT|35||401|2000|Antwerpen",
+  "query": "\"Amsterdamstraat 35\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "NIVEA .de",
+      "url": "https://www.nivea.de/",
+      "snippet": "Willkommen auf der NIVEA Website! Wir bieten Ihnen tolle Tipps und spannende Möglichkeiten rund um die beliebten Hautpflegeprodukte von NIVEA.",
+      "domain": "nivea.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ALLEMAGNE NAVEA",
+      "url": "https://shop-navea.com/",
+      "snippet": "Der Riesenball stimuliert die natürlichen Spielinstinkte Ihres Hundes und fördert bessere körperliche und geistige Gesundheit. Alle Materialien sind ungiftig und erfüllen internationale Sicherheitsstandards für …",
+      "domain": "shop-navea.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Alle Produkte in der Übersicht – NIVEA",
+      "url": "https://www.nivea.de/produkte",
+      "snippet": "Hier finden Sie eine Übersicht unserer Wellness- und Kosmetikprodukte. Lassen Sie sich auf der Suche nach Ihrem NIVEA Lieblingsprodukt inspirieren.",
+      "domain": "nivea.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Navea ™ Riesenball – ALLEMAGNE NAVEA - shop - navea .com",
+      "url": "https://shop-navea.com/products/navea%E2%84%A2-riesenball",
+      "snippet": "\"Wir haben zwei Border Collies und sie haben ein Spiel erfunden, bei dem sie das Navea™ abwechselnd in die Ecke des Hofes treiben. Wir stehen einfach da und schauen zu.",
+      "domain": "shop-navea.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "navea",
+      "url": "https://navea.co/",
+      "snippet": "Support for Fewer UTIs. More You. Discover modern feminine wellness with products designed to support hydration, urinary balance, and daily health. Navea provides proactive, everyday support for …",
+      "domain": "navea.co",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Produits – NAVEA FR",
+      "url": "https://boutique-navea.com/collections/all",
+      "snippet": "Guide - Devenez un meilleur maître €19,99 Promotion Navea™ Balle Géante €37,99 €59,99",
+      "domain": "boutique-navea.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "NIVEA Deutschland | NIVEA Hautpflegeprodukt-Aktion",
+      "url": "https://www.nivea.com.de/",
+      "snippet": "Entdecken Sie die Meistverkauften Produkte von NIVEA: Hautcreme, Sonnencreme, Gesichtscreme, Feuchtigkeitscreme, Shampoo, Duschgel usw.",
+      "domain": "nivea.com.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "NIVEA Online - Shop | OTTO",
+      "url": "https://www.otto.de/beauty/?marke=_nivea",
+      "snippet": "Seit mehr als 110 Jahren sorgt NIVEA dafür, dass du dich in deiner Haut wohlfühlst. Entdecke unsere innovativen Hautpflegeprodukte – von Gesichts- und Körperpflege bis hin zum Sonnenschutz.",
+      "domain": "otto.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

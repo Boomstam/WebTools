@@ -1,0 +1,100 @@
+{
+  "address": "Hoogstraat 60, 2000 Antwerpen",
+  "address_key": "HOOGSTRAAT|60|||2000|Antwerpen",
+  "query": "\"Hoogstraat 60\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Hoogstraat , Gemeente Antwerpen (Antwerpen, Historisch Centrum)",
+      "url": "https://straten.openalfa.be/straten/hoogstraat-historisch-centrum-antwerpen-antwerpen",
+      "snippet": "Lijst met diensten in de buurt van Hoogstraat, Gemeente Antwerpen (Antwerpen: winkels, restaurants, vrijetijds- en sportfaciliteiten, ziekenhuizen, benzinestations en andere interessante plaatsen.",
+      "domain": "straten.openalfa.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Tandartspraktijk Hoogstraat te Wetteren",
+      "url": "https://www.tandartsenhoogstraat.be/neem-contact-met-ons-op",
+      "snippet": "Het vastleggen, verplaatsen of annuleren van afspraken verloopt bij voorkeur telefonisch op het nummer. 09 369 52 14 of 09 366 15 73. Indien er voor de schoolgaande kinderen afspraken tijdens …",
+      "domain": "tandartsenhoogstraat.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Tandartspraktijk Hoogstraat - Tandheelkunde in Wetteren Florimond ...",
+      "url": "https://firmania.be/wetteren/tandartspraktijk-hoogstraat-499631",
+      "snippet": "Vind de contactgegevens van bedrijven uit Tandartspraktijk Hoogstraat in Florimond Leirensstraat 28, 9230, Wetteren Wetteren, waaronder telefoonnummer ☎, adres, openingstijden ⌚. Vind ook …",
+      "domain": "firmania.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Tandartspraktijk Hoogstraat te Wetteren",
+      "url": "https://www.tandartsenhoogstraat.be/about",
+      "snippet": "In de Lange Bergstraat rijdt u de parking op naast het Fintro-kantoor, onder een appartementsgebouw. Rechts kan u 3 parkeerplaatsen vinden, aangeduid met \"Parking Tandarts\". U komt binnen langs de …",
+      "domain": "tandartsenhoogstraat.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Tandartspraktijk Hoogstraat , Wetteren",
+      "url": "https://www.cylex-belgie.be/bedrijf/tandartspraktijk+hoogstraat-13396663.html",
+      "snippet": "Tandartspraktijk Hoogstraat Florimond Leirensstraat 28 in Wetteren, ⌚ Openingstijden, routekaart, E-Mail en meer.",
+      "domain": "cylex-belgie.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "TANDARTSPRAKTIJK HOOGSTRAAT in Wetteren - BE_2323191471",
+      "url": "https://data.be/nl/vestiging/Tandartspraktijk-Hoogstraat-Wetteren-2323191471",
+      "snippet": "Alle officiële info over TANDARTSPRAKTIJK HOOGSTRAAT BE_2323191471: email, telefoon, bedrijfsinformatie, toegang kaart, managers, ...",
+      "domain": "data.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "TANDARTSPRAKTIJK HOOGSTRAAT tot Wetteren , Algemene …",
+      "url": "https://lokaal.infobel.be/BE106830297-093695214/tandartspraktijk_hoogstraat-wetteren.html",
+      "snippet": "Algemene Tandartsen TANDARTSPRAKTIJK HOOGSTRAAT Geen beoordelingen Florimond Leirensstraat 28 9230 Wetteren Oost Vlaanderen - Vlaanderen - Belgium Geef telefoon weer …",
+      "domain": "lokaal.infobel.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Mappy - Plattegronden, routevergelijker en kaarten van België",
+      "url": "https://nl-be.mappy.com/",
+      "snippet": "Opzoeken van adressen, plaatsen, routes vergelijken om uw reisweg overal in België te plannen.",
+      "domain": "nl-be.mappy.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

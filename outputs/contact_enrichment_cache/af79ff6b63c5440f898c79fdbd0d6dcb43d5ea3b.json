@@ -1,0 +1,85 @@
+{
+  "address": "Bredastraat 36, 2060 Antwerpen",
+  "address_key": "BREDASTRAAT|36|||2060|Antwerpen",
+  "query": "\"Bredastraat 36\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Telenet Webmail",
+      "url": "http://webmail.telenet.be/",
+      "snippet": "Wij willen hier een beschrijving geven, maar de site die u nu bekijkt staat dit niet toe.",
+      "domain": "webmail.telenet.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Aanmelden op Telenet Webmail | MyTelenet",
+      "url": "https://www2.telenet.be/residential/nl/klantenservice/internet/e-mail/aanmelden-op-telenet-webmail.html",
+      "snippet": "Eenvoudig inloggen op Telenet Webmail met je Telenet e-mailadres en wachtwoord. Blijf aangemeld en beheer je e-mails moeiteloos.",
+      "domain": "www2.telenet.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Mijn Telenet",
+      "url": "https://mijn.telenet.be/mijntelenet/login/overview.do",
+      "snippet": "Om deze login functionaliteit mogelijk te maken, zal strikt noodzakelijke informatie, zoals bv. je IP-adres en de website die je bezoekt, doorgegeven worden aan de betreffende derde partij.",
+      "domain": "mijn.telenet.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Telenet : Meld je aan",
+      "url": "https://login.prd.telenet.be/openid/login.do%22,%22login%22,%7B%22j_username?lang=nl",
+      "snippet": "Oeps, er ging iets mis. Probeer later opnieuw.",
+      "domain": "login.prd.telenet.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Telenet : Meld je aan",
+      "url": "https://login.prd.telenet.be/openid/login?lang=nl&error=session_expired",
+      "snippet": "Je sessie is verlopen, gelieve opnieuw in te loggen.",
+      "domain": "login.prd.telenet.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Je e-mail | MyTelenet",
+      "url": "https://www2.telenet.be/residential/nl/klantenservice/internet/e-mail.html",
+      "snippet": "Hoe je e-mail instellen, een extra mailbox aanmaken of aanmelden op je Webmail? Lees er alles over op onze Klantenservice-website.",
+      "domain": "www2.telenet.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Je login en wachtwoord - Telenet",
+      "url": "https://www2.telenet.be/residential/nl/klantenservice/je-gegevens-aanpassen/login-en-wachtwoord/je-login.html",
+      "snippet": "Login en wachtwoord aanmaken of wijzigen Met je login meld je makkelijk aan op alle Telenet-websites en apps. En elk gezinslid kan een eigen login aanmaken. Zo ziet iedereen in je gezin alleen wat-ie …",
+      "domain": "www2.telenet.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "MyTelenet | MyTelenet",
+      "url": "https://www2.telenet.be/residential/nl/mytelenet.html",
+      "snippet": "In MyTelenet zie je meteen hoe het gesteld is met je verbruik, je aanrekeningen en je thuisnetwerk. Je belangrijkste taken zijn onmiddellijk toegankelijk via Mijn producten, Betaling, Hulp en Profiel.",
+      "domain": "www2.telenet.be",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

@@ -1,0 +1,85 @@
+{
+  "address": "Britselei 15, 2000 Antwerpen",
+  "address_key": "BRITSELEI|15|||2000|Antwerpen",
+  "query": "\"Britselei 15\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Chrome Web Store",
+      "url": "https://chromewebstore.google.com/",
+      "snippet": "Easily remove backgrounds, adjust colors and more. Plus, get 6 months free access to Photoshop web.",
+      "domain": "chromewebstore.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Chrome Web Store",
+      "url": "https://chromewebstore.google.com/category/apps",
+      "snippet": "Discover a wide range of apps, games, extensions, and themes for your Chrome browser in the Chrome Web Store.",
+      "domain": "chromewebstore.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Chrome - The Fast & Secure Web Browser Built to be Yours",
+      "url": "http://chrome.com/",
+      "snippet": "Chrome is the official web browser from Google, built to be fast, secure, and customizable. Download now and make it yours.",
+      "domain": "chrome.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Chrome Web Store | Chrome Extensions | Chrome for Developers",
+      "url": "https://developer.chrome.com/docs/webstore",
+      "snippet": "Learn to publish your first extension and how to fill out all the information required to distribute on the Chrome Web Store. Use the privacy practices tab to help the Chrome Web Store team review your …",
+      "domain": "developer.chrome.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Chrome Web Store - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chrome_Web_Store",
+      "snippet": "Chrome Web Store ... Chrome Web Store is Google 's online store for its Chrome web browser. As of 2024, Chrome Web Store hosts about 138,000 extensions and 33,000 themes. [1] These extensions …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Download Google Chrome (free) for Windows, macOS, Android, APK",
+      "url": "https://kotaku.com/download/google-chrome",
+      "snippet": "1 dag geleden · The Chrome Web Store is an application with thousands of extensions. These extensions can block advertisements, take notes, store passwords, translate web pages, increase …",
+      "domain": "kotaku.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google Chrome Web Store - 9to5Google",
+      "url": "https://9to5google.com/guides/google-chrome-web-store/",
+      "snippet": "6 mei 2020 · Last month, Google brought Chrome Web Store to sixteen new countries. The nine-month-old store is now available in 55 countries around the world and it hosts web apps which accept in-app...",
+      "domain": "9to5google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google launches redesigned Chrome Web Store - The Keyword",
+      "url": "https://blog.google/products-and-platforms/products/chrome/google-chrome-web-store-redesign/",
+      "snippet": "20 nov 2023 · The new Chrome Web Store is officially open for business. Previously available in a limited preview, anyone can now access the redesigned store to easily find Chrome extensions and …",
+      "domain": "blog.google",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

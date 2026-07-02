@@ -1,0 +1,85 @@
+{
+  "address": "Provinciestraat 181, 2018 Antwerpen",
+  "address_key": "PROVINCIESTRAAT|181|||2018|Antwerpen",
+  "query": "\"Provinciestraat 181\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "凤凰网",
+      "url": "https://www.ifeng.com/",
+      "snippet": "1 dag geleden · 北京天盈九州网络技术有限公司版权所有 违法和不良信息举报热线：400-919-9991 ask@ifeng.com 侵权投诉 …",
+      "domain": "ifeng.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "凤凰网",
+      "url": "https://www.ifeng.com/?lang=en",
+      "snippet": "23 uur geleden · 凤凰网是中国领先的综合门户网站，提供含文图音视频的全方位综合新闻资讯、深度访谈、观点评论、财经产品、互 …",
+      "domain": "ifeng.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "凤凰视讯 - 全球华人资讯门户",
+      "url": "https://www.ifengtv.cn/",
+      "snippet": "23 uur geleden · 凤凰视讯，全球华人资讯门户。依托遍布全球的记者站，为海内外华人提供新鲜、全面、权威、准确的新闻资讯、深 …",
+      "domain": "ifengtv.cn",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "资讯_凤凰网",
+      "url": "https://news.ifeng.com/",
+      "snippet": "23 uur geleden · 庆祝中国共产党成立105周年大会在京隆重举行 总书记要求全党同志做到“三个务必” 细节有深意 强党强国 一图学习 …",
+      "domain": "news.ifeng.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "手机鳳凰網",
+      "url": "https://i.ifeng.com/",
+      "snippet": "23 uur geleden · 凤凰网提供全面的新闻资讯、深度访谈、观点评论及互动服务，为全球华人带来三网融合的优质新媒体体验。",
+      "domain": "i.ifeng.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "资讯_凤凰网",
+      "url": "https://news.ifeng.com/?_c=index&_a=index",
+      "snippet": "23 uur geleden · 习近平在庆祝中国共产党成立105周年大会上发表重要讲话 习近平向“七一勋章”获得者颁授勋章 为先进基层党组织代 …",
+      "domain": "news.ifeng.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "资讯首页_凤凰网",
+      "url": "https://news.ifeng.com/index2.shtml",
+      "snippet": "23 uur geleden · 订制“我的个性旧闻” 不需要登录，只要按照次序选择四个你最想看的关键词，以 …",
+      "domain": "news.ifeng.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "ifeng .com - 美好中国_凤凰网",
+      "url": "https://china.ifeng.com/",
+      "snippet": "23 uur geleden · 凤凰新媒体介绍 投资者关系 Investor Relations 广告服务 诚征英才 保护隐私权 免责条款 意见反馈 凤凰卫视介绍 …",
+      "domain": "china.ifeng.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

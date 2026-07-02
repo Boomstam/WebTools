@@ -1,0 +1,85 @@
+{
+  "address": "Paardenmarkt 15 bus 101, 2000 Antwerpen",
+  "address_key": "PAARDENMARKT|15||101|2000|Antwerpen",
+  "query": "\"Paardenmarkt 15\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "ImmoScout24 – Mit über 6,5 Mio. Immobilien.",
+      "url": "https://www.immobilienscout24.de/?msockid=345d68734bbb60142be57ffa4a2e61e0",
+      "snippet": "Anbieten. Suchen. Finden. Die größte Auswahl an Wohnungen, Häusern und Gewerbeflächen findest du nur bei ImmoScout24. Immobilien ab 0€ vermieten &check; Jetzt Traumwohnung finden &check; …",
+      "domain": "immobilienscout24.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Haus kaufen: Häuser & Hauskauf bei ImmoScout24",
+      "url": "https://www.immobilienscout24.de/wohnen/haus-kaufen.html?msockid=345d68734bbb60142be57ffa4a2e61e0",
+      "snippet": "Häuser kaufen bei ImmoScout24: Finden Sie Immobilienangebote für Häuser zum Kauf und profitieren Sie von einer großen Auswahl. Jetzt Häusersuche starten!",
+      "domain": "immobilienscout24.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Immobilien mieten/kaufen bei immowelt",
+      "url": "https://www.immowelt.de/suche/immobilien?msockid=345d68734bbb60142be57ffa4a2e61e0",
+      "snippet": "Immobilien mieten/kaufen. Immobilien zum Kauf / zur Miete findest du bei Immowelt ⇒ Jetzt dank großer Auswahl Wunschimmobilie finden!",
+      "domain": "immowelt.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Immobilien, Wohnungen und Häuser auf ImmoScout24",
+      "url": "https://www.immobilienscout24.at/",
+      "snippet": "Ob Wohnungen oder Häuser, zur Miete oder zum Kauf - Immobilien in ganz Österreich suchen und finden mit der Immobiliensuche von ImmoScout24.",
+      "domain": "immobilienscout24.at",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Immobilien - Häuser - Wohnungen - finden bei immowelt.de",
+      "url": "https://www.immowelt.de/?msockid=345d68734bbb60142be57ffa4a2e61e0",
+      "snippet": "Aktuelle Immobilien, schöne Wohnungen und Häuser zur Miete oder Kauf in ganz Deutschland. Jetzt online, schnell & einfach, persönlichen Wohntraum finden!",
+      "domain": "immowelt.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Die Nr. 1 für Immobilien - Scout24",
+      "url": "https://www.scout24.com/",
+      "snippet": "Scout24 ist ein führendes Digitalunternehmen in Deutschland und betreibt mit ImmoScout24 die Nummer 1 unter den Online-Plattformen für Wohn- und Gewerbeimmobilien in Deutschland.",
+      "domain": "scout24.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Bewertungen zu ImmoScout24 | Lesen Sie Kundenbewertungen zu …",
+      "url": "https://de.trustpilot.com/review/www.immobilienscout24.de",
+      "snippet": "Kontaktinformationen Invalidenstraße 65, 10557, Berlin, Deutschland www.immobilienscout24.de 2,9 Akzeptabel 9992 Bewertungen",
+      "domain": "de.trustpilot.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Immobilien Suchmaschine für Wohnung, WG, Haus und Grundstück ...",
+      "url": "https://www.immosuchmaschine.de/",
+      "snippet": "Veröffentlichen Sie Ihre Immobilienanzeigen direkt auf 3 Portalen indem Sie auf immobilienscout24.de inserieren und finden Sie rasch einen passenden Käufer, Mieter, Nachmieter oder Immobilienmakler.",
+      "domain": "immosuchmaschine.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

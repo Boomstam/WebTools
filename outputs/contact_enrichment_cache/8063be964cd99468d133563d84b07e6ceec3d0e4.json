@@ -1,0 +1,89 @@
+{
+  "address": "Franciscanenstraat 3, 2040 Bezali",
+  "address_key": "FRANCISCANENSTRAAT|3|||2040|Bezali",
+  "query": "\"Franciscanenstraat 3\" \"2040\" \"Bezali\"",
+  "results": [
+    {
+      "title": "Marco Masini - Facebook",
+      "url": "https://www.facebook.com/marcomasiniofficial/",
+      "snippet": "La data di Bergamo si sposta al 15 luglio al Lazzaretto e si aggiunge una nuova tappa, il 20 luglio al Parco Urbano di Troia (FG).",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/marcomasiniofficial/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Marco Masini - Wikipedia",
+      "url": "https://it.wikipedia.org/wiki/Marco_Masini",
+      "snippet": "Marco Masini (Firenze, 18 settembre 1964 [1]) è un cantautore italiano. Dotato di un timbro musicale molto esteso, il suo repertorio vanta classici della musica italiana tra cui Ci vorrebbe il mare, …",
+      "domain": "it.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "marcomasiniofficial - YouTube",
+      "url": "https://www.youtube.com/channel/UCrvt5CzxHZGJBNkMhtZAtKg",
+      "snippet": "Marco Masini began working with Beppe Dati and Giancarlo Bigazzi in 1986 and in 1990 participated to Sanremo with \"Disperato\" which won in the \"Youth\" section.",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Marco Masini - Tutte Le Più Belle - YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLTUJi5Mp7zcG6vrKHDa55WfLNdixIDeH_",
+      "snippet": "Queste 30 canzoni sono a mio avviso le più belle che ha scritto e soprattutto interpretato senza dare a meno de...",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "HOME | Marco Masini",
+      "url": "https://www.marcomasini.it/?lang=en",
+      "snippet": "Con oltre 35 anni di carriera, Marco Masini continua a emozionare generazioni di pubblico con la sua voce inconfondibile e un repertorio che ha segnato la storia della musica italiana.",
+      "domain": "marcomasini.it",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Marco Masini , chi è | Carrierà, età e nuova fidanzata: la rinascita ...",
+      "url": "https://www.ilsussidiario.net/news/marco-masini-chi-e-carriera-eta-e-nuova-fidanzata-la-rinascita-dopo-un-momento-difficile/2957741/",
+      "snippet": "29 apr 2026 · Al momento Marco Masini è legato sentimentalmente ad una donna, non si conosce il suo nome ma in un’intervista di qualche mese ha raccontato di essere ormai fidanzato da qualche anno.",
+      "domain": "ilsussidiario.net",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Marco Masini : età, moglie, dove abita, vita privata, malattia",
+      "url": "https://alphabetcity.it/2025/07/29/marco-masini-moglie-dove-abita-vita-privata-malattia/",
+      "snippet": "29 jul 2025 · Marco, nato il 18 settembre 1964, fiorentino, inizia il suo percorso musicale sotto la guida di Walter Savelli; smette di studiare alle superiori e sotto lo sguardo di disapprovazione paterna lavora …",
+      "domain": "alphabetcity.it",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Marco Masini - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marco_Masini",
+      "snippet": "Masini got his start in the music business through record producer Giancarlo Bigazzi, who set him up to collaborate with artists like Raf and Umberto Tozzi. In 1990, he participated in the 40th Sanremo …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

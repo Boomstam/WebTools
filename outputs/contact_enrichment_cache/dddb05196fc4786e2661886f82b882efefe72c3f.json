@@ -1,0 +1,85 @@
+{
+  "address": "Klaverstraat 16, 2170 Merksem",
+  "address_key": "KLAVERSTRAAT|16|||2170|Merksem",
+  "query": "\"Klaverstraat 16\" \"2170\" \"Merksem\"",
+  "results": [
+    {
+      "title": "News and Updates | Figma Forum",
+      "url": "https://forum.figma.com/news-and-updates-1",
+      "snippet": "Stay up-to-date with the latest Figma news, feature releases, and product updates.",
+      "domain": "forum.figma.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Get Answers, Share Ideas & Find Inspiration | Figma Forum",
+      "url": "https://forum.figma.com/site",
+      "snippet": "Join the Figma Community Forum to find solutions, get expert advice, and connect with other designers. Collaborate, learn, and grow together.",
+      "domain": "forum.figma.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Connecting Figma MCP Server with Google Antigravity",
+      "url": "https://forum.figma.com/ask-the-community-7/connecting-figma-mcp-server-with-google-antigravity-48325",
+      "snippet": "7 dec 2025 · Hi all, Is there anyone able to connect Figma MCP Server with Google Antigravity (I know it is not supported tool yet)? I tried using client ID and secret, but I am receiving the following …",
+      "domain": "forum.figma.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Get Solutions | Figma Forum",
+      "url": "https://forum.figma.com/get-solutions-5",
+      "snippet": "Find solutions to your problems and answers to your questions.",
+      "domain": "forum.figma.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Community Corner | Figma Forum",
+      "url": "https://forum.figma.com/community-corner-13",
+      "snippet": "Hi Figma Community! I am a student working on an e-commerce website for a custom cakes bakery. I’ve completed the mid-fi wireframe prototype for desktop. I am now in the user testability phase. I …",
+      "domain": "forum.figma.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Transfer from Make to Design | Figma Forum",
+      "url": "https://forum.figma.com/suggest-a-feature-11/transfer-from-make-to-design-41514",
+      "snippet": "5 jun 2025 · Hey! How can I transfer the AI generated Prototype in Figma Make to Figma Design and continue editing it manually there?",
+      "domain": "forum.figma.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "How do I cancel my monthly subscription? | Figma Forum",
+      "url": "https://forum.figma.com/ask-the-community-7/how-do-i-cancel-my-monthly-subscription-48771",
+      "snippet": "18 dec 2025 · Hi guys, I subscribed to figma not because I just wanted to use Figma Make. I thought the AI worked for designs as well, just like https:sleek.design, but unfortunately for me, what is made, …",
+      "domain": "forum.figma.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Figma MCP not working | Figma Forum",
+      "url": "https://forum.figma.com/report-a-problem-6/figma-mcp-not-working-43506/index2.html",
+      "snippet": "9 apr 2026 · I really appreciate you taking the time to share your updates here. I’ve passed your latest replies along to our product team to keep your experience front and center. If you see the following …",
+      "domain": "forum.figma.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

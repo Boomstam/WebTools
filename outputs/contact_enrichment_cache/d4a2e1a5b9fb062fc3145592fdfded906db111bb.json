@@ -1,0 +1,85 @@
+{
+  "address": "Cruyslei 35-301, 2140 Borgerhout",
+  "address_key": "CRUYSLEI|35|301||2140|Borgerhout",
+  "query": "\"Cruyslei 35\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "Google Translate Help",
+      "url": "https://support.google.com/translate/?hl=en",
+      "snippet": "Official Google Translate Help Center where you can find tips and tutorials on using Google Translate and other answers to frequently asked questions.",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Как скачать и использовать Google Переводчик",
+      "url": "https://support.google.com/translate/answer/6350850?hl=ru&co=GENIE.Platform%3DDesktop",
+      "snippet": "В приложении \"Google Переводчик\" можно переводить печатный и рукописный текст, речь и надписи с изображений. Поддерживается более 200 языков. Мы также предлагаем веб-версию …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Download & use Google Translate",
+      "url": "https://support.google.com/translate/answer/6350850?hl=en&co=GENIE.Platform%3DDesktop",
+      "snippet": "You can translate text, handwriting, photos, and speech in over 200 languages with the Google Translate app. You can also use Translate on the web. You can get help from Google Translate in",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Как переводить речь - Android - Cправка - Google Translate",
+      "url": "https://support.google.com/translate/answer/6142468?hl=ru&co=GENIE.Platform%3DAndroid",
+      "snippet": "Откройте приложение \"Google Переводчик\" на устройстве Android. Нажмите на значок меню Настройки . Выберите настройку, которую нужно изменить. Примеры: Чтобы переведенный …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Cправка - Google Translate",
+      "url": "https://support.google.com/translate/?hl=ru",
+      "snippet": "Официальный справочный центр Google Translate, где можно найти советы и руководства по использованию продукта, а также ответы на часто задаваемые вопросы.",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Перевод документов и выбор языка ввода",
+      "url": "https://support.google.com/docs/answer/187189?hl=ru&co=GENIE.Platform%3DDesktop",
+      "snippet": "Посетите Центр обучения Используете продукты Google (например, Google Документы) на работе или в учебном заведении? Мы подготовили для вас полезные советы, руководства и …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Как перевести страницу и изменить язык интерфейса в Chrome",
+      "url": "https://support.google.com/chrome/answer/173424?hl=ru&co=GENIE.Platform%3DDesktop",
+      "snippet": "Откройте Chrome на компьютере. Перейдите на нужную страницу. В правой части адресной строки нажмите на значок \"Перевести\" . Вы также можете нажать правой кнопкой мыши в …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Перестал работать гугл переводчик, не переводит текст. Как …",
+      "url": "https://support.google.com/googleplay/thread/108240489/%D0%9F%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B0%D0%BB-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%82%D1%8C-%D0%B3%D1%83%D0%B3%D0%BB-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA-%D0%BD%D0%B5-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8%D1%82-%D1%82%D0%B5%D0%BA%D1%81%D1%82-%D0%9A%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D1%8C-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%83?hl=ru",
+      "snippet": "1 mei 2021 · Перестал работать гугл переводчик, не переводит текст. Как устранить проблему? Переустанавливалось приложение, проблема не устранилась. Приложение всё так же не …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

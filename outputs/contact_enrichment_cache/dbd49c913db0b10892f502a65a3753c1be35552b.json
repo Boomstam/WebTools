@@ -1,0 +1,85 @@
+{
+  "address": "Herentalsebaan 178-101, 2100 Deurne",
+  "address_key": "HERENTALSEBAAN|178|101||2100|Deurne",
+  "query": "\"Herentalsebaan 178\" \"2100\" \"Deurne\"",
+  "results": [
+    {
+      "title": "Gmail",
+      "url": "https://mail.google.com/mail?hl=ar",
+      "snippet": "Gmail عبارة عن بريد إلكتروني يتسم بالسهولة والفعالية والإفادة، حيث يتسع لسعة تخزينية مقدارها 15 غيغابايت، مع معدّل أقل من الرسائل غير المرغوب فيها، بالإضافة إلى إمكانية الدخول من الجوّال.",
+      "domain": "mail.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Gmail",
+      "url": "https://mail.google.com/mail?hl=en",
+      "snippet": "We would like to show you a description here but the site won’t allow us.",
+      "domain": "mail.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Gmail - Google Accounts",
+      "url": "https://accounts.google.com/login?service=mail",
+      "snippet": "Gmail is email that’s intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
+      "domain": "accounts.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Download Gmail (free) for Android, APK, iOS and Web App | Gizmodo",
+      "url": "https://gizmodo.com/download/gmail",
+      "snippet": "23 jun 2026 · Gmail is the most popular email service in the world. Provided by Google, it gives you free access to the email client and other products.",
+      "domain": "gizmodo.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Gmail - Email by Google - App Store",
+      "url": "https://apps.apple.com/gb/app/gmail-email-by-google/id422689480",
+      "snippet": "The official Gmail app brings the best of Gmail to your iPhone or iPad with robust security, real-time notifications, multiple account support and search that works across all your mail.",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Login - gmail",
+      "url": "https://www.gmail.co.za/web/login",
+      "snippet": "Features Services News Gmail.co.za Office 105, Newlands QuarterNewlandsCape Town Copyright © Gmail.co.za Powered by - Create a free website",
+      "domain": "gmail.co.za",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Beautiful. Fast. Powerful . - Gmail",
+      "url": "https://www.gmail.com/mail/help/intl/en/promos/blue/",
+      "snippet": "Gmail offers a fast, beautiful, and powerful email experience with features like chat, video, and phone integration.",
+      "domain": "gmail.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Gmail - Free Storage and Email from Google",
+      "url": "https://www.google.co.in/gmail/about/for-work/",
+      "snippet": "Sync and access your email from your mobile phone or tablet. Gmail works across Android, iPhone, Blackberry, and more.",
+      "domain": "google.co.in",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

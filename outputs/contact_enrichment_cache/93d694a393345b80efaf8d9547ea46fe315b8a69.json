@@ -1,0 +1,85 @@
+{
+  "address": "Kattenstraat 23 bus 1, 2000 Antwerpen",
+  "address_key": "KATTENSTRAAT|23||1|2000|Antwerpen",
+  "query": "\"Kattenstraat 23\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Fußball-WM 2026 bei MagentaTV | Telekom",
+      "url": "https://www.telekom.de/sport/magenta-tv-fussball",
+      "snippet": "Die Fußball-WM 2026 mit allen 104 Spielen der Fußball-Weltmeisterschaft 2026 in den USA, Mexiko und Kanada auf MagentaTV …",
+      "domain": "telekom.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "MagentaTV Flex | Telekom",
+      "url": "https://www.telekom.de/shop/tarife/magenta-tv-flex",
+      "snippet": "MagentaTV Flex bietet flexible TV-Optionen ohne langfristige Vertragsbindung, ideal für individuelle Entertainment-Bedürfnisse.",
+      "domain": "telekom.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "MagentaTV Geräte | Telekom Hilfe",
+      "url": "https://www.telekom.de/hilfe/geraete/magenta-tv",
+      "snippet": "on a broadband connection (e.g., Wi-Fi), the marketing or analytics will be performed based on the browsing activities of consenting …",
+      "domain": "telekom.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Cookies and similar technologies - Telekom hilft",
+      "url": "https://telekomhilft.telekom.de/conversations/tv/magentatv-app-f%C3%BCr-windows/66870a3e4ae73561dac8b5a3",
+      "snippet": "We use cookies and similar technologies on our website to save, read out and process information on your device. In doing so, we …",
+      "domain": "telekomhilft.telekom.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Live-Golf bei MagentaTV | Telekom",
+      "url": "https://www.telekom.de/magenta-tv/inhalte/sender/magenta-tv-golf",
+      "snippet": "Erleben Sie Golf Wettbewerbe wie DP World Tour, PGA Tour oder Ryder Cup live in den neuen Kanälen MS Golf 1 und MS Golf 2 …",
+      "domain": "telekom.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "MagentaTV mit Netflix | Telekom",
+      "url": "https://www.telekom.de/shop/tarife/magenta-tv-mit-netflix",
+      "snippet": "Erleben Sie die riesige Auswahl bei Netflix mit preisgekrönten Serien, Filmen & Dokus aus aller Welt. Jetzt MagentaTV mit Netflix …",
+      "domain": "telekom.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "MagentaTV Menü | Telekom Hilfe",
+      "url": "https://www.telekom.de/hilfe/tv/magenta-tv-menue",
+      "snippet": "Mit Einführung der neuen MagentaTV Tarife Mitte Februar 2024 wurde auch das MagentaTV Menü optimiert. Wenn Sie einen der …",
+      "domain": "telekom.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "MagentaZuhause M mit MagentaTV SmartStream | Telekom",
+      "url": "https://www.telekom.de/festnetz/tarife-und-optionen/tv/magenta-zuhause-m-mit-magenta-tv-smart-stream",
+      "snippet": "MagentaZuhause M mit MagentaTV SmartStream: RTL+ Premium, Netflix & Disney+ Standard-Abo mit Werbung - bis zu 50 MBit/s …",
+      "domain": "telekom.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

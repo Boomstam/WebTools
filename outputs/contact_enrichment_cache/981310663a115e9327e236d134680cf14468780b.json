@@ -1,0 +1,89 @@
+{
+  "address": "Schotensesteenweg 248, 2100 Deurne",
+  "address_key": "SCHOTENSESTEENWEG|248|||2100|Deurne",
+  "query": "\"Schotensesteenweg 248\" \"2100\" \"Deurne\"",
+  "results": [
+    {
+      "title": "Wikipedia (@ Wikipedia ) / Posts / X - Twitter",
+      "url": "https://x.com/Wikipedia",
+      "snippet": "30 okt 2009 · Wikipedia is a free encyclopedia written and maintained by a community of nearly 260,000 volunteers. It is the largest and most-read reference work in history, and is consistently ranked …",
+      "domain": "x.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://x.com/Wikipedia"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Wikipedia , the free encyclopedia",
+      "url": "https://www.wikipedia.org/",
+      "snippet": "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.",
+      "domain": "wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Wikipedia , the free encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "snippet": "Wikipedia is written by volunteer editors and hosted by the Wikimedia Foundation, a non-profit organization that also hosts a range of other volunteer projects:",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Wikipedia - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia",
+      "snippet": "Founded by Jimmy Wales and Larry Sanger in 2001, Wikipedia has been hosted since 2003 by the Wikimedia Foundation, an American nonprofit organization funded mainly by donations from readers. …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Wikipedia , die freie Enzyklopädie",
+      "url": "https://www.wikipedia.de/",
+      "snippet": "Wir sind der gemeinnnützige Verein hinter der Wikipedia und unterstützen die Ehrenamtlichen, sichern und entwickeln die technische Infrastruktur und setzen uns für den freien Zugang zu Wissen ein.",
+      "domain": "wikipedia.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://www.wikipedia.ch/",
+      "snippet": "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.",
+      "domain": "wikipedia.ch",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Wikipedia | Definition, Encyclopedia, History, & Facts | Britannica",
+      "url": "https://www.britannica.com/topic/Wikipedia",
+      "snippet": "3 jun 2026 · Wikipedia, free Internet-based encyclopedia, started in 2001, that operates under an open-source management style. It is overseen by the nonprofit Wikimedia Foundation.",
+      "domain": "britannica.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "English Wikipedia - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/English_Wikipedia",
+      "snippet": "The English Wikipedia is the primary [a] English-language edition of Wikipedia, an online encyclopedia. It was created by Jimmy Wales and Larry Sanger on 15 January 2001, as Wikipedia's first edition.",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

@@ -1,0 +1,87 @@
+{
+  "address": "Adriaan Brouwerstraat 3 bus 101, 2000 Antwerpen",
+  "address_key": "ADRIAAN BROUWERSTRAAT|3||101|2000|Antwerpen",
+  "query": "\"Adriaan Brouwerstraat 3\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "TRACKING OF ADMISSION STATUS - admission. univen .ac.za",
+      "url": "https://admission.univen.ac.za/welcome",
+      "snippet": "TRACKING OF ADMISSION STATUS 1. STEP-1 • Enter your ID/Passport Number 2. STEP-2 • View the qualifications you qualify for admission. 3. STEP-3 • Select you Preferred Choice and press …",
+      "domain": "admission.univen.ac.za",
+      "score": 20,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "UNIVEN Check Application and Admission Status - University of Venda",
+      "url": "https://www.univen.ac.za/students/student-support-services/how-to-apply/check-application-status/",
+      "snippet": "Check Admission Status For any enquiries, status not found, ID not found, requested for admission contact student administration office Registration Information",
+      "domain": "univen.ac.za",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Univen Application Status 2026: How to Check Your Admission Status ...",
+      "url": "https://www.studentroom.co.za/univen-application-status-2026-how-to-check-your-admission-status-online/",
+      "snippet": "22 sep 2025 · Are you waiting for feedback on your University of Venda (Univen) application for the 2026 academic year? The good news is that Univen allows applicants to track their admission status …",
+      "domain": "studentroom.co.za",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "University of Venda 2026 Check Application Status",
+      "url": "https://www.varsitywise.com/posts/university-of-venda-2026-check-application-status",
+      "snippet": "9 jan 2026 · If you applied to study at the University of Venda (UNIVEN) for the 2026 academic year, checking your application status is an important step in the admission process. This guide explains ho...",
+      "domain": "varsitywise.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "University of Venda ( UNIVEN) Status Check 2026",
+      "url": "https://www.bursariesafrica.co.za/universities/university-of-venda-status-check/",
+      "snippet": "21 jan 2026 · This article explains how to check your 2026 UNIVEN application or admission status. It also covers what the different status codes mean, how to request an offer, how to register once …",
+      "domain": "bursariesafrica.co.za",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "University of Venda ( UNIVEN ) Application Status 2026: How to Check …",
+      "url": "https://www.studentroom.co.za/university-of-venda-univen-application-status-2026-how-to-check-your-admission-progress/",
+      "snippet": "27 dec 2025 · UNIVEN provides a simple and accessible system that allows applicants to monitor their admission progress at any time. This article explains how to check your UNIVEN application status, …",
+      "domain": "studentroom.co.za",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "I would like to check my admissions status . : University of Venda",
+      "url": "https://univen-studentsupport.freshdesk.com/support/solutions/articles/80001029486-i-would-like-to-check-my-admissions-status-",
+      "snippet": "14 jul 2022 · Go to our website (www.univen.ac.za) on application and admissions and click on the URL for checking admissions and enter your ID number and the status of your application will be show …",
+      "domain": "univen-studentsupport.freshdesk.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Check UNIVEN Application Status 2027 Here - Eduloaded.com",
+      "url": "https://eduloaded.com/univen-application-status/",
+      "snippet": "25 mei 2026 · All prospective students who applied to study at the University of Venda (UNIVEN) for the 2027 academic year can now track their online application status by following the process outlined …",
+      "domain": "eduloaded.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

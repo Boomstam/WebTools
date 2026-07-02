@@ -1,0 +1,109 @@
+{
+  "address": "Minderbroedersrui 41 bus 101, 2000 Antwerpen",
+  "address_key": "MINDERBROEDERSRUI|41||101|2000|Antwerpen",
+  "query": "\"Minderbroedersrui 41\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Immo te koop in Minderbroedersrui, Antwerpen Kern - Realo",
+      "url": "https://www.realo.be/nl/search/te-koop/antwerpen-2000/minderbroedersrui",
+      "snippet": "Op Realo vind je 10 panden te koop in Minderbroedersrui, Antwerpen Kern - Oude Stad (Spaanse Wallen ), Antwerpen (2000). Bekijk publicaties met foto's, verkoopgeschiedenis en gebruik onze …",
+      "domain": "realo.be",
+      "score": 55,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district",
+        "vastgoed/noise"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Minderbroedersrui , Gemeente Antwerpen (Antwerpen)",
+      "url": "https://straten.openalfa.be/straten/minderbroedersrui-antwerpen",
+      "snippet": "Lijst met diensten in de buurt van Minderbroedersrui: winkels, restaurants, vrijetijds- en sportfaciliteiten, ziekenhuizen, benzinestations en andere interessante plaatsen.",
+      "domain": "straten.openalfa.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Sint-Paulusstraat, Sint-Pietersvliet en Minderbroedersrui in ... - HLN",
+      "url": "https://www.hln.be/antwerpen/sint-paulusstraat-sint-pietersvliet-en-minderbroedersrui-in-antwerpen-krijgen-nieuwe-bestrating~a1128099/",
+      "snippet": "29 apr 2026 · De bestrating van de Sint-Paulusstraat, Sint-Pietersvliet en de Minderbroedersrui in centrum Antwerpen is aan vernieuwing toe.",
+      "domain": "hln.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "BUURTREPORTAGE. Het geheim van de Minderbroedersrui : “Ga een …",
+      "url": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/buurtreportage.-het-geheim-van-de-minderbroedersrui-ga-een-straat-verder-en-de-panden-zijn-plots-onbetaalbaar/36579339.html",
+      "snippet": "10 nov 2023 · Overdag is dit dé ontmoetingsplaats van de Minderbroedersrui, niet in het minst voor liefhebbers van het betere bakje zwart goud. Binnen zwelt de rij aan de toog aan.",
+      "domain": "gva.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Hoe kom je bij Minderbroedersrui , Antwerpen met bus, tram of",
+      "url": "https://moovitapp.com/index/nl/openbaar_vervoer-Minderbroedersrui-Belgium-street_8591567-1682",
+      "snippet": "Hoe gaan naar Minderbroedersrui via de bus? Klik op de busroute om een stap-per-stap wegbeschrijving te bekijken met kaarten, aankomsttijden en actuele dienstregelingen.",
+      "domain": "moovitapp.com",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ]
+    },
+    {
+      "title": "Minderbroedersstraat, Gemeente Antwerpen (Antwerpen, Historisch …",
+      "url": "https://straten.openalfa.be/straten/minderbroedersstraat-historisch-centrum-antwerpen-antwerpen",
+      "snippet": "Minderbroedersrui - Velo - Velo Minderbroedersrui, 38 Telefoon: +32 3 206 50 30 Fietsparkeren - 169m - - geen kosten Blindestraat, 1 Fietsparkeren - 299m - Blindestraat, 11 Fietsparkeren - 352m - - …",
+      "domain": "straten.openalfa.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ]
+    },
+    {
+      "title": "Minderbroedersrui - Inventaris Onroerend Erfgoed",
+      "url": "https://inventaris.onroerenderfgoed.be/themas/966",
+      "snippet": "Tot einde 19de eeuw heette het smalle deel van de Minderbroedersrui palende aan het Kipdorp \"Engte van Gibraltar\"; dit laatste werd opgeruimd in 1852-1854. De Minderbroedersvliet of -rui maakte deel …",
+      "domain": "inventaris.onroerenderfgoed.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Minderbroedersrui 15 - KotPoint",
+      "url": "https://www.kotpoint.be/nl/minderbroedersrui-15/4214994",
+      "snippet": "De Minderbroedersrui is een project gericht op zowel studenten als starters. Dit leuke project was oorspronkelijk een oud klooster van de Zuster Maricolen, het is een uniek en onaangeroerd pand dat …",
+      "domain": "kotpoint.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

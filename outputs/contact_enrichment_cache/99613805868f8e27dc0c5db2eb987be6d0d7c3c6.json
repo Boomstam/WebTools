@@ -1,0 +1,85 @@
+{
+  "address": "Beatrijslaan 3, 2050 Antwerpen",
+  "address_key": "BEATRIJSLAAN|3|||2050|Antwerpen",
+  "query": "\"Beatrijslaan 3\" \"2050\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Open CMD as admin with Windows+R shortcut - Super User",
+      "url": "https://superuser.com/questions/968214/open-cmd-as-admin-with-windowsr-shortcut",
+      "snippet": "4 sep 2015 · My preference for running CMD is to use Windows+R » type cmd » Enter. But this doesn't open it with admin rights. Is there a way to type your way through to command prompt with admin …",
+      "domain": "superuser.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How can I always run the command prompt as administrator?",
+      "url": "https://superuser.com/questions/453409/how-can-i-always-run-the-command-prompt-as-administrator",
+      "snippet": "25 jul 2012 · Right click the \"cmd.exe\" menu item Choose \"Run as administrator\" This is unacceptable for several reasons: The window always opens in C:\\windows\\system32, rather than my Users …",
+      "domain": "superuser.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "windows 10 - Command or keyboard shortcut to run 'cmd' as …",
+      "url": "https://superuser.com/questions/1610605/command-or-keyboard-shortcut-to-run-cmd-as-administrator-in-win10",
+      "snippet": "17 dec 2020 · Pin cmd.exe to your taskbar and set the shortcut properties to always run as administrator, assign a hotkey. If you place it in position 0 thru 9 on the taskbar, then you just hit the …",
+      "domain": "superuser.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to turn a running Windows CMD in Admin? - Super User",
+      "url": "https://superuser.com/questions/1121127/how-to-turn-a-running-windows-cmd-in-admin",
+      "snippet": "5 sep 2016 · 0 You might not be able to switch to admin from cmd window, but a work around that I find useful is to create a shortcut for the cmd window, go to properties, set your hotkey, go to advance, …",
+      "domain": "superuser.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to run cmd with Admin privileges using command line",
+      "url": "https://superuser.com/questions/694761/how-to-run-cmd-with-admin-privileges-using-command-line",
+      "snippet": "11 Is there a way to run/start cmd as administrator through the command line or a batch file programming in Windows 8? I want to create a batch file which has administrative privileges without …",
+      "domain": "superuser.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "How to open Command Prompt in a specific folder as Administrator?",
+      "url": "https://superuser.com/questions/1067901/how-to-open-command-prompt-in-a-specific-folder-as-administrator",
+      "snippet": "21 apr 2016 · Click on File -> open CMD prompt -> Open CMD prompt as admin and make a rightclick and select to pin it to QAT. Now you can click on this icon in every folder you like and the cmd now …",
+      "domain": "superuser.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Run Command Prompt as Administrator by Default on Windows 10",
+      "url": "https://superuser.com/questions/961573/run-command-prompt-as-administrator-by-default-on-windows-10",
+      "snippet": "23 aug 2015 · @StillAzure I have spent like 2h just looking on how to make this work. Here is the solution - make it as in the answer above, create a shortcut of that .exe . Change that shortcut to …",
+      "domain": "superuser.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "How to run program from command line with elevated rights",
+      "url": "https://superuser.com/questions/55809/how-to-run-program-from-command-line-with-elevated-rights",
+      "snippet": "15 okt 2009 · 73 Is there a way to run a program or command with elevated rights when I am already in a non-elevated command line? Exactly the same action that would be performed when I click on the …",
+      "domain": "superuser.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

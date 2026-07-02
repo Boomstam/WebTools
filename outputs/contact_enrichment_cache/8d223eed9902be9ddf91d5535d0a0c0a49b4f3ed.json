@@ -1,0 +1,85 @@
+{
+  "address": "Schildersstraat 35, 2000 Antwerpen",
+  "address_key": "SCHILDERSSTRAAT|35|||2000|Antwerpen",
+  "query": "\"Schildersstraat 35\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Central European Time – CET Time Zone - timeanddate.com",
+      "url": "https://www.timeanddate.com/time/zones/cet",
+      "snippet": "Central European Time (CET) is the standard time zone used by many countries in Europe and parts of northern Africa. Major countries using CET include Germany, France, Italy, Spain (mainland), …",
+      "domain": "timeanddate.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "CET time zone — Central European Time",
+      "url": "https://24timezones.com/time-zone/cet",
+      "snippet": "23 uur geleden · Check exact current time and discover the key facts about Central European Time.",
+      "domain": "24timezones.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "CET Time Now — Central European Time - World Clock Live",
+      "url": "https://worldclocklive.com/time/cet/",
+      "snippet": "23 uur geleden · Central European Time (CET) is UTC+1, used by most countries in Central and Western Europe in winter. In summer (late March to late October), CET countries switch to Central …",
+      "domain": "worldclocklive.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Central European Time - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Central_European_Time",
+      "snippet": "Central European Time (CET) is a standard time observed in Central as well as parts of Western and Southeast Europe, which is one hour ahead of Coordinated Universal Time (UTC). The time offset …",
+      "domain": "en.m.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "CET to EST Converter - Convert Central Time to Eastern Time - World ...",
+      "url": "https://www.worldtimebuddy.com/cet-to-est-converter",
+      "snippet": "23 uur geleden · Quickly convert Central European Time (CET) to Eastern Standard Time (EST) with this easy-to-use, modern time zone converter.",
+      "domain": "worldtimebuddy.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Time Now in CET ( Central European Time ) | Time .now",
+      "url": "https://time.now/timezones/cet/",
+      "snippet": "23 uur geleden · Central European Time (CET) is the standard time observed by most of continental Europe during the winter months. With a UTC offset of +01:00, it is one of the world's most widely …",
+      "domain": "time.now",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "CET timezone : the Central European Time - Worlddata.info",
+      "url": "https://www.worlddata.info/timezones/cet-central-european-time.php",
+      "snippet": "23 uur geleden · This is the Central European standard time, which covers numerous countries from western Spain to the eastern Poland. A total of 33 countries are located in this time zone.",
+      "domain": "worlddata.info",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Time Zone Map - timeanddate.com",
+      "url": "https://www.timeanddate.com/time/map/",
+      "snippet": "Hover your mouse over the map to highlight time zones. Find the current time offset – displayed in whole hours only – from Coordinated Universal Time (UTC) at the bottom of the map.",
+      "domain": "timeanddate.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

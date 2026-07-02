@@ -1,0 +1,85 @@
+{
+  "address": "Museumstraat 4, 2000 Antwerpen",
+  "address_key": "MUSEUMSTRAAT|4|||2000|Antwerpen",
+  "query": "\"Museumstraat 4\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Utakmice uživo - uzivo . utakmica .rs",
+      "url": "https://utakmica.rs/",
+      "snippet": "Ovde možete gledati sve utakmice uživo. Besplatni prenosi svih utakmica Lige Šampiona, Evrolige i drugih sportskih takmičenja uključujući fudbal, košarku, hokej, tenis, formula 1...",
+      "domain": "utakmica.rs",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Fudbal uživo - Utakmice uživo - uzivo . utakmica .rs",
+      "url": "https://uzivo.utakmica.rs/prenos-fudbal",
+      "snippet": "Gledaj fudbal uživo na uzivo.utakmica.rs - sve utakmice uživo potpuno besplatno",
+      "domain": "uzivo.utakmica.rs",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Utakmice Uživo",
+      "url": "http://www.utakmice.net/uzivo/",
+      "snippet": "utakmice uživovam donosi listu raznih sportova (nogomet, košarka, tenis, rukomet, hokej, bejzbol, odbojka, američki nogomet) koje putem interneta možete gledati uživo na svom računalu.",
+      "domain": "utakmice.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Fudbal uživo, livescore",
+      "url": "https://www.livescore.in/rs/",
+      "snippet": "Fudbalski rezultati uživo na Livescore.in nude rezultate iz preko 1000+ fudbalskih liga. Rezultati uživo, rezultati, tabele i detalji mečeva.",
+      "domain": "livescore.in",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Fudbalske utakmice danas - Prenos Uživo i TV Program",
+      "url": "https://www.livesoccertv.com/sr/schedules/",
+      "snippet": "Pružamo samo TV raspored Svetskog prvenstva i linkove ka legalnim prenosima zvaničnih nosilaca prava. Ako želite da saznate koji TV kanali prenose ili strimuju Svetsko prvenstvo u vašoj zemlji, …",
+      "domain": "livesoccertv.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Svjetsko Prvenstvo 2026, ⚽ Nogometni rezultati uživo : HNL, Liga …",
+      "url": "https://www.rezultati.com/",
+      "snippet": "Budite obaviješteni zvukovima, pratite vlastiti izbor današnjih utakmica uživo, informirajte se o konačnim rezultatima nogometnih utakmica, kao i o rezultatima uživo.",
+      "domain": "rezultati.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Fudbalski uživo rezultati: rezultati mečeva uživo danas | footboom1.com",
+      "url": "https://www.footboom1.com/sr",
+      "snippet": "Pratite današnje fudbalske utakmice ⇒ Raspored i rezultati fudbalskih mečeva sa uživo rezultatima i u stvarnom vremenu ⚽ Ne propustite nijednu detalj igre | footboom1.com",
+      "domain": "footboom1.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Danas Nogomet Utakmica Uživo - AiScore Football LiveScore",
+      "url": "https://www.aiscore.com/hr/today-matches",
+      "snippet": "Sve rezultate, rezultate i rasporede za današnje igre i utakmice . Svi današnji igre.",
+      "domain": "aiscore.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

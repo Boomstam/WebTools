@@ -1,0 +1,87 @@
+{
+  "address": "Pieter Van Hobokenstraat 25, 2000 Antwerpen",
+  "address_key": "PIETER VAN HOBOKENSTRAAT|25|||2000|Antwerpen",
+  "query": "\"Pieter Van Hobokenstraat 25\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Vijf jaar na zijn dood verschijnt 'Exit' van Pieter Aspe: \"Zijn ...",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/04/25/pieter-aspe-5-jaar-na-dood-exit/",
+      "snippet": "25 apr 2026 · Pieter Aspe stierf op 1 mei 2021. Op zijn sterfbed vroeg de auteur daarom aan zijn echtgenote Tamara, met wie hij later trouwde, om 5 jaar na zijn overlijden pas iets met 'Exit' te doen. …",
+      "domain": "vrt.be",
+      "score": 20,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Pieter - Wikipedia",
+      "url": "https://nl.wikipedia.org/wiki/Pieter",
+      "snippet": "Pieter is een Nederlandse jongensnaam. Het is een Nederlandse variant van de Latijnse naam Petrus, die teruggaat op het Griekse woord petros (πετρος; Proto-Indo-Europees: pattra), dat rots betekent, …",
+      "domain": "nl.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Pieter - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pieter",
+      "snippet": "Pieter is a male given name, the Dutch form of Peter. [1] The name has been one of the most common names in the Netherlands for centuries, but since the mid-twentieth century its popularity has …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Home | Pieter Verelst",
+      "url": "https://www.pieterverelst.be/home/",
+      "snippet": "Hoe word ik normaal? Wil ik wel normaal zijn? En wat is er mis met een beetje chaos en een unieke kijk op de wereld? Ga mee op zoek naar Pieter zijn ‘uitknop’ in die verwilderde, geestige jungle van hem: …",
+      "domain": "pieterverelst.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Belgische ontwerper Pieter Mulier wordt nieuwe creatief directeur van ...",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/02/05/versace-nieuw-creatief-directeur-pieter-mulier/",
+      "snippet": "5 feb 2026 · De Belgische ontwerper Pieter Mulier wordt de nieuwe creatief directeur bij Versace. Dat maakt Prada, de nieuwe eigenaar van het Italiaanse merk, bekend. Enkele dagen geleden had …",
+      "domain": "vrt.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Rouwberichten & condoleren - Uitvaartzorg Pieters Knesselare",
+      "url": "https://uitvaartzorgpieters.be/rouwberichten-condoleren/",
+      "snippet": "20 jun 2026 · U kan de rouwberichten bij Uitvaartzorg Pieters te Knesselare raadplegen op onze site en online een steunbetuiging nalaten voor de familie",
+      "domain": "uitvaartzorgpieters.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "PieterPie - YouTube",
+      "url": "https://www.youtube.com/@PieterP1E",
+      "snippet": "Make Sure To Subscribe For WEEKLY VR Content!Hello, my names Pieter (PieterPie), I mainly consist of making gaming videos inside of virtual reality that cons...",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Pieter Clicteur – Visual Narratives Beyond the Surface",
+      "url": "https://www.pieterclicteur.be/",
+      "snippet": "Welcome to the world of Pieter Clicteur, where photography becomes a language of emotion, reflection, and deeper connection. Pieter’s artistic vision is rooted in a passion for storytelling — not through …",
+      "domain": "pieterclicteur.be",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

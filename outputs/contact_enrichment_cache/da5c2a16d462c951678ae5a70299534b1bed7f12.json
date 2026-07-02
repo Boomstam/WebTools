@@ -1,0 +1,85 @@
+{
+  "address": "August Van Putlei 151, 2150 Borsbeek",
+  "address_key": "AUGUST VAN PUTLEI|151|||2150|Borsbeek",
+  "query": "\"August Van Putlei 151\" \"2150\" \"Borsbeek\"",
+  "results": [
+    {
+      "title": "USPS.com® - USPS Tracking®",
+      "url": "https://tools.usps.com/go/TrackConfirmAction!input.action?msockid=38b787e8b38965f73ee39061b2b764c7",
+      "snippet": "USPS.com® - USPS Tracking®",
+      "domain": "tools.usps.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Welcome | USPS",
+      "url": "https://www.usps.com/?msockid=38b787e8b38965f73ee39061b2b764c7",
+      "snippet": "Welcome to USPS.com. Track packages, pay and print postage with Click-N-Ship, schedule free package pickups, look up ZIP …",
+      "domain": "usps.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Receive Mail & Packages | USPS",
+      "url": "https://www.usps.com/manage/?msockid=38b787e8b38965f73ee39061b2b764c7",
+      "snippet": "Track USPS package deliveries, get tracking text and email notifications, forward mail, change your address, and learn about setting …",
+      "domain": "usps.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Missing Mail and Lost Packages | USPS",
+      "url": "https://www.usps.com/help/missing-mail.htm?msockid=38b787e8b38965f73ee39061b2b764c7",
+      "snippet": "If you're dealing with a lost package or mailpiece, USPS can help with a Missing Mail Search. Learn how to find lost mail, file claims, …",
+      "domain": "usps.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Contact Us | USPS",
+      "url": "https://www.usps.com/help/contact-us.htm?msockid=38b787e8b38965f73ee39061b2b764c7",
+      "snippet": "Get help with USPS products and services: Connect with USPS Customer Service by email or phone.",
+      "domain": "usps.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Informed Delivery - Mail & Package Notifications | USPS",
+      "url": "https://www.usps.com/manage/informed-delivery.htm?msockid=38b787e8b38965f73ee39061b2b764c7",
+      "snippet": "Informed Delivery is a free service from USPS that shows you preview images of incoming mail, plus status updates about your …",
+      "domain": "usps.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "USPS",
+      "url": "https://m.usps.com/m/TrackConfirmAction_input",
+      "snippet": "Track your packages and mail online with USPS Tracking to check status, location, and delivery updates.",
+      "domain": "m.usps.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "USPS Tracking",
+      "url": "https://faq.usps.com/s/topic/0TOt00000004HFmGAM/usps-tracking-",
+      "snippet": "19 mei 2026 · USPS Tracking® provides end-to-end item tracking. With the tracking number, you can check delivery progress …",
+      "domain": "faq.usps.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

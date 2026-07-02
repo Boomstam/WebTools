@@ -1,0 +1,85 @@
+{
+  "address": "Komedieplaats 5, 2000 Antwerpen",
+  "address_key": "KOMEDIEPLAATS|5|||2000|Antwerpen",
+  "query": "\"Komedieplaats 5\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Retrouvez votre Webmail, boite mail et adresse mail - SFR . fr",
+      "url": "https://webmail.sfr.fr/fr_FR/main.html",
+      "snippet": "SFR Mail, connectez-vous sur votre messagerie avec votre adresse mail SFR sur le Webmail pour accéder à votre boite mail.",
+      "domain": "webmail.sfr.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "SFR Mail – Retrouvez votre Webmail, boite mail et adresse mail",
+      "url": "https://webmail.sfr.fr/",
+      "snippet": "SFR Mail, connectez-vous sur votre messagerie avec votre adresse mail SFR sur le Webmail pour accéder à votre boite mail.",
+      "domain": "webmail.sfr.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Utiliser la messagerie SFR et résoudre les dysfonctionnements",
+      "url": "https://assistance.sfr.fr/sfrmail-appli/sfrmail/sfrmail-fonctionnalites.html",
+      "snippet": "Pour tout savoir sur SFR Mail, ses fonctionnalités et son utilisation, et savoir résoudre les problèmes en cas de blocage.",
+      "domain": "assistance.sfr.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "SFR Mail : Retrouvez tous vos e- mails sur vos mobiles, tablettes et PC",
+      "url": "https://www.sfr.fr/sfr-et-moi/vos-services-sfr/sfr-mail/?msockid=2daffbd3b7a76fec0a47ec5ab6bb6edc",
+      "snippet": "Tous mes mails au même endroit Vous accédez à tous vos mails facilement. Vous visualisez vos pièces jointes (images, vidéos, documents,…) contenues dans vos emails. Vous classez vos mails en les …",
+      "domain": "sfr.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Créer un e-mail gratuit - SFR",
+      "url": "https://www.sfr.fr/cas/login?domain=creation-mail&msockid=2daffbd3b7a76fec0a47ec5ab6bb6edc",
+      "snippet": "Créer gratuitement une adresse email SFR avec 10GO de stockage pour recevoir des messages sur votre PC et votre mobile",
+      "domain": "sfr.fr",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Lire et gérer des e- mails avec SFR Mail",
+      "url": "https://assistance.sfr.fr/sfrmail-appli/sfrmail/lire-email-webmail-sfrmail.html",
+      "snippet": "Connectez-vous à votre messagerie SFR Mail, découvrez son fonctionnement (gestion des mails, dossiers) et procédez à sa configuration (affichage, page d'accueil).",
+      "domain": "assistance.sfr.fr",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Utiliser SFR Mail sur mobile ou tablette Android - Assistance SFR",
+      "url": "https://assistance.sfr.fr/sfrmail-appli/appli-sfrmail/utiliser-sfr-mail-tablette-mobile-android.html",
+      "snippet": "Retrouvez comment utiliser l’application SFR Mail sur un mobile ou une tablette Android : connexion, notifications, importation de comptes, info-pubs, réinitialisation. Mode d’emploi.",
+      "domain": "assistance.sfr.fr",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Bug SFR Mail ? problèmes et pannes en cours - TotalBug",
+      "url": "https://www.totalbug.com/sfr-mail/",
+      "snippet": "20 jun 2026 · SFR Mail est l’application officielle de messagerie électronique de l’opérateur de télécommunication français SFR. En étant client chez SFR, vous avez automatiquement la …",
+      "domain": "totalbug.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

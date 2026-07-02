@@ -1,0 +1,85 @@
+{
+  "address": "Herentalsebaan 178-201, 2100 Deurne",
+  "address_key": "HERENTALSEBAAN|178|201||2100|Deurne",
+  "query": "\"Herentalsebaan 178\" \"2100\" \"Deurne\"",
+  "results": [
+    {
+      "title": "GPT-API-free / DeepSeek-API-free - GitHub",
+      "url": "https://github.com/chatanywhere/GPT_API_free",
+      "snippet": "️ 免费API Key gpt-5系列模型的推理能力较弱，若需要更强的推理能力，可以购买付费API ️ 免费API Key仅可用于个人非商业用途，教育，非营利性科研工作中。 免费API Key严禁商用，严禁大规模训 …",
+      "domain": "github.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "川虎 Chat Chuanhu Chat - GitHub",
+      "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
+      "snippet": "川虎 Chat 🐯 Chuanhu Chat 为ChatGPT等多种LLM提供了一个轻快好用的Web图形界面和众多附加功能 支持 DeepSeek R1 & GPT 4 · 基于文件问答 · LLM本地部署 · 联网搜索 · Agent 助理 · 支持 Fine-tune …",
+      "domain": "github.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Chat GPT Tiếng Việt: Cài đặt và mẹo đặt câu lệnh mới nhất",
+      "url": "https://cellphones.com.vn/sforum/cach-dung-chat-gpt-tieng-viet",
+      "snippet": "2 dagen geleden · Hướng dẫn cách sử dụng Chat GPT Tiếng Việt hiệu quả để đặt câu hỏi, viết nội dung, học tập, dịch thuật và xử lý công việc nhanh chóng, chính xác hơn.",
+      "domain": "cellphones.com.vn",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ChatGPT 4.0 là gì? 5 ưu điểm vượt trội của GPT-4 khi sử dụng",
+      "url": "https://cellphones.com.vn/sforum/chatgpt-4-0-la-gi",
+      "snippet": "18 aug 2024 · ChatGPT 4.0 là gì và có ưu điểm vượt trội của GPT-4 so với phiên bản trước. Cách đăng ký tài khoản sử dụng ChatGPT 4.0 và các gói dùng mới nhất",
+      "domain": "cellphones.com.vn",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "如何评价 OpenAI 凌晨发布的 GPT-5？ - 知乎",
+      "url": "https://www.zhihu.com/question/1936601885311239615",
+      "snippet": "ChatGPT 中的非推理模型以 gpt-5-chat-latest API的形式提供。 GPT-5 是一个统一系统，内置一个智能高效、可回答大多数问题的模型，一个用于处理更难问题的深度推理模型（GPT-5 thinking），以及 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "chat GPT近 2 年更新了 7 个版本，哪个最好用？ - 知乎",
+      "url": "https://www.zhihu.com/question/2379819114",
+      "snippet": "而GPT 4o可以做的可以更多，它可以读word文档，excel表格，ppt文件，pdf文档，各种图片等等。 这种能力赋予了它多面手的作用，因为工作中很多事情依赖于大量的文件，很难用几句话描述清楚， 而 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "GitHub - danny-avila/LibreChat: Enhanced ChatGPT Clone: Features …",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "snippet": "LibreChat is a self-hosted AI chat platform that unifies all major AI providers in a single, privacy-focused interface. Beyond chat, LibreChat provides AI Agents, Model Context Protocol (MCP) support, …",
+      "domain": "github.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Top 16+ Chat AI tiếng Việt miễn phí, tốt nhất 2026 - CellphoneS",
+      "url": "https://cellphones.com.vn/sforum/top-phan-mem-chat-ai-tot-nhat",
+      "snippet": "9 feb 2026 · Top các phần mềm chat AI tiếng Việt tốt và được nhiều người sử dụng nhất 2026, phần mềm chatbot AI online đem đến trải nghiệm tốt nhất",
+      "domain": "cellphones.com.vn",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

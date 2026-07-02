@@ -1,0 +1,85 @@
+{
+  "address": "Torenblokstraat 29-2, 2610 Wilrijk",
+  "address_key": "TORENBLOKSTRAAT|29|2||2610|Wilrijk",
+  "query": "\"Torenblokstraat 29\" \"2610\" \"Wilrijk\"",
+  "results": [
+    {
+      "title": "WhatsApp from Meta",
+      "url": "https://www.meta.com/de-de/whatsapp/",
+      "snippet": "Mit WhatsApp kommunizierst du mühelos und sicher mit den Menschen, die dir am Herzen liegen.",
+      "domain": "meta.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "WhatsApp Messenger - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.whatsapp&hl=en",
+      "snippet": "WhatsApp from Meta is a FREE messaging and video calling app. It’s used by over 2B people in more than 180 countries. It’s simple, reliable, and private, so you can easily keep in touch with your...",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "WhatsApp Messenger‑App – App Store",
+      "url": "https://apps.apple.com/de/app/whatsapp-messenger/id310633997",
+      "snippet": "Lade „WhatsApp Messenger“ von WhatsApp Inc. im App Store herunter. Sieh dir Bildschirmfotos, Bewertungen und Rezensionen, Benutzertipps und weitere Apps wie „…",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "WhatsApp – Kostenloser Download und Installation unter Windows ...",
+      "url": "https://apps.microsoft.com/detail/9nksqgp7f2nh?hl=de&gl=DE",
+      "snippet": "WhatsApp ist nicht nur einfach und verlässlich, sondern schützt auch deine Privatsphäre und macht es dir leicht, mit Freunden und Familie in Kontakt zu bleiben.",
+      "domain": "apps.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Download WhatsApp",
+      "url": "https://www.whatsapp.com/download",
+      "snippet": "Download WhatsApp on your mobile device, tablet or desktop and stay connected with reliable private messaging and calling. Available on Android, iOS, Mac and Windows.",
+      "domain": "whatsapp.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "WhatsApp : So reservierst du dir deinen Wunschnamen",
+      "url": "https://www1.wdr.de/wirtschaft/ratgeber/whatsapp-benutzername-reservieren-100.html",
+      "snippet": "1 dag geleden · WhatsApp lässt sich künftig nutzen, ohne die eigene Handynummer preiszugeben. Jeder kann einen eigenen Wunschnamen reservieren.",
+      "domain": "www1.wdr.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "WhatsApp : Nutzername statt Telefonnummer Was bedeutet das",
+      "url": "https://de.euronews.com/next/2026/06/30/whatsapp-nutzername-statt-telefonnummer-was-bedeutet-das",
+      "snippet": "1 dag geleden · Bald braucht man für WhatsApp nicht mehr zwingend die Telefonnummer. Meta informiert Nutzer per Nachricht, um Nutzernamen für Profile zu sichern.",
+      "domain": "de.euronews.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "WhatsApp Messenger - Android App - Download - CHIP",
+      "url": "https://www.chip.de/downloads/WhatsApp-Messenger-Android-App_48109158.html",
+      "snippet": "Mit WhatsApp können Sie bei bestehender Daten-Verbindung jederzeit Nachrichten mit anderen Smartphone-Nutzern verschicken, ohne von explodierenden Kosten erschlagen zu werden.",
+      "domain": "chip.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

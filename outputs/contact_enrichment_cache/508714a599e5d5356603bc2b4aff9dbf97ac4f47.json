@@ -1,0 +1,85 @@
+{
+  "address": "Venusstraat 17 bus 28, 2000 Antwerpen",
+  "address_key": "VENUSSTRAAT|17||28|2000|Antwerpen",
+  "query": "\"Venusstraat 17\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "View or edit your passwords in Microsoft Password Manager",
+      "url": "https://support.microsoft.com/en-us/accounts-billing/manage/view-or-edit-your-passwords-in-microsoft-password-manager",
+      "snippet": "Learn how to view or edit passwords saved in Microsoft Edge using the Microsoft password manager.",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "View and delete browser history in Microsoft Edge",
+      "url": "https://support.microsoft.com/en-us/edge/view-and-delete-browser-history-in-microsoft-edge",
+      "snippet": "You can view and clear your Microsoft Edge browsing history stored on a single device, across all synced devices, and in the cloud. You may choose to clear your browsing history at any time. Clear …",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "KW Odgovori",
+      "url": "https://answers.kw.com/hc/sl",
+      "snippet": "Slovenščina Català Deutsch (Deutschland) English (United States) Español (Latinoamérica) Español (España) Français (Canada) Français (France) עברית 日本語 монгол Nederlands Polski Português …",
+      "domain": "answers.kw.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Preguntas frecuentes de Listhub – KW Respuestas",
+      "url": "https://answers.kw.com/hc/es-419/articles/360051552673-Preguntas-frecuentes-de-Listhub",
+      "snippet": "Es importante que los agentes mantengan marcada la casilla de verificación ListHub Enabled en su KWLS, para que los listados se actualicen diariamente y evitar expiraciones prematuras de los...",
+      "domain": "answers.kw.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Block pop-ups in Microsoft Edge - Microsoft Support",
+      "url": "https://support.microsoft.com/en-us/microsoft-edge/block-pop-ups-in-microsoft-edge-1d8ba4f8-f385-9a0b-e944-aa47339b6bb5",
+      "snippet": "The Microsoft Edge feature that blocks pop-ups is effective in preventing websites from automatically opening a new window or tab, or a partial window on top of your current web page. This feature is …",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Share Your KW App – KW Answers",
+      "url": "https://answers.kw.com/hc/en-us/articles/360043026073-Share-Your-KW-App",
+      "snippet": "Now that you have downloaded your KW App, you can start sharing it with your clients, friends, family, and everyone you meet. The easiest way to share your app is to open the app itself and share d...",
+      "domain": "answers.kw.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Add, turn off, or remove extensions in Microsoft Edge",
+      "url": "https://support.microsoft.com/en-us/edge/add-turn-off-or-remove-extensions-in-microsoft-edge",
+      "snippet": "Extensions, or add-ons, are simple tools that customize your browser experience and offer you more control. Here's how to add, turn off, and remove them in Microsoft Edge . Find and add an extension …",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Crea un Anuncio Dinámico de Captura de Clientes Potenciales en …",
+      "url": "https://answers.kw.com/hc/es-419/articles/19231117586451-Crea-un-Anuncio-Din%C3%A1mico-de-Captura-de-Clientes-Potenciales-en-Facebook-e-Instagram-Solo-Equipos-Suscripci%C3%B3n-Mensual-Recurrente",
+      "snippet": "Para acceder a los Anuncios Pagados y lanzar un anuncio dinámico en Facebook & Instagram, debes contar con permisos Enhanced o Unlimited en la cuenta de equipo en Command.",
+      "domain": "answers.kw.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

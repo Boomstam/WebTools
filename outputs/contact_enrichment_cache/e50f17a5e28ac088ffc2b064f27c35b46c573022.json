@@ -1,0 +1,116 @@
+{
+  "address": "Duinstraat 10-12, 2060 Antwerpen",
+  "address_key": "DUINSTRAAT|10|12||2060|Antwerpen",
+  "query": "\"Duinstraat 10\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Huis te koop in Duinstraat 119 2060 Antwerpen",
+      "url": "https://www.immoscoop.be/te-koop/2060-antwerpen/1046003",
+      "snippet": "Huis te koop in de Duinstraat 119 te 2060 Antwerpen bestaande met 5 slaapkamers, thans ingedeeld in 3 studio's. Het centrum van Antwerpen, alsook tal van winkels, openbaar vervoer, scholen en …",
+      "domain": "immoscoop.be",
+      "score": 75,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Duinstraat 21 2060 Antwerpen : Een Uitvoerige Gids voor Wonen ...",
+      "url": "https://decosapin.be/duinstraat-21-2060-antwerpen/",
+      "snippet": "15 apr 2025 · Het adres Duinstraat 21 2060 Antwerpen staat symbool voor hoe een eenvoudige straat in de stad kan uitgroeien tot een volwaardige leefomgeving.",
+      "domain": "decosapin.be",
+      "score": 75,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Immo te koop in Duinstraat , Antwerpen (2060) - 5 panden | Realo",
+      "url": "https://www.realo.be/nl/search/te-koop/antwerpen-2060/duinstraat",
+      "snippet": "Op Realo vind je 5 panden te koop in Duinstraat, Antwerpen (2060). Bekijk publicaties met foto's, verkoopgeschiedenis en gebruik onze gedetailleerde filters om het perfecte pand te vinden.",
+      "domain": "realo.be",
+      "score": 55,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district",
+        "vastgoed/noise"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Duinstraat 5, Antwerp - Explore in Google Maps",
+      "url": "https://www.google.com/maps/search/Duinstraat%205,%202060%20Antwerpen",
+      "snippet": "Duinstraat 5, 2060 Antwerpen, Belgium. You're seeing a limited view of Google Maps. Learn more",
+      "domain": "google.com",
+      "score": 55,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district",
+        "vastgoed/noise"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Duinstraat, Gemeente Antwerpen (Antwerpen, Stuivenberg, Seefhoek )",
+      "url": "https://straten.openalfa.be/straten/duinstraat-seefhoek-stuivenberg-antwerpen-antwerpen",
+      "snippet": "Lijst met diensten in de buurt van Duinstraat, Gemeente Antwerpen (Antwerpen, Stuivenberg: winkels, restaurants, vrijetijds- en sportfaciliteiten, ziekenhuizen, benzinestations en andere interessante …",
+      "domain": "straten.openalfa.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ]
+    },
+    {
+      "title": "Winkels in de straat Duinstraat Antwerpen - Openingsuren. Vlaanderen",
+      "url": "https://www.openingsuren.vlaanderen/2000-antwerpen/duinstraat",
+      "snippet": "Al de winkels en handelszaken gelegen langs Duinstraat in Antwerpen. Naast de verschillende winkels vind je ook de contactgegevens zoals het adres en telefoonnummer van de handelszaken langs …",
+      "domain": "openingsuren.vlaanderen",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ]
+    },
+    {
+      "title": "Hoe kom je bij Duinstraat , Antwerpen met bus, tram of trein?",
+      "url": "https://moovitapp.com/index/nl/openbaar_vervoer-Duinstraat-Belgium-street_8590284-1682",
+      "snippet": "Hoe gaan naar Duinstraat via de trein? Klik op de treinroute om een stap-per-stap wegbeschrijving te bekijken met kaarten, aankomsttijden en actuele dienstregelingen.",
+      "domain": "moovitapp.com",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ]
+    },
+    {
+      "title": "Duinstraat in Antwerpen (Antwerpen ) - Postcode bij adres",
+      "url": "https://postcodebijadres.be/duinstraat+antwerpen",
+      "snippet": "Bekijk alle details van Duinstraat in Antwerpen. Vind de gerelateerde postcodes, supermarkten in de buurt en nog veel meer.",
+      "domain": "postcodebijadres.be",
+      "score": 25,
+      "reasons": [
+        "straat",
+        "district",
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

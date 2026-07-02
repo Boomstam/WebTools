@@ -1,0 +1,89 @@
+{
+  "address": "De Robianostraat 49 bus 1, 2150 Borsbeek",
+  "address_key": "DE ROBIANOSTRAAT|49||1|2150|Borsbeek",
+  "query": "\"De Robianostraat 49\" \"2150\" \"Borsbeek\"",
+  "results": [
+    {
+      "title": "De Morgen - Facebook",
+      "url": "https://www.facebook.com/demorgen/",
+      "snippet": "De Morgen. 256,579 likes · 54,295 talking about this. Vandaag vraagt om een krant die duiding en inspiratie brengt. Vandaag vraagt om De Morgen. Download...",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/demorgen/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "De Standaard | Nieuws, live updates en duiding | De Standaard",
+      "url": "https://www.standaard.be/",
+      "snippet": "Volg hier alle recente ontwikkelingen in de oorlog in Oekraïne. Download de app DS Nieuws en krijg een melding bij belangrijke updates.",
+      "domain": "standaard.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Nieuws | De Morgen",
+      "url": "https://www.demorgen.be/",
+      "snippet": "3 mrt 2023 · Het laatste nieuws, liveblogs, duiding, analyse, prikkelende opinie en columns, cultuur en inspiratie, diepgravend onderzoek en puzzels van De Morgen.",
+      "domain": "demorgen.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Meest recent nieuws | De Standaard",
+      "url": "https://www.standaard.be/net-binnen/",
+      "snippet": "27 apr 2026 · Begrijp de wereld beter met De Standaard: betrouwbaar live nieuws, inzicht, handige tips, inspiratie en duiding door onze bekroonde journalisten",
+      "domain": "standaard.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Homepage | De Tijd",
+      "url": "https://www.tijd.be/",
+      "snippet": "20 jun 2024 · Volg de financiële markten, de Bel 20 vandaag, de Brusselse beurs en live aandelenkoersen. Analyse van bedrijven, kmo’s, start-ups en biotech, investeringen, fiscaliteit, …",
+      "domain": "tijd.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Recent nieuws vandaag | De Morgen",
+      "url": "https://www.demorgen.be/nieuws/",
+      "snippet": "Recent nieuws van vandaag, liveblogs, belangrijke ontwikkelingen en betrouwbare duiding en achtergronden door journalisten van De Morgen.",
+      "domain": "demorgen.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "VRT NWS Nieuws | Betrouwbaar Nieuws uit België & de Wereld",
+      "url": "https://www.vrt.be/vrtnws/nl/",
+      "snippet": "7 mei 2024 · VRT NWS Nieuws brengt betrouwbaar nieuws uit België en de wereld met heldere duiding via tekst, beeld en audio.",
+      "domain": "vrt.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "De Zondag: haal echt alles uit je zondag",
+      "url": "https://www.dezondag.be/",
+      "snippet": "Dé gratis krant boordevol informatie en inspiratie! Bij je bakker of supermarkt. Met De Zondag haal je écht alles uit je zondag.",
+      "domain": "dezondag.be",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

@@ -1,0 +1,85 @@
+{
+  "address": "Ambtmanstraat 5, 2000 Antwerpen",
+  "address_key": "AMBTMANSTRAAT|5|||2000|Antwerpen",
+  "query": "\"Ambtmanstraat 5\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Use Snipping Tool to capture screenshots | Microsoft Support",
+      "url": "https://support.microsoft.com/en-us/windows/apps/use-snipping-tool-to-capture-screenshots",
+      "snippet": "Learn how to use Snipping Tool to capture a screenshot, or snip, of any object on your screen, and then annotate, save, or share the image.",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Menggunakan Alat Pemotong untuk mengambil tangkapan layar",
+      "url": "https://support.microsoft.com/id-id/windows/apps/use-snipping-tool-to-capture-screenshots",
+      "snippet": "Dengan tangkapan anda terbuka di Snipping Tool, pilih Cetak File> dan buat pilihan untuk bagaimana Anda ingin mencetak gambar Anda. Tempatkan alat di taskbar Pertama, identifikasi menu atau …",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Copy the window or screen contents | Microsoft Support",
+      "url": "https://support.microsoft.com/en-us/office/copy-the-window-or-screen-contents",
+      "snippet": "You can use the Snipping Tool or the PRINT SCREEN key. Use the Snipping Tool The Windows Snipping Tool captures all or part of your PC screen. After you capture a snip, it's automatically …",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Aufnehmen von Screenshots mithilfe des Snipping Tools",
+      "url": "https://support.microsoft.com/de-DE/Windows/Apps/use-snipping-tool-to-capture-screenshots",
+      "snippet": "Aufnehmen von Screenshots mithilfe des Snipping Tools Gilt für Windows 11 Windows 10 Erstellen Sie eine Momentaufnahme, um Wörter oder Bilder vom gesamten oder einem Teil Ihres PC-Bildschirms …",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "استخدم \"أداة القطع\" لالتقاط لقطات الشاشة | Microsoft Support",
+      "url": "https://support.microsoft.com/ar-SA/Windows/Apps/use-snipping-tool-to-capture-screenshots",
+      "snippet": "Windows 11 Windows 10 التقط لقطة شاشة لنسخ الكلمات أو الصور من شاشة الكمبيوتر بالكامل أو جزء منها. استخدم أداة القصاصة لإجراء تغييرات أو ملاحظات، ثم حفظها ومشاركتها. التقط أيًّا من أنواع القصاصات الآتية:",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Kopieren des Fensters- oder Bildschirminhalts | Microsoft Support",
+      "url": "https://support.microsoft.com/de-DE/Office/copy-the-window-or-screen-contents",
+      "snippet": "Weitere Informationen und Anweisungen finden Sie unter Verwenden des Snipping-Tools zum Erfassen von Screenshots. Verwenden der DRUCKTASTE Durch Drücken der DRUCK-TASTE wird ein Bild …",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "使用剪取工具擷取螢幕擷取畫面 | Microsoft Support",
+      "url": "https://support.microsoft.com/zh-tw/windows/apps/use-snipping-tool-to-capture-screenshots",
+      "snippet": "開啟 [剪取工具] 選擇 「開始 」按鈕，輸入 剪切工具，然後從結果中選擇 「剪切工具 」。 你可以使用以下快捷鍵，讓剪 切工具 更快完成任務： 按 Windows 標誌鍵 + Shift + S 即可開啟剪切工具的覆蓋 …",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Usar a Ferramenta de Captura para obter capturas de tela",
+      "url": "https://support.microsoft.com/pt-br/windows/apps/use-snipping-tool-to-capture-screenshots",
+      "snippet": "Saiba como usar a Ferramenta de Snipping para capturar uma captura de tela ou um snip de qualquer objeto em sua tela e anotar, salvar ou compartilhar a imagem.",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

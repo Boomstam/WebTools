@@ -1,0 +1,85 @@
+{
+  "address": "Bredabaan 400, 2170 Merksem",
+  "address_key": "BREDABAAN|400|||2170|Merksem",
+  "query": "\"Bredabaan 400\" \"2170\" \"Merksem\"",
+  "results": [
+    {
+      "title": "Check if Disk is MBR or GPT in Windows Hardware & Drivers",
+      "url": "https://www.tenforums.com/tutorials/84888-check-if-disk-mbr-gpt-windows.html",
+      "snippet": "12 nov 2025 · How to Check if Disk is MBR or GPT in Windows GPT (GUID Partition Table) and MBR (Master Boot Record) are two different partition styles that can be used for a disk. MBR disks use the …",
+      "domain": "tenforums.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Enable or Disable Disk Write Protection in Windows",
+      "url": "https://www.tenforums.com/tutorials/3548-enable-disable-disk-write-protection-windows.html",
+      "snippet": "30 jun 2020 · How to Enable or Disable Write Protection for a Disk Drive in Windows Write protection (read-only) on a disk prevents the contents on the disk from being changed. There are many reasons …",
+      "domain": "tenforums.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to Mount and Unmount a Drive or Volume in Windows",
+      "url": "https://www.tenforums.com/tutorials/158668-how-mount-unmount-drive-volume-windows.html",
+      "snippet": "16 jun 2020 · Mount Drive or Volume in Disk Management 1 Press the Win + R keys to open Run, type diskmgmt.msc into Run, and click/tap on OK to open Disk Management. 2 Right click or press and …",
+      "domain": "tenforums.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Create and Set Up New VHD or VHDX File in Windows 10",
+      "url": "https://www.tenforums.com/tutorials/138380-create-set-up-new-vhd-vhdx-file-windows-10-a.html",
+      "snippet": "23 apr 2021 · How to Create and Set Up New VHD or VHDX File in Windows 10 VHD (Virtual Hard Disk) is a file format which represents a virtual hard disk drive (HDD). It may contain what is found on …",
+      "domain": "tenforums.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Format Disk or Drive in Windows 10 | Tutorials - Ten Forums",
+      "url": "https://www.tenforums.com/tutorials/96205-format-disk-drive-windows-10-a.html",
+      "snippet": "1 nov 2024 · How to Format a Disk or Drive in Windows 10 Format is the process of preparing a data storage device such as a hard disk drive, solid-state drive, or USB flash drive for initial use to accept …",
+      "domain": "tenforums.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "How many partitions are set up with a Windows 10 Clean Installation ...",
+      "url": "https://www.tenforums.com/installation-upgrade/85485-how-many-partitions-set-up-windows-10-clean-installation.html",
+      "snippet": "27 mei 2017 · How many partitions are set up with a Windows 10 Clean Installation? Ive checked disk management to see what the partitions should look like. It shows C: NTFS (Primary partition) …",
+      "domain": "tenforums.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Shrink Volume or Partition in Windows 10 - Ten Forums",
+      "url": "https://www.tenforums.com/tutorials/96288-shrink-volume-partition-windows-10-a.html",
+      "snippet": "11 dec 2023 · Shrink Volume or Partition on Disk in Disk Management 1 Open the Win+X menu, and click/tap on Disk Management (diskmgmt.msc). 2 Right click or press and hold on the …",
+      "domain": "tenforums.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Can't mount an iso file Solved - Windows 10 Forums",
+      "url": "https://www.tenforums.com/virtualization/200983-cant-mount-iso-file.html",
+      "snippet": "21 dec 2022 · The conclusion of that thread would suggest you should try an in-place upgrade repair install which keeps all progs and data and most settings In your case, since you can't mount an iso …",
+      "domain": "tenforums.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

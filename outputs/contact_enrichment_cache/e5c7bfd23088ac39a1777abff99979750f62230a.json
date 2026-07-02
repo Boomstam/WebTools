@@ -1,0 +1,104 @@
+{
+  "address": "Markt 12, 2180 Ekeren",
+  "address_key": "MARKT|12|||2180|Ekeren",
+  "query": "\"Markt 12\" \"2180\" \"Ekeren\"",
+  "results": [
+    {
+      "title": "Haspengouw Markt | Sint-Truiden - Facebook",
+      "url": "https://www.facebook.com/people/Haspengouw-Markt/100026704675183/",
+      "snippet": "Haspengouw Markt, Sint-Truiden. 5,194 likes · 318 talking about this · 1,683 were here. Wekelijkse markt. Iedere zaterdagvoormiddag in Sint-Truiden, op...",
+      "domain": "facebook.com",
+      "score": 40,
+      "reasons": [
+        "straat",
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/people/Haspengouw-Markt/100026704675183/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "≥ Marktplaats - De plek om nieuwe en tweedehands spullen te kopen …",
+      "url": "https://www.marktplaats.nl/?msockid=1d15c8179e96630813eedf9e9f896272",
+      "snippet": "De grootste advertentiesite van Nederland. Nieuwe en tweedehands goederen en diensten, koopt en verkoopt u op Marktplaats.nl.",
+      "domain": "marktplaats.nl",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Markten - Overzicht van Vlaamse markten - Markten.be",
+      "url": "https://markten.be/",
+      "snippet": "Markten in Vlaanderen en Brussel. Het meest complete overzicht van wekelijkse markten, jaarmarkten, avondmarkten, kerstmarkten en boerenmarkten.",
+      "domain": "markten.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Wekelijkse markten - Kalender van Vlaamse markten - Markten.be",
+      "url": "https://markten.be/wekelijkse-markten/",
+      "snippet": "Wekelijkse markten in Vlaanderen en Brussel. Meest volledige kalender van markten online ! De wekelijkse markten zijn groepeerd per dag en provincie.",
+      "domain": "markten.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Markten Vlaanderen",
+      "url": "https://www.markten.vlaanderen/",
+      "snippet": "Op markten.vlaanderen vind je alle Vlaamse markten Aalter Aarschot Aartselaar Affligem Alken Antwerpen Anzegem Arendonk As Asse Assenede Avelgem Baal Balen Bassevelde Bazel Beerse …",
+      "domain": "markten.vlaanderen",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Markten - Sint-Truiden",
+      "url": "https://www.sint-truiden.be/markten",
+      "snippet": "Ontdek alle gezellige markten van Sint-Truiden.",
+      "domain": "sint-truiden.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Markten - Visit Sint-Truiden",
+      "url": "https://www.visitsinttruiden.be/aanbod/markten-2/",
+      "snippet": "Reeds 600 jaar staat de zaterdagmarkt garant voor een gezellige wekelijkse markt met een ruim aanbod in dagverse voeding, textiel, bloemen… Ruim 160 standhouders zetten hun beste beentje voor om …",
+      "domain": "visitsinttruiden.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Rommelmarkten.be - de meest volledige gids naar de rommelmarkten",
+      "url": "https://www.rommelmarkten.be/",
+      "snippet": "Bij ons vind je echt van alles: visgerief, gereedschap nieuw en oud, cd’s, dvd’s, lp’s, singles, kleding, decoratie, strips, boeken, bloempotten en nog veel meer. Cd’s, dvd’s en lp’s: slechts €0,50 per stuk! …",
+      "domain": "rommelmarkten.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

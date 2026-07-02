@@ -1,0 +1,85 @@
+{
+  "address": "Doornstraat 181, 2610 Wilrijk",
+  "address_key": "DOORNSTRAAT|181|||2610|Wilrijk",
+  "query": "\"Doornstraat 181\" \"2610\" \"Wilrijk\"",
+  "results": [
+    {
+      "title": "Gmail",
+      "url": "https://mail.google.com/mail?hl=de",
+      "snippet": "Gmail ist ein intuitiver, effizienter und nützlicher E-Mail-Dienst mit 15 GB Speicherplatz, weniger Spam und mobilem Zugriff.",
+      "domain": "mail.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Gmail - Email from Google",
+      "url": "https://mail.google.com/mail",
+      "snippet": "Gmail is email that's intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
+      "domain": "mail.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Gmail – ein geschützter, KI-gestützter E‑Mail-Dienst für alle | Google ...",
+      "url": "https://workspace.google.com/intl/de/gmail/",
+      "snippet": "Gmail – jetzt mit Google AI. Entdecken Sie neue Möglichkeiten zum Verfassen, Beantworten und Organisieren von E‑Mails sowie einen intelligenteren und noch besser geschützten Posteingang.",
+      "domain": "workspace.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Nutzer können jetzt ganz einfach ihre Gmail -Adresse ändern – auch in ...",
+      "url": "https://www.chip.de/news/software/nutzer-koennen-jetzt-ganz-einfach-ihre-gmail-adresse-aendern-auch-in-deutschland_1f778641-befe-4a36-96b4-a18afa497615.html",
+      "snippet": "23 jun 2026 · Gmail-Nutzer können ihre Identifikations-Adresse ab sofort anpassen. Die Neuerung in der Google-Anwendung ist nach einem US-Start nun auch in Deutschland verfügbar.",
+      "domain": "chip.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Gmail -Trick: So bekommst du neue Mail-Adressen, ohne einen neuen …",
+      "url": "https://t3n.de/news/gmail-trick-mail-adresse-account-1746848/",
+      "snippet": "16 jun 2026 · Benötigst du eine neue Gmail-Adresse, aber dir einen neuen Account zu erstellen, ist zu umständlich? Dann gibt es eine praktische Alternative, mit der du in wenigen Handgriffen eine …",
+      "domain": "t3n.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Download Gmail (free) for Android, APK, iOS and Web App | Gizmodo",
+      "url": "https://gizmodo.com/download/gmail",
+      "snippet": "23 jun 2026 · Gmail is the most popular email service in the world. Provided by Google, it gives you free access to the email client and other products. It features a user-friendly interface, powerful search ...",
+      "domain": "gizmodo.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Gmail -Konto erstellen",
+      "url": "https://support.google.com/mail/answer/56256?hl=de",
+      "snippet": "Gmail-Konto erstellen Wenn Sie sich für Gmail registrieren möchten, müssen Sie ein Google-Konto erstellen. Sie können den Nutzernamen und das Passwort nicht nur für Gmail, sondern auch für …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Gmail – free storage and email from Google",
+      "url": "https://www.google.co.uk/gmail/about/for-work/",
+      "snippet": "Gmail is available across all of your devices – Android, iOS and desktop devices. Sort emails, collaborate or call a friend without leaving your inbox.",
+      "domain": "google.co.uk",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

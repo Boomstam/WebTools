@@ -1,0 +1,85 @@
+{
+  "address": "Elsenstraat 13, 2170 Merksem",
+  "address_key": "ELSENSTRAAT|13|||2170|Merksem",
+  "query": "\"Elsenstraat 13\" \"2170\" \"Merksem\"",
+  "results": [
+    {
+      "title": "meteo.si - Uradna vremenska napoved za Slovenijo - Državna …",
+      "url": "https://meteo.arso.gov.si/met/sl/weather/observ/radar/",
+      "snippet": "Slovenska državna meteorološka služba meri padavine nad Slovenijo in njeno bližnjo okolico z dvema vremenskima radarjema na Lisci in na Pasji ravni. Sestavljena radarska slika prikazuje razporeditev …",
+      "domain": "meteo.arso.gov.si",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "meteo.si - Uradna vremenska napoved za Slovenijo - Državna …",
+      "url": "https://meteo.arso.gov.si/",
+      "snippet": "ARSO - Agencija Republike Slovenije za okolje: Državna meteorološka služba - podatki o vremenu in podnebju.",
+      "domain": "meteo.arso.gov.si",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Radarska slika padavin Slovenija v živo - Vreme Info",
+      "url": "https://www.vreme-info.si/radarska-slika-padavin/",
+      "snippet": "Radarska slika padavin v živo za Slovenijo. Sledite ARSO animaciji gibanja dežja in neurij ter bodite vedno korak pred padavinami!",
+      "domain": "vreme-info.si",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "radarska slika",
+      "url": "https://radarska.meteoinfo.si/",
+      "snippet": "23 uur geleden · Prosimo, počakajte ...",
+      "domain": "radarska.meteoinfo.si",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "arso - Arhivske spletne strani",
+      "url": "http://arso.si/",
+      "snippet": "Najizrazitejša bo na Primorskem, v jugovzhodni Sloveniji in v večjih mestih. Uradne strani Agencije za okolje prenašamo na Vladne spletne strani GOV.SI. Hvala za razumevanje. Objav ni!",
+      "domain": "arso.si",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Radarska Slika Padavin – Animacija za Slovenijo & Evropo",
+      "url": "https://www.radarska-slika-padavin.si/",
+      "snippet": "Radarska slika padavin v živo za Slovenijo. Radar padavin, satelitska slika oblačnosti in vremenska napoved za mesta in hribe.",
+      "domain": "radarska-slika-padavin.si",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Radarska Slika Padavin ☁️ Animacija v Živo | Slovenija",
+      "url": "https://radarska.si/",
+      "snippet": "Ta aplikacija prikazuje radarsko sliko padavin za Slovenijo in okolico. Podatki se osvežujejo vsakih 10 minut. Prikazan je kompozit vseh razpoložljivih radarjev v okolici. Z uporabo funkcije animacija v živo …",
+      "domain": "radarska.si",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Radarska slika padavin - Meteoinfo Slovenija",
+      "url": "https://meteoinfo.si/radarska-slika-padavin/",
+      "snippet": "23 uur geleden · Na spletni strani Meteoinfo Slovenija vam poleg radarske slike padavin ARSO ponujamo tudi lastno vizualizacijo radarskih meritev nad Slovenijo in širšo okolico, ki kombinira …",
+      "domain": "meteoinfo.si",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

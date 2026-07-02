@@ -1,0 +1,20 @@
+{
+  "address": "Korte Leemstraat 35, 2018 Antwerpen",
+  "address_key": "KORTE LEEMSTRAAT|35|||2018|Antwerpen",
+  "query": "\"Korte Leemstraat 35\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Orange",
+      "url": "https://chaines-tv.orange.fr/programme-tv/1660111340452/les-100-videos-qui-ont-fait-rire-le-monde-entier",
+      "snippet": "Nous voudrions effectuer une description ici mais le site que vous consultez ne nous en laisse pas la possibilité.",
+      "domain": "chaines-tv.orange.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

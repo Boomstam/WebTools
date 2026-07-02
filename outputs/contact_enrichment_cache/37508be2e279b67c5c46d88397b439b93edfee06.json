@@ -1,0 +1,87 @@
+{
+  "address": "Bouwmeestersstraat 5, 2000 Antwerpen",
+  "address_key": "BOUWMEESTERSSTRAAT|5|||2000|Antwerpen",
+  "query": "\"Bouwmeestersstraat 5\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Google",
+      "url": "https://www.google.co.uk/",
+      "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+      "domain": "google.co.uk",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.co.uk/m/search",
+      "snippet": "We would like to show you a description here but the site won’t allow us.",
+      "domain": "google.co.uk",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com.ai/webhp?gl=ai&hl=en-GB&gws_rd=cr&pws=0",
+      "snippet": "Advertising Business Solutions About Google Google.com © 2026 - Privacy - Terms",
+      "domain": "google.com.ai",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Search anything, effortlessly",
+      "url": "https://search.google/intl/en-GB/",
+      "snippet": "Explore new ways to search. Download the Google app to experience Lens, AR, Search Labs, voice search, and more.",
+      "domain": "search.google",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Search - A new kind of help",
+      "url": "https://search.google/",
+      "snippet": "Explore a new kind of help for your everyday with breakthroughs in Search intelligence from Google I/O.",
+      "domain": "search.google",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google Search - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Search",
+      "snippet": "Google Search (also known simply as Google or google.com) is a search engine operated by Google. It allows users to search or ask for information by entering keywords or phrases on a website page or …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Search engine - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Search_engine",
+      "snippet": "As of January 2022, Google is by far the world's most used search engine, with a market share of 90%, and the world's other most used search engines were Bing at 4%, Yandex at 2%, Yahoo! at 1%.",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com/",
+      "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

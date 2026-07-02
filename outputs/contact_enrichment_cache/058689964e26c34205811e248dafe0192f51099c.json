@@ -1,0 +1,85 @@
+{
+  "address": "Adrinkhovenlaan 36 bus 2, 2150 Borsbeek",
+  "address_key": "ADRINKHOVENLAAN|36||2|2150|Borsbeek",
+  "query": "\"Adrinkhovenlaan 36\" \"2150\" \"Borsbeek\"",
+  "results": [
+    {
+      "title": "YouTube - YouTube",
+      "url": "https://www.youtube.com/youtube",
+      "snippet": "YouTube's official YouTube channel You found us. Welcome to the official YouTube channel – a home for the biggest moments, the smallest obsessions, and everything in between. Whatever you're ...",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube Music",
+      "url": "https://music.youtube.com/",
+      "snippet": "With the YouTube Music app, enjoy over 100 million songs at your fingertips, plus albums, playlists, remixes, music videos, live performances, covers, and hard-to-find music you can’t get anywhere else.",
+      "domain": "music.youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube Premium - YouTube",
+      "url": "https://www.youtube.com/premium",
+      "snippet": "Premium is all of YouTube and YouTube Music ad-free, offline, and in the background. Enjoy every Premium feature across all content types. Premium Lite is a good fit for you if you mainly watch ...",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "News - YouTube",
+      "url": "https://www.youtube.com/channel/UCYfdidRxbB8Qhf0Nx7ioOYw",
+      "snippet": "Discover videos, music, and more on this YouTube channel.",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "News - YouTube",
+      "url": "https://news.youtube.com/new",
+      "snippet": "Stay updated with the latest news and trends on YouTube News, your source for global happenings and breaking stories.",
+      "domain": "news.youtube.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "HONG KONG - YouTube",
+      "url": "https://www.youtube.com/hongkong",
+      "snippet": "Hello Hong Kong! Welcome to the official YouTube channel of Discover Hong Kong. Embark on a captivating journey at one of the world’s most extraordinary destinations. Hong Kong is a city full of ...",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "YouTube Canada - YouTube",
+      "url": "https://www.youtube.com/c/YouTubeCanada/videos",
+      "snippet": "Welcome to the YouTube Canada channel, Canada’s go-to for discovering the creators, artists, trends and latest cultural phenomenons capturing the attention of our country. Bienvenue sur la ...",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Movies & TV - YouTube",
+      "url": "https://movies.youtube.com/",
+      "snippet": "Find the latest and greatest movies and shows all available on YouTube.com/movies. From award-winning hits to independent releases, watch on any device and from the ...",
+      "domain": "movies.youtube.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

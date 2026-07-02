@@ -1,0 +1,93 @@
+{
+  "address": "Eethuisstraat 126, 2170 Merksem",
+  "address_key": "EETHUISSTRAAT|126|||2170|Merksem",
+  "query": "\"Eethuisstraat 126\" \"2170\" \"Merksem\"",
+  "results": [
+    {
+      "title": "Walmart Supercenter Berlin - Broadway St | Berlin WI - Facebook",
+      "url": "https://www.facebook.com/Walmart1727/",
+      "snippet": "Walmart Supercenter Berlin - Broadway St, Berlin. 1,928 likes · 15 talking about this · 1,107 were here. Pharmacy Phone: 920-361-3433 Pharmacy Hours:...",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/Walmart1727/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Walmart Supercenter Berlin - Ocean Gtwy | Berlin MD - Facebook",
+      "url": "https://www.facebook.com/Walmart2560/",
+      "snippet": "Walmart Supercenter Berlin - Ocean Gtwy, Berlin. 2,626 likes · 14 talking about this · 8,028 were here. Pharmacy Phone: 410-629-1842 Pharmacy Hours:...",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/Walmart2560/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Walmart Stores Near Me - Locations, Hours & Services",
+      "url": "https://www.walmart.com/store-finder?lang=de",
+      "snippet": "Enter your location to find a nearby store. Use the Walmart store locator to find your nearest Walmart locations, check store hours, and find services like Grocery Pickup, Pharmacy, Vision Centre, Photo …",
+      "domain": "walmart.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Walmart | Save Money. Live better.",
+      "url": "https://www.walmart.com/",
+      "snippet": "Shop Walmart.com today for Every Day Low Prices. Join Walmart+ for unlimited free delivery from your store & free shipping with no order minimum. Start your free 30-day trial now!",
+      "domain": "walmart.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Walmart - Berlin, Ocean Gtwy, MD - Hours & Weekly Ad",
+      "url": "https://www.storeopeninghours.com/walmart-berlin-ocean-gtwy-md",
+      "snippet": "2 dagen geleden · Please note the various sections on this page for specifics on Walmart Berlin, Ocean Gtwy, MD, including the hours, place of business info, email address and further information.",
+      "domain": "storeopeninghours.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Walmart - Store Locator & Hours",
+      "url": "https://www.storeopeninghours.com/retailers/walmart",
+      "snippet": "Stay with us and don't miss any of them! Walmart operates different types of stores, such as supercenters, discount stores or neighbourhood markets, as well as different divisions, e.g. Walmart …",
+      "domain": "storeopeninghours.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Walmart Locations Berlin , Germany - Last Updated June 2026 - Yelp",
+      "url": "https://www.yelp.com/search?find_desc=walmart+locations&find_loc=Berlin&msockid=3b250c60c5b36ac72d241be9c4e26bb8",
+      "snippet": "\"When in Berlin visit KaDaWe and go directly to the 6th floor. There you will find gourmet food counters and restaurants. It's similar to Harrods in London or the magnificent department stores found in …",
+      "domain": "yelp.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Wo gibt es walmart in deutschland? - AlleAntworten.de",
+      "url": "https://alleantworten.de/wo-gibt-es-walmart-in-deutschland",
+      "snippet": "Warum gibt es kein Walmart in Deutschland? Für das Scheitern der Amerikaner in Deutschland gibt es so viele Gründe, wie Wal-Mart-Manager in Deutschland verheizt wurden. ...",
+      "domain": "alleantworten.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

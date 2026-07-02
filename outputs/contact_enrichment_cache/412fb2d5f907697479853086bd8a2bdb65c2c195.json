@@ -1,0 +1,85 @@
+{
+  "address": "Dokter Van De Perrelei 48-101, 2140 Borgerhout",
+  "address_key": "DOKTER VAN DE PERRELEI|48|101||2140|Borgerhout",
+  "query": "\"Dokter Van De Perrelei 48\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "Doctena | Boek je volgende afspraak in een paar klikken!",
+      "url": "https://www.doctena.be/nl/",
+      "snippet": "Vind de beste artsen en specialisten, en boek een afspraak in een paar klikken! Filter op locatie, taal en beoordelingen. Het is snel, eenvoudig en gratis!",
+      "domain": "doctena.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Vind uw dokter en maak direct een afspraak | doctoranytime",
+      "url": "https://www.doctoranytime.be/nl",
+      "snippet": "Vind een dokter in uw regio. Vind de prijs, diensten, expertise en de beschikbaarheden van de dokters. Boek nu gratis uw online afspraak!",
+      "domain": "doctoranytime.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Doktersdorp",
+      "url": "https://doktersdorp.be/",
+      "snippet": "Een consultatie kan telefonisch gemaakt worden via het secretariaat. Personen die tot een risicogroep behoren, kunnen vanaf 1 oktober een vaccin verkrijgen bij de apotheker zonder voorschrift. Meer …",
+      "domain": "doktersdorp.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Artsenoverzicht | Imelda vzw",
+      "url": "https://www.imelda.be/zorgaanbod/artsenoverzicht",
+      "snippet": "Via onderstaande zoekbalk kan je rechtstreeks naar de naam van een arts zoeken, maar ook een bepaalde medische discipline intypen en alle relevante artsen terugvinden.",
+      "domain": "imelda.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Dokter -vinden.be | Vind een dokter bij u in de buurt",
+      "url": "https://www.dokter-vinden.be/",
+      "snippet": "Vind snel en eenvoudig een dokter bij u in de buurt. Of kom direct in contact met meerdere dokters via één e-mail.",
+      "domain": "dokter-vinden.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Afspraken.be/Rdvous.be",
+      "url": "https://www.mtc-it4.be/patient/index.html",
+      "snippet": "Via deze website kunt u eenvoudig online uw afspraken maken bij uw huisarts, specialist, tandarts, diëtist, dierenarts en veel andere... Bent u zelf zorgverlener? Uw agenda altijd en overal up-to-date! …",
+      "domain": "mtc-it4.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "ARTSEN – Doktersdorp",
+      "url": "https://doktersdorp.be/team/artsen/",
+      "snippet": "In onze praktijk werken we met meerdere huisartsen samen op één gemeenschappelijke locatie: Dorp 98 Bonheiden. Alle dokters hebben toegang tot het medisch dossier van de patiënten. Alle dokters …",
+      "domain": "doktersdorp.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Huisartsenpraktijk Balans in Bonheiden",
+      "url": "https://www.huisartsenpraktijkbalans.be/",
+      "snippet": "Huisartsenpraktijk Balans in Bonheiden verzorgt persoonlijke consultatie voor alle patiënten.",
+      "domain": "huisartsenpraktijkbalans.be",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

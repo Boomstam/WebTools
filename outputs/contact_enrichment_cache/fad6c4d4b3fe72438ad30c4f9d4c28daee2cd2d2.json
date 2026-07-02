@@ -1,0 +1,87 @@
+{
+  "address": "Provinciestraat 161, 2018 Antwerpen",
+  "address_key": "PROVINCIESTRAAT|161|||2018|Antwerpen",
+  "query": "\"Provinciestraat 161\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Google - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google",
+      "snippet": "Google ... Google LLC (/ ˈɡuː.ɡəl / ⓘ, GOO-gəl) is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Search - A new kind of help",
+      "url": "https://search.google/",
+      "snippet": "Explore a new kind of help for your everyday with breakthroughs in Search intelligence from Google I/O.",
+      "domain": "search.google",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com.sa/m?hl=ar",
+      "snippet": "We would like to show you a description here but the site won’t allow us.",
+      "domain": "google.com.sa",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "About Google : Our products, technology and company information",
+      "url": "https://about.google/",
+      "snippet": "Learn more about Google. Explore our innovative AI products and services, and how we're using technology to help improve lives around the world.",
+      "domain": "about.google",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "تطبيق Google ‬ - App Store",
+      "url": "https://apps.apple.com/sa/app/google/id284815942?l=ar",
+      "snippet": "يمكنك تنزيل Google المطور بواسطة Google من App Store. كما يمكنك الاطلاع على لقطات الشاشة والتصنيفات والمراجعات ونصائح المستخدمين والمزيد من الألعاب المشابهة لـ…",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Sign in - Google Accounts",
+      "url": "https://accounts.google.com/",
+      "snippet": "Not your computer? Use a private browsing window to sign in. Learn more about using Guest mode Next Create account",
+      "domain": "accounts.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google",
+      "url": "http://www.google.com.nf/webhp?hl=en&gl=nf",
+      "snippet": "Advertising Business Solutions About Google Google.com © 2026 - Privacy - Terms",
+      "domain": "google.com.nf",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com/",
+      "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

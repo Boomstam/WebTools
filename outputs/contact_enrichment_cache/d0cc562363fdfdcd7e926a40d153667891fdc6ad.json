@@ -1,0 +1,85 @@
+{
+  "address": "Dambruggestraat 61, 2060 Antwerpen",
+  "address_key": "DAMBRUGGESTRAAT|61|||2060|Antwerpen",
+  "query": "\"Dambruggestraat 61\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "AMD Software : Adrenalin Edition™ Application",
+      "url": "https://www.amd.com/en/products/software/adrenalin.html",
+      "snippet": "Get more from your graphics powered by AMD Radeon™ with custom performance tuning and adjustments all right within AMD Software. No need for additional software, no need for extra …",
+      "domain": "amd.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Application AMD Software : Adrenalin Edition™",
+      "url": "https://www.amd.com/fr/products/software/adrenalin.html",
+      "snippet": "AMD Software: Adrenalin Edition est une interface simple d'utilisation pour vos produits AMD, qui vous permet d'accéder aux fonctionnalités logicielles, aux statistiques de jeu, aux mises à jour des pilotes …",
+      "domain": "amd.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "AMD Radeon Adrenalin Graphics Driver 25.10.1 Hotfix",
+      "url": "https://www.techspot.com/downloads/drivers/essentials/amd-radeon-hotfix/",
+      "snippet": "10 okt 2025 · Designed to provide you with a clean, modern and easy-to-use interface where you can quickly access the latest software features, game stats, performance reports, driver updates, and …",
+      "domain": "techspot.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Drivers and Support for Processors and Graphics - AMD",
+      "url": "https://www.amd.com/en/support/download/drivers.html",
+      "snippet": "Download drivers and software for AMD products — includes Windows and Linux support, auto-detect tools & detailed guides for installation.",
+      "domain": "amd.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Install AMD Software : Adrenalin Edition",
+      "url": "https://www.amd.com/driverinstall",
+      "snippet": "9 feb 2026 · Get Drivers with AMD Auto-Detect and Install Tool - Runs AMD Software Installer to check your system for compatible AMD products and gets the latest supporting drivers.",
+      "domain": "amd.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "AMD Software Help Center",
+      "url": "https://www.amd.com/fr/support/graphics/software.html",
+      "snippet": "Ce site contient des guides pratiques sur la configuration d'AMD Software: Adrenalin Edition™ et la personnalisation des fonctionnalités des pilotes pour votre solution graphique AMD Radeon™.",
+      "domain": "amd.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Pilotes et assistance – Processeurs et cœurs graphiques - AMD",
+      "url": "https://www.amd.com/fr/support/download/drivers.html",
+      "snippet": "Télécharger des pilotes et des softwares pour les produits AMD : comprend la prise en charge Windows et Linux, des outils de détection automatique et des guides d'installation détaillés.",
+      "domain": "amd.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "AMD Software : Adrenalin Edition 26.6.4 Driver Release Notes",
+      "url": "https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-26-6-4.html",
+      "snippet": "2 dagen geleden · Highlights Fixed Issues: Intermittent install issue seen when installing AMD Software: Adrenalin Edition 26.6.2 on Windows® 10 systems for Radeon™ RX 7000 series and above …",
+      "domain": "amd.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

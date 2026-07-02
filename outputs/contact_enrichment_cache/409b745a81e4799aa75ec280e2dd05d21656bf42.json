@@ -1,0 +1,85 @@
+{
+  "address": "Bredabaan 344, 2170 Merksem",
+  "address_key": "BREDABAAN|344|||2170|Merksem",
+  "query": "\"Bredabaan 344\" \"2170\" \"Merksem\"",
+  "results": [
+    {
+      "title": "Windows 10 und Windows 11: Datenträgerverwaltung finden und …",
+      "url": "https://www.netzwelt.de/tutorial/170053-windows-10-so-findet-datentraegerverwaltung.html",
+      "snippet": "27 jan 2022 · Windows 10 und Windows 11 bieten mit der Datenträgerverwaltung eine nützliche Übersicht über alle Laufwerke in eurem PC. Wir zeigen euch drei Möglichkeiten, wie ihr das …",
+      "domain": "netzwelt.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Datenträgerverwaltung in Windows | Microsoft Support",
+      "url": "https://support.microsoft.com/de-DE/Windows/Experience/Storage-FileManagement/disk-management-in-windows",
+      "snippet": "Mit der Datenträgerverwaltung in Windows können Sie erweiterte Speicheraufgaben, wie das Initiieren eines neuen Laufwerks und das Erweitern oder Verkleinern von Volumes durchführen.",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Datenträgerverwaltung in Windows | Partitionen einfach verwalten",
+      "url": "https://www.win-tipps.de/datentraegerverwaltung-windows/",
+      "snippet": "27 okt 2025 · Die Datenträgerverwaltung in Windows ist das zentrale Werkzeug, um Laufwerke zu verwalten, Partitionen einzurichten und Speicherplatz sinnvoll zu nutzen. Mit ihr kannst du neue …",
+      "domain": "win-tipps.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Windows 10: Datenträgerverwaltung öffnen - so geht's - CHIP",
+      "url": "https://www.chip.de/ratgeber/software/windows-10-datentraegerverwaltung-oeffnen-so-geht-s_6e19e087-ac34-4348-852f-f2f6c6534470.html",
+      "snippet": "29 mei 2024 · Die Datenträgerverwaltung in Windows 10 ist ein leistungsfähiges Tool, mit dem Sie Festplatten und Partitionen verwalten können. Sie öffnen es mit zwei Klicks.",
+      "domain": "chip.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Windows 11/ 10 Datenträgerverwaltung - Das hilfreichste …",
+      "url": "https://www.diskpart.com/de/windows-10/datentraegerverwaltung-windows-10.html",
+      "snippet": "13 mrt 2024 · In diesem Artikel erfahren Sie, was die Windows 11/Windows 10 Datenträgerverwaltung ist, wie man sie öffnet und wie man sie für die Verwaltung von Festplattenpartitionen verwendet.",
+      "domain": "diskpart.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Datenträgerverwaltung : Laufwerke in Windows verwalten",
+      "url": "https://www.dirks-computerecke.de/datentraegerverwaltung/",
+      "snippet": "19 mei 2026 · Datenträgerverwaltung einfach erklärt: Laufwerke öffnen, Partitionen verwalten, SSDs einrichten und typische Windows-Probleme lösen.",
+      "domain": "dirks-computerecke.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Datenträgerverwaltung öffnen bei Windows 10",
+      "url": "https://www.windows-guru.de/datentraegerverwaltung-oeffnen-bei-windows-10/",
+      "snippet": "1 jul 2025 · Wie du bei Windows 10 die Datenträgerverwaltung öffnen kannst, zeige ich dir in dieser Anleitung. Natürlich Schritt für Schritt mit Bildern.",
+      "domain": "windows-guru.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "4 Möglichkeiten, die Datenträgerverwaltung in Windows 10 und 11 …",
+      "url": "https://de.windows.day/?p=45445",
+      "snippet": "Windows bietet viele Möglichkeiten, die Datenträgerverwaltung zu öffnen. Während das Suchtool das Finden erleichtert, haben andere Methoden ihre eigenen Vorteile.",
+      "domain": "de.windows.day",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

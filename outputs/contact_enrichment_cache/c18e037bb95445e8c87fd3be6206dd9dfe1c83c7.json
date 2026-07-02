@@ -1,0 +1,85 @@
+{
+  "address": "Bredastraat 16, 2060 Antwerpen",
+  "address_key": "BREDASTRAAT|16|||2060|Antwerpen",
+  "query": "\"Bredastraat 16\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "知乎 - 有问题，就会有答案",
+      "url": "https://www.zhihu.com/",
+      "snippet": "知乎是一个中文互联网高质量问答社区和创作者聚集的原创内容平台，致力于分享知识、经验和见解，帮助用户找到答案。",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "家里是千兆网，但是电脑下载速度只有10mb/s不到怎么办？",
+      "url": "https://www.zhihu.com/question/1930752647020913028",
+      "snippet": "问题排查步骤（从最简单到复杂） 请按照以下顺序逐一检查： 第一步：检查硬件连接（最可能的罪魁祸首） 网线问题（超高频发 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "用win10自带的截屏win+shift+s截的图保存到哪了？ - 知乎",
+      "url": "https://www.zhihu.com/question/394953580",
+      "snippet": "“Win＋Shift＋S”选取截图区域后，松开鼠标，截图就会保存在「剪贴板」。 需要查看截屏缩略图，则使用快捷键 调出剪贴板，再点击 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "S参数通俗讲义 - 知乎",
+      "url": "https://www.zhihu.com/tardis/zm/art/478320591",
+      "snippet": "介绍信号完整性就必须说说S参数，在我们仿真和测试中经常会用的S参数，S参数的全称为Scatter 参数，即散射参数，是在传输线两 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "网站被劫持，打开会跳转到另一个网站，直接输入网址也是这样。怎么 …",
+      "url": "https://www.zhihu.com/question/312447181",
+      "snippet": "网页被劫持，是指打开网站被跳转到其它网站，无法访问真实的网站。 解决办法： 确定好网站地址，并且该网站拥有域名解析权（网 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "为什么双人成行这个游戏有两个，一个要钱，一个不要钱? - 知乎",
+      "url": "https://www.zhihu.com/question/6559886385",
+      "snippet": "看了另一个回答发现我的解释有误。 如图，Friend's Pass的用法在其主页也有说明。 我误认为是一般游戏demo版，此处并不是这种 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "方大同和大 S 都长期素食，长期吃素会影响健康吗？应该怎样「科学吃 …",
+      "url": "https://www.zhihu.com/question/13740868418",
+      "snippet": "1 mrt 2025 · 一个月前，48岁的大S，也因流感引发严重感染去世。 两人看似不同的健康悲剧背后，却可能隐藏着相似的警示： 长期 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "2026年6月手机推荐 || 2026年全价位最值得买的手机排行榜 || 超全的手 …",
+      "url": "https://www.zhihu.com/tardis/zm/art/701307126",
+      "snippet": "大家好，我是 @Tech阿乐 ，平台认证的 手机领域优秀答主、安卓手机领域优秀答主、好物推荐官。有不少朋友表示手机机型琳琅满 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

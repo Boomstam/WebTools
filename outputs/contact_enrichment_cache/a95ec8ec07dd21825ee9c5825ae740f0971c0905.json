@@ -1,0 +1,107 @@
+{
+  "address": "Kerkstraat 43, 2060 Antwerpen",
+  "address_key": "KERKSTRAAT|43|||2060|Antwerpen",
+  "query": "\"Kerkstraat 43\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Google Maps",
+      "url": "https://maps.google.be/?q=Kerkstraat%2066-68,%202060%20Antwerpen",
+      "snippet": "Wij willen hier een beschrijving geven, maar de site die u nu bekijkt staat dit niet toe.",
+      "domain": "maps.google.be",
+      "score": 75,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Kerkstraat, Gemeente Antwerpen (Antwerpen )",
+      "url": "https://straten.openalfa.be/straten/kerkstraat-antwerpen",
+      "snippet": "Kaart van Kerkstraat, Gemeente Antwerpen (Antwerpen). Lijst met diensten in de buurt van Kerkstraat: winkels, restaurants, vrijetijds- en sportfaciliteiten, ziekenhuizen, benzinestations en andere …",
+      "domain": "straten.openalfa.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Kerkstraat, Wevelgem (Gullegem )",
+      "url": "https://straten.openalfa.be/straten/kerkstraat-gullegem-wevelgem",
+      "snippet": "Kaart van Kerkstraat, Wevelgem (Gullegem). Lijst met diensten in de buurt van Kerkstraat: winkels, restaurants, vrijetijds- en sportfaciliteiten, ziekenhuizen, benzinestations en andere interessante …",
+      "domain": "straten.openalfa.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Winkels in de straat Kerkstraat Wevelgem - Openingsuren. Vlaanderen",
+      "url": "https://www.openingsuren.vlaanderen/8560-wevelgem/kerkstraat",
+      "snippet": "Al de winkels en handelszaken gelegen langs Kerkstraat in Wevelgem. Naast de verschillende winkels vind je ook de contactgegevens zoals het adres en telefoonnummer van de handelszaken langs …",
+      "domain": "openingsuren.vlaanderen",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Winkels langs Kerkstraat in Wevelgem - OpeningsurenGids.be",
+      "url": "https://www.openingsurengids.be/west-vlaanderen/wevelgem/kerkstraat",
+      "snippet": "Een overzicht van al de winkels en handelszaken gelegen langs Kerkstraat in Wevelgem. Ook adresgegevens en contactgegevens zoals telefoonnummer van de winkels vindt u op deze pagina.",
+      "domain": "openingsurengids.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com/maps/search/Kerkstraat%208,%208560%20Wevelgem",
+      "snippet": "Google",
+      "domain": "google.com",
+      "score": 15,
+      "reasons": [
+        "straat",
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com/maps/search/Kerkstraat%206,%208560%20Wevelgem",
+      "snippet": "Google",
+      "domain": "google.com",
+      "score": 15,
+      "reasons": [
+        "straat",
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Kerkstraat in Gullegem ( Wevelgem ) - Postcode bij adres",
+      "url": "https://postcodebijadres.be/kerkstraat+gullegem",
+      "snippet": "Bekijk alle details van Kerkstraat in Gullegem. Vind de gerelateerde postcodes, supermarkten in de buurt en nog veel meer.",
+      "domain": "postcodebijadres.be",
+      "score": 15,
+      "reasons": [
+        "straat",
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

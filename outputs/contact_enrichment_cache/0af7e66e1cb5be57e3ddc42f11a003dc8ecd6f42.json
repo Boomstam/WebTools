@@ -1,0 +1,89 @@
+{
+  "address": "Leysstraat 20-26, 2000 Antwerpen",
+  "address_key": "LEYSSTRAAT|20|26||2000|Antwerpen",
+  "query": "\"Leysstraat 20\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "AMD Radeon Adrenalin Graphics Driver 26.6.4 - TechSpot",
+      "url": "https://www.techspot.com/downloads/drivers/essentials/amd-radeon/",
+      "snippet": "2 dagen geleden · Unleash the powerful performance built into Radeon Graphics with the latest official drivers.",
+      "domain": "techspot.com",
+      "score": 15,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Latest AMD Radeon Graphics Drivers 26.6.4 WHQL Download",
+      "url": "https://www.techpowerup.com/download/amd-radeon-graphics-drivers/",
+      "snippet": "2 dagen geleden · Download the latest AMD Radeon drivers for best game performance, compatibility and to fix driver issues. Radeon Adrenalin comes with a completely redesigned interface.",
+      "domain": "techpowerup.com",
+      "score": 15,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Drivers and Support for Processors and Graphics - AMD",
+      "url": "https://www.amd.com/en/support/download/drivers.html",
+      "snippet": "Auto-Detect and Install Driver Updates for AMD Radeon™ Series Graphics and Ryzen™ Chipsets For use with systems running Windows® 11 / Windows® 10 64-bit version 1809 and later.",
+      "domain": "amd.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "AMD Radeon RX Graphics Cards",
+      "url": "https://www.amd.com/en/products/graphics/desktops/radeon.html",
+      "snippet": "AMD Radeon™ RX 9000 Series graphics are built on AMD RDNA™ 4 architecture for ultra-fast performance and stunning visuals, perfect for gamers and streamers.",
+      "domain": "amd.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "AMD Radeon Adrenalin Graphics Driver 25.10.1 Hotfix - TechSpot",
+      "url": "https://www.techspot.com/downloads/drivers/essentials/amd-radeon-hotfix/",
+      "snippet": "10 okt 2025 · This driver is not intended for use on AMD Radeon products running in Apple Boot Camp platforms. Users of these platforms should contact their system manufacturer for driver support.",
+      "domain": "techspot.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "AMD Radeon Software Adrenalin - Скачать бесплатно. Драйверы и …",
+      "url": "https://www.comss.ru/page.php?id=5836",
+      "snippet": "2 dagen geleden · AMD Radeon Software Adrenalin – новое поколение программного обеспечения и драйверов для графических процессоров AMD Radeon, обеспечивающие наилучшую …",
+      "domain": "comss.ru",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "AMD Radeon Software - Free download and install on Windows",
+      "url": "https://apps.microsoft.com/detail/9nz1bjqn6bhl?hl=en-US&gl=QA",
+      "snippet": "Radeon Software is an application provided for AMD Radeon users to control their GPU through a modern interface.",
+      "domain": "apps.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Radeon - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Radeon",
+      "snippet": "Radeon (/ ˈreɪdiɒn /) is a brand of computer products, including graphics processing units, random-access memory, RAM disk software, and solid-state drives, produced by Radeon Technologies …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

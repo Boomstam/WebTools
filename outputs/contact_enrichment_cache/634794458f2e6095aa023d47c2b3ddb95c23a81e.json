@@ -1,0 +1,85 @@
+{
+  "address": "Dijlestraat 32, 2060 Antwerpen",
+  "address_key": "DIJLESTRAAT|32|||2060|Antwerpen",
+  "query": "\"Dijlestraat 32\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "YouTube - YouTube",
+      "url": "https://www.youtube.com/youtube",
+      "snippet": "Welcome to the official YouTube channel – a home for the biggest moments, the smallest obsessions, and everything in between. Whatever you're into, it's on @YouTube.",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/feed/homepage",
+      "snippet": "About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en",
+      "snippet": "Get the official YouTube app on Android phones and tablets. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more....",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "‎ YouTube App - App Store",
+      "url": "https://apps.apple.com/us/app/youtube/id544007664",
+      "snippet": "Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to …",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "www. youtube .co.uk",
+      "url": "http://www.youtube.co.uk/",
+      "snippet": "www.youtube.co.uk",
+      "domain": "youtube.co.uk",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "YouTube - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.xr&hl=en",
+      "snippet": "Experience your favourite YouTube channels, videos and creators in extended reality.",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Download YouTube (free) for Windows, Android, APK, iOS and Web …",
+      "url": "https://kotaku.com/download/youtube",
+      "snippet": "3 dagen geleden · Discover and enjoy endless videos with YouTube—watch what you love, follow your favorite creators, learn new things, and explore trending topics.",
+      "domain": "kotaku.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Official YouTube Blog for Latest YouTube News & Insights",
+      "url": "https://blog.youtube/",
+      "snippet": "2 dagen geleden · Explore our official blog for the latest news about YouTube, creator and artist profiles, culture and trends analyses, and behind-the-scenes insights.",
+      "domain": "blog.youtube",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

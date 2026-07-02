@@ -1,0 +1,89 @@
+{
+  "address": "Gemeentestraat 10, 2060 Antwerpen",
+  "address_key": "GEMEENTESTRAAT|10|||2060|Antwerpen",
+  "query": "\"Gemeentestraat 10\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "THE 10 BEST Restaurants in Corvallis (Updated June 2026)",
+      "url": "https://www.tripadvisor.com/Restaurants-g51817-Corvallis_Oregon.html",
+      "snippet": "Best Dining in Corvallis, Oregon: See 6,152 Tripadvisor traveler reviews of 224 Corvallis restaurants and search by cuisine, price, location, and more.",
+      "domain": "tripadvisor.com",
+      "score": 20,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "THE 10 BEST Restaurants in Eugene (Updated June 2026)",
+      "url": "https://www.tripadvisor.com/Restaurants-g51862-Eugene_Oregon.html",
+      "snippet": "Best Dining in Eugene, Oregon: See 18,455 Tripadvisor traveler reviews of 662 Eugene restaurants and search by cuisine, price, location, and more.",
+      "domain": "tripadvisor.com",
+      "score": 20,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Portland’s Best Restaurants 2026 | Portland Monthly",
+      "url": "https://www.pdxmonthly.com/eat-and-drink/best-restaurants-portland",
+      "snippet": "19 dec 2025 · Old-school sushi through an Oregon lens. Not much changes at this wonderfully retro, elegantly understated sushi bar and restaurant, owned by the same family since 1988—except the …",
+      "domain": "pdxmonthly.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "25+ Local Portland Restaurants You Can’t Help But Love",
+      "url": "https://oregonessential.com/best-restaurants-portland-oregon/",
+      "snippet": "30 nov 2025 · The owners of Proud Mary hail from Melbourne, Australia where the husband-and-wife duo cultivated a cult-like following before expanding to the US market by opening a small restaurant …",
+      "domain": "oregonessential.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "15 Oregon Restaurants Worth the Drive - Eater Portland",
+      "url": "https://pdx.eater.com/maps/best-restaurants-oregon-road-trip",
+      "snippet": "12 jun 2017 · Thanks to the creativity of their chefs, thoughtful sourcing, or status as Oregon icons, these dining rooms, cafes, and road trip pitstops all deserve the spotlight as some of the best...",
+      "domain": "pdx.eater.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "THE 56 BEST Restaurants in Hillsboro - With Menus, Reviews, Photos ...",
+      "url": "https://www.restaurantji.com/or/hillsboro/",
+      "snippet": "“One of the best and most delicious Arabic restaurants I’ve tried. The food is flavorful, the place is elegant, and the staff are very professional and welcoming. Special thanks to Suleiman for his very …",
+      "domain": "restaurantji.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Portland ’s Best Restaurants and Bars, Spring 2026 | Eater Portland",
+      "url": "https://pdx.eater.com/maps/best-portland-oregon-restaurants",
+      "snippet": "20 apr 2026 · Each quarter, Eater Portland updates the Eater 38, the ultimate guide to exceptional restaurants and food carts. These spots define what it means to eat here, adding something distinct …",
+      "domain": "pdx.eater.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "THE 30 BEST Restaurants in Ashland - With Menus, Reviews, Photos ...",
+      "url": "https://www.restaurantji.com/or/ashland/",
+      "snippet": "“I recently visited this local bowl shop in Ashland, Oregon, and was absolutely delighted with my experience. The healthy food options were incredibly fresh and delicious, making it a joy to eat well.",
+      "domain": "restaurantji.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

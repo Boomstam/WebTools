@@ -1,0 +1,85 @@
+{
+  "address": "Gasstraat 156, 2060 Antwerpen",
+  "address_key": "GASSTRAAT|156|||2060|Antwerpen",
+  "query": "\"Gasstraat 156\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Microsoft Outlook Personal Email and Calendar | Microsoft 365",
+      "url": "https://www.outlook.com/",
+      "snippet": "Download free Microsoft Outlook email and calendar, plus Office Online apps like Word, Excel, and PowerPoint. Sign in to access your Outlook email account.",
+      "domain": "outlook.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.com/owa/Office365.com",
+      "snippet": "Outlook",
+      "domain": "outlook.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.com/owa/cridf.iledefrance.fr",
+      "snippet": "Outlook",
+      "domain": "outlook.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Outlook",
+      "url": "https://www.outlook.com/newsletters",
+      "snippet": "Manage your newsletters and subscriptions efficiently with Outlook.",
+      "domain": "outlook.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Book With Me - Outlook",
+      "url": "https://www.outlook.com/bookwithme/?bO=2",
+      "snippet": "Book With Me is a feature in Outlook that allows users to schedule meetings and appointments efficiently.",
+      "domain": "outlook.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Outlook",
+      "url": "https://www.outlook.com/owa/schools.nyc.gov",
+      "snippet": "Outlook",
+      "domain": "outlook.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Outlook.com - Sign in to your account",
+      "url": "https://ipazuredeploymentdashboard.protection.outlook.com/",
+      "snippet": "Sign-in options Usage Guidelines URL: Privacy Policy URL: ...",
+      "domain": "ipazuredeploymentdashboard.protection.outlook.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Outlook.com",
+      "url": "https://safelinks.protection.outlook.com/apple-app-site-association",
+      "snippet": "{ \"applinks\": { \"apps\": [], \"details\": [ { \"appIDs\": [\"9KBH5RKYEW.com.microsoft.loop-dogfood\", \"SGGM6D27TK.com.microsoft.loop\"], \"paths\": [\"*/fl-59584e83 ...",
+      "domain": "safelinks.protection.outlook.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

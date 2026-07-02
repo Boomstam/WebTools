@@ -1,0 +1,85 @@
+{
+  "address": "Delftstraat 25, 2140 Borgerhout",
+  "address_key": "DELFTSTRAAT|25|||2140|Borgerhout",
+  "query": "\"Delftstraat 25\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "instant messaging - Save Telegram chat log - Super User",
+      "url": "https://superuser.com/questions/841463/save-telegram-chat-log",
+      "snippet": "I am not able to save chat log with Telegram. Telegram on Android, Mac OS X, Windows and Linux do not give this option to user, as …",
+      "domain": "superuser.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Link preview in Telegram client expose IP address? - Super User",
+      "url": "https://superuser.com/questions/1782771/link-preview-in-telegram-client-expose-ip-address",
+      "snippet": "6 mei 2023 · This page explores whether Telegram's link preview feature exposes users' IP addresses and discusses its implications …",
+      "domain": "superuser.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "security - More views than people in Telegram - Super User",
+      "url": "https://superuser.com/questions/1628614/more-views-than-people-in-telegram",
+      "snippet": "24 feb 2021 · Telegram is funny in that views can accumulate and a person can count for more than once. Old views are still counted …",
+      "domain": "superuser.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Install Telegram on PC without ever installing it on mobile phone",
+      "url": "https://superuser.com/questions/1729903/install-telegram-on-pc-without-ever-installing-it-on-mobile-phone",
+      "snippet": "4 jul 2022 · Enter your landline phone number Click next (and wait for 2 minutes for the text message to fail and Telegram to call you …",
+      "domain": "superuser.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "networking - Allowing telegram through firewall: how to find which ...",
+      "url": "https://superuser.com/questions/1530520/allowing-telegram-through-firewall-how-to-find-which-ports-have-to-be-opened",
+      "snippet": "5 mrt 2020 · I'm behind firewall, and I lack information how to find out, which IP/port has to be opened for certain application. In my …",
+      "domain": "superuser.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Windows how to create second instance of Telegram",
+      "url": "https://superuser.com/questions/1820455/windows-how-to-create-second-instance-of-telegram",
+      "snippet": "12 dec 2023 · I followed this tutorial to create second instance of Telegram: Copy paste …",
+      "domain": "superuser.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "How to set a role in a Telegram group? - Super User",
+      "url": "https://superuser.com/questions/1592304/how-to-set-a-role-in-a-telegram-group",
+      "snippet": "14 dec 2025 · I'd like to set a specific role to a person in telegram. It's like the \"admin\" role, for every message an admin has written …",
+      "domain": "superuser.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "How to increase font size for messages in Telegram desktop client on ...",
+      "url": "https://superuser.com/questions/1638826/how-to-increase-font-size-for-messages-in-telegram-desktop-client-on-windows",
+      "snippet": "1 apr 2021 · In Telegram Windows desktop client, how to increase font size for messages? All the tutorials I found online are for …",
+      "domain": "superuser.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

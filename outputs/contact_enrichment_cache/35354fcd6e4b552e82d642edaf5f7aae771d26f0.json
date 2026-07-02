@@ -1,0 +1,85 @@
+{
+  "address": "Isabellalei 106, 2018 Antwerpen",
+  "address_key": "ISABELLALEI|106|||2018|Antwerpen",
+  "query": "\"Isabellalei 106\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Netflix France - Regardez des séries en ligne, Regardez des films en ligne",
+      "url": "https://www.netflix.com/fr/",
+      "snippet": "Regardez des films et des séries Netflix en ligne, sur votre smart TV, console de jeu, PC, Mac, smartphone, tablette et bien plus.",
+      "domain": "netflix.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Netflix (ネットフリックス) 日本 - 大好きな映画や ...",
+      "url": "https://www.netflix.com/jp/",
+      "snippet": "Netflix (ネットフリックス) で映画やドラマをオンラインでストリーム再生! スマートテレビ、ゲーム機、パソコン、Mac、モバイル機器、タブレットなどでお楽しみいただけます。",
+      "domain": "netflix.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Netflix Nederland - Kijk series online, kijk films online",
+      "url": "https://www.netflix.com/nl/",
+      "snippet": "Kijk Netflix-series en -films online of stream rechtstreeks op je smart-tv, gameconsole, pc, Mac, mobiele apparaat, tablet en meer.",
+      "domain": "netflix.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Netflix Deutschland – Serien online ansehen, Filme online ansehen",
+      "url": "https://www.netflix.com/de/",
+      "snippet": "Schauen Sie Netflix-Filme und -Serien online oder per Streaming auf Smart-TVs, Spielkonsolen, PCs, Macs, Smartphones, Tablets und mehr.",
+      "domain": "netflix.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Netflix Portugal – Veja séries de televisão e filmes online",
+      "url": "https://www.netflix.com/pt/",
+      "snippet": "Veja séries e filmes na Netflix online ou em streaming diretamente na sua Smart TV, consola de jogos, PC, Mac, telemóvel, tablet e muito mais.",
+      "domain": "netflix.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Netflix Polska — oglądaj seriale i programy online, oglądaj filmy ...",
+      "url": "https://www.netflix.com/pl/",
+      "snippet": "Oglądaj filmy, seriale i programy z serwisu Netflix online lub przesyłaj je do telewizora Smart TV, konsoli do gier, komputera PC bądź Mac, urządzenia przenośnego, tabletu i nie tylko.",
+      "domain": "netflix.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Netflix ไทย - รับชมรายการทีวี ...",
+      "url": "https://www.netflix.com/th/",
+      "snippet": "รับชมภาพยนตร์และรายการทีวีของ Netflix ออนไลน์หรือสตรีมโดยตรง ...",
+      "domain": "netflix.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Netflix: Ve series online, ve películas online",
+      "url": "https://www.netflix.com/cl/",
+      "snippet": "Disfruta películas y series en internet o en tu smart TV, consola de videojuegos, PC, Mac, dispositivo móvil, tablet y más.",
+      "domain": "netflix.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

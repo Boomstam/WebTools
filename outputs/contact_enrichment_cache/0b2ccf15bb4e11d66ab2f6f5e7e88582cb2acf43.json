@@ -1,0 +1,89 @@
+{
+  "address": "Kioskplaats 64, 2660 Hoboken",
+  "address_key": "KIOSKPLAATS|64|||2660|Hoboken",
+  "query": "\"Kioskplaats 64\" \"2660\" \"Hoboken\"",
+  "results": [
+    {
+      "title": "Google",
+      "url": "https://www.google.de/",
+      "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+      "domain": "google.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Über Google : Unsere Produkte, Technologien und das Unternehmen",
+      "url": "https://about.google/intl/de_ALL/",
+      "snippet": "Alles rund um Google: Unsere innovativen KI‑Produkte und ‑Dienste – und wie unsere Technologien Menschen auf der ganzen Welt helfen.",
+      "domain": "about.google",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Produkte und Dienste von Google - About Google",
+      "url": "https://about.google/intl/de_ALL/products/",
+      "snippet": "Nützliche Produkte und Dienste von Google entdecken: Android, Gemini, Pixel, die Google Suche und viele mehr.",
+      "domain": "about.google",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com.nf/?hl=de-US",
+      "snippet": "Google gibt es auch auf: English Werbeprogramme Über Google Google.com",
+      "domain": "google.com.nf",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "www. google .de.com",
+      "url": "https://www.google.de.com/",
+      "snippet": "Google's search engine provides users with fast, relevant search results and a wide range of additional services.",
+      "domain": "google.de.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Home [search. google ]",
+      "url": "https://search.google/intl/de-DE/",
+      "snippet": "Explore new ways to search. Download the Google app to experience Lens, AR, Search Labs, voice search, and more.",
+      "domain": "search.google",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com/",
+      "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com/?hl=de-AT",
+      "snippet": "Google gibt es auch auf: English Werbeprogramme Über Google Google.com in English",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

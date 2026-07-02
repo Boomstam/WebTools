@@ -1,0 +1,93 @@
+{
+  "address": "Belgiëlei 7 bus 601, 2018 Antwerpen",
+  "address_key": "BELGIËLEI|7||601|2018|Antwerpen",
+  "query": "\"Belgiëlei 7\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Facebook",
+      "url": "https://www.facebook.com/",
+      "snippet": "Connect and share with friends, family, and the world on Facebook.",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Log into Facebook",
+      "url": "https://www.facebook.com/login.php/",
+      "snippet": "Email or mobile number Password",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/login.php/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Facebook - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en-US",
+      "snippet": "Whether you’re thrifting gear, showing reels to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Facebook",
+      "url": "https://m.me/login/",
+      "snippet": "Do you want to join Facebook? Sign Up Create new account Meta © 2026",
+      "domain": "m.me",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "‎ Facebook App - App Store",
+      "url": "https://apps.apple.com/us/app/facebook/id284882215",
+      "snippet": "Download Facebook by Meta Platforms, Inc. on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Facebook.",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Log into Facebook | Messenger Help Center",
+      "url": "https://www.messenger.com/help/185285184853471",
+      "snippet": "How to log into your Facebook account using your email, phone number or username.",
+      "domain": "messenger.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Facebook - Meta",
+      "url": "https://www.meta.com/en-gb/facebook-app/",
+      "snippet": "Facebook helps you connect with friends, family and communities of people who share your interests. Connecting with your friends and family, as well as discovering new ones, is easy with features such …",
+      "domain": "meta.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Facebook Lite - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.facebook.lite&hl=en-US",
+      "snippet": "The Facebook app does more than help you stay connected with your friends and interests. It's also your personal organizer for storing, saving and sharing photos.",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

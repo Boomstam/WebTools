@@ -1,0 +1,85 @@
+{
+  "address": "Wipstraat 29, 2018 Antwerpen",
+  "address_key": "WIPSTRAAT|29|||2018|Antwerpen",
+  "query": "\"Wipstraat 29\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Onlinewachen der Polizeien der Länder – Offizielles Portal",
+      "url": "https://portal.onlinewache.polizei.de/de/",
+      "snippet": "Finden Sie hier die zuständige Onlinewache / Internetwache und Informationen für Ihre Online-Strafanzeige bei der Polizei in …",
+      "domain": "portal.onlinewache.polizei.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Ich möchte eine Anzeige erstatten | Internetwache Polizei NRW",
+      "url": "https://internetwache.polizei.nrw/ich-moechte-eine-anzeige-erstatten",
+      "snippet": "Sie können Ihre Strafanzeige auf verschiedenen Wegen bei der Polizei erstatten: Online hier über die Internetwache. Alternativ vor …",
+      "domain": "internetwache.polizei.nrw",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Online Strafanzeige erstatten",
+      "url": "https://www.online-strafanzeige.de/",
+      "snippet": "Finden Sie schnell die richtige Onlinewache (Portal der Polizei) für Ihre Online-Strafanzeige. Wenn Sie eine Strafanzeige für die …",
+      "domain": "online-strafanzeige.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Onlinewache - Polizei Baden-Württemberg",
+      "url": "https://www.polizei-bw.de/onlinewache/",
+      "snippet": "Über die Onlinewache der Polizei Baden-Württemberg können Sie eine Straftat anzeigen oder uns Mitteilungen oder Hinweise zu …",
+      "domain": "polizei-bw.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Onlinewache der Polizei Sachsen: Anzeige erstatten!",
+      "url": "https://polizei.sachsen.de/onlinewache/onlinewache.aspx",
+      "snippet": "Für Anzeigen und Hinweise, die Sie über die Onlinewache an die sächsische Polizei senden, kann keine sofortige Bearbeitung …",
+      "domain": "polizei.sachsen.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Onlinewache der Polizei Niedersachsen",
+      "url": "https://www.polizei-nds.de/startseite/wir_uber_uns/onlinewache/onlinewache-der-polizei-niedersachsen-112182.html",
+      "snippet": "10 dec 2024 · Seit Februar 2007 können Bürgerinnen und Bürger über die Onlinewache der Polizei Niedersachsen Strafanzeigen via …",
+      "domain": "polizei-nds.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Anzeigeerstattung bei der Bayerischen Polizei online",
+      "url": "https://www.bayernportal.de/dokumente/onlineverfahren/305652977295",
+      "snippet": "Folgende Straftaten können online angezeigt werden: Keine Notrufannahme! Im Notfall rufen Sie die 110 an! Verwaltung digital! …",
+      "domain": "bayernportal.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Onlinewache der Polizei Hessen",
+      "url": "https://www.polizei.hessen.de/service/onlinewache/",
+      "snippet": "Hier haben Sie die Möglichkeit, online Strafanzeige zu erstatten, der Polizei einen Hinweis zu geben.",
+      "domain": "polizei.hessen.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

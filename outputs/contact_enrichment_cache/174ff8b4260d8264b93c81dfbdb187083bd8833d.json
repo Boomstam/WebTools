@@ -1,0 +1,85 @@
+{
+  "address": "Karel Soetelaan 25 bus 2, 2150 Borsbeek",
+  "address_key": "KAREL SOETELAAN|25||2|2150|Borsbeek",
+  "query": "\"Karel Soetelaan 25\" \"2150\" \"Borsbeek\"",
+  "results": [
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/feed/homepage",
+      "snippet": "About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en-US",
+      "snippet": "Get the official YouTube app on Android phones and tablets. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more....",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "www. youtube .co.uk",
+      "url": "http://www.youtube.co.uk/",
+      "snippet": "www.youtube.co.uk",
+      "domain": "youtube.co.uk",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Download YouTube (free) for Windows, Android, APK, iOS and Web …",
+      "url": "https://kotaku.com/download/youtube",
+      "snippet": "3 dagen geleden · YouTube is a video-sharing site where users can view and post practically any type of video. It serves as an enormous worldwide library and is developed by ordinary users, media c",
+      "domain": "kotaku.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Official YouTube Blog for Latest YouTube News & Insights",
+      "url": "https://blog.youtube/",
+      "snippet": "2 dagen geleden · Explore our official blog for the latest news about YouTube, creator and artist profiles, culture and trends analyses, and behind-the-scenes insights.",
+      "domain": "blog.youtube",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "YouTube - Google Accounts",
+      "url": "https://accounts.google.com/InteractiveLogin?hl=en&service=youtube",
+      "snippet": "Share your videos with friends, family, and the world.",
+      "domain": "accounts.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "‎ YouTube App - App Store",
+      "url": "https://apps.apple.com/us/app/youtube/id544007664",
+      "snippet": "Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to …",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "YouTube - YouTube",
+      "url": "https://www.youtube.com/youtube",
+      "snippet": "Welcome to the official YouTube channel – a home for the biggest moments, the smallest obsessions, and everything in between. Whatever you're into, it's on @YouTube.",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

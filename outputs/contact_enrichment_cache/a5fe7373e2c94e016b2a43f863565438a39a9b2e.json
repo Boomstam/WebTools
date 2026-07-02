@@ -1,0 +1,85 @@
+{
+  "address": "Belgiëlei 68 bus 8, 2018 Antwerpen",
+  "address_key": "BELGIËLEI|68||8|2018|Antwerpen",
+  "query": "\"Belgiëlei 68\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Radio Munot | Home - Radio Munot",
+      "url": "https://www.radiomunot.ch/radio",
+      "snippet": "Die aktuellsten News aus der Region bei Radio Munot.",
+      "domain": "radiomunot.ch",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Radio Munot live hören | Online Radio Schweiz",
+      "url": "https://radio-online.ch/90-radio-munot.html",
+      "snippet": "Hören Sie Radio Munot Schaffhausen 91.5 FM live online mit Live-FM-Radio, Musik, Nachrichten und aktuellen Radioprogrammen aus der Schweiz.",
+      "domain": "radio-online.ch",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Radio Munot | Listen Live | Radioplayer: Radio & Podcast",
+      "url": "https://play.radioplayer.org/en/live/NzU2fjEwMA",
+      "snippet": "Stream Radio Munot live online with Radioplayer. Enjoy free access to music, live shows and podcasts.",
+      "domain": "play.radioplayer.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Radio Munot live hören - 91.5 MHz FM, Schaffhausen, Schweiz",
+      "url": "https://onlineradiobox.com/ch/radiomunot915/",
+      "snippet": "Hören Sie Radio Munot 91.5 MHz FM in Schaffhausen, Schweiz. Hören sie kostenlos Ihre Lieblings-Radiosender auf OnlineRadioBox.com.",
+      "domain": "onlineradiobox.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Schaffhauser Nachrichten - Radioplayer",
+      "url": "https://player.radiomunot.ch/",
+      "snippet": "Munot ... Lautstärke 20% Lautstärke 40% Lautstärke 60% Lautstärke 80% Lautstärke 100% Live Munot",
+      "domain": "player.radiomunot.ch",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Livestream: Radio Munot",
+      "url": "https://www.ssisradioplayer.ch/radio/NewRadio.asp?ID=1226",
+      "snippet": "Radio Munot [1226] - tunein - 128 kbps Schaffhausen Radio Munot",
+      "domain": "ssisradioplayer.ch",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Radio Munot FM Live Hören - myTuner Radio",
+      "url": "https://mytuner-radio.com/de/radio/radio-munot-fm-399083/",
+      "snippet": "Radio Munot FM live radio hören. Kostenloses Radio und Podcasts auf myTuner Radio.",
+      "domain": "mytuner-radio.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Radio Munot Schaffhausen Live Hören | 91.5 FM",
+      "url": "https://www.internetradio-schweiz.ch/radio-munot-fm",
+      "snippet": "Hören Sie Radio Munot Schaffhausen live auf 91.5 FM. Verfolgen Sie aktuelle News aus der Region, spannende Sendungen und die besten Hits bei Munot Radio.",
+      "domain": "internetradio-schweiz.ch",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

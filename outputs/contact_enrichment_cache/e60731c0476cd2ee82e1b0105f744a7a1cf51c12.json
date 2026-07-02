@@ -1,0 +1,87 @@
+{
+  "address": "Frankrijklei 29, 2000 Antwerpen",
+  "address_key": "FRANKRIJKLEI|29|||2000|Antwerpen",
+  "query": "\"Frankrijklei 29\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Google Search Console",
+      "url": "https://search.google.com/search-console/about",
+      "snippet": "Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results",
+      "domain": "search.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "الباحث العلمي من Google",
+      "url": "https://scholar.google.com/?hl=ar",
+      "snippet": "يتيح لك \"الباحث العلمي من Google\" العثور على مجموعة واسعة من المؤلفات العلمية بسهولة. ويمكنك البحث في مجموعة متنوعة من التخصصات والمصادر، بما في ذلك المقالات والأطروحات والكتب والملخّصات وآراء المحكمة.",
+      "domain": "scholar.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Earth",
+      "url": "https://earth.google.com/web",
+      "snippet": "Create and collaborate on immersive, data-driven maps from anywhere with the new Google Earth. See the world from above with high-resolution satellite imagery, explore 3D terrain and buildings in …",
+      "domain": "earth.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Welcome to My Activity",
+      "url": "https://myactivity.google.com/",
+      "snippet": "View and manage your Google account activity, including search history, app usage, and more.",
+      "domain": "myactivity.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Images",
+      "url": "https://images.google.com/",
+      "snippet": "Google Images. The most comprehensive image search on the web.",
+      "domain": "images.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google Scholar",
+      "url": "https://scholar.google.com/",
+      "snippet": "Google Scholar provides a simple way to broadly search for scholarly literature. Search across a wide variety of disciplines and sources: articles, theses, books, abstracts and court opinions.",
+      "domain": "scholar.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google Trends",
+      "url": "https://trends.google.com/trends/",
+      "snippet": "Explore search interest of terms and topics by time, location and popularity on Google Trends",
+      "domain": "trends.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google Advanced Search",
+      "url": "https://www.google.com/advanced_search",
+      "snippet": "Explore Google's advanced search options to refine your searches and find exactly what you're looking for with ease.",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

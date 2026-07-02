@@ -1,0 +1,85 @@
+{
+  "address": "Breydelstraat 12, 2018 Antwerpen",
+  "address_key": "BREYDELSTRAAT|12|||2018|Antwerpen",
+  "query": "\"Breydelstraat 12\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Use Google Drive for desktop",
+      "url": "https://support.google.com/drive/answer/10838124?hl=en",
+      "snippet": "Use Google Drive for desktop Looking for more advanced controls? Dive into topics like customizing settings, using offline access, …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to use Google Drive - Computer - Google Drive Help",
+      "url": "https://support.google.com/drive/answer/2424384?hl=en&co=GENIE.Platform%3DDesktop",
+      "snippet": "How to use Google Drive Want advanced Google Workspace features for your business? Try Google Workspace today! Google …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Upload files & folders to Google Drive",
+      "url": "https://support.google.com/drive/answer/2424368?hl=en&co=GENIE.Platform%3DDesktop/",
+      "snippet": "Upload files & folders to Google Drive Want advanced Google Workspace features for your business? Try Google Workspace today! …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Utiliser Google Drive",
+      "url": "https://support.google.com/drive/answer/2424384?hl=fr&co=GENIE.Platform%3DDesktop",
+      "snippet": "Utiliser Google Drive Vous souhaitez bénéficier de fonctionnalités Google Workspace avancées pour votre entreprise ? Essayez …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Drive Help",
+      "url": "https://support.google.com/drive/?hl=en-GB",
+      "snippet": "Official Google Drive Help Center where you can find tips and tutorials on using Google Drive and other answers to frequently asked …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google ドライブ ヘルプ",
+      "url": "https://support.google.com/drive/?hl=ja",
+      "snippet": "Google ドライブ チームからのお知らせ Google ドライブを初めてご利用になる場合 G Suite ラーニング センターのトレーニング …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Share files from Google Drive - Computer - Google Drive Help",
+      "url": "https://support.google.com/drive/answer/2494822?hl=en&co=GENIE.Platform%3DDesktop",
+      "snippet": "When you share from Google Drive, you can control whether people can edit, comment on, or only open the file. When you share …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Use Google Drive for desktop",
+      "url": "https://support.google.com/drive/answer/10838124?hl=en-GB",
+      "snippet": "On Google Drive for desktop, at the top right, in the menu bar, you can find the Google Drive for desktop menu . To add Google …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

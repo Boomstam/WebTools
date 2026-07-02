@@ -1,0 +1,85 @@
+{
+  "address": "Korte Dijkstraat 27, 2060 Antwerpen",
+  "address_key": "KORTE DIJKSTRAAT|27|||2060|Antwerpen",
+  "query": "\"Korte Dijkstraat 27\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Site officiel du Canton de Vaud | État de Vaud",
+      "url": "https://www.vd.ch/",
+      "snippet": "Informations officielles, présentation de l'institution (pouvoirs législatif, exécutif et judiciaire), informations thématiques et de l'administration cantonale vaudoise.",
+      "domain": "vd.ch",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Nos offres d'emploi - État de Vaud",
+      "url": "https://www.vd.ch/etat-droit-finances/etat-employeur/offres-demploi",
+      "snippet": "L'Etat de Vaud est le plus grand employeur du canton. Nous offrons aux plus de 39'000 collaborateur-trice-s de l’Administration cantonale vaudoise (ACV) une grande diversité d’emplois, des conditions …",
+      "domain": "vd.ch",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Vaud - Guichet cartographique cantonal",
+      "url": "https://www.geo.vd.ch/",
+      "snippet": "Registre cantonal des bâtiments Bâtiments (EGID)",
+      "domain": "geo.vd.ch",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Se connecter | État de Vaud",
+      "url": "https://www.vd.ch/se-connecter",
+      "snippet": "Le portail IAM (Identity and Access Management) permet de se connecter de manière sécurisée aux différentes ressources de l'Etat de Vaud. Il est possible de connecter en tant que collaboratrice ou …",
+      "domain": "vd.ch",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Registre du commerce | État de Vaud",
+      "url": "https://www.vd.ch/economie/registre-du-commerce",
+      "snippet": "Le registre du commerce est une étape importante dans la vie d'une entreprise. Un ensemble de prestations à réaliser en ligne ou par courrier vous sont offertes. Consultation du registre des …",
+      "domain": "vd.ch",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Les impôts dans le canton de Vaud | État de Vaud",
+      "url": "https://www.vd.ch/etat-droit-finances/impots",
+      "snippet": "Les impôts permettent une redistribution par l'Etat à la population de prestations.",
+      "domain": "vd.ch",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Rechercher une entreprise dans le canton | État de Vaud",
+      "url": "https://www.vd.ch/prestation/rechercher-une-entreprise-dans-le-canton",
+      "snippet": "Vous recherchez une entreprise dans le registre du commerce du canton de Vaud.",
+      "domain": "vd.ch",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Echelle des salaires 2026 - État de Vaud",
+      "url": "https://www.vd.ch/fileadmin/user_upload/themes/etat_droit/personnel_etat/fichiers_pdf/Echelles_salariales/Echelle_RSRC.pdf",
+      "snippet": "Règlement du 28 novembre 2008 relatif au système de rétribution des collaborateurs de l’Etat de Vaud (RSRC)",
+      "domain": "vd.ch",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

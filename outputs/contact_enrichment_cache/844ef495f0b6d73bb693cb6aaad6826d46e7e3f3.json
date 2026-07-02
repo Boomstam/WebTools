@@ -1,0 +1,85 @@
+{
+  "address": "Tennisstraat 39, 2660 Hoboken",
+  "address_key": "TENNISSTRAAT|39|||2660|Hoboken",
+  "query": "\"Tennisstraat 39\" \"2660\" \"Hoboken\"",
+  "results": [
+    {
+      "title": "\"What is the weather today?\" or \"How is the weather today?\"",
+      "url": "https://ell.stackexchange.com/questions/174118/what-is-the-weather-today-or-how-is-the-weather-today",
+      "snippet": "26 jul 2018 · Arguably some people might think the what version is more appropriate when the speaker is specifically interested in knowing what the weather actually is (or perhaps will be, later in the day). …",
+      "domain": "ell.stackexchange.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How VS. What is the weather forecast? Which one is correct?",
+      "url": "https://ell.stackexchange.com/questions/225452/how-vs-what-is-the-weather-forecast-which-one-is-correct",
+      "snippet": "21 sep 2019 · 2. How is the weather forecast? This is asking for the methods used by people who predict the weather. In other words: Can you tell me what charts and formulas are used by people …",
+      "domain": "ell.stackexchange.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "verb usage - \"wasn't\" or \"weren't\" with weather - English Language ...",
+      "url": "https://ell.stackexchange.com/questions/118998/wasnt-or-werent-with-weather",
+      "snippet": "0 You can think of it this way: weather is usually referred to as \"it\" Today it is cold so, the singular be verb gets used It was cold today. I wish it wasn't so cold. I wish it weren't so cold today. is still …",
+      "domain": "ell.stackexchange.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Snowy or snowing? - English Language Learners Stack Exchange",
+      "url": "https://ell.stackexchange.com/questions/113253/snowy-or-snowing",
+      "snippet": "Both foggy and snowing are weather conditions. Roughly speaking both foggy and snowing mean the sky is filled with fog or snow respectively. Snowy, however, is not a weather condition. Snowy is a …",
+      "domain": "ell.stackexchange.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Can “wish the weather would be good tomorrow” be correct?",
+      "url": "https://ell.stackexchange.com/questions/195790/can-wish-the-weather-would-be-good-tomorrow-be-correct",
+      "snippet": "7 feb 2019 · 0 I wish the weather would improve tomorrow=grammatical. I wish the weather were going to be good tomorrow.=grammatical For it to be grammatical with regard to the future, you have to …",
+      "domain": "ell.stackexchange.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "is it correct to say \"today is rainy\" or it is \"today, it's rainy\"?",
+      "url": "https://ell.stackexchange.com/questions/124684/is-it-correct-to-say-today-is-rainy-or-it-is-today-its-rainy",
+      "snippet": "The reason is that in the first sentence, \"today is rainy\", today is the object being described directly, so you don't need the pronoun 'it'. In the second however, there is a comma so after the comma, the 'it' …",
+      "domain": "ell.stackexchange.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "sentence construction - Need or needs with bare infinitive - English ...",
+      "url": "https://ell.stackexchange.com/questions/351927/need-or-needs-with-bare-infinitive",
+      "snippet": "8 mei 2024 · He need worry about the weather today. He needs worry about the weather today. Mostly we see the use of 'need' as modal verb in negative or interrogative sentences where it takes bare …",
+      "domain": "ell.stackexchange.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "questions - Can the British slang term \"innit\" be used as a stand-alone ...",
+      "url": "https://ell.stackexchange.com/questions/201747/can-the-british-slang-term-innit-be-used-as-a-stand-alone-response-to-indicate",
+      "snippet": "22 mrt 2019 · My co-worker informed me that the term most commonly is used as a question tag expecting a positive answer. Boy: Lovely weather today, innit? Girl: Right you are! So, the question …",
+      "domain": "ell.stackexchange.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

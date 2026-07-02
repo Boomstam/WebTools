@@ -1,0 +1,85 @@
+{
+  "address": "Kristus-Koningplein 17, 2180 Ekeren",
+  "address_key": "KRISTUS-KONINGPLEIN|17|||2180|Ekeren",
+  "query": "\"Kristus-Koningplein 17\" \"2180\" \"Ekeren\"",
+  "results": [
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/",
+      "snippet": "Explore and share videos, music, and more on YouTube, the leading platform for online video streaming and sharing.",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/feed/sa",
+      "snippet": "About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube - التطبيقات على Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=ar",
+      "snippet": "الاعلانات هذي الايام صارت كارثية بشكل مستفز لدرجة يخليني ابحث عن برامج اخرى بديلة لبرنامج يوتيوب، بالسابق كانت كمية الاعلانات منطقية جدا، اربع اعلانات تقريبا بالفيديو الواحد، لكن 11 اعلان ...",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en-US",
+      "snippet": "Enjoy your favorite videos and channels with the official YouTube app.",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "‎YouTube App - App Store",
+      "url": "https://apps.apple.com/us/app/youtube/id544007664",
+      "snippet": "Download YouTube by Google on the App Store. See screenshots, ratings and reviews, user tips, and more apps like YouTube.",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "YouTube - YouTube",
+      "url": "https://www.youtube.com/YouTube/ar",
+      "snippet": "YouTube's official YouTube channel Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "YouTube Arabia - YouTube",
+      "url": "https://www.youtube.com/YouTubeArabia/about",
+      "snippet": "Investing in sports || الاستثمار في الرياضة مع حكايات يوتيوب فارس التركي Faris Alturki 27K 2y ago 34:58",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "youtube_Arabic - YouTube",
+      "url": "https://www.youtube.com/@%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8_%D8%B9%D8%B1%D8%A8%D9%8A/search",
+      "snippet": "مرحبا بكم في صفحة يوتيوب الرسمي للعرب يرجى التكلم بشكل نضيفوايضا استمتاع في تصفاح يوتيوب ونشرة المحتوى في ...",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

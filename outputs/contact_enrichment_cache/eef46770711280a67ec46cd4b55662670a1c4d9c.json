@@ -1,0 +1,85 @@
+{
+  "address": "Brederodestraat 131, 2018 Antwerpen",
+  "address_key": "BREDERODESTRAAT|131|||2018|Antwerpen",
+  "query": "\"Brederodestraat 131\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/?gl=DE&hl=de",
+      "snippet": "Auf YouTube findest du großartige Videos und erstklassige Musik. Außerdem kannst du eigene Inhalte hochladen und mit Freunden oder mit der ganzen Welt ...",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/",
+      "snippet": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en",
+      "snippet": "Get the official YouTube app on Android phones and tablets. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more....",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube – Apps bei Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=gsw",
+      "snippet": "Get the official YouTube app on Android phones and tablets. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more....",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "‎ YouTube App - App Store",
+      "url": "https://apps.apple.com/us/app/youtube/id544007664",
+      "snippet": "Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to …",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "‎ YouTube ‑App – App Store",
+      "url": "https://apps.apple.com/de/app/youtube/id544007664",
+      "snippet": "Hol dir die offizielle YouTube App auf iPhones und iPads und entdecke angesagte Videos weltweit – von den coolsten Musikvideos bis hin zu Hits in Sachen Gaming, Fashion, Beauty, Nachrichten, Bildung …",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "www. youtube .co.uk",
+      "url": "http://www.youtube.co.uk/",
+      "snippet": "www.youtube.co.uk",
+      "domain": "youtube.co.uk",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Official YouTube Blog for Latest YouTube News & Insights",
+      "url": "https://blog.youtube/",
+      "snippet": "2 dagen geleden · Explore our official blog for the latest news about YouTube, creator and artist profiles, culture and trends analyses, and behind-the-scenes insights.",
+      "domain": "blog.youtube",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

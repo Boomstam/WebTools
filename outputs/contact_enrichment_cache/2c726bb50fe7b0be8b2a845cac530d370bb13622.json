@@ -1,0 +1,69 @@
+{
+  "address": "Elzasweg 2, 2030 Antwerpen",
+  "address_key": "ELZASWEG|2|||2030|Antwerpen",
+  "query": "\"Elzasweg 2\" \"2030\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Die Siedler Online - Kostenloses Online Browser-Strategiespiel ...",
+      "url": "https://www.diesiedleronline.de/de",
+      "snippet": "E-Mail Passwort Avatarname Das wird der Name für deinen Avatar in Die Siedler Online.",
+      "domain": "diesiedleronline.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Login | Ubisoft WebAuth",
+      "url": "https://www.diesiedleronline.de/de/oauth/start",
+      "snippet": "LOG IN CAN'T LOG IN? Access Privacy Policy",
+      "domain": "diesiedleronline.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Die Siedler Online",
+      "url": "https://forum.diesiedleronline.de/category/computing",
+      "snippet": "Die Siedler Online Letzter Beitrag Alles rund ums Spiel. Viele der hiesigen Inhalte (Bibliothek, Hilfe zum Spiel, Wunsch-Foren u.v.m.) findet ihr hier. Solltet ihr Fragen zur Bibliothek haben, wendet euch bitte …",
+      "domain": "forum.diesiedleronline.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Suchergebnisse - Die Siedler Online",
+      "url": "https://forum.diesiedleronline.de/tags.php?tag=leech",
+      "snippet": "9 sep 2012 · Wenn dies dein erster Besuch ist, klicke auf den Link oben und besuche die FAQ-Seite. Um dir Nachrichten anzusehen, such dir das gewünschte Forum aus der Auswahl unten aus.",
+      "domain": "forum.diesiedleronline.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Suchergebnisse - Die Siedler Online",
+      "url": "https://forum.diesiedleronline.de/tags.php?tag=stinktier",
+      "snippet": "Dies ist das Forum für Wenn dies dein erster Besuch ist, klicke auf den Link oben und besuche die FAQ-Seite. Um dir Nachrichten anzusehen, such dir das gewünschte Forum aus der Auswahl unten aus.",
+      "domain": "forum.diesiedleronline.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Die Siedler Online",
+      "url": "https://www.diesiedleronline.de/uplaylogin",
+      "snippet": "Die Siedler Online",
+      "domain": "diesiedleronline.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

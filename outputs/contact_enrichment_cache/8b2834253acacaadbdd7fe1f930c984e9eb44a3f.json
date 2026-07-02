@@ -1,0 +1,85 @@
+{
+  "address": "Meirbrug 2, 2000 Antwerpen",
+  "address_key": "MEIRBRUG|2|||2000|Antwerpen",
+  "query": "\"Meirbrug 2\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "e -cegjegyzek.hu - Cégszolgálat Ingyenes Céginformáció",
+      "url": "http://www.e-cegjegyzek.hu/",
+      "snippet": "Az e-cegjegyzek.hu ingyenes céginformációkat nyújt, tükrözve a cégjegyzékben bejegyzett adatok változásait.",
+      "domain": "e-cegjegyzek.hu",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Nemzeti Cégtár » Ingyenes cégkereső",
+      "url": "https://www.nemzeticegtar.hu/nemzeticegtar",
+      "snippet": "Az összes (közel 600 ezer) Magyarországon bejegyzett cég hatályos alapadatait és számos kiegészítő információt tartalmaz, …",
+      "domain": "nemzeticegtar.hu",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Céginformációs portál",
+      "url": "http://cegportal.im.gov.hu/",
+      "snippet": "Üdvözöljük az Igazságügyi Minisztérium Céginformációs és az Elektronikus Cégeljárásban Közreműködő Szolgálatának (a …",
+      "domain": "cegportal.im.gov.hu",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Céginformációs Szolgálat - kormany.hu",
+      "url": "https://ceginformaciosszolgalat.kormany.hu/ceginformacio",
+      "snippet": "A Céginformációs Szolgálat biztosítja a cégnyilvántartásban szereplő cégek cégjegyzékben (a cégbíróság a cégekre vonatkozó …",
+      "domain": "ceginformaciosszolgalat.kormany.hu",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "e -cegjegyzek.hu - Cégszolgálat Online Céginformáció",
+      "url": "https://gov.e-cegjegyzek.hu/index.html",
+      "snippet": "﻿ Cégszolgálat Online Céginformáció",
+      "domain": "gov.e-cegjegyzek.hu",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Céginformációs portál",
+      "url": "https://cegportal.im.gov.hu/frontend/ceginformacio/ceg",
+      "snippet": "Minél nagyobb részt ad meg a keresett cég nevéből, annál kisebb, pontosabb találati listát eredményez a keresés.",
+      "domain": "cegportal.im.gov.hu",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "E -CÉG BETEKINTÉS - ÜIR - birosag.hu",
+      "url": "https://eakta.birosag.hu/e-ceg-betekintes",
+      "snippet": "Az Ügyfél Irathozzáférési Rendszer E-CÉG BETEKINTÉS menüpontjában cégjegyzékszám alapján kereshet a nyilvános cégiratok …",
+      "domain": "eakta.birosag.hu",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Keresés | E-Cégjegyzék",
+      "url": "https://e-cegjegyzek.com/kereses",
+      "snippet": "Keresés eredménye: Cégkereső Ha a keresett cég nincs a listában, pontosítsa a keresési feltételt Írjon be egy cégnevet (pl: Minta …",
+      "domain": "e-cegjegyzek.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

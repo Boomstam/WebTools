@@ -1,0 +1,87 @@
+{
+  "address": "Jan Van Gentstraat 9, 2000 Antwerpen",
+  "address_key": "JAN VAN GENTSTRAAT|9|||2000|Antwerpen",
+  "query": "\"Jan Van Gentstraat 9\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Jan van Eyck - Wikipedia",
+      "url": "https://nl.wikipedia.org/wiki/Jan_van_Eyck",
+      "snippet": "Jan van Eyck (Maaseik, circa 1390 – Brugge, 9 juli 1441) was een kunstschilder uit de renaissance die voornamelijk actief was in Brugge. Men rekent hem naast Robert Campin en Rogier van der Weyden …",
+      "domain": "nl.wikipedia.org",
+      "score": 20,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "JAN Magazine | Jan -magazine.nl",
+      "url": "https://www.jan-magazine.nl/",
+      "snippet": "JAN is hét no-nonsense platform voor 30+ vrouwen. JAN is intelligent en inspirerend. JAN prikkelt, raakt, ontroert en relativeert.",
+      "domain": "jan-magazine.nl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Jan (voornaam ) - Wikipedia",
+      "url": "https://nl.wikipedia.org/wiki/Jan_(voornaam)",
+      "snippet": "De voornamen Jan en Kees waren zo typisch dat de nieuwe eigenaars, de Britten, de oorspronkelijk bewoners \"Jan-Kees\" noemden, een naam die in latere tijd is verbasterd tot Yankee. Na de …",
+      "domain": "nl.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "JAN 's juli-issue met Joy Delima is hier!",
+      "url": "https://www.jan-magazine.nl/lifestyle/a71533770/jan-juli-2026/",
+      "snippet": "Joy Delima prijkt op de cover van JAN's juli-issue. We spreken de actrice over hoe zelfliefde de drive is in alles wat ze doet. Over de rollen die ze aanneemt en over hoe haar werk in de spotlights eigenlijk …",
+      "domain": "jan-magazine.nl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Homepagina | Jan Jambon",
+      "url": "https://jambon.belgium.be/nl",
+      "snippet": "20 jun 2026 · Jan Jambon Vice-eersteminister en minister van Financiën en Pensioenen, belast met de Nationale Loterij en de Federale Culturele Instellingen",
+      "domain": "jambon.belgium.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Het lukt altijd - Jan - Zo Gebakken Zooo lekker",
+      "url": "https://www.jan.eu/",
+      "snippet": "Allemaal vrolijke gezichten aan tafel! Dat kan haast niet anders met die overheerlijke poffertjes, pizza of pannenkoeken van Jan. Zo genieten we dus allemaal van een lekkere en makkelijke maaltijd. Zij blij, …",
+      "domain": "jan.eu",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Jan uit Overijse maakt lied over 285 Vlaamse gemeenten: \"Ik heb ze ...",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/05/jan-de-troij-maakt-lied-en-videoclip-over-alle-285-vlaamse-gemee/",
+      "snippet": "11 jun 2026 · Jan De Troij uit Overijse heeft er een stevige ronde van Vlaanderen opzitten. Hij schreef een lied over de 285 Vlaamse gemeenten. Voor de videoclip bezocht hij ze allemaal en dat in amper …",
+      "domain": "vrt.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Producten - Jan - Zo Gebakken Zooo lekker",
+      "url": "https://www.jan.eu/producten/",
+      "snippet": "Naast poffertjes, pannenkoeken en pizza, heeft Jan nog meer verse deegproducten voor je klaargemaakt. Zoals bladerdeeg of flammkuchendeeg. Maar ook American Pancakes. Allemaal …",
+      "domain": "jan.eu",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

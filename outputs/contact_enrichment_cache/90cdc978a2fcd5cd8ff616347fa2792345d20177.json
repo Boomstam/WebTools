@@ -1,0 +1,85 @@
+{
+  "address": "Leopold De Vriesstraat 54, 2600 Berchem",
+  "address_key": "LEOPOLD DE VRIESSTRAAT|54|||2600|Berchem",
+  "query": "\"Leopold De Vriesstraat 54\" \"2600\" \"Berchem\"",
+  "results": [
+    {
+      "title": "Webmail Login - IONOS Mail",
+      "url": "https://mail.ionos.com/login",
+      "snippet": "Webmail Login: Access your email mailbox and read your email online with Webmail.",
+      "domain": "mail.ionos.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Produkt- Login - IONOS",
+      "url": "https://id.ionos.de/identifier",
+      "snippet": "Sie haben noch kein professionelles E-Mail Postfach? Produkt-Login: Greifen Sie direkt auf Ihr E-Mail-Postfach oder Ihre Dateien zu.",
+      "domain": "id.ionos.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Product Login - IONOS",
+      "url": "https://id.ionos.co.uk/identifier",
+      "snippet": "Product Login: Access your email mailbox or files directly.",
+      "domain": "id.ionos.co.uk",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Login - IONOS",
+      "url": "https://login.ionos.ca/",
+      "snippet": "Access to your entire IONOS world: contracts, products, and customer data, order or change services - now password-protected login.",
+      "domain": "login.ionos.ca",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "1&1 E-Mail und Online-Speicher – Webmailer Login",
+      "url": "https://webmailer.1und1.de/",
+      "snippet": "1&1 Webmail Login - Lesen Sie online ihre E-Mails aus den Mailkonten von 1&1 Handy-, DSL-Verträgen.",
+      "domain": "webmailer.1und1.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Connexion – IONOS",
+      "url": "https://login.ionos.fr/",
+      "snippet": "Vous n'êtes pas encore client IONOS ? Devenez client dès maintenant et profitez de nos offres. Accès à tout l’univers IONOS : consulter vos contrats, accéder à vos produits, gérer vos données client, …",
+      "domain": "login.ionos.fr",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "IONOS Webmail Login : mail. ionos .de öffnen | Mail-Hilfe",
+      "url": "https://maildienste.de/ionos-webmail/",
+      "snippet": "29 mei 2026 · In dieser Anleitung erfahren Sie, wie Sie sich beim IONOS Webmail einloggen, Ihre Mails in Outlook oder Thunderbird einrichten und was Sie bei Problemen tun können. IONOS Webmail …",
+      "domain": "maildienste.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "IONOS - Login – acceso a su cuenta de cliente",
+      "url": "https://login.ionos.es/",
+      "snippet": "Acceda a sus contratos, productos, datos de cliente y servicios en IONOS. Introduzca su contraseña para iniciar sesión.",
+      "domain": "login.ionos.es",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

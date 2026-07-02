@@ -1,0 +1,87 @@
+{
+  "address": "Dambruggestraat 32, 2060 Antwerpen",
+  "address_key": "DAMBRUGGESTRAAT|32|||2060|Antwerpen",
+  "query": "\"Dambruggestraat 32\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "字节系app通用抓包方案 - 吾爱破解 - 52pojie.cn",
+      "url": "https://www.52pojie.cn/thread-1879263-1-1.html",
+      "snippet": "11 jan 2024 · [md]# 字节系app通用抓包脚本> 已测试某音 (28.4.0) , 某茄小说 (6.0.5.32)## 原理获取`SSL_CTX_set_custom_verify`的参数3 (回调函数)``` cppvoid SSL_CTX_set_cu ...",
+      "domain": "52pojie.cn",
+      "score": 20,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "DaFont - Download fonts",
+      "url": "https://www.dafont.com/",
+      "snippet": "Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.",
+      "domain": "dafont.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "New fonts | dafont.com",
+      "url": "https://www.dafont.com/new.php",
+      "snippet": "Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.",
+      "domain": "dafont.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "海外版抖音tiktok常见问题详解（保姆级）",
+      "url": "https://www.zhihu.com/tardis/zm/art/585819401",
+      "snippet": "现在很多做TikTok的中国人，就不懂英语，有的甚至连26个英文字母都认不全。然而他们还是能够熟练操作TikTok后台的各项功能，并且成功将Tiktok账号做起来了。不管你是新手小白，还是英语零基础， …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "新手小白必看！国际版某音TikTok的详细收款流程！",
+      "url": "https://www.zhihu.com/tardis/bd/art/528103510",
+      "snippet": "现在TikTok在海外发展得如火如荼，相信各位跨境商家都有所耳闻。 全球日活用户达到 20亿的APP，这种世界级的平台每天都吸引不少新手小白入场。 之前没有接触过跨境电商平台的新手，或者准备入 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "TikTok 45.4.3 抓包之双网络栈证书校验分析 - 吾爱破解 - 52pojie.cn",
+      "url": "https://www.52pojie.cn/thread-2111184-1-1.html",
+      "snippet": "5 jun 2026 · 工具链：google px4真机、proxypin 1.2.7、IDA 9.0。某海外社交app。先hook下connect函数，看下app使用的网络请求库有哪些。。可以看到网络请求是从libsscronet,so ...",
+      "domain": "52pojie.cn",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Top | dafont.com",
+      "url": "https://www.dafont.com/top.php",
+      "snippet": "Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.",
+      "domain": "dafont.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "TikTok网页版怎么打开？如何登录注册？ 你是不是也试过：搜索“TikTok …",
+      "url": "https://www.zhihu.com/pin/1918362763727730105",
+      "snippet": "TikTok网页版怎么打开？如何登录注册？ 你是不是也试过： 搜索“TikTok网页版”，却打不开页面？点进官网，显示“你所在地区暂不支持访问”？明明注册了账号，但就是无法登录使用网页版？别急，今天这 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

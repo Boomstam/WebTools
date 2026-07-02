@@ -1,0 +1,20 @@
+{
+  "address": "Montignystraat 143, 2018 Antwerpen",
+  "address_key": "MONTIGNYSTRAAT|143|||2018|Antwerpen",
+  "query": "\"Montignystraat 143\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "منصة مدرستي",
+      "url": "https://schools.madrasati.sa/SelfAssist/SelfAssist?TreeId=163128&Type=Lesson",
+      "snippet": "مدرستي نظام إدارة تعلم إلكتروني لمدارس المملكة العربية السعودية",
+      "domain": "schools.madrasati.sa",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

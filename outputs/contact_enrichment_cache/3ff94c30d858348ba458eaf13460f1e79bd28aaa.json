@@ -1,0 +1,85 @@
+{
+  "address": "Amsterdamstraat 35, 2000 Antwerpen",
+  "address_key": "AMSTERDAMSTRAAT|35|||2000|Antwerpen",
+  "query": "\"Amsterdamstraat 35\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Windows 11 - release information | Microsoft Learn",
+      "url": "https://learn.microsoft.com/de-de/windows/release-health/windows11-release-information",
+      "snippet": "23 jun 2026 · Windows 11, Version 26H1 unterstützt neue Geräte, die Anfang 2026 auf den Markt kommen, und ist nicht als …",
+      "domain": "learn.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Updateverlauf von Windows 11 , Version 25H2 - Microsoft-Support",
+      "url": "https://support.microsoft.com/de-de/topic/updateverlauf-von-windows-11-version-25h2-99c7f493-df2a-4832-bd2d-6706baa0dec0",
+      "snippet": "Sie erhalten Windows 11, Version 25H2, sobald Daten zeigen, dass Ihr Gerät bereit ist – so wird ein reibungsloses Update …",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Windows 11 26H2: Auf diese Neuerungen dürfen Sie sich freuen",
+      "url": "https://www.pcwelt.de/article/3057061/windows-11-26h2-auf-diese-neuerungen-durfen-sie-sich-freuen.html",
+      "snippet": "3 mrt 2026 · Windows 11 26H2 ist das nächste große Gratis-Update für alle Windows-Nutzer. Es bringt unter anderem …",
+      "domain": "pcwelt.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Neue Windows - Version : Was jetzt alle Nutzer installieren müssen",
+      "url": "https://www.chip.de/news/software/neue-windows-version-was-jetzt-alle-nutzer-installieren-muessen_faae3ad3-e1a2-4338-86db-b02da38002f3.html",
+      "snippet": "28 mei 2026 · Microsoft hat den Startschuss für die breite Verteilung der neuesten Windows-11-Version gegeben. Ab sofort rollt das …",
+      "domain": "chip.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Windows 11 2025 Update : So installiert ihr jetzt die neue Version 25H2",
+      "url": "https://winfuture.de/news,153972.html",
+      "snippet": "1 okt 2025 · Ab sofort steht das Windows 11 2025 Update zum Download bereit. Besser bekannt als Version 25H2 ist die Installation …",
+      "domain": "winfuture.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Windows 11 - Version läuft bald ab: Update -Trick bis 2028 ... - CHIP",
+      "url": "https://www.chip.de/news/software/windows-11-version-laeuft-bald-ab-update-trick-verlaengert-bis-2028_a80c3b5a-c875-4686-a32b-e9e3d510ca84.html",
+      "snippet": "2 dagen geleden · Jede Windows-11-Version wird für Privatnutzer nur 2 Jahre mit Sicherheitsupdates versorgt. Windows 11 24H2 …",
+      "domain": "chip.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Download 25H2 Windows 11",
+      "url": "https://www.windows-faq.de/2025/10/16/download-25h2-windows-11/",
+      "snippet": "16 okt 2025 · Microsoft hat das neueste Feature Update für Windows 11 in der Version 25H2 zum Download für alle Anwender …",
+      "domain": "windows-faq.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Windows 11 25H2: Alle Neuerungen im Detail erklärt - PC-WELT",
+      "url": "https://www.pcwelt.de/article/2873230/windows-11-25h2-alle-details-zu-allen-neuerungen.html",
+      "snippet": "Mit Windows 11 25H2 stellt Microsoft zahlreiche Neuerungen für Windows 11 bereit. Wir zeigen, was Sie jetzt alles wissen müssen.",
+      "domain": "pcwelt.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

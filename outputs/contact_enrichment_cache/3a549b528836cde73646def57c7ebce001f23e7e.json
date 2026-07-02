@@ -1,0 +1,85 @@
+{
+  "address": "Paleisstraat 63 bus 2, 2018 Antwerpen",
+  "address_key": "PALEISSTRAAT|63||2|2018|Antwerpen",
+  "query": "\"Paleisstraat 63\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "WhatsApp Web",
+      "url": "https://web.whatsapp.com/",
+      "snippet": "Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with ease, all for free.",
+      "domain": "web.whatsapp.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Download WhatsApp",
+      "url": "https://www.whatsapp.com/download",
+      "snippet": "Download WhatsApp on your mobile device, tablet or desktop and stay connected with reliable private messaging and calling. Available on Android, iOS, Mac and Windows.",
+      "domain": "whatsapp.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "WhatsApp Messenger - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.whatsapp&hl=en",
+      "snippet": "WhatsApp from Meta is a FREE messaging and video calling app. It’s used by over 2B people in more than 180 countries. It’s simple, reliable, and private, so you can easily keep in touch with your...",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "WhatsApp",
+      "url": "https://wa.me/",
+      "snippet": "Hosted by WhatsApp 2026 © WhatsApp LLC Privacy & Terms",
+      "domain": "wa.me",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "WhatsApp - Free download and install on Windows | Microsoft Store",
+      "url": "https://apps.microsoft.com/detail/9nksqgp7f2nh",
+      "snippet": "WhatsApp from Meta is a 100% free messaging app. It’s used by over 2B people in more than 180 countries. It’s simple, reliable, and private, so you can easily keep in touch with your friends and …",
+      "domain": "apps.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "WhatsApp from Meta",
+      "url": "https://www.meta.com/whatsapp/",
+      "snippet": "WhatsApp connects you with the people you care about most, effortlessly and privately.",
+      "domain": "meta.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "WhatsApp - Download",
+      "url": "https://whatsapp.en.softonic.com/",
+      "snippet": "22 jun 2026 · WhatsApp is a communication platform for mobile and desktop. It provides simple, reliable, and private messaging and calling for free, available all over the world.",
+      "domain": "whatsapp.en.softonic.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "WhatsApp | Secure and Reliable Free Private Messaging and Calling",
+      "url": "https://www.whatsapp.com/",
+      "snippet": "Use WhatsApp Messenger to stay in touch with friends and family. WhatsApp is free and offers simple, secure, reliable messaging and calling, available on phones all over the world.",
+      "domain": "whatsapp.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

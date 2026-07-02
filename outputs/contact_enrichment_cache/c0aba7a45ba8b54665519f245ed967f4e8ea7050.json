@@ -1,0 +1,20 @@
+{
+  "address": "Sorbenlaan 41, 2610 Wilrijk",
+  "address_key": "SORBENLAAN|41|||2610|Wilrijk",
+  "query": "\"Sorbenlaan 41\" \"2610\" \"Wilrijk\"",
+  "results": [
+    {
+      "title": "OmeTV",
+      "url": "https://m.ome.tv/refund/",
+      "snippet": "Hier sollte eine Beschreibung angezeigt werden, diese Seite lässt dies jedoch nicht zu.",
+      "domain": "m.ome.tv",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

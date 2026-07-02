@@ -1,0 +1,93 @@
+{
+  "address": "Lodewijk Gerritslaan 10, 2600 Berchem",
+  "address_key": "LODEWIJK GERRITSLAAN|10|||2600|Berchem",
+  "query": "\"Lodewijk Gerritslaan 10\" \"2600\" \"Berchem\"",
+  "results": [
+    {
+      "title": "Farland Game - Facebook",
+      "url": "https://www.facebook.com/FarlandGame/",
+      "snippet": "Don't forget to prepare supplies of water and energy and simple natural resources - brushwood, trees, stone and grass. Take care of uncompleted quests that have been waiting for their time for a long …",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/FarlandGame/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "QS Games - Facebook",
+      "url": "https://www.facebook.com/quartsoftgames/",
+      "snippet": "24 feb 2026 · QS Games. 6,818 likes · 4 talking about this. Welcome to the OFFICIAL QS Games page! Our games: 🌲 Farland 🌺 Papaya 🌴 Coral Isle 🏖️The Farrmers",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/quartsoftgames/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "QuartSoft - Farland : Farm Village — Viking Farm Adventures Online",
+      "url": "https://farland.quartsoft.com/",
+      "snippet": "Build a Viking farm, explore lands, and meet mythical creatures. Ancient gods and the spirit of adventure call you online. Play for free!",
+      "domain": "farland.quartsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Farland : Farm Village — Aventures de ferme Viking en ligne - QuartSoft",
+      "url": "https://farland.quartsoft.com/fr/",
+      "snippet": "Créez votre ferme Viking et explorez des terres mythiques. Dieux anciens et esprit d'aventure vous appellent. Jouez gratuit !",
+      "domain": "farland.quartsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Jouez à Farland : Farm Village sur PC - Google Play",
+      "url": "https://play.google.com/pc-store/games/details?id=com.quartsoft.farland&hl=fr",
+      "snippet": "Dirigez-vous vers Farland et commencez votre incroyable aventure agricole dès aujourd'hui ! Explorez les magnifiques paysages, trouvez des trésors cachés et construisez la ferme de vos rêves.",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Farland — Quartsoft Support technique et Centre d'aide",
+      "url": "https://quartsoft.helpshift.com/hc/fr/3-farland/",
+      "snippet": "Vous recherchez de l'aide sur Farland?",
+      "domain": "quartsoft.helpshift.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Farland : Farm Village - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.quartsoft.farland&hl=en-US",
+      "snippet": "Join thousands of daily active players worldwide who return to Farland every day to explore new areas, take part in events, and grow their islands. The world of Farland is always alive, with a...",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Farland : Adventure Story - App Store",
+      "url": "https://apps.apple.com/fr/app/farland-adventure-story/id1577163021",
+      "snippet": "Téléchargez l’app Farland: Adventure Story développée par QuartSoft AG dans l’App Store. Consultez les captures d’écran, les notes et avis, les astuces d’autres…",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

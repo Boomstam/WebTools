@@ -1,0 +1,85 @@
+{
+  "address": "Kipdorpbrug 4, 2000 Antwerpen",
+  "address_key": "KIPDORPBRUG|4|||2000|Antwerpen",
+  "query": "\"Kipdorpbrug 4\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "إنشاء حساب Gmail",
+      "url": "https://support.google.com/mail/answer/56256?hl=ar",
+      "snippet": "ملاحظة مهمة: قبل إعداد حساب Gmail جديد، احرص على الخروج من حساب Gmail الحالي. التعرّف على كيفية الخروج من Gmail. من جهازك، انتقِل إلى صفحة تسجيل الدخول إلى حساب …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "تسجيل الدخول إلى Gmail - جهاز الكمبيوتر - مساعدة Gmail",
+      "url": "https://support.google.com/mail/answer/8494?hl=ar&co=GENIE.Platform%3DDesktop",
+      "snippet": "على جهاز الكمبيوتر، انتقِل إلى Gmail. أدخِل عنوان البريد الإلكتروني لحسابك على Google أو رقم الهاتف وكلمة المرور. إذا سبق أن عبأت المعلومات وقرّرت تسجيل الدخول إلى حساب مختلف، انقر …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "تنزيل Google Chrome وتثبيته",
+      "url": "https://support.google.com/chrome/answer/95346?hl=ar&co=GENIE.Platform%3DDesktop",
+      "snippet": "طريقة تثبيت Chrome ملاحظة مُهمة: قبل تنزيل Chrome، ننصحك بالتحقّق مما إذا كان المتصفِّح يتوافق مع نظام التشغيل لديك ومِن توفّر جميع متطلبات النظام الأخرى فيه.",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "كيفية استرداد حسابك على Google أو Gmail",
+      "url": "https://support.google.com/accounts/answer/7682439?hl=ar",
+      "snippet": "إذا نسيت كلمة مرورك أو اسم المستخدم أو لم تتمكن من الحصول على رموز التحقُّق، اتَّبع هذه الخطوات لاسترداد حسابك على Google. بهذه الطريقة، ستستعيد إمكانية استخدام Gmail …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "إنشاء الاختبارات ووضع علامات عليها باستخدام \"نماذج Google\"",
+      "url": "https://support.google.com/docs/answer/7032287?hl=ar",
+      "snippet": "افتح نموذجًا في نماذج Google. في أعلى النموذج، انقر على الإعدادات. فعِّل الخيار جعل هذا اختبار. اختياري: لجمع عناوين البريد الإلكتروني، انقر على السهم المتجه للأسفل بجانب \"الردود\" …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google Translate Help",
+      "url": "https://support.google.com/translate/?hl=en",
+      "snippet": "Official Google Translate Help Center where you can find tips and tutorials on using Google Translate and other answers to …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "استخدام وضع التصفّح المتخفي",
+      "url": "https://support.google.com/chrome/answer/95464?hl=ar&co=GENIE.Platform%3DDesktop",
+      "snippet": "فتح وضع التصفّح المتخفي لبدء جلسة تصفُّح متخفٍ، اتّبِع الخطوات التالية: على جهاز الكمبيوتر، افتح Chrome. في أعلى يسار الشاشة، انقر على \"المزيد\" نافذة جديدة في وضع التصفّح …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "تنزيل المناطق والتنقّل بلا إنترنت في \"خرائط Google\"",
+      "url": "https://support.google.com/maps/answer/6291838?hl=ar&co=GENIE.Platform%3DAndroid",
+      "snippet": "ملاحظة مهمة: لا يمكنك تنزيل الخرائط بلا إنترنت في بعض البلدان أو المناطق بسبب الحدود التعاقدية أو توافق اللغات أو تنسيقات العناوين أو لأسباب أخرى. يمكنك حفظ منطقة من \"خرائط Google\" على …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

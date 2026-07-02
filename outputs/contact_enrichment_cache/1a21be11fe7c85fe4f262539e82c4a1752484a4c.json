@@ -1,0 +1,110 @@
+{
+  "address": "Koxplein 15, 2140 Borgerhout",
+  "address_key": "KOXPLEIN|15|||2140|Borgerhout",
+  "query": "\"Koxplein 15\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "Samen ruimte maken in Heilige Familiekerk op Koxplein",
+      "url": "https://visie.net/artikel/samen-ruimte-maken-in-heilige-familiekerk-op-koxplein",
+      "snippet": "5 nov 2025 · De kerkmeesterwoning aan de Heilige Familiekerk in Borgerhout wordt al enkele jaren gebruikt door diverse buurtverenigingen. Onder de noemer Kox2140 is het een plek voor …",
+      "domain": "visie.net",
+      "score": 75,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Buurtgroep t' Koxplein Borgerhout - Facebook",
+      "url": "https://www.facebook.com/groups/1667804626775782/",
+      "snippet": "11 mrt 2026 · (English below) Ruime kamer te huur in Borgerhout (buurt Koxplein). Ons huis telt in totaal vier slaapkamers, we delen de gemeenschappelijke ruimtes en (ruime) keuken, met toch voldoende …",
+      "domain": "facebook.com",
+      "score": 50,
+      "reasons": [
+        "straat",
+        "district",
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/groups/1667804626775782/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Koxplein, Gemeente Antwerpen (Borgerhout, Borgerhout Intra Muros …",
+      "url": "https://straten.openalfa.be/straten/koxplein-borgerhout-intra-muros-borgerhout-intra-muros-zuid-borgerhout-antwerpen",
+      "snippet": "U kunt een kaart en een lijst van locaties en diensten die beschikbaar zijn in de buurt van Koxplein te vinden. Hotels, restaurants, sportfaciliteiten, scholen, geldautomaten, supermarkten, benzinestations …",
+      "domain": "straten.openalfa.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Koxplein - Inventaris Onroerend Erfgoed",
+      "url": "https://inventaris.onroerenderfgoed.be/themas/2306",
+      "snippet": "Driehoekig plein met kastanjebomen, aangelegd op het zogenaamde Borgerhouts veld. In 1884 geopend als straat en genoemd naar één van de aanleggers, in 1887 herwerkt tot plein, bomen …",
+      "domain": "inventaris.onroerenderfgoed.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Heilige Familie en Sint-Corneliuskerk (Borgerhout ) - Wikipedia",
+      "url": "https://nl.wikipedia.org/wiki/Heilige_Familie_en_Sint-Corneliuskerk_(Borgerhout)",
+      "snippet": "De kerk De Heilige Familie en Sint-Cornelius is een rooms-katholieke kruisbasiliek, gelegen aan het Koxplein, in het district Borgerhout, van de Belgische stad Antwerpen.",
+      "domain": "nl.wikipedia.org",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ]
+    },
+    {
+      "title": "Winkels in de straat Koxplein Antwerpen - Openingsuren.Vlaanderen",
+      "url": "https://www.openingsuren.vlaanderen/2000-antwerpen/koxplein",
+      "snippet": "Al de winkels en handelszaken gelegen langs Koxplein in Antwerpen. Naast de verschillende winkels vind je ook de contactgegevens zoals het adres en telefoonnummer van de handelszaken langs …",
+      "domain": "openingsuren.vlaanderen",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Koxplein en kerk van de Heilige Familie - Plein | RouteYou",
+      "url": "https://www.routeyou.com/nl-be/location/view/52197086",
+      "snippet": "Alles wat je moet weten over Koxplein en kerk van de Heilige Familie met alle routes en bezienswaardigheden in de buurt",
+      "domain": "routeyou.com",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Politie verspreidt opsporingsbericht naar zeven verdachten van ...",
+      "url": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/politie-verspreidt-opsporingsbericht-naar-zeven-verdachten-van-brandstichtingen-aan-koxplein-tijdens-nieuwjaarsnacht/131020731.html",
+      "snippet": "11 feb 2026 · In het kader van een nieuw onderzoek is de politie op zoek naar zeven verdachten en een getuige van vandalisme op het Koxplein in Antwerpen, waar verschillende voorwerpen in brand …",
+      "domain": "gva.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

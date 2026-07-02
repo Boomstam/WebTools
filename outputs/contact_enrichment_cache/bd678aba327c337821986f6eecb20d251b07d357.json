@@ -1,0 +1,85 @@
+{
+  "address": "Lageweg 455, 2660 Hoboken",
+  "address_key": "LAGEWEG|455|||2660|Hoboken",
+  "query": "\"Lageweg 455\" \"2660\" \"Hoboken\"",
+  "results": [
+    {
+      "title": "Search Images - Bing",
+      "url": "https://www.bing.com/camera",
+      "snippet": "Intelligent search from Bing makes it easier to quickly find what you’re looking for and rewards you.",
+      "domain": "bing.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Bing Images",
+      "url": "https://www.bing.com/images/feed",
+      "snippet": "Intelligent search from Bing makes it easier to quickly find what you’re looking for and rewards you.",
+      "domain": "bing.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Véhicules - Images Bing",
+      "url": "https://www.bing.com/images/ideas/vehicles?nvid=45&setlang=fr",
+      "snippet": "Les automobiles et les véhicules capturent notre volonté d'innovation. Parcourez une sélection organisée de conceptions de voitures …",
+      "domain": "bing.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Voyage d’aventure - Images Bing",
+      "url": "https://www.fr.bing.com/images/ideas/adventure-travel?nvid=17067&FORM=IFPCOD",
+      "snippet": "Rechercher, identifier des objets et des textes, traduire ou résoudre des problèmes à l’aide d’une image Pour commencer votre …",
+      "domain": "fr.bing.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Search - Microsoft Bing",
+      "url": "https://www.ca.bing.com/",
+      "snippet": "Search with Microsoft Bing and use the power of AI to find information, explore webpages, images, videos, maps, and more. A smart …",
+      "domain": "ca.bing.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Images Bing",
+      "url": "https://www.bing.com/images/feed?setlang=fr",
+      "snippet": "La recherche intelligente de Bing facilite la recherche rapide et vous récompense.",
+      "domain": "bing.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Recherche – Microsoft Bing",
+      "url": "https://www.bing.com/?setmkt=fr-fr",
+      "snippet": "Rechercher, identifier des objets et des textes, traduire ou résoudre des problèmes à l’aide d’une image Pour commencer votre …",
+      "domain": "bing.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Collections",
+      "url": "https://www.bing.com/saves?setmkt=fr-ca&setlang=fr-ca",
+      "snippet": "Restez organisé (e) et reprenez là où vous en étiez. Suivez vos idées, enregistrez des recettes, planifiez votre prochain projet DE …",
+      "domain": "bing.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

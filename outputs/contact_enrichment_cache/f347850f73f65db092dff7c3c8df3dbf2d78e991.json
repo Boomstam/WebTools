@@ -1,0 +1,42 @@
+{
+  "address": "Paleisstraat 15, 2018 Antwerpen",
+  "address_key": "PALEISSTRAAT|15|||2018|Antwerpen",
+  "query": "\"Paleisstraat 15\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "תרגום",
+      "url": "https://translate.google.co.il/",
+      "snippet": "השירות של Google, שמוצע בחינם, מתרגם באופן מיידי מילים, ביטויים ודפי אינטרנט מאנגלית למעל 100 שפות.",
+      "domain": "translate.google.co.il",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Translate",
+      "url": "https://translate.google.co.il/details",
+      "snippet": "שליחת משוב כדי לחפש פרטים, צריך להזין טקסט",
+      "domain": "translate.google.co.il",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Translate",
+      "url": "https://translate.google.co.il/m",
+      "snippet": "זיהוי שפה← אנגלית דף הבית של Google",
+      "domain": "translate.google.co.il",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

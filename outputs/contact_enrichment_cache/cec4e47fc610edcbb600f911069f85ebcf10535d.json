@@ -1,0 +1,55 @@
+{
+  "address": "Bolwerkstraat 3, 2018 Antwerpen",
+  "address_key": "BOLWERKSTRAAT|3|||2018|Antwerpen",
+  "query": "\"Bolwerkstraat 3\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "‎iPad unlocked put being held Hostage | AT&T Community Forums",
+      "url": "https://forums.att.com/conversations/apple/ipad-unlocked-put-being-held-hostage/5eff278072a09d5179ce9596",
+      "snippet": "3 jul 2020 · I purchased this iPad for my moms 85 birthday. When I went to configure it for cellular, it says Managed by AT&T. I ran …",
+      "domain": "forums.att.com",
+      "score": 20,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "‎Escalation Ticket resolution | AT&T Community Forums",
+      "url": "https://forums.att.com/conversations/wireless-billing/escalation-ticket-resolution/6378ff130104884f7447f49c",
+      "snippet": "19 nov 2022 · I have been following up on the Trade-in credit issue from past 1 month. I have been told that the request has been …",
+      "domain": "forums.att.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "AT&T Digital Resources & Answers - Community Forums has Sunset",
+      "url": "https://forums.att.com/conversations/android/tengo-un-celular-samsung-a12/63a537dad7c1791e7f1fab2e",
+      "snippet": "The AT&T community forum has been sunset, we have compiled the list of new resources that you can use to find answers to any …",
+      "domain": "forums.att.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "MESSAGES - AT&T Community Forums",
+      "url": "https://forums.att.com/conversations/data-messaging-features-internet-tethering/messages/64191bccff78600b483d1773",
+      "snippet": "21 mrt 2023 · What is your device's make and model? This will help us find more detailed troubleshooting steps for us to perform. Is …",
+      "domain": "forums.att.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

@@ -1,0 +1,77 @@
+{
+  "address": "Gitschotellei 152, 2600 Berchem",
+  "address_key": "GITSCHOTELLEI|152|||2600|Berchem",
+  "query": "\"Gitschotellei 152\" \"2600\" \"Berchem\"",
+  "results": [
+    {
+      "title": "Netflix - Watch TV Shows Online, Watch Movies Online",
+      "url": "https://www.netflix.com/browse?jbv=80197526",
+      "snippet": "We would like to show you a description here but the site won’t allow us.",
+      "domain": "netflix.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Health benefits of sex : Research, findings, and cautions",
+      "url": "https://www.medicalnewstoday.com/articles/316954",
+      "snippet": "22 nov 2023 · Sex may boost certain aspects of people’s well-being and physical health. These health benefits can include reducing the risk of heart disease and improving mental health.",
+      "domain": "medicalnewstoday.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "24 Ways to Have Better Sex in 2024 - SELF",
+      "url": "https://www.self.com/story/best-sex-advice-2024",
+      "snippet": "17 jan 2024 · Sex advice about toys, threesomes, lube, role-play, anal, prostates, oral, masturbation, and everything else to try out for a great time in bed.",
+      "domain": "self.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How To Improve Your Sex Life : 18 Tips - wikiHow",
+      "url": "https://www.wikihow.com/Improve-Your-Sex-Life",
+      "snippet": "24 jun 2026 · The secrets to a healthy, sexual life at any ageAn active sex life can be important for your physical, mental, and emotional health, as well as help strengthen the bond between you and your …",
+      "domain": "wikihow.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Sex News, Trends, Reviews, & More | Mashable",
+      "url": "https://mashable.com/category/sex",
+      "snippet": "Check out the latest coverage from Mashable on Sex, including news, current trends, and more.",
+      "domain": "mashable.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Healthy Sex Life for Women",
+      "url": "https://www.healthline.com/health/womens-health-sex",
+      "snippet": "12 feb 2021 · For women, sexual health significantly impacts overall health. Practicing safe sex, using contraception properly, and getting screened regularly for STIs can keep your sexual health in good …",
+      "domain": "healthline.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Portal:Human sexuality - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Portal:Human_sexuality",
+      "snippet": "Erotic Kama sculptures depicting human sexuality Sexuality is the way people experience, and express themselves through sexual activities. This involves biological, psychological, physical, erotic, …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

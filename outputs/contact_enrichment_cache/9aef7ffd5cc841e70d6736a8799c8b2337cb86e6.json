@@ -1,0 +1,85 @@
+{
+  "address": "Carnotstraat 46, 2060 Antwerpen",
+  "address_key": "CARNOTSTRAAT|46|||2060|Antwerpen",
+  "query": "\"Carnotstraat 46\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Dropbox : Secure cloud storage, file sharing, and more",
+      "url": "https://www.dropbox.com/",
+      "snippet": "From industry-leading encryption and tamper-proof documents to version history and recovery, Dropbox keeps your intellectual …",
+      "domain": "dropbox.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Login or Sign Up for a Dropbox Account",
+      "url": "https://www.dropbox.com/login",
+      "snippet": "Login to Dropbox. Don't have an account? Signing up is easy. Just enter your email to get started.",
+      "domain": "dropbox.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Log In | Dropbox Sign",
+      "url": "https://app.hellosign.com/",
+      "snippet": "Sign in or create an account Sign in with Dropbox Sign in with Google or Email address Password",
+      "domain": "app.hellosign.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Dropbox - Free download and install on Windows | Microsoft Store",
+      "url": "https://apps.microsoft.com/detail/9nk4t08dhq80",
+      "snippet": "Dropbox brings all your files together into one place so you can store, sync, and share across all your devices* and access them …",
+      "domain": "apps.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Wat is Dropbox ? - SeniorWeb",
+      "url": "https://www.seniorweb.nl/artikel/wat-is-dropbox",
+      "snippet": "4 dec 2025 · Dropbox is een zogenaamde clouddienst. In tegenstelling tot andere grote opslagdiensten, zoals iCloud, OneDrive en …",
+      "domain": "seniorweb.nl",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Dropbox - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dropbox",
+      "snippet": "Dropbox ... Dropbox is a file hosting service operated by the American company Dropbox, Inc., headquartered in San Francisco, …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Werken met Dropbox via internet - SeniorWeb",
+      "url": "https://www.seniorweb.nl/artikel/werken-met-dropbox-via-internet",
+      "snippet": "10 mrt 2026 · De clouddienst Dropbox is handig voor het online opslaan van bestanden. Via Dropbox.com kan je op elk apparaat …",
+      "domain": "seniorweb.nl",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Dropbox : Secure Cloud Storage - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en-US",
+      "snippet": "Dropbox allows you to backup your most essential files to the cloud, where you may access them at any time and from any location! …",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

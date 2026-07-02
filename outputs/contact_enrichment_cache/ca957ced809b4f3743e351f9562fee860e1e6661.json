@@ -1,0 +1,85 @@
+{
+  "address": "Stijfselstraat 28-30, 2000 Antwerpen",
+  "address_key": "STIJFSELSTRAAT|28|30||2000|Antwerpen",
+  "query": "\"Stijfselstraat 28\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/embed/.%2F..%2F..",
+      "snippet": "Explore and share videos, music, and more on YouTube, the leading platform for online video streaming and sharing.",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube - YouTube",
+      "url": "https://www.youtube.com/youtube",
+      "snippet": "Welcome to the official YouTube channel – a home for the biggest moments, the smallest obsessions, and everything in between. Whatever you're into, it's on @YouTube.",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en",
+      "snippet": "Get the official YouTube app on Android phones and tablets. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more....",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube – Applications sur Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=fr",
+      "snippet": "Téléchargez l'application YouTube officielle sur votre téléphone ou tablette Android. Découvrez les contenus regardés partout dans le monde : des clips musicaux du moment aux vidéos populaires sur …",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "www. youtube .co.uk",
+      "url": "http://www.youtube.co.uk/",
+      "snippet": "www.youtube.co.uk",
+      "domain": "youtube.co.uk",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/feed/homepage",
+      "snippet": "About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features NFL Sunday Ticket © 2026 Google LLC",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "YouTube App - App Store",
+      "url": "https://apps.apple.com/gb/app/youtube/id544007664",
+      "snippet": "Download YouTube by Google on the App Store. See screenshots, ratings and reviews, user tips and more games like YouTube.",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/@________________.",
+      "snippet": "Explore and enjoy a wide range of videos, music, and more on YouTube.",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

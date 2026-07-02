@@ -1,0 +1,85 @@
+{
+  "address": "Grotesteenweg 457, 2600 Berchem",
+  "address_key": "GROTESTEENWEG|457|||2600|Berchem",
+  "query": "\"Grotesteenweg 457\" \"2600\" \"Berchem\"",
+  "results": [
+    {
+      "title": "CAIXA",
+      "url": "https://www.caixa.gov.br/Paginas/home-caixa.aspx",
+      "snippet": "Tem uma tag CAIXA esperando por você! Peça já a sua na agência da CAIXA mais próxima a você e fuja das filas em pedágios, estacionamentos, postos de gasolina, lava-rápidos e drive-thrus parceiros.",
+      "domain": "caixa.gov.br",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Inte-Rn.et---Ba___nki-.ng-_____c:AIxA",
+      "url": "https://internetbanking.caixa.gov.br/sinbc/",
+      "snippet": "A CAIXA pratica a cidadania também no Internet Banking CAIXA, onde os clientes com deficiência e/ou limitações visuais encontram uma plataforma adaptada à acessibilidade.",
+      "domain": "internetbanking.caixa.gov.br",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "CAIXA – Apps no Google Play",
+      "url": "https://play.google.com/store/apps/details?id=br.com.gabba.Caixa&hl=pt-BR",
+      "snippet": "Você pode acessar sua conta Caixa para consultar saldo, extrato, fatura do cartão, fazer seus pagamentos, transferências, investimentos, recarga de celular e muito mais!",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Resultados das Loterias Caixa - G1",
+      "url": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "snippet": "23 uur geleden · Acompanhe ao vivo todos os sorteios das Loterias Caixa no g1. Favorite esta página e confira os resultados em tempo real.",
+      "domain": "g1.globo.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Caixa Residencial - Portal Cliente",
+      "url": "https://autoatendimento.caixaresidencial.com.br/",
+      "snippet": "Acessar o Portal do Cliente Caixa Residencial é muito fácil e rápido. Entre diretamente no seu portal e confira todas as informações do seu seguro e mais, acesse!",
+      "domain": "autoatendimento.caixaresidencial.com.br",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Página Inicial | Caixa Capitalização",
+      "url": "https://www.caixacapitalizacao.com.br/",
+      "snippet": "Premiada, ela reforça a importância de manter a disciplina financeira e a confiança na capitalização da CAIXA, provando que acreditar é o primeiro passo para conquistar.",
+      "domain": "caixacapitalizacao.com.br",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "CAIXA Tem - Apps no Google Play",
+      "url": "https://play.google.com/store/apps/details?id=br.gov.caixa.tem&hl=pt-BR",
+      "snippet": "Você pode realizar diversas operações financeiras de forma simples e rápida, como pagamento de contas, transferências (incluindo via PIX), compras online com cartão de débito virtual, saques sem...",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "‎App CAIXA – App Store",
+      "url": "https://apps.apple.com/br/app/caixa/id490813624",
+      "snippet": "O aplicativo CAIXA mudou para você acessar sua conta e usar os serviços sem complicação. Todas as funcionalidades que você estava acostumado estão aqui e, para facilitar, você agora pode usar o …",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

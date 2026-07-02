@@ -1,0 +1,85 @@
+{
+  "address": "Louisalei 65, 2660 Hoboken",
+  "address_key": "LOUISALEI|65|||2660|Hoboken",
+  "query": "\"Louisalei 65\" \"2660\" \"Hoboken\"",
+  "results": [
+    {
+      "title": "Is there a whatsapp solution for linux? - Ask Ubuntu",
+      "url": "https://askubuntu.com/questions/1546818/is-there-a-whatsapp-solution-for-linux",
+      "snippet": "30 apr 2025 · To set it up: Visit ZapZap website. Download and install the app for your system. Follow the on-screen instructions to link your WhatsApp account. Optionally, configure your system’s startup …",
+      "domain": "askubuntu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "command line - uninstalling whatsapp - Ask Ubuntu",
+      "url": "https://askubuntu.com/questions/1181405/uninstalling-whatsapp",
+      "snippet": "16 okt 2019 · If you need an alternative app then try whatsdesk which is an unofficial whatsapp client for linux. It's available to download from the Ubuntu Software Center.",
+      "domain": "askubuntu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Frequent 'whatsapp' Questions - Ask Ubuntu",
+      "url": "https://askubuntu.com/questions/tagged/whatsapp?tab=Frequent",
+      "snippet": "WhatsApp Messenger is a freeware and cross-platform messaging and Voice over IP (VoIP) service owned by Facebook. This tag can be used for questions specifically for accessing Whatsapp Web or …",
+      "domain": "askubuntu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "windows - whatsapp desktop install by wine - Ask Ubuntu",
+      "url": "https://askubuntu.com/questions/1531067/whatsapp-desktop-install-by-wine",
+      "snippet": "24 okt 2024 · If you use a Chromium based web browser, you can use the 'kebab' (3 dots) menu to add WhatsApp as an \"App\" (webapp). This adds it to the launcher, so you can easily alt-tab between …",
+      "domain": "askubuntu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How can I share my screen using WhatsApp on Ubuntu?",
+      "url": "https://askubuntu.com/questions/1501859/how-can-i-share-my-screen-using-whatsapp-on-ubuntu",
+      "snippet": "30 jan 2024 · WhatsApp supports screen sharing on its Android app, its iOS app, and its Windows app. It does not seem to support screen sharing on the web app found at https://web.whatsapp.com . Is …",
+      "domain": "askubuntu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "software installation - How to install WhatsApp? - Ask Ubuntu",
+      "url": "https://askubuntu.com/questions/333850/how-to-install-whatsapp",
+      "snippet": "18 aug 2013 · After trying for some time the desktop app (WALC, appimage), I find it much better than the web page; the former stays connected after scanning the code, while the latter disconnects often, …",
+      "domain": "askubuntu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Ubuntu WhatsApp desktop app with call features",
+      "url": "https://askubuntu.com/questions/1241251/ubuntu-whatsapp-desktop-app-with-call-features",
+      "snippet": "19 mei 2020 · 3 The calls features are only available in WhatsApp native Desktop app 64-bit (Which the official website show that only Mac and window native app for desktop are available ), not in …",
+      "domain": "askubuntu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "How to use Whatsapp mobile application on Ubuntu Touch?",
+      "url": "https://askubuntu.com/questions/211700/how-to-use-whatsapp-mobile-application-on-ubuntu-touch",
+      "snippet": "In my Android I have \"Whatsapp\" application running. But mobile freak I am not, and specially the mobile keyboards. So how can I run my same application, same account from my Ubuntu desktop PC? ...",
+      "domain": "askubuntu.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

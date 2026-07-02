@@ -1,0 +1,85 @@
+{
+  "address": "Vleerakkerstraat 29-31, 2100 Deurne",
+  "address_key": "VLEERAKKERSTRAAT|29|31||2100|Deurne",
+  "query": "\"Vleerakkerstraat 29\" \"2100\" \"Deurne\"",
+  "results": [
+    {
+      "title": "Gmail-Konto erstellen - Gmail-Hilfe - Google Help",
+      "url": "https://support.google.com/mail/answer/56256?hl=de",
+      "snippet": "Konto erstellen Hinweis: Wenn Sie Gmail für Ihr Unternehmen nutzen möchten, ist ein Google Workspace-Konto möglicherweise besser als ein privates Google-Konto. Mit Google Workspace …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Help",
+      "url": "https://support.google.com/?hl=en",
+      "snippet": "If you're having trouble accessing a Google product, there's a chance we're currently experiencing a temporary problem. You can check for outages and downtime on the Google Workspace Status …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Transfert google photos",
+      "url": "https://forums.commentcamarche.net/forum/affich-38296056-transfert-google-photos",
+      "snippet": "24 jun 2026 · Bonjour, J essaie de transférer mes photos qui sont sur Google de mon samsung a40 sue une clé usb cette clé apparaît dans le fichier mais elle n apparaît pas pour effectuer le transfert …",
+      "domain": "forums.commentcamarche.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "cómo reemplazar google.fr por google.com : CCM - Foro tecnológico",
+      "url": "https://forums.commentcamarche.net/forum/affich-33423613-comment-remplacer-google-fr-par-google-com?lang=es",
+      "snippet": "google.com redirige a la versión de Google del país desde el que te conectas, por lo tanto, aparentemente a Francia, para hacer búsquedas en los Google de otros países:",
+      "domain": "forums.commentcamarche.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google als Startseite festlegen - Google Suche-Hilfe",
+      "url": "https://support.google.com/websearch/answer/463?hl=de",
+      "snippet": "Google wurde ohne meine Zustimmung als Startseite festgelegt Google ändert die Einstellungen für Ihre Startseite nicht ohne Ihre Zustimmung. Startseite zurücksetzen: Wählen Sie einen der obigen …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Wifi bloqueado en \"leyendo la dirección de red\"",
+      "url": "https://forums.commentcamarche.net/forum/affich-20233745-wifi-bloque-sur-lecture-de-l-adresse-reseau?lang=es",
+      "snippet": "Re hola, en realidad encontré la solución yo solo, después de múltiples búsquedas en Google! De hecho, abrí las conexiones de red, clic derecho en la conexión de red inalámbrica => propiedades …",
+      "domain": "forums.commentcamarche.net",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "In Gmail anmelden - Computer - Gmail-Hilfe",
+      "url": "https://support.google.com/mail/answer/8494?hl=de&co=GENIE.Platform%3DDesktop",
+      "snippet": "Öffnen Sie Gmail auf Ihrem Computer. Geben Sie die E-Mail-Adresse oder die Telefonnummer und das Passwort Ihres Google-Kontos ein. Falls Informationen vorausgefüllt sind, Sie sich aber in einem …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google: inactividad de mi cuenta pero en Hotmail??",
+      "url": "https://forums.commentcamarche.net/forum/affich-38214746-google-inactivite-de-mon-compte-mais-sur-hotmail?lang=es",
+      "snippet": "Un simple \"por favor, dirígete a tu cuenta de Google para validar el uso de tu dirección de Hotmail como dirección de recuperación\" y no \"conéctate a Google, de lo contrario vamos a eliminar tu dirección\"...",
+      "domain": "forums.commentcamarche.net",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

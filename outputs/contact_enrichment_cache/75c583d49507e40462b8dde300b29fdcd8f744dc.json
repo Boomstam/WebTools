@@ -1,0 +1,85 @@
+{
+  "address": "Cockerillkaai 36, 2000 Antwerpen",
+  "address_key": "COCKERILLKAAI|36|||2000|Antwerpen",
+  "query": "\"Cockerillkaai 36\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Fortnite | Free-to-Play Cross-Platform Game - Fortnite",
+      "url": "https://www.fortnite.com/",
+      "snippet": "Create and play with friends for free in Fortnite. Explore games, concerts, live events and more, or be the last player standing in …",
+      "domain": "fortnite.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Fortnite | Download & Play For Free - Epic Games Store",
+      "url": "https://store.epicgames.com/p/fortnite?lang=en-US",
+      "snippet": "Download and play Fortnite Battle Royale and Creative mode for free at the Epic Games Store. Check out our Bundles, V-Bucks and …",
+      "domain": "store.epicgames.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Fortnite - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.epicgames.fortnite&hl=en-US",
+      "snippet": "18 jun 2026 · Brawl and play Ranked modes and qualify for Fortnite Competitive tournaments, where you can earn rewards like cash …",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "‎ Fortnite App - App Store",
+      "url": "https://apps.apple.com/us/app/fortnite/id6483539426",
+      "snippet": "Play and battle with friends in Fortnite. Be the last player standing in Battle Royale, Zero Build, Blitz and OG, carry your squad to …",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Today's Current Fortnite Item Shop - Fortnite .GG",
+      "url": "https://fortnite.gg/shop",
+      "snippet": "See what's in today's Fortnite Item Shop right now, all Fortnite skins, special offers & bundles, shop history, your wishlisted …",
+      "domain": "fortnite.gg",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Fortnite - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fortnite",
+      "snippet": "While the Save the World and Creative versions have been successful for Epic Games, Fortnite Battle Royale in particular became …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Fortnite - Gizmodo",
+      "url": "https://gizmodo.com/download/fortnite",
+      "snippet": "6 dagen geleden · Fortnite is a multiplayer game that combines Battle Royale gameplay with building mechanics. In this fast-paced …",
+      "domain": "gizmodo.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Get Fortnite | Xbox",
+      "url": "https://www.xbox.com/en-US/games/store/fortnite/BT5P2X999VH2?msockid=1b958733d9396e3331d790bad83d6f1c",
+      "snippet": "Or, build your own games with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools for everyone to play. Each game has an …",
+      "domain": "xbox.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

@@ -1,0 +1,85 @@
+{
+  "address": "Turnhoutsebaan 233-1, 2100 Deurne",
+  "address_key": "TURNHOUTSEBAAN|233|1||2100|Deurne",
+  "query": "\"Turnhoutsebaan 233\" \"2100\" \"Deurne\"",
+  "results": [
+    {
+      "title": "Speedtest by Ookla - The Global Broadband Speed Test",
+      "url": "https://www.speedtest.net/",
+      "snippet": "Test your internet speed on any device with Speedtest by Ookla, available for free on desktop and mobile apps.",
+      "domain": "speedtest.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Speedtest d’Ookla – le test de vitesse de connexion global",
+      "url": "https://www.speedtest.net/fr",
+      "snippet": "Testez la vitesse de votre connexion Internet avec Speedtest d'Ookla, disponible sur tous vos appareils grâce à des applications gratuites.",
+      "domain": "speedtest.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Settings - Speedtest by Ookla",
+      "url": "https://www.speedtest.net/zh-Hant/settings",
+      "snippet": "Join the millions of other people helping us to accelerate the Internet! By creating an account, you'll be able to access your historical results anywhere and manage your Speedtest preferences.",
+      "domain": "speedtest.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Speedtest by Ookla - The Global Broadband Speed Test",
+      "url": "https://www.speedtest.net/settings",
+      "snippet": "Customize your Speedtest experience and manage settings for accurate broadband speed tests on all your devices with free desktop and mobile apps.",
+      "domain": "speedtest.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Speedtest door Ookla - De wereldwijde breedbandsnelheidstest",
+      "url": "https://www.speedtest.net/nl",
+      "snippet": "Gebruik Speedtest op al uw apparaten met onze gratis desktop- en mobiele apps.",
+      "domain": "speedtest.net",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Speedtest von Ookla - Der umfassende Breitband-Geschwindigkeitstest",
+      "url": "https://www.speedtest.net/de",
+      "snippet": "Testen Sie Ihre Internetgeschwindigkeit mit dem umfassenden Speedtest von Ookla für Desktop und Mobilgeräte.",
+      "domain": "speedtest.net",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Speedtest Apps: Our internet speed test available across a variety of ...",
+      "url": "https://www.speedtest.net/apps",
+      "snippet": "Quickly and easily test your internet connection with free apps from Speedtest—any time, on any device.",
+      "domain": "speedtest.net",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Speedtest for Windows: Internet speed test for Windows",
+      "url": "https://www.speedtest.net/apps/windows",
+      "snippet": "It's never been faster or easier to take a Speedtest. Download the free Speedtest desktop app for Windows to check your internet speeds at the touch of a button.",
+      "domain": "speedtest.net",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

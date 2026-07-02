@@ -1,0 +1,85 @@
+{
+  "address": "Frank Craeybeckxlaan 10, 2100 Deurne",
+  "address_key": "FRANK CRAEYBECKXLAAN|10|||2100|Deurne",
+  "query": "\"Frank Craeybeckxlaan 10\" \"2100\" \"Deurne\"",
+  "results": [
+    {
+      "title": "Frank Energie",
+      "url": "https://www.frankenergie.be/nl",
+      "snippet": "21 jul 2023 · De Frank-app helpt je daarbij. Je kan je elektrische toestellen op een slimme en voordelige manier opladen, je verbruik …",
+      "domain": "frankenergie.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Frank Energie",
+      "url": "https://www.frankenergie.nl/nl",
+      "snippet": "Met de Frank app heb jij je slimme energie binnen handbereik. Je laadt je elektrische apparaten slimmer en goedkoper, checkt je …",
+      "domain": "frankenergie.nl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Frank Energie",
+      "url": "https://www.frankenergie.be/nl/over-frank",
+      "snippet": "Open systeem Frank werkt met bijna alle merken. Je verbindt makkelijk via de cloud, zonder hardware. Je houdt de volledige …",
+      "domain": "frankenergie.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Frank Energie: dynamische tarieven en klantendienst 2026",
+      "url": "https://selectra.be/nl/energie/leverancier/frank-energie",
+      "snippet": "29 apr 2026 · Frank Energie: Nederlandse leverancier in Vlaanderen met dynamische realtime contracten via de Frank-app. …",
+      "domain": "selectra.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Frank Energie contact: klantendienst, telefoonnummer en Mijn Frank …",
+      "url": "https://www.mijn-groene-energie.be/energieleverancier/frank-energie/contact",
+      "snippet": "19 aug 2024 · Als digitaal-first leverancier moedigt Frank Energie klanten aan om de Frank-app en Mijn Frank te gebruiken voor de …",
+      "domain": "mijn-groene-energie.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Beste Dynamisch Energiecontract zonnepanelen 2026 - Frank Energie",
+      "url": "https://www.frankenergie.nl/nl/dynamisch-energiecontract",
+      "snippet": "Frank Energie is de beste leverancier voor zonnepanelen én thuisbatterijen in 2025. Stap over op dynamisch en bespaar direct op je …",
+      "domain": "frankenergie.nl",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Welkom bij Frank .nl, de grootste onafhankelijke nieuws website van ...",
+      "url": "https://www.frank.nl/",
+      "snippet": "Of je nu op zoek bent naar elektronica, kleding, meubels, sportartikelen of iets anders, bij Frank.nl hebben we het allemaal. Maar dat …",
+      "domain": "frank.nl",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Frank - All-Day Brunch & specialty coffee",
+      "url": "https://www.frank.brussels/",
+      "snippet": "Frank is one of Brussels most sophisticated breakfast and specialty coffee hotspots. Frank situates itself somewhere between cafe …",
+      "domain": "frank.brussels",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

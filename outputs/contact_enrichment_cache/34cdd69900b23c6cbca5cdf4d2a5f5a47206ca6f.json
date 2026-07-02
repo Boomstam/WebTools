@@ -1,0 +1,87 @@
+{
+  "address": "Dascottelei 22 bus 3, 2100 Deurne",
+  "address_key": "DASCOTTELEI|22||3|2100|Deurne",
+  "query": "\"Dascottelei 22\" \"2100\" \"Deurne\"",
+  "results": [
+    {
+      "title": "Grocery Store Locator | Quality Products Low Prices | Lidl US",
+      "url": "https://www.lidl.com/stores",
+      "snippet": "So you've heard about us, but wonder where to find us? Use our grocery store locator to find a Lidl near you. Hello, affordable high-quality groceries.",
+      "domain": "lidl.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Store Finder - Lidl US",
+      "url": "https://www.lidl.com/c/store-finder/s10089075",
+      "snippet": "Search by your Zip Code or City to find your nearest Lidl and start saving!",
+      "domain": "lidl.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Store Finder - Lidl GB",
+      "url": "https://www.lidl.co.uk/c/store-finder/s10023098",
+      "snippet": "Pop your postcode into the box and click your nearest store to see opening times and all the offers within grabbing distance. Never miss another offer!",
+      "domain": "lidl.co.uk",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "LIDL - Store Locator & Hours",
+      "url": "https://www.storeopeninghours.com/retailers/lidl",
+      "snippet": "The operating hours for the Lidl stores are usually from 8 AM to 9 PM, but we advise you to first check the precise hours using our store locator before visiting.",
+      "domain": "storeopeninghours.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Who we are. What drives us. - Lidl",
+      "url": "https://info.lidl/en",
+      "snippet": "Lidl currently operates around 12,900 stores across 32 countries, offering high-quality food and non-food products at the best price. Our map connects you directly to our national websites, providing easy …",
+      "domain": "info.lidl",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Food, Non-food, Wine and Recipes | Lidl GB",
+      "url": "https://www.lidl.co.uk/",
+      "snippet": "Explore our range of high quality fresh food & product offers. Enjoy great prices & latest deals in store. Shop today & use your Lidl Plus app.",
+      "domain": "lidl.co.uk",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Lidl Near me - Stores, Hours, Weekly Ads and Best Deals | Kupino .com",
+      "url": "https://www.kupino.com/lidl",
+      "snippet": "Lidl Stores by Location Find Lidl stores in 81 locations. Select a store in your city and view the exact store address, operating hours and Lidl flyers.",
+      "domain": "kupino.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com/maps/search/Lidl+near+me",
+      "snippet": "Google",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

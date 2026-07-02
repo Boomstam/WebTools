@@ -1,0 +1,120 @@
+{
+  "address": "Dascottelei 22, 2100 Deurne",
+  "address_key": "DASCOTTELEI|22|||2100|Deurne",
+  "query": "\"Dascottelei 22\" \"2100\" \"Deurne\"",
+  "results": [
+    {
+      "title": "Dascottelei 11, 2100 DEURNE | Immovasta",
+      "url": "https://www.immovasta.be/panden/gegevens/15669/",
+      "snippet": "Downloads asbest Dascottelei 11 B402, 2100 Antwerpen.pdf EPC Dascottelei 11 bus 402, 2100 Antwerpen.pdf grondplan immotools.pdf",
+      "domain": "immovasta.be",
+      "score": 75,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Dascottelei 98, 2100 DEURNE | Immovasta",
+      "url": "https://www.immovasta.be/panden/gegevens/15395/",
+      "snippet": "EPC Terninck VII 2022.pdf Grondplan Immotools.pdf EPC Dascottelei 98 bus 302, Antwerpen.pdf Asbestattest Dascottelei 98 bus 302, Antwerpen.pdf MVO_summary (nihil).pdf",
+      "domain": "immovasta.be",
+      "score": 75,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Appartement te koop in Dascottelei, Boterlaar - Silsburg ... - Realo",
+      "url": "https://www.realo.be/nl/search/appartement/te-koop/deurne-2100/dascottelei",
+      "snippet": "Op Realo vind je 12 appartementen te koop in Dascottelei, Boterlaar - Silsburg, Deurne (2100). Bekijk publicaties met foto's, verkoopgeschiedenis en gebruik onze gedetailleerde filters om het perfecte …",
+      "domain": "realo.be",
+      "score": 55,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district",
+        "vastgoed/noise"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Te koop: Dascottelei 81/101 2100 DEURNE - Heylen Vastgoed",
+      "url": "https://www.heylenvastgoed.be/kopen/appartement-te-koop-in-deurne/269362",
+      "snippet": "Appartement te koop te Dascottelei 81/101 in DEURNE. Recent 2 slaapkamer appartement + autostaanplaats te koop. Neem contact op of plan een bezichtiging.",
+      "domain": "heylenvastgoed.be",
+      "score": 55,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district",
+        "vastgoed/noise"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Te koop: Dascottelei 7/101 2100 Deurne - Heylen Vastgoed",
+      "url": "https://www.heylenvastgoed.be/kopen/appartement-te-koop-in-deurne/305727",
+      "snippet": "Appartement te koop te Dascottelei 7/101 in Deurne. App. (ca. 142 m²) met 3 slpk. en opt. garagebox. Neem contact op of plan een bezichtiging.",
+      "domain": "heylenvastgoed.be",
+      "score": 55,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district",
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Immo te koop in Dascottelei, Boterlaar - Silsburg, Deurne (2100 )",
+      "url": "https://www.realo.be/nl/search/te-koop/deurne-2100/dascottelei",
+      "snippet": "Op Realo vind je 15 panden te koop in Dascottelei, Boterlaar - Silsburg, Deurne (2100). Bekijk publicaties met foto's, verkoopgeschiedenis en gebruik onze gedetailleerde filters om het perfecte …",
+      "domain": "realo.be",
+      "score": 55,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district",
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Dascottelei , Deurne - Vastgoed te koop | Immoscoop",
+      "url": "https://www.immoscoop.be/zoeken/te-koop/lt/te-koop-dascottelei-in-deurne",
+      "snippet": "Ontdek alle huizen en appartementen te koop in de Dascottelei in Deurne. Bekijk het actuele aanbod, de gemiddelde woningprijs en prijs per m².",
+      "domain": "immoscoop.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ]
+    },
+    {
+      "title": "Appartement te koop in Antwerpen - € 217.000 - Immoweb",
+      "url": "https://www.immoweb.be/nl/zoekertje/appartement/te-koop/antwerpen/2100/21590301",
+      "snippet": "Ontdek dit te koop appartement en Antwerpen. Prijs: € 217.000. Adres: Dascottelei 2 2100 — Antwerpen",
+      "domain": "immoweb.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "postcode",
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

@@ -1,0 +1,85 @@
+{
+  "address": "Londenstraat 2, 2000 Antwerpen",
+  "address_key": "LONDENSTRAAT|2|||2000|Antwerpen",
+  "query": "\"Londenstraat 2\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "France - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/France",
+      "snippet": "France was divided into a German occupation zone in the north, an Italian occupation zone and an unoccupied territory, the rest of …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Francia - Wikipedia, la enciclopedia libre",
+      "url": "https://es.wikipedia.org/wiki/Francia",
+      "snippet": "Air France es la compañía aérea nacional, aunque numerosas compañías aéreas privadas ofrecen servicios de viajes nacionales e …",
+      "domain": "es.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "France | History, Maps, Flag, Population, Cities, Capital, & Facts ...",
+      "url": "https://www.britannica.com/place/France",
+      "snippet": "1 dag geleden · France, a country of northwestern Europe, is historically and culturally among the most important countries in the …",
+      "domain": "britannica.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "France .fr : Explore France and its wonders - Explore France",
+      "url": "https://www.france.fr/en/",
+      "snippet": "In spring, France reveals one of its most beautiful sides. Outdoor cafés fill up, parks and gardens come into bloom, and the …",
+      "domain": "france.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "La República francesa",
+      "url": "https://www.france.fr/es/articulo/la-republica-francesa/",
+      "snippet": "Por Explore France El equipo editorial de France.fr sigue de cerca las tendencias y noticias del destino para mostrarte una Francia …",
+      "domain": "france.fr",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Accueil - France-Visas",
+      "url": "https://france-visas.gouv.fr/",
+      "snippet": "Obtenir son visa pour la France Pour obtenir un visa via France-Visas, il vous est nécessaire de suivre cinq étapes pour compléter la …",
+      "domain": "france-visas.gouv.fr",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Accueil | France Diplomatie",
+      "url": "https://www.diplomatie.gouv.fr/fr",
+      "snippet": "6 dagen geleden · La mission du ministère de l’Europe et des Affaires étrangères (MEAE) est de représenter, défendre et …",
+      "domain": "diplomatie.gouv.fr",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "France Map | Discover France with Detailed Maps",
+      "url": "https://ontheworldmap.com/france/",
+      "snippet": "Description: This map shows governmental boundaries of countries; regions, regions capitals and major cities in France.",
+      "domain": "ontheworldmap.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

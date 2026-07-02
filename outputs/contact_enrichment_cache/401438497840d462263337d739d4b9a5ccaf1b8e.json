@@ -1,0 +1,85 @@
+{
+  "address": "Frankrijklei 138, 2000 Antwerpen",
+  "address_key": "FRANKRIJKLEI|138|||2000|Antwerpen",
+  "query": "\"Frankrijklei 138\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "SharePoint | Microsoft Community Hub",
+      "url": "https://techcommunity.microsoft.com/category/content_management/discussions/sharepoint_general",
+      "snippet": "2 dagen geleden · SharePoint Online - Issues Saving Site as Template and Activating .wsp Solutions Hello everyone, Recently I …",
+      "domain": "techcommunity.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "SharePoint in the Era of AI: Spring 2025 Updates | Microsoft …",
+      "url": "https://techcommunity.microsoft.com/blog/spblog/sharepoint-in-the-era-of-ai-spring-2025-updates/4411598",
+      "snippet": "Every day, customers add over&nbsp;2 billion pieces of content&nbsp;to SharePoint and&nbsp;create over 2 million sites. People in …",
+      "domain": "techcommunity.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft SharePoint Blog | Microsoft Community Hub",
+      "url": "https://techcommunity.microsoft.com/category/content_management/blog/spblog",
+      "snippet": "1 dag geleden · Welcome to the SharePoint Blog! Learn best practices, news, and trends directly from the SharePoint team.",
+      "domain": "techcommunity.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft SharePoint - Reddit",
+      "url": "https://www.reddit.com/r/sharepoint/",
+      "snippet": "Supporting the SharePoint Community since 2009, /r/sharepoint is a diverse group of SharePoint Administrators, Architects, …",
+      "domain": "reddit.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Introducing new agentic building in SharePoint and more updates ...",
+      "url": "https://techcommunity.microsoft.com/blog/spblog/introducing-new-agentic-building-in-sharepoint-and-more-updates/4497987",
+      "snippet": "Introducing SharePoint’s next chapter: a cohesive, AI powered experience built for the future or work.",
+      "domain": "techcommunity.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Content Management | Microsoft Community Hub",
+      "url": "https://techcommunity.microsoft.com/category/content_management",
+      "snippet": "Your place for content management news, announcements, and best practices - including SharePoint, SharePoint Embedded, and …",
+      "domain": "techcommunity.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "A new SharePoint Look and Feel: What’s Changing and Why It Matters",
+      "url": "https://techcommunity.microsoft.com/blog/spblog/a-new-sharepoint-look-and-feel-what%E2%80%99s-changing-and-why-it-matters/4529776",
+      "snippet": "22 jun 2026 · SharePoint is getting a refreshed look and feel designed to make the product feel simpler, clearer, and more focused …",
+      "domain": "techcommunity.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Modern SharePoint Architecture: Best Practices for Scalable Intranets ...",
+      "url": "https://techcommunity.microsoft.com/discussions/microsoft-365/modern-sharepoint-architecture-best-practices-for-scalable-intranets-in-2026/4495251",
+      "snippet": "16 feb 2026 · Modern SharePoint Architecture: Best Practices for Scalable Intranets in 2026 In 2026, SharePoint has evolved from …",
+      "domain": "techcommunity.microsoft.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

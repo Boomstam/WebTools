@@ -1,0 +1,20 @@
+{
+  "address": "Hollebeekstraat 200, 2660 Hoboken",
+  "address_key": "HOLLEBEEKSTRAAT|200|||2660|Hoboken",
+  "query": "\"Hollebeekstraat 200\" \"2660\" \"Hoboken\"",
+  "results": [
+    {
+      "title": "google mail",
+      "url": "https://mail.google.com/mail?hl=de",
+      "snippet": "We would like to show you a description here but the site won’t allow us.",
+      "domain": "mail.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

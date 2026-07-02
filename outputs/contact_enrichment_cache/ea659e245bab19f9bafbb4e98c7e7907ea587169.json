@@ -1,0 +1,85 @@
+{
+  "address": "Frans Beirenslaan 167 bus 2, 2150 Borsbeek",
+  "address_key": "FRANS BEIRENSLAAN|167||2|2150|Borsbeek",
+  "query": "\"Frans Beirenslaan 167\" \"2150\" \"Borsbeek\"",
+  "results": [
+    {
+      "title": "Google Translate",
+      "url": "https://translate.google.be/",
+      "snippet": "Deze kosteloze service van Google kan woorden, zinnen en webpagina's onmiddellijk vertalen tussen het Nederlands en meer dan 100 andere talen.",
+      "domain": "translate.google.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Frans - Wikipedia",
+      "url": "https://nl.wikipedia.org/wiki/Frans",
+      "snippet": "Het Frans (français) is de meest gesproken Gallo-Romaanse taal. Het behoort tot de grotere groep van de Romaanse talen, die alle uit het Latijn zijn voortgekomen.",
+      "domain": "nl.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Vertalen met DeepL Translate - 's werelds meest accurate vertaler",
+      "url": "https://www.deepl.com/nl/translator",
+      "snippet": "Andere talen Arabisch Bulgaars Chinees Deens Duits Engels Ests Fins Frans Grieks Hebreeuws Hongaars Indonesisch Italiaans Japans Koreaans Lets Litouws Noors (Bokmål) Oekraïens Pools …",
+      "domain": "deepl.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Leer Frans met lessen die echt werken - Duolingo",
+      "url": "https://nl-nl.duolingo.com/course/fr/nl-NL/Leer-Frans",
+      "snippet": "Leer Frans met onze gratis, leuke en effectieve cursus met snelle, wetenschappelijk onderbouwde en gepersonaliseerde lessen.",
+      "domain": "nl-nl.duolingo.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "CVO GROEIPUNT opleidingen Frans - groeipunt.be",
+      "url": "https://www.groeipunt.be/opleiding/talen/Frans",
+      "snippet": "In de cursussen Frans trekken we de communicatieve kaart. Je krijgt ruim de kans om je lees-, luister-, schrijf- en spreekvaardigheid te oefenen en je breidt je woordenschat en grammaticale kennis verder …",
+      "domain": "groeipunt.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Frans online - Talenwijzer",
+      "url": "http://www.talenwijzer.com/frans-online.html",
+      "snippet": "Gratis online Frans leren en oefenen Frans uitleg en oefeningen spreekvaardigheid luistervaardigheid leesvaardigheid schrijfvaardigheid Vertaalbureau Frans Parkstad Limburg",
+      "domain": "talenwijzer.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Vertaal van Nederlands naar Frans met DeepL",
+      "url": "https://www.deepl.com/nl/translator/l/nl/fr",
+      "snippet": "Vertaal teksten en bestanden in een handomdraai van Nederlands naar Frans met behulp van 's werelds meest nauwkeurige vertaler. Miljoenen mensen vertalen elke dag met DeepL.",
+      "domain": "deepl.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Frans - CVO Gent",
+      "url": "https://www.cvo.gent/opleidingen/vakgebied/408/frans",
+      "snippet": "Jouw kennis van het Frans activeren of uitdiepen? Met een gevarieerde leermethode, actuele onderwerpen en nadruk op communicatie helpen onze gedreven leerkrachten jou op weg.",
+      "domain": "cvo.gent",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

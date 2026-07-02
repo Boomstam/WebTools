@@ -1,0 +1,85 @@
+{
+  "address": "Solftplaats 8, 2040 Bezali",
+  "address_key": "SOLFTPLAATS|8|||2040|Bezali",
+  "query": "\"Solftplaats 8\" \"2040\" \"Bezali\"",
+  "results": [
+    {
+      "title": "ChatGPT",
+      "url": "https://chatgpt.com/",
+      "snippet": "Log in to get answers based on saved chats, plus create images and upload files. Where should we begin? ChatGPT is AI. By using it, you agree to our Terms & Privacy Policy. Chats may be reviewed …",
+      "domain": "chatgpt.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Introducing ChatGPT - OpenAI",
+      "url": "https://openai.com/index/chatgpt/",
+      "snippet": "30 nov 2022 · We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, …",
+      "domain": "openai.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ChatGPT - Your AI Assistant",
+      "url": "https://www.chatt-gptt.com/",
+      "snippet": "Sign up for free & ask ChatGPT anything. Get help with your writing, news, web search, planning, and more. ChatGPT answers all of your questions.",
+      "domain": "chatt-gptt.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How To Login Chat GPT : Your Comprehensive Guide to AI-Powered ...",
+      "url": "https://latenode.com/blog/ai-technology-language-models/chatgpt-openai-models-gpt-4-gpt-4-5-o1-o3/how-to-login-chat-gpt",
+      "snippet": "11 jun 2026 · You can log in on desktops, laptops, Android smartphones, iPhones, and even across different browsers like Chrome, Edge, and Safari. Your conversations and settings sync …",
+      "domain": "latenode.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "The ChatGPT home page - OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/9125172",
+      "snippet": "ChatGPT is free to use, and can now be accessed before creating an account at chatgpt.com. Simply enter your prompt in the text box to get started. For general questions about ChatGPT, please refer …",
+      "domain": "help.openai.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Get started | ChatGPT",
+      "url": "https://chatgpt.com/auth/login",
+      "snippet": "Log in or sign up to ChatGPT",
+      "domain": "chatgpt.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "OpenAI Platform",
+      "url": "https://openai.com/login/",
+      "snippet": "Interact with our flagship language models in a conversational interface",
+      "domain": "openai.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "OpenAI Platform",
+      "url": "https://platform.openai.com/login/",
+      "snippet": "Sign up or login with an OpenAI account to build with the OpenAI API.",
+      "domain": "platform.openai.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

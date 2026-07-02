@@ -1,0 +1,89 @@
+{
+  "address": "Heidestraat 87, 2660 Hoboken",
+  "address_key": "HEIDESTRAAT|87|||2660|Hoboken",
+  "query": "\"Heidestraat 87\" \"2660\" \"Hoboken\"",
+  "results": [
+    {
+      "title": "Facebook",
+      "url": "https://www.facebook.com/",
+      "snippet": "Connect and share with friends, family, and the world on Facebook.",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Facebook - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en-US",
+      "snippet": "Whether you’re thrifting gear, showing reels to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "‎ Facebook App - App Store",
+      "url": "https://apps.apple.com/us/app/facebook/id284882215",
+      "snippet": "Download Facebook by Meta Platforms, Inc. on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Facebook.",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Facebook - Free download and install on Windows | Microsoft Store",
+      "url": "https://apps.microsoft.com/detail/9wzdncrfj2wl",
+      "snippet": "The Facebook app helps you connect with friends, family and communities of people who share your interests. Connecting with your friends and family, as well as discovering new ones, is easy with …",
+      "domain": "apps.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Download Facebook (free) for Windows, Android, APK, iOS and Web …",
+      "url": "https://gizmodo.com/download/facebook",
+      "snippet": "5 dagen geleden · Facebook is one of the first social networks ever created. It offers a place for users to share whatever they want, including pictures, posts, links to external websites, videos, and even...",
+      "domain": "gizmodo.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Facebook - Free APK Download for Android - AppBrain",
+      "url": "https://www.appbrain.com/app/facebook/com.facebook.katana",
+      "snippet": "1 dag geleden · Facebook is a free social app developed by Meta Platforms, Inc. that has 10,000,000,000+ downloads.",
+      "domain": "appbrain.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Facebook - Meta",
+      "url": "https://www.meta.com/en-gb/facebook-app/",
+      "snippet": "Facebook helps you connect with friends, family and communities of people who share your interests. Connecting with your friends and family, as well as discovering new ones, is easy with features such …",
+      "domain": "meta.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Facebook - Download",
+      "url": "https://facebook.en.softonic.com/",
+      "snippet": "11 mrt 2026 · Facebook for Windows is a free application that transforms the way you connect with friends, family, and colleagues. It's your window to the world of Facebook, now more accessible and …",
+      "domain": "facebook.en.softonic.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

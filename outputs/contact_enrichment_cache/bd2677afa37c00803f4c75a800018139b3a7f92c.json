@@ -1,0 +1,85 @@
+{
+  "address": "Tavernierkaai 3, 2000 Antwerpen",
+  "address_key": "TAVERNIERKAAI|3|||2000|Antwerpen",
+  "query": "\"Tavernierkaai 3\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Current Local Time in Tokyo, Japan - timeanddate.com",
+      "url": "https://www.timeanddate.com/worldclock/japan/tokyo",
+      "snippet": "Current local time in Japan – Tokyo. Get Tokyo's weather and area codes, time zone and DST. Explore Tokyo's sunrise and sunset, …",
+      "domain": "timeanddate.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Holidays and Observances in Japan in 2026 - timeanddate.com",
+      "url": "https://www.timeanddate.com/holidays/japan/2026?hol=9",
+      "snippet": "Holidays and Observances in Japan in 2026 ... While we diligently research and update our holiday dates, some of the information in …",
+      "domain": "timeanddate.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Tokyo Disney Resort, Japan 14 day weather forecast",
+      "url": "https://www.timeanddate.com/weather/@8504744/ext",
+      "snippet": "Forecasted weather conditions the coming 2 weeks for Tokyo Disney Resort",
+      "domain": "timeanddate.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Current Local Time in Seoul, South Korea",
+      "url": "https://www.timeanddate.com/worldclock/south-korea/seoul",
+      "snippet": "Current local time in South Korea – Seoul. Get Seoul's weather and area codes, time zone and DST. Explore Seoul's sunrise and …",
+      "domain": "timeanddate.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Moonrise, Moonset, and Moon Phase in Tokyo",
+      "url": "https://www.timeanddate.com/moon/japan/tokyo",
+      "snippet": "Moonrise and moonset time, Moon direction, and Moon phase in Tokyo – Japan for June 2026. When and where does the Moon rise …",
+      "domain": "timeanddate.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Kawaguchiko Sōgō Kōen, Japan 14 day weather forecast",
+      "url": "https://www.timeanddate.com/weather/@10798357/ext",
+      "snippet": "23 uur geleden · Forecasted weather conditions the coming 2 weeks for Kawaguchiko Sōgō Kōen",
+      "domain": "timeanddate.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Tokyo, Japan 14 day weather forecast - timeanddate.com",
+      "url": "https://www.timeanddate.com/weather/japan/tokyo/ext?forecast=weekly",
+      "snippet": "2 Week Extended Forecast in Tokyo, Japan ... Hour-by-hour weather for Tokyo next 7 days",
+      "domain": "timeanddate.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Tokyo, Japan — Sunrise, Sunset, and Daylength, June 2026",
+      "url": "https://www.timeanddate.com/sun/japan/tokyo?month=6",
+      "snippet": "Calculations of sunrise and sunset in Tokyo – Japan for June 2026. Generic astronomy calculator to calculate times for sunrise, …",
+      "domain": "timeanddate.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

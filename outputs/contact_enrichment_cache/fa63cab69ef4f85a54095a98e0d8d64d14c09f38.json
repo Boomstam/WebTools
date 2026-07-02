@@ -1,0 +1,85 @@
+{
+  "address": "Dambruggestraat 112, 2060 Antwerpen",
+  "address_key": "DAMBRUGGESTRAAT|112|||2060|Antwerpen",
+  "query": "\"Dambruggestraat 112\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "WizTree - The Fastest Disk Space Analyzer",
+      "url": "https://www.diskanalyzer.com/",
+      "snippet": "Official WizTree web site. WizTree is the fastest disk space analyzer available for Windows. It reads the Master File Table (MFT) …",
+      "domain": "diskanalyzer.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Download WizTree",
+      "url": "https://www.diskanalyzer.com/download",
+      "snippet": "23 mrt 2026 · WizTree is the fastest disk space analyzer for Windows. Download the latest version here. Use it to quickly locate and …",
+      "domain": "diskanalyzer.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "WizTree Guides",
+      "url": "https://www.diskanalyzer.com/guide",
+      "snippet": "WizTree is able to locate duplicate files based on file name, size and optionally modified date. To locate duplicates, select the \"File …",
+      "domain": "diskanalyzer.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "WizTree - About",
+      "url": "https://www.diskanalyzer.com/about",
+      "snippet": "About WizTree The Fastest Disk Space Analyzer for Windows What is WizTree? WizTree is a very high speed disk space analyzer …",
+      "domain": "diskanalyzer.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "FAQ - WizTree",
+      "url": "https://diskanalyzer.com/faq",
+      "snippet": "Once you have your supporter code, start WizTree, then press F12 or select \"File->Enter Support Code...\" The \"Enter Supporter …",
+      "domain": "diskanalyzer.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "What's new? - WizTree",
+      "url": "https://diskanalyzer.com/whats-new",
+      "snippet": "WizTree now reads this information from the MFT file if it's available instead of making any assumptions which if wrong would lead to …",
+      "domain": "diskanalyzer.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Privacy Policy - WizTree",
+      "url": "https://diskanalyzer.com/privacy-policy",
+      "snippet": "Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read …",
+      "domain": "diskanalyzer.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "WizTree Supporter Code License",
+      "url": "https://www.diskanalyzer.com/donate",
+      "snippet": "Purchase WizTree Supporter Code License You can use WizTree commercially or help support WizTree development by purchasing …",
+      "domain": "diskanalyzer.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

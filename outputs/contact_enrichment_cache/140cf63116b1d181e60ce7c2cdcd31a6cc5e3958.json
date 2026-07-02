@@ -1,0 +1,85 @@
+{
+  "address": "Vuurkruislaan 11 bus 201, 2610 Wilrijk",
+  "address_key": "VUURKRUISLAAN|11||201|2610|Wilrijk",
+  "query": "\"Vuurkruislaan 11\" \"2610\" \"Wilrijk\"",
+  "results": [
+    {
+      "title": "Run Linux GUI apps on the Windows Subsystem for Linux",
+      "url": "https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps",
+      "snippet": "6 aug 2025 · Windows Subsystem for Linux (WSL) now supports running Linux GUI applications (X11 and Wayland) on Windows in a fully integrated desktop experience. WSL 2 enables Linux GUI …",
+      "domain": "learn.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Run Linux GUI apps on the Windows Subsystem for Linux",
+      "url": "https://github.com/MicrosoftDocs/wsl/blob/main/WSL/tutorials/gui-apps.md",
+      "snippet": "8 jun 2025 · Learn how WSL support running Linux GUI apps. Windows Subsystem for Linux (WSL) now supports running Linux GUI applications (X11 and Wayland) on Windows in a fully integrated …",
+      "domain": "github.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Setting Up a Graphical Desktop Environment in WSL2",
+      "url": "https://techblog.fullspeedtechnologies.com/2024/06/16/Setting-Up-A-Graphical-Desktop-Environment-in-WSL2.html",
+      "snippet": "16 jun 2024 · Did you know that with Windows Subsystem for Linux (WSL), WSL2 specifically, you can use the entire Linux environment right on your Windows machine? I will walk you through the …",
+      "domain": "techblog.fullspeedtechnologies.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Install WSL | Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/windows/wsl/install",
+      "snippet": "6 aug 2025 · To install a Linux distribution that is not listed as available, you can import any Linux distribution using a TAR file. Or in some cases you can install using an .appx file. You can also …",
+      "domain": "learn.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to use WSL2 with a GUI - Andrew Henke",
+      "url": "https://andrewhenke.com/how-to-use-wsl2-with-a-gui/",
+      "snippet": "Utilize my step-by-step tutorial to enable a full-featured Linux GUI with the Windows Subsystem for Linux!",
+      "domain": "andrewhenke.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Unleashing the Power of WSL Ubuntu GUI : A Comprehensive Guide",
+      "url": "https://linuxvox.com/blog/wsl-ubuntu-gui/",
+      "snippet": "16 jan 2026 · WSL Ubuntu GUI provides a powerful and convenient way for Windows users to access and use Linux-based GUI applications. By understanding the fundamental concepts, following the …",
+      "domain": "linuxvox.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "How to install a Linux Desktop and GUI on Windows Subsystem for Linux ...",
+      "url": "https://aleksandarhaber.com/how-to-install-a-linux-desktop-and-gui-on-windows-subsystem-for-linux-wsl/",
+      "snippet": "28 okt 2024 · In this tutorial, we explain maybe the simplest possible method for installing a Linux Desktop and Linux Graphics User Interface (GUI) in Windows Subsystem for Linux (WSL2).",
+      "domain": "aleksandarhaber.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Install Ubuntu on WSL with GUI – A Complete Guide",
+      "url": "https://orendra.com/blog/install-ubuntu-on-wsl-with-gui-a-complete-guide/",
+      "snippet": "29 okt 2025 · Running Ubuntu on Windows has never been easier thanks to Windows Subsystem for Linux (WSL). With WSL 2, you can install Ubuntu, run Linux commands natively, and even launch a …",
+      "domain": "orendra.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

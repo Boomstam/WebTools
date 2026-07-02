@@ -1,0 +1,106 @@
+{
+  "address": "Diepestraat 124, 2060 Antwerpen",
+  "address_key": "DIEPESTRAAT|124|||2060|Antwerpen",
+  "query": "\"Diepestraat 124\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "BUURTREPORTAGE. “De Diepestraat is echt een Afghaanse buurt …",
+      "url": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/district-antwerpen/antwerpen-2060/buurtreportage.-de-diepestraat-is-echt-een-afghaanse-buurt-aan-het-worden/37774683.html",
+      "snippet": "12 jan 2020 · “De Diepestraat is echt een Afghaanse buurt aan het worden” Een toer langs de winkeltjes in de Diepestraat, Sint-Gummarusstraat en Sint-Elisabethstraat in Antwerpen-Noord maakt duidelijk …",
+      "domain": "gva.be",
+      "score": 75,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Diepestraat , Gemeente Antwerpen (Antwerpen, Stuivenberg, Seefhoek)",
+      "url": "https://straten.openalfa.be/straten/diepestraat-seefhoek-stuivenberg-antwerpen-antwerpen",
+      "snippet": "Lijst met diensten in de buurt van Diepestraat, Gemeente Antwerpen (Antwerpen, Stuivenberg: winkels, restaurants, vrijetijds- en sportfaciliteiten, ziekenhuizen, benzinestations en andere interessante …",
+      "domain": "straten.openalfa.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Drugsbende opgerold in Diepestraat , waar buurtbewoners al over",
+      "url": "https://www.hln.be/antwerpen/drugsbende-opgerold-in-diepestraat-waar-buurtbewoners-al-over-aanhoudende-overlast-klaagden~a041c393/",
+      "snippet": "11 jul 2022 · Vier mannen tussen 24 en 34 jaar zijn in de Diepestraat in Antwerpen gearresteerd nadat ze betrapt waren tijdens een drugsdeal. Drie van hen verblijven illegaal in ons land. Begin vorige …",
+      "domain": "hln.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Diepestraat , Brussel (Laken)",
+      "url": "https://straten.openalfa.be/straten/diepestraat-laken-stad-brussel",
+      "snippet": "Kaart van Diepestraat, Brussel (Laken). Lijst met diensten in de buurt van Diepestraat: winkels, restaurants, vrijetijds- en sportfaciliteiten, ziekenhuizen, benzinestations en andere interessante …",
+      "domain": "straten.openalfa.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Diepestraat – Inventaris van het bouwkundig erfgoed",
+      "url": "https://monument.heritage.brussels/nl/Brussel_Laken/Diepestraat/10208183",
+      "snippet": "De straat volgt een deel van de bedding van een oude bochtige weg, de Hevenbosstraat, die Jette met Wemmel verbond. Deze straat werd Diepestraat herdoopt, wellicht in de jaren 1900, verwijzend naar …",
+      "domain": "monument.heritage.brussels",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Diepestraat - Inventaris Onroerend Erfgoed",
+      "url": "https://inventaris.onroerenderfgoed.be/themas/10440",
+      "snippet": "Gelegen tussen Dambrugge- en Lange Beeldekensstraat. Reeds in de Atlas van de Buurtwegen anno 1840 vermeld als Diepe Weg, naam die in 1846 gewettigd werd.",
+      "domain": "inventaris.onroerenderfgoed.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Diepestraat - Inventaris Onroerend Erfgoed",
+      "url": "https://inventaris.onroerenderfgoed.be/themas/15339",
+      "snippet": "1 sep 2008 · De straat wordt op een gemeentelijk kaartje in de publicatie \"Dit is West-Vlaanderen\" (1960) al grotendeels aangeduid als grind- of tarmacweg, het straatdeel ten noorden van de …",
+      "domain": "inventaris.onroerenderfgoed.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Rue Profonde - Diepestraat in Brussel (Brussel) - Postcode bij adres",
+      "url": "https://postcodebijadres.be/rue-profonde-diepestraat+brussel",
+      "snippet": "Bekijk de postcode en alle adressen van Rue Profonde - Diepestraat in Brussel Algemene informatie Rue Profonde - Diepestraat in Brussel Rue Profonde - Diepestraat lig in Brussel binnen de gemeente …",
+      "domain": "postcodebijadres.be",
+      "score": 15,
+      "reasons": [
+        "straat",
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

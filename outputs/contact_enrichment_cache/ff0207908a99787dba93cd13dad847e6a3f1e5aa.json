@@ -1,0 +1,85 @@
+{
+  "address": "August Scheyvaertslaan 54, 2180 Ekeren",
+  "address_key": "AUGUST SCHEYVAERTSLAAN|54|||2180|Ekeren",
+  "query": "\"August Scheyvaertslaan 54\" \"2180\" \"Ekeren\"",
+  "results": [
+    {
+      "title": "File Explorer in Windows | Microsoft Support",
+      "url": "https://support.microsoft.com/en-US/Windows/Experience/FileExplorer/file-explorer-in-windows",
+      "snippet": "Find and open File Explorer in Windows, and customize Quick access by pinning and removing files and folders.",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Windows help and learning | Microsoft Support",
+      "url": "https://support.microsoft.com/en-us/windows/",
+      "snippet": "Find help and how-to articles for Windows operating systems. Get support for Windows and learn about installation, updates, privacy, security and more.",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Open File Explorer in Windows 11",
+      "url": "https://www.elevenforum.com/t/open-file-explorer-in-windows-11.20591/",
+      "snippet": "11 dec 2023 · This tutorial will show you different ways to open File Explorer in Windows 11. File Explorer (\"C:\\\\Windows\\\\explorer.exe\") in Windows 11 helps you get the files you need quickly and …",
+      "domain": "elevenforum.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Windows 11 File Explorer Folder Tree",
+      "url": "https://www.elevenforum.com/t/windows-11-file-explorer-folder-tree.11970/",
+      "snippet": "17 jan 2023 · Turn On or Off Show all folders in Navigation Pane of File Explorer in Windows 11 This tutorial will show you how to turn on or off show all folders in the navigation pane of File Explorer for …",
+      "domain": "elevenforum.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Sync your computer's files and folders with OneDrive",
+      "url": "https://support.microsoft.com/en-us/onedrive/sync-your-computer-s-files-and-folders-with-onedrive",
+      "snippet": "If you add, change, or delete a file or folder in your OneDrive folder, the file or folder is added, changed, or deleted on the OneDrive website and vice versa. You can work with your synced files directly in …",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Enable or Disable Android Phone Access in File Explorer in Windows 11",
+      "url": "https://www.elevenforum.com/t/enable-or-disable-android-phone-access-in-file-explorer-in-windows-11.27098/",
+      "snippet": "26 jul 2024 · This tutorial will show you how to turn on or off access to your Android phone mobile device in File Explorer for your account in Windows 11. If you turn on Allow this PC to access your mobile …",
+      "domain": "elevenforum.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Turn off, disable, or uninstall OneDrive | Microsoft Support",
+      "url": "https://support.microsoft.com/en-us/onedrive/turn-off-disable-or-uninstall-onedrive",
+      "snippet": "Hide OneDrive in Windows 10/11 OneDrive is built in to some versions of Windows and can't be uninstalled. But you can hide it and stop the sync process, so it stays hidden. To do this, turn off all …",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Search in Windows 11 File Explorer",
+      "url": "https://www.elevenforum.com/t/search-in-windows-11-file-explorer.21789/",
+      "snippet": "21 jan 2024 · The Search Box in File Explorer allows you to find and view all your files and folders in one place. As you type in the Search Box, Windows Search will automatically start a simple search …",
+      "domain": "elevenforum.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

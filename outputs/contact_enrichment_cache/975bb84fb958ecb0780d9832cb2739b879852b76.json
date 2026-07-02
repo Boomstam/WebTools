@@ -1,0 +1,103 @@
+{
+  "address": "Groenendaallaan 122-101, 2170 Merksem",
+  "address_key": "GROENENDAALLAAN|122|101||2170|Merksem",
+  "query": "\"Groenendaallaan 122\" \"2170\" \"Merksem\"",
+  "results": [
+    {
+      "title": "Groenendaallaan en oprit Merksem voor 8 weken afgesloten door …",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/06/30/nieuwe-fase-werken-oosterweelverbinding-afsluiting-groenendaall/",
+      "snippet": "18 uur geleden · Een deel van de Groenendaallaan in Merksem is vanaf vandaag 8 weken afgesloten voor gemotoriseerd verkeer. Dat komt door ingrijpende werken voor de aanleg van de nieuwe, …",
+      "domain": "vrt.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Weer op de tanden bijten voor Oosterweel: Groenendaallaan in …",
+      "url": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/weer-op-de-tanden-bijten-voor-oosterweel-groenendaallaan-in-omgeving-kinepolis-gaat-vanaf-1-juli-acht-weken-dicht-ook-oprit-merksem-sluit/157932624.html",
+      "snippet": "1 dag geleden · Van 1 juli tot 26 augustus wordt de Groenendaallaan, een belangrijke verkeersader ter hoogte van Kinepolis en Decathlon in Antwerpen, afgesloten. Lokaal wordt het verkeer omgeleid, de …",
+      "domain": "gva.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Onderbreking Groenendaallaan zomer 2026 - De Oosterweelverbinding",
+      "url": "https://www.oosterweelverbinding.be/onderbreking-groenendaallaan-zomer-2026",
+      "snippet": "Van 1 juli tot en met 26 augustus werken we intensief aan de Groenendaallaan. Het deel tussen de spoorwegbrug en de Lambrechtshoekenlaan gaat tijdelijk dicht, zodat we ruimte kunnen maken voor …",
+      "domain": "oosterweelverbinding.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Antwerpen: werken Groenendaallaan - zomer 2026 - De Lijn",
+      "url": "https://www.delijn.be/nl/nieuws/antwerpen-werken-groenendaallaan/",
+      "snippet": "3 dagen geleden · Wat betekent dit? Van 1 juli tot en met 26 augustus is de Groenendaallaan afgesloten voor gemotoriseerd verkeer tussen de spoorwegbrug en de kruising met de Lambrechtshoekenlaan. …",
+      "domain": "delijn.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Onderbreking Groenendaallaan zomer 2026 | Slim naar Antwerpen",
+      "url": "https://www.slimnaarantwerpen.be/nl/onderbreking-groenendaallaan-zomer-2026",
+      "snippet": "23 uur geleden · Van 1 juli tot en met 26 augustus is de Groenendaallaan onderbroken tussen de spoorwegbrug en de kruising met de Lambrechtshoekenlaan.",
+      "domain": "slimnaarantwerpen.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Groenendaal - Huisartsen Groenendaal",
+      "url": "https://hagroenendaal.be/",
+      "snippet": "All rights reserved KV Groenendaallaan 103-107 © | BE0736.727.470 | Privacy |Design by EGEO bv",
+      "domain": "hagroenendaal.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "D’Ieteren Mobility Center Antwerpen | D'Ieteren Mobility Company",
+      "url": "https://www.dieterenmobilitycompany.be/nl/volkswagen/antwerpen",
+      "snippet": "Van 1 juli t.e.m. 26 augustus is de Groenendaallaan tussen de spoorwegbrug en Lambrechtshoekenlaan tijdelijk onderbroken door wegenwerken. D’Ieteren Mobility Center Antwerpen blijft vlot bereikbaar.",
+      "domain": "dieterenmobilitycompany.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Drukke Groenendaallaan in Antwerpen héle zomervakantie dicht",
+      "url": "https://www.hln.be/antwerpen/drukke-groenendaallaan-in-antwerpen-hele-zomervakantie-dicht-voor-oosterweel-alles-wat-u-moet-weten-over-werken-en-omleidingen~a637bee9/",
+      "snippet": "5 dagen geleden · Van woensdag 1 juli tot en met woensdag 26 augustus is de Groenendaallaan acht weken lang afgesloten voor gemotoriseerd verkeer. Het gaat om het stuk tussen de spoorwegbrug …",
+      "domain": "hln.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

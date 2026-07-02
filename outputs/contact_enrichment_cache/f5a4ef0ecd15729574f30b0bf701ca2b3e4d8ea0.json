@@ -1,0 +1,20 @@
+{
+  "address": "Oosterveldlaan 161, 2610 Wilrijk",
+  "address_key": "OOSTERVELDLAAN|161|||2610|Wilrijk",
+  "query": "\"Oosterveldlaan 161\" \"2610\" \"Wilrijk\"",
+  "results": [
+    {
+      "title": "WhatsApp Web",
+      "url": "https://web.whatsapp.com/",
+      "snippet": "Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with …",
+      "domain": "web.whatsapp.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

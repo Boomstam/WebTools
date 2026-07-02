@@ -1,0 +1,85 @@
+{
+  "address": "Schoenstraat 20, 2140 Borgerhout",
+  "address_key": "SCHOENSTRAAT|20|||2140|Borgerhout",
+  "query": "\"Schoenstraat 20\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "WhatsApp Web",
+      "url": "https://web.whatsapp.com/",
+      "snippet": "Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files with …",
+      "domain": "web.whatsapp.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Download WhatsApp",
+      "url": "https://www.whatsapp.com/download",
+      "snippet": "Download WhatsApp on your mobile device, tablet or desktop and stay connected with reliable private messaging and calling. …",
+      "domain": "whatsapp.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "WhatsApp",
+      "url": "https://wa.me/",
+      "snippet": "Hosted by WhatsApp 2026 © WhatsApp LLC Privacy & Terms",
+      "domain": "wa.me",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "WhatsApp Messenger - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.whatsapp&hl=en",
+      "snippet": "WhatsApp from Meta is a FREE messaging and video calling app. It’s used by over 2B people in more than 180 countries. It’s …",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "WhatsApp - Download e installazione gratuiti in Windows | Microsoft …",
+      "url": "https://apps.microsoft.com/detail/9nksqgp7f2nh?launch=true&hl=it-IT&gl=US",
+      "snippet": "WhatsApp from Meta è un'applicazione di messaggistica completamente gratuita. È utilizzata da oltre due miliardi di persone in più di …",
+      "domain": "apps.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "WhatsApp Messenger - App su Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.whatsapp&hl=it",
+      "snippet": "WhatsApp from Meta è un'app di messaggistica e videochiamate GRATUITA. Viene usata da oltre 2 miliardi di persone in più di 180 …",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "WhatsApp Messenger - App Store",
+      "url": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997",
+      "snippet": "WhatsApp from Meta is a free messaging and calling app used by over 2 billion people across 180+ countries. It's super simple, …",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "WhatsApp - Download",
+      "url": "https://whatsapp.en.softonic.com/",
+      "snippet": "22 jun 2026 · WhatsApp is a communication platform for mobile and desktop. It provides simple, reliable, and private messaging and …",
+      "domain": "whatsapp.en.softonic.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

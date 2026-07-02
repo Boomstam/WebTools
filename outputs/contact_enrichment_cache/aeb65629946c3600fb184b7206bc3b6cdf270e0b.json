@@ -1,0 +1,93 @@
+{
+  "address": "Bosstraat 18, 2040 Bezali",
+  "address_key": "BOSSTRAAT|18|||2040|Bezali",
+  "query": "\"Bosstraat 18\" \"2040\" \"Bezali\"",
+  "results": [
+    {
+      "title": "Google Chrome - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.android.chrome&hl=en-US",
+      "snippet": "Chrome helps you do what’s possible on the web. Choose the fast, secure browser by Google. GET THE BEST OF GOOGLE IN CHROME • SEARCH WITH GOOGLE - Search and get answers on …",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Learn More About Google's Secure and Protected Accounts - Google",
+      "url": "https://myaccount.google.com/",
+      "snippet": "Google services, from Chrome to YouTube, work better and help you do more when you’re signed in. Your account gives you access to helpful features like Autofill, personalized recommendations, and …",
+      "domain": "myaccount.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Download and install Google Chrome",
+      "url": "https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop",
+      "snippet": "How to install Chrome Important: Before you download, check if Chrome supports your operating system and you’ve met all other system requirements.",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Chrome Web Store",
+      "url": "https://chromewebstore.google.com/",
+      "snippet": "Add new features to your browser and personalize your browsing experience.",
+      "domain": "chromewebstore.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Navegador web Google Chrome",
+      "url": "https://www.google.com/intl/es-419/chrome/",
+      "snippet": "Con las funciones inteligentes de Google, ahora es más simple, seguro y rápido que nunca.",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Google Chrome - Google の高速で安全なブラウザをダウンロード",
+      "url": "https://www.google.com/intl/ja/chrome/",
+      "snippet": "新しい Google Chrome で毎日をもっと快適に。Google の最先端技術を搭載し、さらにシンプル、安全、高速になった Chrome をダウンロードしてご活用 ...",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Google Chrome - The Fast & Secure Web Browser Built to be Yours",
+      "url": "https://www.google.com/chrome/",
+      "snippet": "Chrome is the official web browser from Google, built to be fast, secure, and customizable. Download now and make it yours.",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Google Chrome – Download the fast, secure browser from Google",
+      "url": "https://www.google.com/intl/en_uk/chrome/",
+      "snippet": "Get more done with the new Google Chrome. A more simple, secure and faster web browser than ever, with Google’s smarts built in. Download now.",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

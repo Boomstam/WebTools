@@ -1,0 +1,87 @@
+{
+  "address": "Berlijnstraat 2, 2660 Hoboken",
+  "address_key": "BERLIJNSTRAAT|2|||2660|Hoboken",
+  "query": "\"Berlijnstraat 2\" \"2660\" \"Hoboken\"",
+  "results": [
+    {
+      "title": "query - Yahoo字典搜尋結果",
+      "url": "https://tw.dictionary.search.yahoo.com/search?p=query",
+      "snippet": "1. 對…表示懷疑 I'm not in a position to query their decision 我無權懷疑他們的決定 we queried the bill, as it seemed far too high 我們對賬單提出了疑問，因為花費看起來高得離譜 2. 提問 ‘who will be leading …",
+      "domain": "tw.dictionary.search.yahoo.com",
+      "score": 20,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "QUERY 中文 (繁體)翻譯：劍橋詞典 - Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/query",
+      "snippet": "What was their response to your query? He could always do something useful instead of wasting my time with footling queries. Most of the job involves sorting customers out who have queries. I've got a …",
+      "domain": "dictionary.cambridge.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "query - 搜索 词典",
+      "url": "https://global.bing.com/dict/search?q=query&FORM=BDVSP6&cc=cn",
+      "snippet": "6. To query the database, a user or application can connect to any server instance to which the database is attached. 若要 查询 数据库， 用户 或 应用程序 可以 连接 到 任意 一个 附加 有 数据库 的 …",
+      "domain": "global.bing.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "QUERY 中文 (简体)翻译：剑桥词典 - Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/query",
+      "snippet": "What was their response to your query? He could always do something useful instead of wasting my time with footling queries. Most of the job involves sorting customers out who have queries. I've got a …",
+      "domain": "dictionary.cambridge.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Query （英语单词）_百度百科",
+      "url": "https://baike.baidu.com/item/Query/63305502",
+      "snippet": "Query是英语中具有名词与动词双重词性的常用词汇，发音为英 [ˈkwɪəri]、美 [ˈkwɪri]。 作为名词表示“疑问，询问”或“问号”，作动词时意为“质疑，表示怀疑”或“提问，查询”。 其形态变化包括复数queries、 …",
+      "domain": "baike.baidu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "query 中文， query 的意思， query 翻譯及用法 - 英漢詞典",
+      "url": "https://www.chinesewords.org/en/query",
+      "snippet": "the query consists of the relationships, plus the direction and the depth that you have selected. 這個查詢系統包括相互之間的關系，加上您所選擇的查詢方向和深度。 in that case, you can bind the …",
+      "domain": "chinesewords.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "全面理解搜索 Query ：当你在搜索引擎中敲下回车后，发生了什么？",
+      "url": "https://zhuanlan.zhihu.com/p/112719984",
+      "snippet": "这里query从广义上来说涉及的任务比较多，最常见的就是我们在搜索系统中输入的查询词，也可以是FAQ问答或阅读理解中的问句，又或者可以是人机对话中用户的聊天输入。",
+      "domain": "zhuanlan.zhihu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "QUERY 函式大解析（一）：基本原理與 SELECT",
+      "url": "https://vocus.cc/article/606b50b8fd897800011eba1d",
+      "snippet": "5 apr 2021 · 如果你平常已經在用 SQL 來搜尋、整理資料的話，恭喜你，你的 QUERY 已經學了一大半了；如果你剛從 Excel 轉到 Google 試算表的話，我也非常推薦你從頭開始學這個強力的函式。 我在 …",
+      "domain": "vocus.cc",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

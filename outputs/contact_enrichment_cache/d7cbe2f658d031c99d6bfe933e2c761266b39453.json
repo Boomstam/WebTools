@@ -1,0 +1,77 @@
+{
+  "address": "Boterlaarbaan 497, 2100 Deurne",
+  "address_key": "BOTERLAARBAAN|497|||2100|Deurne",
+  "query": "\"Boterlaarbaan 497\" \"2100\" \"Deurne\"",
+  "results": [
+    {
+      "title": "ترجمه - Google Translate",
+      "url": "https://translate.google.com/?hl=fa",
+      "snippet": "خدمات Google واژه‌ها، عبارت‌ها، و صفحه‌های وب را بدون هزینه بین زبان فارسی و بیش‌از ۱۰۰ زبان دیگر فوراً ترجمه می‌کند.",
+      "domain": "translate.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ترجمه Google - مترجم شفاهی شخصی در تلفن یا رایانه شما",
+      "url": "https://translate.google.com/intl/fa/about/",
+      "snippet": "با نحوه ترجمه کردن نوشتار، گفتار، تصاویر، اسناد، وب‌سایت‌ها، و غیره با «ترجمه Google» آشنا شوید.",
+      "domain": "translate.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Translate - A Personal Interpreter on Your Phone or Computer",
+      "url": "https://translate.google.com/about/",
+      "snippet": "Learn how to translate text, speech, images, documents, websites, and more with Google Translate.",
+      "domain": "translate.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Translate",
+      "url": "https://translate.google.com/m",
+      "snippet": "Detect language→ English Google home",
+      "domain": "translate.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Translate - ستاسو په تلیفون یا کمپیوټر کې یو شخصي ژباړونکی",
+      "url": "https://translate.google.com/intl/ps/about/",
+      "snippet": "خپله نړۍ درک کړئ او د Google Translate سره په مختلفو ژبو اړیکه ونیسئ. متن، وینا، انځورونه، اسناد، ویب پاڼې او نور په خپلو وسایلو کې وژباړئ.",
+      "domain": "translate.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google ترجمو - توھان جي فون يا ڪمپيوٽر تي ذاتي ترجمو ڪندڙ",
+      "url": "https://translate.google.com/intl/sd/about/",
+      "snippet": "سکو ته Google ترجمي ساڻ متن، گفتگو، تصويرون، دستاويز، ويب سائيٽ ۽ ٻيو گھڻو ڪجھ ڪيئن ترجمو ڪجي.",
+      "domain": "translate.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Zomasulira za Google - Zili Ngati Munthu Womasulira Amene ali mu …",
+      "url": "https://translate.google.com/intl/ny/about/",
+      "snippet": "Dziwani mmene mungamasulire mawu olembedwa, olankhulidwa, zithunzi, madokyumenti, mawebusaiti, ndi zina zambiri ndi Zomasulira za Google.",
+      "domain": "translate.google.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

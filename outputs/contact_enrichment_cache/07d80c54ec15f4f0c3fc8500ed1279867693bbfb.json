@@ -1,0 +1,85 @@
+{
+  "address": "Galgenweellaan 28, 2050 Antwerpen",
+  "address_key": "GALGENWEELLAAN|28|||2050|Antwerpen",
+  "query": "\"Galgenweellaan 28\" \"2050\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Pogoda długoterminowa Kuczwały na 16, 25 i 45 dni – Długoterminowa …",
+      "url": "https://pogoda.interia.pl/prognoza-dlugoterminowa-kuczwaly,cId,17154",
+      "snippet": "INTERIA Pogoda Polska Kujawsko-pomorskie Kuczwały – pogoda długoterminowa na 45 dni (10.06 - 04.07)",
+      "domain": "pogoda.interia.pl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Pogoda Kuczwały - Prognoza pogody godzinowa na dziś i jutro",
+      "url": "https://pogoda.onet.pl/prognoza-pogody/kuczwaly-308220",
+      "snippet": "Sprawdź prognozę pogody dla Kuczwały. Pogoda na dziś, jutro, weekend i 45 dni. Temperatura, opady, wiatr i jakość powietrza dla Kuczwały.",
+      "domain": "pogoda.onet.pl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Pogoda Kuczwały na dziś, jutro, tydzień",
+      "url": "https://pl.meteopost.com/pogoda/kuczwaly,64778/",
+      "snippet": "Pogoda Kuczwały na dziś, jutro, tydzień. ⚡ Prognoza pogody Kuczwały: temperaturę powietrza, wilgotność, ciśnienie atmosferyczne, zjawiska pogodowe, głębokość śniegu, burze magnetyczne i …",
+      "domain": "pl.meteopost.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Kuczwały - pogoda długoterminowa na 45 dni | TVN Meteo",
+      "url": "https://tvn24.pl/tvnmeteo/pogoda/dlugoterminowa/kuczwaly-cid1045669",
+      "snippet": "Pogoda długoterminowa dla Kuczwały. Szczegółowa długoterminowa prognoza pogody.",
+      "domain": "tvn24.pl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Pogoda długoterminowa Kuczwały -Sumin na 16, 25 i 45 dni ...",
+      "url": "https://pogoda.interia.pl/prognoza-dlugoterminowa-kuczwaly-sumin,cId,119589",
+      "snippet": "Kuczwały-Sumin - długoterminowa pogoda na 45 dni. Aktualizowana kilka razy dziennie, najdłuższa prognoza pogody. Kuczwały-Sumin temperatura, opady deszczu i zachmurzenie.",
+      "domain": "pogoda.interia.pl",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Godzinowa prognoza pogody dla lokalizacji Kuczwały , województwo ...",
+      "url": "https://weather.com/pl-PL/pogoda/godzinowa/l/60aaa8b371bcaf5f345aa30feba8500a5645287666de0bac33c9ba0e1bb9bf64",
+      "snippet": "Informacje na temat lokalnej prognozy pogody wg godziny, warunków pogodowych, opadów, punktu rosy, wilgotności, wiatru z serwisu Weather.com i The Weather Channel",
+      "domain": "weather.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Pogoda w Kuczwały na 16 dni, prognoza pogody na 16 dni w Kuczwały ...",
+      "url": "https://climate.pl/10647/kuczwaly/14-days",
+      "snippet": "Pogoda w Kuczwały na 16 dni, prognoza pogody na 16 dni w Kuczwały - Climate.pl. Kuczwały - województwo Kujawsko-Pomorskie",
+      "domain": "climate.pl",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Pogoda długoterminowa. Prognoza pogody na dziś i jutro. Onet Pogoda",
+      "url": "https://pogoda.onet.pl/",
+      "snippet": "Sprawdź prognozę pogody na dziś, jutro, weekend i 45 dni. Pogoda godzinowa, dniowa i długoterminowa w Polsce i zagranicą.",
+      "domain": "pogoda.onet.pl",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

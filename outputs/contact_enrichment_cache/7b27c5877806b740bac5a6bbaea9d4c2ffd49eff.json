@@ -1,0 +1,85 @@
+{
+  "address": "Letterkundestraat 2, 2610 Wilrijk",
+  "address_key": "LETTERKUNDESTRAAT|2|||2610|Wilrijk",
+  "query": "\"Letterkundestraat 2\" \"2610\" \"Wilrijk\"",
+  "results": [
+    {
+      "title": "MSDN",
+      "url": "https://social.msdn.microsoft.com/Forums/en-US/e9c430f2-04ab-412a-a8ed-ba976dd06a8a/",
+      "snippet": "MSDN",
+      "domain": "social.msdn.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "MSDN",
+      "url": "https://social.msdn.microsoft.com/Forums/en-US/dd2fc100-24f4-4f48-af7c-b8478d614397/",
+      "snippet": "MSDN",
+      "domain": "social.msdn.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "MSDN",
+      "url": "https://social.msdn.microsoft.com/Forums/en-US/573cd677-de3c-4abb-84b9-97cf2996131a/",
+      "snippet": "MSDN",
+      "domain": "social.msdn.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "MSDN",
+      "url": "https://social.msdn.microsoft.com/Forums/en-US/874c9ce4-37a5-4a60-b97e-00ee07acca3c",
+      "snippet": "MSDN",
+      "domain": "social.msdn.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "MSDN",
+      "url": "https://social.msdn.microsoft.com/Forums/en-US/62e53ca0-460e-4a5f-b7ee-95dde56059d7",
+      "snippet": "MSDN",
+      "domain": "social.msdn.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "MSDN",
+      "url": "https://social.msdn.microsoft.com/Forums/en-US/41fb3013-b5b8-4c3b-9da8-8a47bdcd52cf",
+      "snippet": "MSDN",
+      "domain": "social.msdn.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "MSDN",
+      "url": "https://social.msdn.microsoft.com/Forums/fr-fr/ABEA8CB6-8FC0-41D2-BE48-FA6DF623657D",
+      "snippet": "MSDN",
+      "domain": "social.msdn.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "MSDN",
+      "url": "https://social.msdn.microsoft.com/Forums/zh-TW/2e601291-aa64-443b-b5cc-d0cfdf7a3f2f",
+      "snippet": "MSDN",
+      "domain": "social.msdn.microsoft.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

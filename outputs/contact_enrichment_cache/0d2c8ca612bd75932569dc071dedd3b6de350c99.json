@@ -1,0 +1,20 @@
+{
+  "address": "Visputtenhof 15, 2660 Hoboken",
+  "address_key": "VISPUTTENHOF|15|||2660|Hoboken",
+  "query": "\"Visputtenhof 15\" \"2660\" \"Hoboken\"",
+  "results": [
+    {
+      "title": "Indeed",
+      "url": "https://www.indeed.fr/advanced_search",
+      "snippet": "Nous voudrions effectuer une description ici mais le site que vous consultez ne nous en laisse pas la possibilité.",
+      "domain": "indeed.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

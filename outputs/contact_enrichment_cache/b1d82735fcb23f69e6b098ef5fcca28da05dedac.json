@@ -1,0 +1,85 @@
+{
+  "address": "Koornbloemstraat 93, 2610 Wilrijk",
+  "address_key": "KOORNBLOEMSTRAAT|93|||2610|Wilrijk",
+  "query": "\"Koornbloemstraat 93\" \"2610\" \"Wilrijk\"",
+  "results": [
+    {
+      "title": "Exnova",
+      "url": "https://trade.exnova.com/pwa/auth/login",
+      "snippet": "Forgot password?",
+      "domain": "trade.exnova.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Exnova - Powerful trading platform for investors",
+      "url": "https://exnova.com/",
+      "snippet": "Welcome to Exnova — the next-gen trading platform! Invest in slices of the companies, currencies and commodities at the touch of a button — securely, from the device of your choice.",
+      "domain": "exnova.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Exnova - Potente plataforma de inversión para los inversores",
+      "url": "https://exnova.com/es/",
+      "snippet": "¡Bienvenido a Exnova, la plataforma de inversiones de última generación! Invierte en acciones de empresas,en divisas y en materias primas con tan solo tocar un botón, de forma segura y desde el …",
+      "domain": "exnova.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Exnova",
+      "url": "https://trade.exnova.com/pwa/auth/signup",
+      "snippet": "You are connecting to Exnova. A high-speed connection is recommended for optimal performance.",
+      "domain": "trade.exnova.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "exnova .org",
+      "url": "https://exnova.org/lp/exnova-regframe-light-without-logo/es/?aff=329430&afftrack=bono200",
+      "snippet": "¿Ya tienes una cuenta? Iniciar sesión.",
+      "domain": "exnova.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Exnova Platform Trading | Exnova",
+      "url": "https://exnovafx.com/en",
+      "snippet": "Welcome to Exnova - next-generation trading platform! Invest in companies, currencies and commodities at the touch of a button - securely, from the device of your choice.",
+      "domain": "exnovafx.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Exnova - Poderosa plataforma de negociação para investidores",
+      "url": "https://exnova.com/pt/",
+      "snippet": "Bem-vindo à Exnova, a plataforma de negociação de última geração! Invista no mercado internacional, empresas, moedas e commodities com o toque de um botão, com segurança, no dispositivo de sua …",
+      "domain": "exnova.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "exnova .mx",
+      "url": "https://exnova.mx/",
+      "snippet": "exnova.mx",
+      "domain": "exnova.mx",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

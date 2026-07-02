@@ -1,0 +1,105 @@
+{
+  "address": "Beekstraat 24, 2140 Borgerhout",
+  "address_key": "BEEKSTRAAT|24|||2140|Borgerhout",
+  "query": "\"Beekstraat 24\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "Beekstraat, Londerzeel (Steenhuffel )",
+      "url": "https://straten.openalfa.be/straten/beekstraat-steenhuffel-londerzeel",
+      "snippet": "U kunt een kaart en een lijst van locaties en diensten die beschikbaar zijn in de buurt van Beekstraat te vinden. Hotels, restaurants, sportfaciliteiten, scholen, geldautomaten, supermarkten, benzinestations …",
+      "domain": "straten.openalfa.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Beekstraat , Londerzeel (Malderen)",
+      "url": "https://straten.openalfa.be/straten/beekstraat-malderen-londerzeel",
+      "snippet": "b.v. Rue de la Chapelle, 5190, Spy, Jemeppe-sur-Sambre, Buurtweg 19 - Dollageweg, 1820, Melsbroek, Steenokkerzeel Startpagina » Vlaanderen » Vlaams-Brabant » Halle-Vilvoorde » Londerzeel » …",
+      "domain": "straten.openalfa.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Beekstraat Map - Locality - Londerzeel , Flanders, Belgium",
+      "url": "https://mapcarta.com/17950590",
+      "snippet": "Beekstraat is a locality in Londerzeel, Arrondissement Halle-Vilvoorde, Flanders. Beekstraat is situated nearby to Moorhoek and Sneppelaar.",
+      "domain": "mapcarta.com",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Winkels in de straat Beekstraat Gent - Openingsuren. Vlaanderen",
+      "url": "https://www.openingsuren.vlaanderen/9000-gent/beekstraat",
+      "snippet": "Al de winkels en handelszaken gelegen langs Beekstraat in Gent. Naast de verschillende winkels vind je ook de contactgegevens zoals het adres en telefoonnummer van de handelszaken langs Beekstraat.",
+      "domain": "openingsuren.vlaanderen",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Maps",
+      "url": "https://www.google.com/maps/search/Beekstraat%2027%2C%201840%20Londerzeel%2C%20Belgium",
+      "snippet": "‪English (United States)‬ Feedback Unable to connect to Google Maps. Please try again.",
+      "domain": "google.com",
+      "score": 15,
+      "reasons": [
+        "straat",
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Beekstraat in Londerzeel ( Londerzeel ) - Postcode bij adres",
+      "url": "https://postcodebijadres.be/beekstraat+londerzeel",
+      "snippet": "Bekijk alle details van Beekstraat in Londerzeel. Vind de gerelateerde postcodes, supermarkten in de buurt en nog veel meer.",
+      "domain": "postcodebijadres.be",
+      "score": 15,
+      "reasons": [
+        "straat",
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Beekstraat 19, Londerzeel - Explore in Google Maps",
+      "url": "https://www.google.com/maps/search/Beekstraat%2019%2C%201840%20Londerzeel",
+      "snippet": "Beekstraat 19, 1840 Londerzeel, Belgium. You're seeing a limited view of Google Maps. Learn more",
+      "domain": "google.com",
+      "score": 15,
+      "reasons": [
+        "straat",
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Beekstraat 27, Malderen, Londerzeel - Schatting en ... - Realo",
+      "url": "https://www.realo.be/nl/beekstraat-27-1840-malderen/2740779",
+      "snippet": "Wenst u te weten hoeveel Beekstraat 27, Malderen, Londerzeel waard is? Of wilt u meer weten over de buurt? Ontdek het nu op Realo.",
+      "domain": "realo.be",
+      "score": 15,
+      "reasons": [
+        "straat",
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

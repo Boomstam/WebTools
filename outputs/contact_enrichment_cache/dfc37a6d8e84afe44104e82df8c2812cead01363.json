@@ -1,0 +1,85 @@
+{
+  "address": "Olmenlaan 4, 2610 Wilrijk",
+  "address_key": "OLMENLAAN|4|||2610|Wilrijk",
+  "query": "\"Olmenlaan 4\" \"2610\" \"Wilrijk\"",
+  "results": [
+    {
+      "title": "تنزيل تطبيق \"ترجمة Google\" واستخدامه",
+      "url": "https://support.google.com/translate/answer/6350850?hl=ar&co=GENIE.Platform%3DDesktop",
+      "snippet": "يتيح لك تطبيق \"ترجمة Google\" ترجمة نص أو كتابة بخط اليد أو صور أو كلام بأكثر من 200 لغة، ويمكنك أيضًا استخدام التطبيق على الويب. بإمكانك الاستفادة من \"ترجمة Google\" بعدّة طرق. على سبيل المثا",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ترجمة المستندات والمواقع الإلكترونية - جهاز الكمبيوتر - مساعدة Google ...",
+      "url": "https://support.google.com/translate/answer/2534559?hl=ar&co=GENIE.Platform%3DDesktop",
+      "snippet": "في المتصفّح، انتقِل إلى ترجمة Google. في أعلى الصفحة، انقر على المواقع الإلكترونية. ننصحك بضبط اللغة الأصلية على \"التعرّف التلقائي على اللغة\". أدخِل عنوان URL في حقل \"الموقع الإلكتروني\". انقر على رمز الانتقال .",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://www.answers.microsoft.com/en-us/msoffice/forum/all/outlook-2010-red-x-not-available-cant-install-help/",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://www.answers.microsoft.com/de-de/windows/forum/all/problem-ein-arbeitsplatznetzwerk-einzurichten/",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "مساعدة Google Translate",
+      "url": "https://support.google.com/translate/?hl=ar",
+      "snippet": "مركز مساعدة Google Translate الرسمي حيث يمكنك العثور على نصائح وبرامج تعليمية حول استخدام المنتج وأجوبة أخرى للأسئلة الشائعة.",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://www.answers.microsoft.com/fr-fr/windows/forum/all/ecran-sans-fil-pilote-widi-windows-10/",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "ترجمة الصفحات وتغيير لغات Chrome",
+      "url": "https://support.google.com/chrome/answer/173424?hl=ar&co=GENIE.Platform%3DDesktop",
+      "snippet": "على جهاز الكمبيوتر، افتح Chrome. انتقل إلى صفحة تريد ترجمتها. على يسار شريط العناوين، انقر على \"ترجمة\" . يمكنك النقر بزر الماوس الأيمن على أي مكان في الصفحة واختيار الترجمة إلى [اللغة]. اختَر لغتك المفضلة. إذا لم تعمل خدمة ...",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/cs-cz/windows/forum/windows_10-networking-winpc/pc-a-3g-modem/1efce742-3cb4-4aa5-b0b4-04d3f3d60fa3",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

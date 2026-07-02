@@ -1,0 +1,85 @@
+{
+  "address": "Belgiëlei 59 bus 603, 2018 Antwerpen",
+  "address_key": "BELGIËLEI|59||603|2018|Antwerpen",
+  "query": "\"Belgiëlei 59\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Microsoft Bing | Scopri Bing",
+      "url": "https://www.microsoft.com/it-it/bing?msockid=2c9d1fccb8296afb0ae00845b95d6b48",
+      "snippet": "19 jun 2026 · Scatena tutto il potenziale di Bing con strumenti e funzionalità innovativi progettati per trasformare la tua esperienza di ricerca. Dalle ricerche più intelligenti alle informazioni dettagliate, …",
+      "domain": "microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Bing | Get to know Bing",
+      "url": "https://www.microsoft.com/en-us/bing?msockid=2c9d1fccb8296afb0ae00845b95d6b48",
+      "snippet": "Copilot Search in Bing gives you quick, summarized answers with cited sources and suggestions for further exploration, making it easier than ever to discover more.",
+      "domain": "microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to See All Bing Related Searches - Position Is Everything",
+      "url": "https://www.positioniseverything.net/how-to-see-all-bing-related-searches-2/",
+      "snippet": "16 uur geleden · Bing Autosuggest reveals related searches in real time as you type into the search bar. These suggestions are based on actual user behavior, making them one of the most reliable sources …",
+      "domain": "positioniseverything.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Bing Tests Related Search Interfaces",
+      "url": "https://www.seroundtable.com/bing-testing-related-search-interfaces-35711.html",
+      "snippet": "4 sep 2023 · Microsoft Bing has been testing some new interfaces for its related searches. Some of these interfaces are boxed at the top right section, while others seem to float over elements on the...",
+      "domain": "seroundtable.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How To See All Bing Related Searches - UMA Technology",
+      "url": "https://umatechnology.org/how-to-see-all-bing-related-searches/",
+      "snippet": "16 mei 2026 · This guide shows you where Bing displays related searches, how to reveal more of them on desktop and mobile, and how to use Bing’s official tools to expand your list without relying on risky …",
+      "domain": "umatechnology.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Bing Tests Related Searches At Top - Below Search Bar",
+      "url": "https://www.seroundtable.com/bing-testing-related-searches-at-top-37757.html",
+      "snippet": "22 jul 2024 · Bing is testing placing the related searches at the top of the search results page, directly under the search bar. The searches are exactly what you would see in the bottom but in a different...",
+      "domain": "seroundtable.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Bing - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Microsoft_Bing",
+      "snippet": "Bing introduced several notable features at its inception, such as search suggestions during query input and a list of related searches, known as the 'Explore pane'.",
+      "domain": "en.m.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Template:Latest stable software release/Microsoft Bing - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Template:Latest_stable_software_release/Microsoft_Bing",
+      "snippet": "^ \"Web Search from Microsoft Bing\". Microsoft Apps. Retrieved June 24, 2026. ^ \"Microsoft Bing Search\". Google Play. Retrieved June 24, 2026. ^ \"Microsoft Bing Search 33.5.44062300\". …",
+      "domain": "en.m.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

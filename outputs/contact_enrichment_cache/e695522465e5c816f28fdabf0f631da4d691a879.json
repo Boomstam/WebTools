@@ -1,0 +1,85 @@
+{
+  "address": "Floraliënlaan 444-201, 2610 Wilrijk",
+  "address_key": "FLORALIËNLAAN|444|201||2610|Wilrijk",
+  "query": "\"Floraliënlaan 444\" \"2610\" \"Wilrijk\"",
+  "results": [
+    {
+      "title": "Das Erste live - jetzt zum kostenlosen Livestream ! - ARD Mediathek",
+      "url": "https://www.ardmediathek.de/live/Y3JpZDovL2Rhc2Vyc3RlLmRlL2xpdmUvY2xpcC9hYmNhMDdhMy0zNDc2LTQ4NTEtYjE2Mi1mZGU4ZjY0NmQ0YzQ",
+      "snippet": "Das TV-Programm von heute live im Fernsehen verfolgen! Jetzt zum kostenlosen Stream!",
+      "domain": "ardmediathek.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ARD .de – TV, Radio, Streams, News, Sport und alles zur ARD",
+      "url": "https://www.ard.de/",
+      "snippet": "Die ganze ARD: Fernsehen, Livestreams, Radio, Podcasts, Nachrichten, Sport und Kinderkanal. Zudem Infos über den Medienverbund und ARD-Pressemeldungen.",
+      "domain": "ard.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Streaming und Livestreams - Fernsehen über das Internet | ARD Hilfe",
+      "url": "https://hilfe.ard.de/fernsehen/empfang-und-technik/streaming-und-livestreams/",
+      "snippet": "Informationen zu Streaming und Livestreams der ARD. Programme live im Internet verfolgen oder Inhalte zeitunabhängig in der ARD Mediathek abrufen.",
+      "domain": "hilfe.ard.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Streame jetzt das TV- Programm der ARD live auf Joyn",
+      "url": "https://www.joyn.de/live-tv/das-erste?msockid=39342ccc7b78656f34b63b457a0d64bd",
+      "snippet": "Welche Sendungen von ARD würdest du gern im Livestream auf Joyn sehen? Du hast die Auswahl zwischen Dokus wie Das Waisenhaus für wilde Tiere, Soaps wie Sturm der Liebe und Krimis wie …",
+      "domain": "joyn.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "programm . ARD .de",
+      "url": "http://www.programm.ard.de/Programm/Jetzt-im-TV",
+      "snippet": "programm.ARD.de",
+      "domain": "programm.ard.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Das Erste Mediathek - Das Erste Mediathek - Das Erste in der ARD Mediathek",
+      "url": "https://www1.wdr.de/daserste/mediathek/das-erste-mediathek-100.html",
+      "snippet": "Das Erste Mediathek Startseite Echtes Leben Hart aber fair 360 Money Maker Musiksendungen im Ersten",
+      "domain": "www1.wdr.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Alle Inhalte von der ARD - ZDFmediathek",
+      "url": "https://www.zdf.de/ard",
+      "snippet": "Entdecke die ARD – aktuelle News, große Shows und vieles mehr. Jetzt streamen und regional dabei sein!",
+      "domain": "zdf.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "ARD Mediathek : Filme, Serien und Dokus online anschauen",
+      "url": "https://www.ardmediathek.de/",
+      "snippet": "Alle Inhalte der ARD Mediathek im Überblick: Livestreams, Nachrichten, Filme, Serien und spannende Dokus. Hier anschauen!",
+      "domain": "ardmediathek.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

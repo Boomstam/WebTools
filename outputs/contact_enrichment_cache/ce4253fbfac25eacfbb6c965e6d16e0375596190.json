@@ -1,0 +1,109 @@
+{
+  "address": "Hopland 67, 2000 Antwerpen",
+  "address_key": "HOPLAND|67|||2000|Antwerpen",
+  "query": "\"Hopland 67\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Facebook",
+      "url": "https://www.facebook.com/",
+      "snippet": "Connect and share with friends, family, and the world on Facebook.",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Log into Facebook",
+      "url": "https://www.facebook.com/login.php/",
+      "snippet": "Email or mobile number Password",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/login.php/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Facebook",
+      "url": "https://www.facebook.com/r.php/",
+      "snippet": "Create an account to connect with friends, family and communities of people who share your interests.",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/r.php/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Facebook",
+      "url": "https://www.facebook.com/login/identify/",
+      "snippet": "Enter your mobile number or email. Mobile number or email",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/login/identify/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Marketplace",
+      "url": "https://www.facebook.com/marketplace/",
+      "snippet": "Buy or sell new and used items easily on Facebook Marketplace, locally or from businesses. Find great deals on new items shipped from stores to your door.",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ]
+    },
+    {
+      "title": "Events Near Me | Facebook",
+      "url": "https://www.facebook.com/events/",
+      "snippet": "Upcoming events near you and other things to do that fit your interest.",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ]
+    },
+    {
+      "title": "Facebook",
+      "url": "https://www.facebook.com/%23fb/",
+      "snippet": "When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ]
+    },
+    {
+      "title": "Facebook",
+      "url": "https://www.facebook.com/facebook/?lang=ja",
+      "snippet": "Facebook. 154,896,423 likes · 1,401,800 talking about this. Community Values We believe people can do more together than alone and that each of us plays an important role in helping to create a safe...",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

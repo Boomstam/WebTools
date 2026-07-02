@@ -1,0 +1,93 @@
+{
+  "address": "Krugerstraat 65, 2660 Hoboken",
+  "address_key": "KRUGERSTRAAT|65|||2660|Hoboken",
+  "query": "\"Krugerstraat 65\" \"2660\" \"Hoboken\"",
+  "results": [
+    {
+      "title": "SOLWODI Deutschland e.V . | Koblenz - Facebook",
+      "url": "https://www.facebook.com/solwodi.de/",
+      "snippet": "SOLWODI steht für Solidarity with women in distress Wir sind ein gemeinnütziger Verein, der sich insbesondere für Frauen mit Migrations- und Fluchtkontext einsetzt, die unter gewalttätigen, …",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/solwodi.de/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "SOLWODI Deutschland e. V. • Unterstützung für Frauen in Not (@ solwodi …",
+      "url": "https://www.instagram.com/solwodi_deutschland_ev/",
+      "snippet": "1,903 Followers, 419 Following, 532 Posts - SOLWODI Deutschland e. V. • Unterstützung für Frauen in Not (@solwodi_deutschland_ev) on Instagram: \"Gemeinnütziger Verein, der Frauen mit Migrations …",
+      "domain": "instagram.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.instagram.com/solwodi_deutschland_ev/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Solwodi - Startseite",
+      "url": "https://www.solwodi.de/",
+      "snippet": "SOLWODI steht für SOLidarity with WOmen in DIstress (Solidarität mit Frauen in Not). Der Verein ist in Deutschland als gemeinnützig anerkannt und arbeitet unabhängig und überkonfessionell.",
+      "domain": "solwodi.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Solwodi – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/SOLWODI",
+      "snippet": "SOLWODI Deutschland e.V. hat seinen Sitz in Koblenz und ist der Dachverein von SOLWODI. Er hat unter sich fünf Landesvereinen in Rheinland-Pfalz, Nordrhein-Westfalen, Niedersachsen, Berlin und …",
+      "domain": "de.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "SOLWODI Deutschland e.V .",
+      "url": "https://www.solwodi.de/seite/353234/solwodi-deutschland-e.v.html",
+      "snippet": "Er entlastet diese von größeren Verwaltungsaufgaben, ist für die bundesweite Öffentlichkeitsarbeit zuständig, sorgt für eine gute Kommunikation innerhalb des SOLWODI-Netzwerkes und vertritt …",
+      "domain": "solwodi.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "SOLWODI e. V. Solidarity with Women in Distress (Solidarität mit …",
+      "url": "https://www.mainz.de/verzeichnisse/vereinsverzeichnis/SOLWODI_e._V._Solidarity_with_Women_in_Distress___Solidaritaet_mit_Frauen_in_Not_",
+      "snippet": "SOLWODI e.V. bietet kostenfreie Beratung für Migrantinnen an, die Probleme mit dem Aufenthaltsstatus, dem Partner oder Ehemann, dem Unterhalt und Sorgerecht für Kinder, der …",
+      "domain": "mainz.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "SOLWODI – SOLidarity with WOmen in DIstress",
+      "url": "https://www.onlineberatung-solwodi-mainz.de/",
+      "snippet": "Wer berät mich? SOLWODI ist eine Fachberatungsstelle für gewaltbetroffene Migrantinnen. Wir sind ausgebildete Fachfrauen, die über viel Beratungserfahrung verfügen. Dadurch können wir dich in …",
+      "domain": "onlineberatung-solwodi-mainz.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Lea Ackermann – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Lea_Ackermann",
+      "snippet": "Aus ihren Erfahrungen mit von Sextourismus und Zwangsprostitution betroffenen Frauen entwickelte Ackermann ihr Missionsverständnis. 1985 gründete sie in Mombasa /Kenia das Frauenprojekt …",
+      "domain": "de.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

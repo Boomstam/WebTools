@@ -1,0 +1,85 @@
+{
+  "address": "Laaglandlaan 315, 2170 Merksem",
+  "address_key": "LAAGLANDLAAN|315|||2170|Merksem",
+  "query": "\"Laaglandlaan 315\" \"2170\" \"Merksem\"",
+  "results": [
+    {
+      "title": "How to get help in Windows - Microsoft Support",
+      "url": "https://support.microsoft.com/en-us/windows/how-to-get-help-in-windows-711b6492-0435-0038-8706-7c6b0feb200a",
+      "snippet": "Here are a few different ways to find help for Windows Search for help - Enter a question or keywords in the search box on the taskbar to find apps, files, settings, and get help from the web.",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Uninstall or remove apps and programs in Windows",
+      "url": "https://support.microsoft.com/en-us/windows/uninstall-or-remove-apps-and-programs-in-windows-4b55f974-2cc6-2d2b-d092-5905080eaf98",
+      "snippet": "For help uninstalling these apps, follow the instructions to uninstall from Control Panel. Uninstall from Control Panel In search on the taskbar, enter Control Panel and select it from the results. Select …",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Enable or Disable Built-in Administrator Account in Windows 11",
+      "url": "https://www.elevenforum.com/t/enable-or-disable-built-in-administrator-account-in-windows-11.709/",
+      "snippet": "24 jul 2021 · This tutorial will show you how to enable or disable the built-in Administrator account in Windows 11. Windows 11 includes a hidden built-in Administrator account that serves as the local …",
+      "domain": "elevenforum.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Enable or Disable Tips and Suggestions Notifications in Windows 11",
+      "url": "https://www.elevenforum.com/t/enable-or-disable-tips-and-suggestions-notifications-in-windows-11.5206/",
+      "snippet": "14 mrt 2022 · This tutorial will show you how to enable or disable \"Get tips and suggestions when using Windows\" notifications for your account or all users in Windows 11. You may get notifications for tips …",
+      "domain": "elevenforum.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Windows help and learning | Microsoft Support",
+      "url": "https://support.microsoft.com/en-us/windows/",
+      "snippet": "Find help and how-to articles for Windows operating systems. Get support for Windows and learn about installation, updates, privacy, security and more.",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Windows 11 File Explorer Folder Tree",
+      "url": "https://www.elevenforum.com/t/windows-11-file-explorer-folder-tree.11970/",
+      "snippet": "17 jan 2023 · This is a change Microsoft made on purpose and I can’t believe they did that. In any case, I am wondering if there is any hack to get those “>” back in Windows 11’s File Explorer. As you can …",
+      "domain": "elevenforum.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Update drivers through Device Manager in Windows - Microsoft Support",
+      "url": "https://support.microsoft.com/en-us/windows/update-drivers-through-device-manager-in-windows-ec62f46c-ff14-c91d-eead-d7126dc1f7b6",
+      "snippet": "Driver updates for most hardware devices in Windows are automatically downloaded and installed through Windows Update. Windows Update updates drivers for various hardware including network …",
+      "domain": "support.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "How to remove the Get Started app in Windows 11?",
+      "url": "https://www.elevenforum.com/t/how-to-remove-the-get-started-app-in-windows-11.10678/",
+      "snippet": "23 nov 2022 · That, and certain other ones, would require scripting, such as noted by GitHub - Sophia-Community/SophiApp: The most powerful open source tweaker on GitHub for fine-tuning Windows …",
+      "domain": "elevenforum.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

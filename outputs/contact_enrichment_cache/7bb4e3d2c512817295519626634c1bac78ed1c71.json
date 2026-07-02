@@ -1,0 +1,85 @@
+{
+  "address": "Vlaamsekaai 70, 2000 Antwerpen",
+  "address_key": "VLAAMSEKAAI|70|||2000|Antwerpen",
+  "query": "\"Vlaamsekaai 70\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Google Maps",
+      "url": "https://maps.google.pl/mapfiles/home3.html",
+      "snippet": "Explore the world with Google Maps, featuring Street View, 3D mapping, navigation, indoor maps and more for your devices.",
+      "domain": "maps.google.pl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Earth",
+      "url": "https://maps.google.pl/intl/pl/earth/",
+      "snippet": "Zwiedzaj świat jednym ruchem palca na Androidzie lub iOS. Twórz mapy dzięki zaawansowanym narzędziom na PC, Maca i komputery z systemem Linux. Poznaj historie trzech osób, które …",
+      "domain": "maps.google.pl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Zdjęcia Street View pochodzą z dwóch źródeł - Google Maps",
+      "url": "https://maps.google.pl/intl/pl_ALL/streetview/explore/",
+      "snippet": "Dowiedz się, co to jest Street View, czego już dokonaliśmy i co planujemy. Nasz zespół bezustannie pracuje, by udostępniać użytkownikom zdjęcia Street View.",
+      "domain": "maps.google.pl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Wędrówki Street View: Egipt – Informacje – Mapy Google",
+      "url": "https://maps.google.pl/maps/about/behind-the-scenes/streetview/treks/pyramids-of-giza/",
+      "snippet": "Odkrywaj świat z Mapami Google. Korzystaj ze Street View, map 3D, szczegółowych wskazówek dojazdu, map obiektów i wielu innych funkcji.",
+      "domain": "maps.google.pl",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Earth",
+      "url": "https://maps.google.pl/intl/pl/earth/download/gep/agree.html",
+      "snippet": "4 jun 2025 · Więcej informacji na temat konkretnych czynności, które możesz wykonywać w ramach używania Map Google, znajdziesz na stronie pozwoleń dotyczących korzystania z usług Mapy …",
+      "domain": "maps.google.pl",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Mapy Google",
+      "url": "https://maps.google.pl/maps?hl=pl&q=Konopnickiej+4,+19-300+E%C5%82k&sll=53.235615,20.173301&hnear=Marii+Konopnickiej+4,+E%C5%82k,+e%C5%82cki,+warmi%C5%84sko-mazurskie&t=m&z=14",
+      "snippet": "Znajdź lokalne firmy, przeglądaj mapy i wyznaczaj trasy w Mapach Google.",
+      "domain": "maps.google.pl",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Zasoby – Google Earth",
+      "url": "https://maps.google.pl/intl/pl_ALL/earth/resources/",
+      "snippet": "Wspieranie organizacji pożytku publicznego dzięki narzędziom takim jak Google Earth, które pomagają w działaniach na rzecz społeczeństwa i środowiska.",
+      "domain": "maps.google.pl",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Zdjęcia firmowe – Mapy Google",
+      "url": "https://maps.google.pl/intl/en/help/maps/businessphotos/",
+      "snippet": "Dodaj wirtualną wycieczkę Zaprezentuj swoją firmę od środka podczas wirtualnej wycieczki w formacie 360 stopni. Pokaż rzeczy, które zwrócą uwagę Twoich klientów. Zdjęcia firmowe to idealne …",
+      "domain": "maps.google.pl",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

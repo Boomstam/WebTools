@@ -1,0 +1,85 @@
+{
+  "address": "Belpairestraat 77, 2600 Berchem",
+  "address_key": "BELPAIRESTRAAT|77|||2600|Berchem",
+  "query": "\"Belpairestraat 77\" \"2600\" \"Berchem\"",
+  "results": [
+    {
+      "title": "explainshell.com - bing relatedsearch version",
+      "url": "https://explainshell.com/explain?cmd=bing+relatedsearch+version",
+      "snippet": "bing (1sr) distro arch latest ubuntu 26.04 relatedsearch version surfraw (1) search tools",
+      "domain": "explainshell.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Bing",
+      "url": "https://www.bing.com/version",
+      "snippet": "Bing ... Versions",
+      "domain": "bing.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to See All Bing Related Searches on Any Device",
+      "url": "https://rottenwifi.com/how-to-see-all-bing-related-searches/",
+      "snippet": "23 uur geleden · Learn where Bing related searches appear, how to expand them, and what to do when suggestions do not show on desktop or mobile.",
+      "domain": "rottenwifi.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Bing Tests Related Search Interfaces",
+      "url": "https://www.seroundtable.com/bing-testing-related-search-interfaces-35711.html",
+      "snippet": "4 sep 2023 · Microsoft Bing has been testing some new interfaces for its related searches. Some of these interfaces are boxed at the top right section, while others seem to float over elements on the...",
+      "domain": "seroundtable.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Bing",
+      "url": "https://www.bing.com/versions",
+      "snippet": "OK.",
+      "domain": "bing.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Descargar APK de las versiones antiguas de Microsoft Bing Búsqueda",
+      "url": "https://apkpure.com/es/bing-your-ai-copilot/com.microsoft.bing/versions",
+      "snippet": "17 dec 2025 · Instala las versiones antiguas de Microsoft Bing Búsqueda compatibles con tu dispositivo. Sin virus y descarga gratuita.",
+      "domain": "apkpure.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Bing previous versions documentation | Microsoft Learn",
+      "url": "https://learn.microsoft.com/es-mx/previous-versions/bing/",
+      "snippet": "Find links to Help for older versions of the Bing products and services.",
+      "domain": "learn.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Bing Tests Knowledge Panels With Related Searches Box",
+      "url": "https://www.seroundtable.com/bing-related-searches-on-knowledge-panels-38824.html",
+      "snippet": "18 feb 2025 · Microsoft is testing adding a new box to the knowledge panels within Bing that show related searches. This is obviously to encourage searches to do more queries, to generate more ads …",
+      "domain": "seroundtable.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

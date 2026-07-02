@@ -1,0 +1,85 @@
+{
+  "address": "Onderwijsstraat 63, 2060 Antwerpen",
+  "address_key": "ONDERWIJSSTRAAT|63|||2060|Antwerpen",
+  "query": "\"Onderwijsstraat 63\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Turn Restricted Mode on or off on YouTube - Google Help",
+      "url": "https://support.google.com/youtube/answer/174084?hl=en&co=GENIE.Platform%3DDesktop",
+      "snippet": "If you’ve entered your username and password, and Restricted Mode remains on, you can check your settings on the YouTube content restrictions page for more info. The tool will assess whether an …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to earn money on YouTube - Google Help",
+      "url": "https://support.google.com/youtube/answer/72857?hl=en",
+      "snippet": "Due to the ongoing war in Ukraine, we will be temporarily pausing Google and YouTube ads from serving to users located in Russia. Learn more. You can earn money on YouTube by applying for …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube チャンネルの作成 - YouTube ヘルプ - Google Help",
+      "url": "https://support.google.com/youtube/answer/1646861?hl=ja",
+      "snippet": "Google アカウントがあれば、動画の再生、評価、チャンネル登録ができます。動画をアップロードしたり、コメントを投稿したり、再生リストを作成したりするには、YouTube チャンネルが必要で …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube でアカウントを作成する - パソコン - YouTube ヘルプ",
+      "url": "https://support.google.com/youtube/answer/161805?hl=ja&co=GENIE.Platform%3DDesktop",
+      "snippet": "YouTube にログインするには Google アカウントを作成する必要があります。Google アカウントを使用すると、評価、チャンネル登録、後で見る、再生履歴など、YouTube のさまざまな機能を利用 …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Premium memberships available locations & travel policies - YouTube …",
+      "url": "https://support.google.com/youtube/answer/6307365?hl=en",
+      "snippet": "If you're a YouTube Music Premium or a YouTube Premium member, you get access to your paid membership benefits and your music library in the YouTube Music app. You will have access even if …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Supported YouTube file formats - YouTube Help - Google Help",
+      "url": "https://support.google.com/youtube/troubleshooter/2888402?hl=en",
+      "snippet": "Supported YouTube file formats Note: Audio files, like MP3, WAV, or PCM files, can’t be uploaded to create a YouTube video. You can use video editing software to convert your audio file to a video. …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Descargar la aplicación YouTube para móviles",
+      "url": "https://support.google.com/youtube/answer/3227660?hl=es&co=GENIE.Platform=Android",
+      "snippet": "Descarga la aplicación YouTube para disfrutar de una experiencia de visualización más completa en tu smartphone. Descargar la aplicación Nota:",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Transfer your playlists from another service - YouTube Music Help",
+      "url": "https://support.google.com/youtubemusic/answer/14729358?hl=en",
+      "snippet": "You can import playlists, albums, artists, and tracks from other music streaming services into your YouTube Music library. Depending on your previous service, you can use built-in transfer options or …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

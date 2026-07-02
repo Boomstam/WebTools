@@ -1,0 +1,85 @@
+{
+  "address": "Paardenmarkt 23, 2000 Antwerpen",
+  "address_key": "PAARDENMARKT|23|||2000|Antwerpen",
+  "query": "\"Paardenmarkt 23\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Telegram A Desktop",
+      "url": "https://web.telegram.org/a/get/",
+      "snippet": "Access Telegram on your desktop, synced with your mobile, for seamless messaging and communication.",
+      "domain": "web.telegram.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Telegram Web",
+      "url": "https://web.telegram.org/a/3748.f5159289bfeb131c4c84.js.map",
+      "snippet": "{\"version\":3,\"file\":\"3748.f5159289bfeb131c4c84.js\",\"mappings\":\"2nBAmBA,MAAMA,EAAUC,OAAO,WAMjBC,EAAyBC,EAAAA,IAAcC,EAAAA,GAAU,IAAO,EACxDC,EAAuBF,EAAAA,GAAa,GAAM,IAC1CG ...",
+      "domain": "web.telegram.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Telegram Web",
+      "url": "https://web.telegram.org/js/locales/en-us.json",
+      "snippet": "{ \"modal_search\": \"Search\", \"modal_close\": \"Close\", \"modal_edit\": \"Edit\", \"modal_cancel\": \"Cancel\", \"modal_more\": \"More...\", …",
+      "domain": "web.telegram.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Telegram Web",
+      "url": "https://web.telegram.org/a/site.webmanifest",
+      "snippet": "{ \"name\": \"Telegram Web\", \"short_name\": \"Telegram Web\", \"description\": \"Telegram is a cloud-based mobile and desktop …",
+      "domain": "web.telegram.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Telegram Web",
+      "url": "https://web.telegram.org/k/page-49e139d4.js.map",
+      "snippet": "{\"version\":3,\"file\":\"page …",
+      "domain": "web.telegram.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Telegram Web",
+      "url": "https://web.telegram.org/webogram.appcache",
+      "snippet": "CACHE MANIFEST CACHE: favicon.ico favicon_unread.ico service_worker.js css/app.css css/desktop.css css/mobile.css …",
+      "domain": "web.telegram.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Telegram Web",
+      "url": "https://web.telegram.org/k/scrollable-8fce7e9e.js.map",
+      "snippet": "{\"version\":3,\"file\":\"scrollable-8fce7e9e.js\",\"sources\":[\"../src/components/scrollable.ts\"],\"sourcesContent\":[\"/*\\n * …",
+      "domain": "web.telegram.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Telegram Web",
+      "url": "https://web.telegram.org/manifest.webapp.json",
+      "snippet": "{ \"name\": \"Telegram\", \"description\": \"Telegram Web App.\\nMore info & source code here: https://github.com/zhukov/webogram\", …",
+      "domain": "web.telegram.org",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

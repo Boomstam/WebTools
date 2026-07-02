@@ -1,0 +1,85 @@
+{
+  "address": "Provinciestraat 56 bus 2, 2018 Antwerpen",
+  "address_key": "PROVINCIESTRAAT|56||2|2018|Antwerpen",
+  "query": "\"Provinciestraat 56\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "NEO: Simple, Powerful LMS for Schools and Universities",
+      "url": "https://www.neolms.com/portal_search",
+      "snippet": "CYPHER for academia(formerly NEO) Continue Switch to the .eu domain Switch to the .com.au domain",
+      "domain": "neolms.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "NEO: Simple, Powerful LMS for Schools and Universities",
+      "url": "https://www.neolms.com/app/launch",
+      "snippet": "NEO is a user-friendly learning management system designed for schools and universities to streamline online education and enhance learning experiences.",
+      "domain": "neolms.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "University of San Agustin",
+      "url": "https://usa.neolms.com/",
+      "snippet": "University of San Agustin As part of the Educational Technology and e-Learning Support Services (EdTecheSS), the university uses NEO LMS, a modern learning management system that supports …",
+      "domain": "usa.neolms.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "EdTech NEO Latin America - Comprensión Lectora",
+      "url": "https://edtechlac.neolms.com/visitor_catalog_class/show/4180186",
+      "snippet": "Este curso te llevará a través del maravilloso mundo de la lectura con nuestra amiga Barbie. Desarrollaremos todas las habilidades necesarias para ser un gran lector, desde el reconocimiento …",
+      "domain": "edtechlac.neolms.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "St. Scholastica's College Manila",
+      "url": "https://ssc.neolms.com/site/not_logged_in?from=%2Fuser_dashboard&log_in_required=true",
+      "snippet": "Welcome to St. Scholastica's College Manila This is our E-learning portal, powered by NEO.",
+      "domain": "ssc.neolms.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "International Islamic College (IIC)",
+      "url": "https://iicodl.neolms.com/",
+      "snippet": "This is the International Islamic College Open Distance Learning (ODL) portal, powered by NEO to assist your study journey",
+      "domain": "iicodl.neolms.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Colegio Reina del Mundo - CYPHER Learning",
+      "url": "https://rdm.neolms.com/user_dashboard",
+      "snippet": "Keep your browser version up-to-date for a fast, secure, web experience.",
+      "domain": "rdm.neolms.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "University of San Agustin - NEO LMS Access Guide",
+      "url": "https://usa.neolms.com/page/show/614498",
+      "snippet": "University of San Agustin Keep your browser version up-to-date for a fast, secure, web experience.",
+      "domain": "usa.neolms.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

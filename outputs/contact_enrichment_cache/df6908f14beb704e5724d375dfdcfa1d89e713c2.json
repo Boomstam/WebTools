@@ -1,0 +1,85 @@
+{
+  "address": "Ommeganckstraat 2, 2018 Antwerpen",
+  "address_key": "OMMEGANCKSTRAAT|2|||2018|Antwerpen",
+  "query": "\"Ommeganckstraat 2\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/zh-hans/windows/forum/windows_10-update/windows-10-%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0/6a1ae4b8-8063-4686-b53b-c213ba3399be",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/zh-hans/windows/forum/windows_10-windows_install-winpc/%E5%A6%82%E4%BD%95%E6%81%A2%E5%A4%8D%E4%B8%8A/428e587e-2e87-4745-83be-2f62303c4a5d",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://www.answers.microsoft.com/nl-nl/windows/forum/all/geen-windows-10-reservatie-melding-ontvangen/",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://www.answers.microsoft.com/fr-fr/windows/forum/all/connexion-au-compte-windows8-impossible/",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/pt-br/windows/forum/windows_7-performance/habilitar-usb-frontal-do-gabinete/e057686d-c2dc-4035-abd8-86836bc74b06",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/pt-br/windows/forum/windows_10-desktop/%C3%ADcone-da-bateria-sumiu/12a559e7-b290-46b0-aa62-eacfccf7a0a0",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://www.answers.microsoft.com/pt-br/windows/forum/all/n%C3%A3o-consigo-entrar-no-windows-com-minha-conta/",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/de-de/windows/forum/windows_10-other_settings/fehlermeldung-nach-update/d3cb8716-bf63-4e89-8748-7f919cb64dc2",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

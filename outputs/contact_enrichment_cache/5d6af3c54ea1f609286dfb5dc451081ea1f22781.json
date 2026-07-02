@@ -1,0 +1,97 @@
+{
+  "address": "Kapelstraat 76-201, 2660 Hoboken",
+  "address_key": "KAPELSTRAAT|76|201||2660|Hoboken",
+  "query": "\"Kapelstraat 76\" \"2660\" \"Hoboken\"",
+  "results": [
+    {
+      "title": "Facebook : accedi o iscriviti",
+      "url": "https://it-it.facebook.com/",
+      "snippet": "Crea un account o accedi a Facebook. Connettiti con amici, familiari e altre persone che conosci. Condividi foto e video, invia messaggi e ricevi...",
+      "domain": "it-it.facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://it-it.facebook.com/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Facebook",
+      "url": "https://www.facebook.com/",
+      "snippet": "Connect and share with friends, family, and the world on Facebook.",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Accedi a Facebook",
+      "url": "https://www.facebook.com/p/UPI-at-WIU-61551751701868/%3Flocale%3Dit_IT/",
+      "snippet": "Accedi a Facebook per connetterti con amici, familiari e persone che conosci e condividere contenuti.",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/p/UPI-at-WIU-61551751701868/%3Flocale%3Dit_IT/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Facebook - m.me",
+      "url": "https://m.me/r.php?locale=it_IT",
+      "snippet": "Iscriviti o accedi a Facebook E-mail o telefono Password",
+      "domain": "m.me",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Facebook",
+      "url": "https://m.me/www.facebook.com",
+      "snippet": "Connect with friends and the world around you on Facebook.",
+      "domain": "m.me",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Facebook - App su Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=it",
+      "snippet": "Il luogo in cui le persone reali stimolano la tua curiosità. Che tu sia alla ricerca di attrezzature usate, o stia mostrando un reel proprio al gruppo perfetto o condividendo risate su immagini...",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Come entrare su Facebook senza email e password",
+      "url": "https://www.aranzulla.it/come-entrare-su-facebook-senza-email-e-password-1053760.html",
+      "snippet": "Beh, se mi dedichi un minimo della tua attenzione, posso spiegarti come entrare su Facebook senza email e password sia agendo da smartphone e tablet, che da computer, usando alcune funzionalità …",
+      "domain": "aranzulla.it",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Facebook - Meta",
+      "url": "https://www.meta.com/it-it/facebook-app/",
+      "snippet": "Facebook ti aiuta a connetterti con amici, familiari e community di persone che condividono i tuoi interessi. Grazie a funzioni come Gruppi, Watch e Marketplace, connetterti con la tua famiglia e con …",
+      "domain": "meta.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

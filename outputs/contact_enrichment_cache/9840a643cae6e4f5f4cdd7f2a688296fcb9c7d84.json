@@ -1,0 +1,85 @@
+{
+  "address": "Apollostraat 169, 2600 Berchem",
+  "address_key": "APOLLOSTRAAT|169|||2600|Berchem",
+  "query": "\"Apollostraat 169\" \"2600\" \"Berchem\"",
+  "results": [
+    {
+      "title": "知乎盐选 | 5.2 高性能软开关 PFC 电路的设计",
+      "url": "https://www.zhihu.com/market/pub/119963221/manuscript/1284000534480465920",
+      "snippet": "3．PFC 主电路的设计概述 多数 PFC 技术都包括升压拓扑结构，它能在连续或不连续电感电流模式下工作。 其开关频率既可以是固定的，也可以是变化的。 通常，固定频率模式和连续电感电流模式适合 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "如何理解pfc，为什么升压了，功率因数就上来了？和boost ...",
+      "url": "https://www.zhihu.com/question/652141718",
+      "snippet": "pfc名字叫做功率因数校正 功率因数，你可以理解为交流利用率。当交流电流与交流电压波形一致（除了幅值）时，功率因数就高，交流电利用率就高。电网就舒坦 假设整流电流为全桥二极管不控整流， …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "服装中 pfc free 是什么意思 - 百度知道",
+      "url": "https://zhidao.baidu.com/question/498095599174375524.html",
+      "snippet": "3 jun 2020 · PFC Free的意思就是服装中不含有 全氟化碳 物质，简称PFCs。 PFC Free的意思就是服装中不含有全氟化碳物质，简称PFCs，这类服装更加绿色环保健康，这也是国际绿色和平组织长期所 …",
+      "domain": "zhidao.baidu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "过程流程图（PFC）, PFMEA,控制计划（CP）_百度知道",
+      "url": "https://zhidao.baidu.com/question/468638872397133485.html",
+      "snippet": "1 aug 2025 · 关注 展开全部 过程流程图（PFC）、PFMEA、控制计划（CP） 一、过程流程图（PFC） 过程流程图是按照已审定的工艺方案，从原材料投入至最终成品的包装、发运，划分工艺阶段和工 …",
+      "domain": "zhidao.baidu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "PFC+LLC电源的供电启动问题求助? - 知乎",
+      "url": "https://www.zhihu.com/question/588596371",
+      "snippet": "23 dec 2024 · PFC+LLC电源的供电启动问题求助? 各位前辈大佬，第一次弄一个500wPFC+LLC板子，追求可靠性，PFC用的芯片UCC28180，厂家推荐单独供电，故PFC电感就不另加绕组，LLC用…",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "面料pfc是什么意思 - 百度知道",
+      "url": "https://zhidao.baidu.com/question/1315238188129639019.html",
+      "snippet": "27 jul 2024 · PFC（全称：Perfluorocarbons）是一种类似于氟碳化合物的化学物质。它由氟和碳原子组成，对油脂、水和细菌具有极强的抗污染性能。在纺织业中，PFC通常用于涂层和防水处理，使面料 …",
+      "domain": "zhidao.baidu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "PFC 电源和非 PFC 电源之间的区别是什么？ - 知乎",
+      "url": "https://www.zhihu.com/question/630251971",
+      "snippet": "2 dagen geleden · PFC电源和非PFC电源主要在以下三个方面存在区别： 1. 概念：PFC电源，也称为主动式PFC，它是一种能够大大降低开关电源待机功耗的先进技术。非PFC电源则相对传统，它只采用 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "pfc共模噪声电流路径 - 百度知道",
+      "url": "https://zhidao.baidu.com/question/1252832371657881139.html",
+      "snippet": "24 dec 2025 · pfc共模噪声电流路径PFC共模噪声电流主要由高频开关动作产生，通过寄生电容耦合形成回路，其核心路径是从开关管散热器（或MOSFET&#47;二极管结点）经寄生电容对地（大地或机 …",
+      "domain": "zhidao.baidu.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

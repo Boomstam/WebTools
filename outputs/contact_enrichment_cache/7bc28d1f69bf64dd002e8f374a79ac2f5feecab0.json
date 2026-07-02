@@ -1,0 +1,85 @@
+{
+  "address": "Waalsekaai 56, 2000 Antwerpen",
+  "address_key": "WAALSEKAAI|56|||2000|Antwerpen",
+  "query": "\"Waalsekaai 56\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "University of Cambridge",
+      "url": "https://www.cam.ac.uk/",
+      "snippet": "Discover what Cambridge is really like by joining us at an undergraduate Open Day. Find out all about our courses, the Colleges and Departments, our facilities, the application process, student life and …",
+      "domain": "cam.ac.uk",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "University of Cambridge - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/University_of_Cambridge",
+      "snippet": "The University of Cambridge is a collegiate public research university in Cambridge, England. Founded in 1209, the University of Cambridge is the second-oldest university in the English-speaking world …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Study at Cambridge | University of Cambridge",
+      "url": "https://www.cam.ac.uk/study-at-cambridge",
+      "snippet": "The University of Cambridge admits talented students from around the world to its undergraduate and postgraduate programmes. Browse our courses.",
+      "domain": "cam.ac.uk",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "University of Cambridge | International | UCAS",
+      "url": "https://www.ucas.com/explore/unis/badc3603/university-of-cambridge/international?studyYear=2026",
+      "snippet": "Cambridge is a diverse international community, and each year we welcome talented students from around the world. 24% of our undergraduate students are from outside the UK and represent around …",
+      "domain": "ucas.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "University of Cambridge , UK",
+      "url": "https://www.cambridgeinternational.org/programmes-and-qualifications/recognition-and-acceptance/university-showcase/university-of-cambridge/",
+      "snippet": "While you are at Cambridge, you will have access to world-class teaching and learning, plus a range of University and College services, and a vibrant student life.",
+      "domain": "cambridgeinternational.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "University of Cambridge | History, Notable Alumni, & Facts | Britannica",
+      "url": "https://www.britannica.com/topic/University-of-Cambridge",
+      "snippet": "5 dagen geleden · The University of Cambridge is an English institution of higher learning in Cambridge, England, 80 km north of London, along the River Cam. Scholars from Oxford migrated there in 1209 …",
+      "domain": "britannica.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "University of Cambridge | UCAS",
+      "url": "https://www.ucas.com/explore/unis/badc3603/university-of-cambridge",
+      "snippet": "The University of Cambridge is one of the best universities in the world. We're known and respected across the globe for the excellence of our teaching and research, and the quality of our graduates.",
+      "domain": "ucas.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Everything you need to know about The University of Cambridge",
+      "url": "https://www.universityliving.com/blog/admission-guide/everything-you-need-to-know-about-the-university-of-cambridge/",
+      "snippet": "29 jan 2025 · The University of Cambridge: Check out popular courses, acceptance rate, campus life, and admission requirements for international students.",
+      "domain": "universityliving.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

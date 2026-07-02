@@ -1,0 +1,85 @@
+{
+  "address": "Steenstraat 99, 2180 Ekeren",
+  "address_key": "STEENSTRAAT|99|||2180|Ekeren",
+  "query": "\"Steenstraat 99\" \"2180\" \"Ekeren\"",
+  "results": [
+    {
+      "title": "Google Help",
+      "url": "https://support.google.com/?hl=en",
+      "snippet": "If you're having trouble accessing a Google product, there's a chance we're currently experiencing a temporary problem. You can …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "QUERY function - Google Docs Editors Help",
+      "url": "https://support.google.com/docs/answer/3093343?hl=en",
+      "snippet": "query - The query to perform, written in the Google Visualization API Query Language. The value for query must either be enclosed …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "GOOGLEFINANCE - Google Docs Editors Help",
+      "url": "https://support.google.com/docs/answer/3093281?hl=en",
+      "snippet": "GOOGLEFINANCE GOOGLETRANSLATE IMAGE QUERY function SPARKLINE Create & use named functions LAMBDA function",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Sheets function list - Google Docs Editors Help",
+      "url": "https://support.google.com/docs/table/25273?hl=en",
+      "snippet": "Google Sheets supports cell formulas typically found in most desktop spreadsheet packages. Functions can be used to create …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Set default search engine and site search shortcuts",
+      "url": "https://support.google.com/chrome/answer/95426?hl=en&co=GENIE.Platform%3DDesktop",
+      "snippet": "Enter the web address for the search engine's results page, and use %s where the query would go. To find and edit the web address …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Función QUERY - Ayuda de Editores de Documentos de Google",
+      "url": "https://support.google.com/docs/answer/3093343?hl=es-419",
+      "snippet": "query: Consulta que se va a hacer, escrita en el lenguaje de consultas de la API de visualización de Google. El valor de la consulta …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Fungsi QUERY - Bantuan Editor Google Dokumen",
+      "url": "https://support.google.com/docs/answer/3093343?hl=id",
+      "snippet": "Menjalankan kueri Google Visualization API Query pada data. Contoh Penggunaan QUERY(A2:E6;\"select avg(A) pivot B\") …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "QUERY - เครื่องมือแก้ไข Google เอกสาร ความช่วยเหลือ",
+      "url": "https://support.google.com/docs/answer/3093343?hl=th",
+      "snippet": "QUERY เรียกใช้การค้นหาของ Google Visualization API Query Language จากข้อมูลทั้งหมด ตัวอย่างการใช้งาน ...",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

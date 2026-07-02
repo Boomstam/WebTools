@@ -1,0 +1,53 @@
+{
+  "address": "Boerhaavestraat 69, 2060 Antwerpen",
+  "address_key": "BOERHAAVESTRAAT|69|||2060|Antwerpen",
+  "query": "\"Boerhaavestraat 69\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "知乎 - 知乎",
+      "url": "https://www.zhihu.com/selection/",
+      "snippet": "知乎是一个中文互联网高质量问答社区和创作者聚集的原创内容平台，提供知识共享、互动交流和个人成长机会。",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "话题广场 - 知乎",
+      "url": "https://www.zhihu.com/topics",
+      "snippet": "知乎话题广场，汇聚多样化主题，助您探索知识、分享见解。",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "browser - How do we download a blob url video - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/42901942/how-do-we-download-a-blob-url-video",
+      "snippet": "This question does not appear to be about a specific programming problem, a software algorithm, or software tools primarily used by …",
+      "domain": "stackoverflow.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "有哪个大佬可以解释一下ippa？ - 知乎",
+      "url": "https://www.zhihu.com/question/322372522",
+      "snippet": "ippa 是日本的知识产权缩写,所以你看到右上角的IPPA加一串数字，实际就是 知识产权号。多用于近现代黑色爱情动作电影，日本拍 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

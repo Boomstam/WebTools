@@ -1,0 +1,87 @@
+{
+  "address": "Meeuwenhoflei 84, 2100 Deurne",
+  "address_key": "MEEUWENHOFLEI|84|||2100|Deurne",
+  "query": "\"Meeuwenhoflei 84\" \"2100\" \"Deurne\"",
+  "results": [
+    {
+      "title": "google mail",
+      "url": "https://mail.google.com/mail?hl=it",
+      "snippet": "Non è possibile visualizzare una descrizione perché il sito non lo consente.",
+      "domain": "mail.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Gmail - Google Accounts",
+      "url": "https://accounts.google.com/servicelogin?service=mail",
+      "snippet": "Gmail is email that’s intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
+      "domain": "accounts.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Gmail - Google Accounts",
+      "url": "https://accounts.google.com/login?service=mail&hl=it",
+      "snippet": "Gmail è un servizio email intuitivo, efficace e utile. 15 GB di spazio di archiviazione, meno spam e accesso tramite dispositivi mobili.",
+      "domain": "accounts.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Sign in - Google Accounts",
+      "url": "https://accounts.google.com/Login",
+      "snippet": "Not your computer? Use a private browsing window to sign in. Learn more about using Guest mode Next Create account",
+      "domain": "accounts.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Accedere a Gmail - Computer - Guida di Gmail",
+      "url": "https://support.google.com/mail/answer/8494?hl=it&co=GENIE.Platform%3DDesktop",
+      "snippet": "Per aprire Gmail, puoi accedere da un computer o aggiungere il tuo account all'app Gmail sul tuo telefono o tablet. Dopo aver eseguito l'accesso, apri la Posta in arrivo per controllare la...",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Creare un account Gmail",
+      "url": "https://support.google.com/mail/answer/56256?hl=it",
+      "snippet": "Per registrarti a Gmail devi creare un Account Google. Per la registrazione a Gmail puoi utilizzare lo stesso nome utente e la stessa password che usi per accedere ad altri prodotti Google come...",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Gmail : email sicura per tutti, basata sull'AI | Google Workspace",
+      "url": "https://workspace.google.com/intl/it/gmail/",
+      "snippet": "Gmail, ora con la potenza di Gemini AI. Scopri nuovi modi per scrivere, rispondere e organizzare le tue email. Prova una posta in arrivo più intelligente e sicura.",
+      "domain": "workspace.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Accedi - Account Google",
+      "url": "https://www.google.com/accounts/login?hl=it",
+      "snippet": "Non si tratta del tuo computer? Utilizza una finestra di navigazione privata per accedere. Scopri di più sull'utilizzo della modalità Ospite",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

@@ -1,0 +1,111 @@
+{
+  "address": "Falconrui 56, 2000 Antwerpen",
+  "address_key": "FALCONRUI|56|||2000|Antwerpen",
+  "query": "\"Falconrui 56\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Immo te koop in Falconrui , Hessenhuis (Spaanse Wallen ... - Realo",
+      "url": "https://www.realo.be/nl/search/te-koop/antwerpen-2000/falconrui",
+      "snippet": "Op Realo vind je 24 panden te koop in Falconrui, Hessenhuis (Spaanse Wallen), Antwerpen (2000). Bekijk publicaties met foto's, …",
+      "domain": "realo.be",
+      "score": 55,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district",
+        "vastgoed/noise"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Falconrui 50 studentenkamer | Kotweb",
+      "url": "https://studentkotweb.be/nl/kot/falconrui-50-studentenkamer",
+      "snippet": "2 jan 2026 · Studentenkamer falconrui 50 te Antwerpen. Studentenkamers gebouwd in 2015. Ideaal gelegen bij Univ en Hoge …",
+      "domain": "studentkotweb.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Falconrui 51 - Beschut Wonen Antwerpen",
+      "url": "https://beschutwonenantwerpen.be/falconrui-51/",
+      "snippet": "Falconrui 51, ofwel Godhuis Van der Biest, is een gebouw dat door het OCMW Antwerpen ter beschikking werd gesteld aan Beschut …",
+      "domain": "beschutwonenantwerpen.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Falconrui - EFRO projecten",
+      "url": "https://www.efro-projecten.be/nl/zoek-een-europees-project/falconrui~631/",
+      "snippet": "Het project Falconrui creëert een uitvalsbasis voor de activiteiten van Beschut Wonen Antwerpen. Dat er gekozen wordt voor deze …",
+      "domain": "efro-projecten.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Falconrui, Gemeente Antwerpen (Antwerpen )",
+      "url": "https://straten.openalfa.be/straten/falconrui-antwerpen",
+      "snippet": "Kaart van Falconrui, Gemeente Antwerpen (Antwerpen). Lijst met diensten in de buurt van Falconrui: winkels, restaurants, vrijetijds- …",
+      "domain": "straten.openalfa.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ]
+    },
+    {
+      "title": "Falconrui , Antwerpen - Vastgoed te koop | Immoscoop",
+      "url": "https://www.immoscoop.be/zoeken/te-koop/lt/te-koop-falconrui-in-antwerpen-26e8",
+      "snippet": "Ontdek alle huizen en appartementen te koop in de Falconrui in Antwerpen. Bekijk het actuele aanbod, de gemiddelde woningprijs …",
+      "domain": "immoscoop.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ]
+    },
+    {
+      "title": "Woningen Falconrui | VAi",
+      "url": "https://www.vai.be/gebouwen/groepswoningen/woningen-falconrui-antwerpen",
+      "snippet": "Falconrui is het resultaat van een wedstrijd binnen het masterplan van Rapp & Rapp architecten. Het ontwerp bestaat uit negen …",
+      "domain": "vai.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ]
+    },
+    {
+      "title": "Kot Antwerpen | Falconrui | € 350 p.m. - allekoten.be",
+      "url": "https://www.allekoten.be/kot-antwerpen/falconrui-954392.html",
+      "snippet": "kot in antwerpen aan de Falconrui voor 350 euro per maand. Bekijk alle details van dit kot en neem direct contact op met de kotbaas!",
+      "domain": "allekoten.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

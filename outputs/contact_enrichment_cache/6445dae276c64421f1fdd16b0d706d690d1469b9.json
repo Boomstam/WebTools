@@ -1,0 +1,85 @@
+{
+  "address": "Sleutelstraat 5, 2000 Antwerpen",
+  "address_key": "SLEUTELSTRAAT|5|||2000|Antwerpen",
+  "query": "\"Sleutelstraat 5\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "TikTok - Make Your Day",
+      "url": "https://www.tiktok.com/",
+      "snippet": "TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos. Download the app to get started.",
+      "domain": "tiktok.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "TikTok - Videos, Shop & LIVE - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en-US",
+      "snippet": "TikTok is the global discovery platform for videos, streaming on LIVE, shopping, and more. Our mission is to inspire creativity and bring joy. Over a billion people come to TikTok to share what...",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "TikTok - Videos, Music & LIVE - App Store",
+      "url": "https://apps.apple.com/pl/app/tiktok-videos-music-live/id835599320",
+      "snippet": "TikTok offers you real, interesting, and fun videos that will make your day. You'll find a variety of videos from Food and Fashion to Sports and DIY - and everything in between.",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "TikTok | App, History, Videos, Ban, China, & Controversies | Britannica",
+      "url": "https://www.britannica.com/topic/TikTok",
+      "snippet": "23 uur geleden · TikTok is a social media platform designed for creating, editing, and sharing short videos between 15 seconds and three minutes in length. By the early 2020s more than one billion …",
+      "domain": "britannica.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "‎Aplikacja TikTok : Filmy i Muzyka — App Store",
+      "url": "https://apps.apple.com/pl/app/tiktok-filmy-i-muzyka/id835599320?l=pl",
+      "snippet": "Pobierz aplikację TikTok: Filmy i Muzyka od TikTok Ltd. w App Store. Sprawdź zrzuty ekranu, oceny i recenzje, wskazówki użytkowników oraz inne aplikacje podobne…",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "TikTok - Make Your Day",
+      "url": "https://www.tiktok.com/pl-PL",
+      "snippet": "TikTok — tutaj rozpoczyna się każdy trend. Widzowie mogą oglądać i odkrywać miliony spersonalizowanych krótkich filmów, korzystając z urządzeń mobilnych i komputerów. Pobierz …",
+      "domain": "tiktok.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Log in - TikTok",
+      "url": "https://www.tiktok.com/login",
+      "snippet": "Log in or sign up for an account on TikTok. Start watching to discover real people and real videos that will make your day.",
+      "domain": "tiktok.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "TikTok - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en&gl=ai",
+      "snippet": "Whether you’re a sports fanatic, a pet enthusiast, or just looking for a laugh, there’s something for everyone on TikTok. All you have to do is watch, engage with what you like, skip what you...",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

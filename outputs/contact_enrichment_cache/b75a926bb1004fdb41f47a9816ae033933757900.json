@@ -1,0 +1,85 @@
+{
+  "address": "Kapelstraat 44, 2660 Hoboken",
+  "address_key": "KAPELSTRAAT|44|||2660|Hoboken",
+  "query": "\"Kapelstraat 44\" \"2660\" \"Hoboken\"",
+  "results": [
+    {
+      "title": "Pc fonctionne très lentement [Résolu] - Windows 10",
+      "url": "https://forums.commentcamarche.net/forum/affich-38278951-pc-fonctionne-tres-lentement",
+      "snippet": "25 mrt 2026 · Je suis sous Windows 10 et mon pc ne réagit plus que très lentement. Impossible de lire une vidéo ou de télécharger car le débit semble très lent. J'ai passé plusieurs fois Malwarebyte et …",
+      "domain": "forums.commentcamarche.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Site bloqué [Résolu] - Forum Livebox",
+      "url": "https://forums.commentcamarche.net/forum/affich-38279328-site-bloque",
+      "snippet": "26 mrt 2026 · Les sites en question sont l'Urssaf pour consulter des documents (je suis travailleur indépendant) et l'EFS (je fais des dons de plasma régulièrement, je vais sur ce site pour prendre des …",
+      "domain": "forums.commentcamarche.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "\" Iphone12 reconditionné\" date et heure incorrecte - iPhone",
+      "url": "https://forums.commentcamarche.net/forum/affich-38280371-iphone12-reconditionne-date-et-heure-incorrecte",
+      "snippet": "31 mrt 2026 · je viens d'acheter un Iphone reconditionné, l'heure et la date ne sont pas exacte",
+      "domain": "forums.commentcamarche.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Article concernant vpn fire fox - Mozilla Firefox",
+      "url": "https://forums.commentcamarche.net/forum/affich-38279395-article-concernant-vpn-fire-fox",
+      "snippet": "27 mrt 2026 · Il y a deux types de VPN pour Firefox. L'article CCM fait référence à la version gratuite avec des restrictions au niveau de la durée d'utilisation qui est limitée à 50 Go par mois, et celui-ci se …",
+      "domain": "forums.commentcamarche.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Bloquage de photoshop après quelques minutes",
+      "url": "https://forums.commentcamarche.net/forum/affich-38294302-bloquage-de-photoshop-apres-quelques-minutes",
+      "snippet": "13 jun 2026 · Bonjour, J'ai installer Adobe suite par un cd datant de 2010. Cela a toujours bien fonctionné. maintenant je tourne avec windows 11, Illustrator tourne correctement. Mais photoshop …",
+      "domain": "forums.commentcamarche.net",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Windows 11 qui crache et pas de mode sans échec",
+      "url": "https://forums.commentcamarche.net/forum/affich-38284416-windows-11-qui-crache-et-pas-de-mode-sans-echec",
+      "snippet": "20 apr 2026 · Bonjour à tous. J'ai achteté récemment un mini pc sous win 11 (BMAX B4 Plus). Dès la première utilisation, windows crash plusieurs fois et j'ai soit le fameux écran bleu sois un …",
+      "domain": "forums.commentcamarche.net",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Je n'arrive plus à prendre mes courriel outlook.",
+      "url": "https://forums.commentcamarche.net/forum/affich-38282030-je-n-arrive-plus-a-prendre-mes-courriel-outlook",
+      "snippet": "8 apr 2026 · Je n ai plus mon mot de passe Alors j ai voulu utiliser la fonctio des 4 derniers numéros de cell. Et ça dit que cette fonction n est pas disponible ...",
+      "domain": "forums.commentcamarche.net",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Bonjour, je n'arrive pas à supprimer McAfee Merci",
+      "url": "https://forums.commentcamarche.net/forum/affich-38274275-bonjour-je-n-arrive-pas-a-supprimer-mcafee-merci",
+      "snippet": "4 mrt 2026 · j'ai windows 11 et je n'arrive pas à supprimer Mc Afee, merci beaucoup à celui ou celle qui me donneras la réponse...",
+      "domain": "forums.commentcamarche.net",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

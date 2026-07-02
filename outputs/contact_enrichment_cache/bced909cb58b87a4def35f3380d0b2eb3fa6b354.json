@@ -1,0 +1,107 @@
+{
+  "address": "Bisschoppenhoflaan 301, 2100 Deurne",
+  "address_key": "BISSCHOPPENHOFLAAN|301|||2100|Deurne",
+  "query": "\"Bisschoppenhoflaan 301\" \"2100\" \"Deurne\"",
+  "results": [
+    {
+      "title": "Bisschoppenhoflaan , Antwerpen, Vlaanderen - MapQuest",
+      "url": "https://www.mapquest.com/be/vlaanderen/antwerpen/2100/bisschoppenhoflaan-51.23126,4.45028",
+      "snippet": "Get more information for Bisschoppenhoflaan in Antwerpen, Vlaanderen. See reviews, map, get the address, and find directions.",
+      "domain": "mapquest.com",
+      "score": 65,
+      "reasons": [
+        "straat",
+        "postcode"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Bisschoppenhoflaan, Gemeente Antwerpen (Deurne )",
+      "url": "https://straten.openalfa.be/straten/bisschoppenhoflaan-deurne",
+      "snippet": "Kaart van Bisschoppenhoflaan, Gemeente Antwerpen (Deurne). Lijst met diensten in de buurt van Bisschoppenhoflaan: winkels, restaurants, vrijetijds- en sportfaciliteiten, ziekenhuizen, …",
+      "domain": "straten.openalfa.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Bisschoppenhoflaan, Gemeente Antwerpen (Deurne, Kruininge",
+      "url": "https://straten.openalfa.be/straten/bisschoppenhoflaan-kruininge-bremweide-deurne-antwerpen",
+      "snippet": "U kunt een kaart en een lijst van locaties en diensten die beschikbaar zijn in de buurt van Bisschoppenhoflaan te vinden. Hotels, restaurants, sportfaciliteiten, scholen, geldautomaten, …",
+      "domain": "straten.openalfa.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Bestuurder wordt onwel en veroorzaakt ongeval op Bisschoppenhoflaan ...",
+      "url": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/deurne/bestuurder-wordt-onwel-en-veroorzaakt-ongeval-op-bisschoppenhoflaan-drie-personen-gewond/152109011.html",
+      "snippet": "19 mei 2026 · Antwerpen Bij een verkeersongeval op de Bisschoppenhoflaan in Deurne zijn dinsdag drie personen gewond geraakt. Een man werd onwel achter het stuur en reed in op een andere auto.",
+      "domain": "gva.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Bisschoppenhoflaan 337, Antwerp - Explore in Google Maps",
+      "url": "https://www.google.com/maps/search/Bisschoppenhoflaan%20337/339,%20Antwerpen",
+      "snippet": "Bisschoppenhoflaan 337, 2100 Antwerpen, Belgium. Map data ©2026 Google Terms 50 m",
+      "domain": "google.com",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "postcode",
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Google Maps",
+      "url": "https://www.google.com/maps/search/Bisschoppenhoflaan%20531%2C%202100%20Antwerpen",
+      "snippet": "‪English (United States)‬ Feedback Unable to connect to Google Maps. Please try again.",
+      "domain": "google.com",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "postcode",
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Heraanleg kruispunt Bisschoppenhoflaan met Merksemsesteenweg …",
+      "url": "https://wegenenverkeer.be/werken/heraanleg-kruispunt-bisschoppenhoflaan-met-merksemsesteenweg-en-lakborslei",
+      "snippet": "7 nov 2024 · Vanaf maandag 8 april 2024 start het Agentschap Wegen en Verkeer (AWV) met werken voor een grondige vernieuwing van het kruispunt van de Bisschoppenhoflaan (N120) met de …",
+      "domain": "wegenenverkeer.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Praktijk Bisschoppenhof | Welkom in onze praktijk",
+      "url": "https://praktijkbisschoppenhof.be/",
+      "snippet": "Welkom in praktijk Bisschoppenhof Welkom op de website van onze praktijk. We helpen u graag verder",
+      "domain": "praktijkbisschoppenhof.be",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

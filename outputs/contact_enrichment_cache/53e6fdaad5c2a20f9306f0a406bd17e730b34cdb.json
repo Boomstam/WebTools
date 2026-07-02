@@ -1,0 +1,85 @@
+{
+  "address": "Kapelstraat 180, 2660 Hoboken",
+  "address_key": "KAPELSTRAAT|180|||2660|Hoboken",
+  "query": "\"Kapelstraat 180\" \"2660\" \"Hoboken\"",
+  "results": [
+    {
+      "title": "Etusivu | Uusimaa",
+      "url": "https://www.uusimaa.fi/",
+      "snippet": "Uusimmat uutiset ja kiinnostavimmat sisällöt.",
+      "domain": "uusimaa.fi",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Lehdet | Uusimaa",
+      "url": "https://www.uusimaa.fi/nakoislehti/",
+      "snippet": "Etelän kesä | Hyppytorneja löytyy Uudenmaan rannoilta ja maauimaloista toistakymmentä – uimahyppääjä Kaapo Kosonen antaa vinkit Etelän kesä | Lukijat äänestivät Uudenmaan …",
+      "domain": "uusimaa.fi",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Uusimmat | Uusimaa",
+      "url": "https://www.uusimaa.fi/uusimmat/",
+      "snippet": "Viisi olym­pia­san­karia osallistuu harvi­nais­laa­tui­seen tapah­tu­maan – Miksi suoma­laiset jäävät nykyään kauas mita­li­tais­te­luista?",
+      "domain": "uusimaa.fi",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Keski-Uusimaa",
+      "url": "https://www.uusimaa.fi/aihe/Keski-Uusimaa",
+      "snippet": "15 jan 2026 · Keski-Uusimaa – täältä löydät kaikki aiheeseen liittyvät juttumme.",
+      "domain": "uusimaa.fi",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Tapahtumat ja tapahtumatiedot - Uusimaa",
+      "url": "https://www.uusimaa.fi/aihe/Tapahtumat_ja_tapahtumatiedot",
+      "snippet": "2 jul 2025 · Tapahtumat ja tapahtumatiedot – täältä löydät kaikki aiheeseen liittyvät juttumme.",
+      "domain": "uusimaa.fi",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Digilehti - Uusimaa",
+      "url": "https://www.uusimaa.fi/aihe/Digilehti",
+      "snippet": "Digilehti – täältä löydät kaikki aiheeseen liittyvät juttumme.",
+      "domain": "uusimaa.fi",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Maakunta Uusimaa | Uusimaa",
+      "url": "https://www.uusimaa.fi/aihe/maakunta-uusimaa",
+      "snippet": "Uusimaa 360 -sisältö on syvällistä journalismia Suomen tärkeimmän maakunnan sekä pääkaupunkiseudun ilmiöistä, päätöksenteon taustoista ja niiden vaikutuksesta omaan arkeesi. …",
+      "domain": "uusimaa.fi",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Luetuimmat - Uusimaa",
+      "url": "https://www.uusimaa.fi/luetuimmat/",
+      "snippet": "Mystee­ri­mais­taja | Porvoo­lai­sella karta­no­lou­naalla kaikki paitsi golf on turhaa",
+      "domain": "uusimaa.fi",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

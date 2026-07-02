@@ -1,0 +1,85 @@
+{
+  "address": "Statielei 71, 2140 Borgerhout",
+  "address_key": "STATIELEI|71|||2140|Borgerhout",
+  "query": "\"Statielei 71\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "Vinted | Eine App, alles Secondhand",
+      "url": "http://www.vinted.de/",
+      "snippet": "Eine Community, Tausende von Marken und die unterschiedlichsten Secondhand-Styles. Bereit loszulegen? So funktioniert's.",
+      "domain": "vinted.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Wie funktioniert's? | Vinted",
+      "url": "https://www.vinted.de/how_it_works",
+      "snippet": "Eine Community, Tausende von Marken und die unterschiedlichsten Secondhand-Styles. Bereit loszulegen? So funktioniert's.",
+      "domain": "vinted.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Registrierung & Login | Vinted",
+      "url": "https://www.vinted.de/help/103-registration-login",
+      "snippet": "So läuft die Registrierung auf Vinted Warum wurde meine IP-Adresse gesperrt? Ich möchte mich registrieren, aber meine E-Mail-Adresse wird bereits verwendet Nutzung von Vinted in Ländern, …",
+      "domain": "vinted.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Unsere Plattform | Vinted",
+      "url": "https://www.vinted.de/our-platform",
+      "snippet": "LEITFADEN ZUR NUTZUNG VON VINTED 1 Danke, dass du Vinted nutzt! Über diesen Leitfaden. Dieser Leitfaden enthält wichtige Informationen zur Nutzung von Vinted, einem Online-Marktplatz …",
+      "domain": "vinted.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Home | Vinted",
+      "url": "https://www.vinted.de/catalog/1918-home",
+      "snippet": "Eine Community, Tausende von Marken und die unterschiedlichsten Secondhand-Styles. Bereit loszulegen? So funktioniert's.",
+      "domain": "vinted.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Basics zum Kauf - Vinted",
+      "url": "https://www.vinted.de/help/25-kaufen-auf-vinted-schritt-fur-schritt",
+      "snippet": "Bleib auf Vinted angemeldet, wenn du mit anderen Mitgliedern chattest und gib keine personenbezogenen Daten weiter. Verlege deinen Chat/Konversation nie in eine andere App oder …",
+      "domain": "vinted.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Kleidung - Vinted",
+      "url": "https://www.vinted.de/catalog/4-clothing",
+      "snippet": "Eine Community, Tausende von Marken und die unterschiedlichsten Secondhand-Styles. Bereit loszulegen? So funktioniert's.",
+      "domain": "vinted.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "CH - Vinted",
+      "url": "https://www.vinted.de/brand/51379-ch",
+      "snippet": "Eine Community, Tausende von Marken und die unterschiedlichsten Secondhand-Styles. Bereit loszulegen? So funktioniert's.",
+      "domain": "vinted.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

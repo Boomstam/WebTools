@@ -1,0 +1,85 @@
+{
+  "address": "Kistemaeckersstraat 34, 2140 Borgerhout",
+  "address_key": "KISTEMAECKERSSTRAAT|34|||2140|Borgerhout",
+  "query": "\"Kistemaeckersstraat 34\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/zh-hans/windows/forum/windows_10-update/windows-10-%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0/6a1ae4b8-8063-4686-b53b-c213ba3399be",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/ko-kr/windows/forum/windows_10-hardware-winpc/%EC%9C%88%EB%8F%84%EC%9A%B0-10/45b1375f-206c-4996-8120-1ad68c3bde10",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://www.answers.microsoft.com/nl-nl/windows/forum/all/geen-windows-10-reservatie-melding-ontvangen/",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://www.answers.microsoft.com/de-de/windows/forum/all/neuinstallation-und-download-einer-image-datei/",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://www.answers.microsoft.com/en-us/msoffice/forum/all/outlook-365-adds-email-address-when-typing-in-the/",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/es-es/windows/forum/all/windows-10-cartel-la-licencia-de-windows-10/",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://www.answers.microsoft.com/tr-tr/windows/forum/all/windows-10-windows-defender-trojen-vir%C3%BCs/",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/pt-br/windows/forum/windows_10-desktop/%C3%ADcone-da-bateria-sumiu/12a559e7-b290-46b0-aa62-eacfccf7a0a0",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

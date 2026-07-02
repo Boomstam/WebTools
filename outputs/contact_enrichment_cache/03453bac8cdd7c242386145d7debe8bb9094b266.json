@@ -1,0 +1,87 @@
+{
+  "address": "Plankenbergstraat 9-1, 2100 Deurne",
+  "address_key": "PLANKENBERGSTRAAT|9|1||2100|Deurne",
+  "query": "\"Plankenbergstraat 9\" \"2100\" \"Deurne\"",
+  "results": [
+    {
+      "title": "ZDF (Streamingportal) – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/ZDF_(Streamingportal)",
+      "snippet": "ZDF (ehemals ZDFmediathek) ist ein Video-on-Demand - Streamingportal des Zweiten Deutschen Fernsehens. Es startete 2001; seit 2023 sind alle Inhalte auch in der ARD Mediathek zu finden. [1]",
+      "domain": "de.wikipedia.org",
+      "score": 15,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ZDF Streaming-Portal: Filme, Serien und Dokus online anschauen",
+      "url": "https://www.zdf.de/",
+      "snippet": "Alle Videos und Livestreams im ZDF anschauen - ständig verfügbar und interaktiv! Entdecke Filme, Serien, Sportevents, Dokumentationen und vieles mehr!",
+      "domain": "zdf.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ZDF | Streaming und Live -TV – Apps bei Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.zdf.android.mediathek&hl=de",
+      "snippet": "So bist du immer einen Schritt voraus. - Live-TV & Livestreams: Verfolge Sport-Events wie den DFB-Pokal, die Frauen-Fußball EM und packende Biathlon-Rennen oder schaue deine liebsten …",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "‎ ZDF ‑App – App Store",
+      "url": "https://apps.apple.com/de/app/zdf/id437025413",
+      "snippet": "Lade „ZDF“ von ZDF im App Store herunter. Sieh dir Bildschirmfotos, Bewertungen und Rezensionen, Benutzertipps und weitere Apps wie „ZDF“ an.",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Von A-Z: Alle Videos zum Streamen - ZDFmediathek",
+      "url": "https://www.zdf.de/sendungen-a-z",
+      "snippet": "Hier findest du alle Nachrichten, Sport und Magazine, Shows, Dokus, Filme & ZDF-Serien von A bis Z online!",
+      "domain": "zdf.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Liste aller Filme, die bei ZDFmediathek verfügbar sind",
+      "url": "https://www.werstreamt.es/filme/anbieter-zdf/",
+      "snippet": "Prüfe die Verfügbarkeit von Filmen und Serien bei Netflix, Amazon, Disney+ u.v.m.",
+      "domain": "werstreamt.es",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "ZDF von A-Z - alle Sendungen alphabetisch - ARD Mediathek",
+      "url": "https://www.ardmediathek.de/zdf/sendungen-a-bis-z",
+      "snippet": "Fernsehsendungen des Senders ZDF auf Abruf in der ARD Mediathek",
+      "domain": "ardmediathek.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "ZDF Mediathek - Sendung verpasst?",
+      "url": "https://www.sendungverpasst.de/zdf",
+      "snippet": "24 jun 2026 · Alle Videos, Filme und Serien von ZDF und den anderen TV-Sendern sofort finden und kostenlos online abrufen - einfach, schnell und unkompliziert",
+      "domain": "sendungverpasst.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

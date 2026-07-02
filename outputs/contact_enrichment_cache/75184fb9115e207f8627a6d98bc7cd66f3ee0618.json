@@ -1,0 +1,85 @@
+{
+  "address": "Hessenplein 37, 2000 Antwerpen",
+  "address_key": "HESSENPLEIN|37|||2000|Antwerpen",
+  "query": "\"Hessenplein 37\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Ingeborg Bachmann – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Ingeborg_Bachmann",
+      "snippet": "Ingeborg Bachmann (* 25. Juni 1926 in Klagenfurt; † 17. Oktober 1973 in Rom) war eine österreichische Schriftstellerin. Sie ist eine der bedeutendsten deutschsprachigen Autorinnen des 20. Jahrhunderts. …",
+      "domain": "de.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Zum 100. Geburtstag: Darum fasziniert Ingeborg Bachmann immer noch",
+      "url": "https://www.ndr.de/kultur/buch/zum-100-geburtstag-darum-fasziniert-ingeborg-bachmann-immer-noch,insawilke-104.html",
+      "snippet": "18 jun 2026 · Doch: Wer war Ingeborg Bachmann, die am 25. Juni 1926 in Klagenfurt geboren wurde und tragisch 1973 im Alter von 47 Jahren in Rom verstarb? Wie lebte sie? Was verbirgt sich hinter …",
+      "domain": "ndr.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Ingeborg Bachmann - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ingeborg_Bachmann",
+      "snippet": "Ingeborg Bachmann (Austrian German: [ˈɪŋəbɔrɡ ˈbaxman]; 25 June 1926 – 17 October 1973) was an Austrian poet and author. She is regarded as one of the major voices of German-language literature …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Neuer Film: \" Ingeborg Bachmann – Jemand, der einmal ich war\"",
+      "url": "https://www.ardmediathek.de/video/westart/neuer-film-ingeborg-bachmann-jemand-der-einmal-ich-war/wdr/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtNjk3ZWM0NzktNGY4Zi00NTJiLThmY2EtOWUxYzBmMDdlNTY5",
+      "snippet": "20 jun 2026 · Ingeborg Bachmann gilt als eine der bedeutendsten Stimmen der deutschsprachigen Nachkriegsliteratur, ihr Werk ist voller Widersprüche. Der Dokumentarfilm \"Jemand, der einmal ich …",
+      "domain": "ardmediathek.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Pionierin der #metoo-Debatte: Was an Bachmanns Texten fasziniert",
+      "url": "https://www.tagesschau.de/kultur/ingeborg-bachmann-116.html",
+      "snippet": "6 dagen geleden · Was macht die österreichische Schriftstellerin Ingeborg Bachmann, die am Donnerstag 100 Jahre alt geworden wäre, bis heute so faszinierend? Es ist offenbar nie zu spät, …",
+      "domain": "tagesschau.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Ingeborg Bachmann – Ist sie eine von uns? l ZDF aspekte",
+      "url": "https://www.zdf.de/video/reportagen/aspekte-106/bachmann-literatur-feminismus-100",
+      "snippet": "19 jun 2026 · Ingeborg Bachmanns Leben und Werk sind geprägt vom Aufstand gegen das Schweigen nach dem Krieg, gegen patriarchale Machtverhältnisse im Innersten von Beziehungen – und vom …",
+      "domain": "zdf.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Deutsche Biographie - Bachmann, Ingeborg",
+      "url": "https://www.deutsche-biographie.de/gnd118505602.html",
+      "snippet": "Mit ihrer Lyrik und Erzählprosa, ihren Hörspielen, Libretti und Essays war die österreichische Dichterin Ingeborg Bachmann eine der führenden Autorinnen ihrer Generation in der deutschsprachigen …",
+      "domain": "deutsche-biographie.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Ingeborg Bachmann : Bücher und Leben - Suhrkamp Verlag",
+      "url": "https://www.suhrkamp.de/im-portraet/ingeborg-bachmann-buecher-und-leben-b-3245",
+      "snippet": "Sie gilt als eine der wichtigsten Lyrikerinnen und Prosaschriftstellerinnen ihrer Generation: Erfahren Sie mehr über Ingeborg Bachmann.",
+      "domain": "suhrkamp.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

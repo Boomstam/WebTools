@@ -1,0 +1,89 @@
+{
+  "address": "Kruisbos 61-11, 2040 Bezali",
+  "address_key": "KRUISBOS|61|11||2040|Bezali",
+  "query": "\"Kruisbos 61\" \"2040\" \"Bezali\"",
+  "results": [
+    {
+      "title": "SAB | Riyadh - Facebook",
+      "url": "https://www.facebook.com/alawwalsab/",
+      "snippet": "SAB, Riyadh. 1,091,632 likes · 2,100 talking about this · 24 were here. نحتفل ب 100 عام معك مرحبا بكم في صفحة الأول الرسمية. Welcome to SAB official...",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/alawwalsab/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Personal & Online Banking | SAB",
+      "url": "https://www.sab.com/en/personal/",
+      "snippet": "SAB offers a range of personal banking products including loans, mortgages and credit cards & access to bank accounts 24/7.",
+      "domain": "sab.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "خدمات مصرفية | الأول - SAB",
+      "url": "https://www.sab.com/ar/personal/",
+      "snippet": "يستخدم موقع الأول ملفات تعريف الرابط (الكوكيز-Cookies) لنوفر لك أفضل تجربة مميزة عند استخدام الموقع. يُرجى الاطلاع على قسم سياسة ملفات تعريف الرابط",
+      "domain": "sab.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Log on to online banking | SAB",
+      "url": "https://www.security.online-banking.sabbnet.com/",
+      "snippet": "Inside the kingdom : 800 124 8888 Outside the kingdom : +966114062800 Email : feedback@sab.com SABcare Disclaimer Contact Centre Complaints and Feedback Terms and Conditions About SAB …",
+      "domain": "security.online-banking.sabbnet.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "SAB Invest",
+      "url": "https://www.sabinvest.com/en/sab-invest",
+      "snippet": "You can now open a trading portfolio and an investment account, as well as subscribe to our Mutual Funds through the SAB Invest Online service, without the need to visit our investment centers.",
+      "domain": "sabinvest.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Saudi Awwal Bank - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Saudi_Awwal_Bank",
+      "snippet": "SAB offers services in investment banking, commercial banking, private banking and Islamic banking. SAB Islamic Financial Solutions (Arabic: الحلول المالية الإسلامية), which are part of SAB services, are …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "SAB Mobile - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.sabb.mobilebanking&hl=en-US",
+      "snippet": "9 jun 2026 · Enjoy the ease, privacy and convenience of online personal banking anywhere and anytime with SAB Mobile by Saudi Awwal Bank. Manage your finances, track your spending, transfer funds, …",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "SAB (formerly Saudi British Bank) - Complete Banking Details",
+      "url": "https://www.singleview.com.sa/en/banks/sab",
+      "snippet": "Learn about SAB (formerly Saudi British Bank) in Saudi Arabia, with details on its branches and SWIFT code, all provided by SingleView to streamline your banking.",
+      "domain": "singleview.com.sa",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

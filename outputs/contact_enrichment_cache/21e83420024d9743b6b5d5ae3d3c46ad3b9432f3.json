@@ -1,0 +1,93 @@
+{
+  "address": "Scheldestraat 26 bus 401, 2000 Antwerpen",
+  "address_key": "SCHELDESTRAAT|26||401|2000|Antwerpen",
+  "query": "\"Scheldestraat 26\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Google - Facebook",
+      "url": "https://www.facebook.com/Google/",
+      "snippet": "Google. 35,939,640 likes · 304,305 talking about this. Organizing the world's information and making it universally accessible and useful.",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/Google/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com.ai/?hl=ar-US",
+      "snippet": "الإعلانات كل ما تحب معرفته عن Google‏ هنا Google.com",
+      "domain": "google.com.ai",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Search - A new kind of help",
+      "url": "https://search.google/",
+      "snippet": "Explore a new kind of help for your everyday with breakthroughs in Search intelligence from Google I/O.",
+      "domain": "search.google",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google - YouTube",
+      "url": "https://www.youtube.com/google",
+      "snippet": "Welcome to your front-row seat to Google I/O. Watch for the latest groundbreaking updates to Gemini models, developer platforms like Google Antigravity, and exciting new updates to Search and...",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "‎ Google App - App Store",
+      "url": "https://apps.apple.com/us/app/google/id284815942",
+      "snippet": "Download the Google app to stay in the know about things that matter to you. Try AI Overviews, find quick answers, explore your interests, and stay up to date with Discover.",
+      "domain": "apps.apple.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google",
+      "snippet": "Google ... Google LLC (/ ˈɡuː.ɡəl / ⓘ, GOO-gəl) is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com/",
+      "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com/?hl=ar-EG",
+      "snippet": "الإعلانات كل ما تحب معرفته عن Google‏ هنا Google.com in English",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

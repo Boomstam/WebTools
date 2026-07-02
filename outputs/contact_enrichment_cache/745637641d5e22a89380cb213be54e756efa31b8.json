@@ -1,0 +1,87 @@
+{
+  "address": "Georges De Grooflei 26, 2150 Borsbeek",
+  "address_key": "GEORGES DE GROOFLEI|26|||2150|Borsbeek",
+  "query": "\"Georges De Grooflei 26\" \"2150\" \"Borsbeek\"",
+  "results": [
+    {
+      "title": "explainshell.com - bing relatedsearch version",
+      "url": "https://explainshell.com/explain?cmd=bing+relatedsearch+version",
+      "snippet": "bing (1sr) distro arch latest ubuntu 26.04 relatedsearch version surfraw (1) search tools",
+      "domain": "explainshell.com",
+      "score": 20,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Search - Microsoft Bing",
+      "url": "https://www.bing.com/",
+      "snippet": "Search with Microsoft Bing and use the power of AI to find information, explore webpages, images, videos, maps, and more. A smart …",
+      "domain": "bing.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Bing | Get to know Bing",
+      "url": "https://www.microsoft.com/en-us/bing?msockid=0ad693935174664e1016841a50696756",
+      "snippet": "Copilot Search in Bing gives you quick, summarized answers with cited sources and suggestions for further exploration, making it …",
+      "domain": "microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Download Microsoft Bing Search Latest Version 32.6.21... Android …",
+      "url": "https://apkpure.com/bing-your-ai-copilot/com.microsoft.bing/download",
+      "snippet": "17 dec 2025 · Microsoft Bing Search is a mobile search app that delivers AI-powered answers and helpful web results. Download the …",
+      "domain": "apkpure.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Make Bing Your Search Engine - microsoft.com",
+      "url": "https://www.microsoft.com/en-us/download/details.aspx?id=41702&msockid=0ad693935174664e1016841a50696756",
+      "snippet": "Date Published: 7/15/2024 File Name: DefaultPack.exe File Size: 7.6 MB This installer makes Bing your default search engine. The …",
+      "domain": "microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Bing Tests Related Search Interfaces",
+      "url": "https://www.seroundtable.com/bing-testing-related-search-interfaces-35711.html",
+      "snippet": "4 sep 2023 · Microsoft Bing has been testing some new interfaces for its related searches. Some of these interfaces are boxed at the …",
+      "domain": "seroundtable.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Template:Latest stable software release/Microsoft Bing - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Template:Latest_stable_software_release/Microsoft_Bing",
+      "snippet": "^ \"Web Search from Microsoft Bing\". Microsoft Apps. Retrieved June 24, 2026. ^ \"Microsoft Bing Search\". Google Play. Retrieved …",
+      "domain": "en.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Provereno-Media/ Bing - Search -Operators-Cheatsheet - GitHub",
+      "url": "https://github.com/Provereno-Media/Bing-Search-Operators-Cheatsheet",
+      "snippet": "5 dagen geleden · Bing Search Operators Cheatsheet A comprehensive, fact-checked reference of all Bing search operators, their …",
+      "domain": "github.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

@@ -1,0 +1,85 @@
+{
+  "address": "Cockerillkaai 12-14, 2000 Antwerpen",
+  "address_key": "COCKERILLKAAI|12|14||2000|Antwerpen",
+  "query": "\"Cockerillkaai 12\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "ARD Home - ARD Startseite",
+      "url": "http://www.ard.de/home/ard/ARD_Startseite/21920/index.html",
+      "snippet": "Videos und Audios aus den Mediatheken, aktuelle Nachrichten und Hintergründe, das ARD-Programm auf einen Blick.",
+      "domain": "ard.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ARD Mediathek: Filme, Serien und Dokus online anschauen",
+      "url": "https://www.ardmediathek.de/",
+      "snippet": "Alle Inhalte der ARD Mediathek im Überblick: Livestreams, Nachrichten, Filme, Serien und spannende Dokus. Hier anschauen!",
+      "domain": "ardmediathek.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ARD .de – TV, Radio, Streams, News, Sport und alles zur ARD",
+      "url": "https://www.ard.de/",
+      "snippet": "Die ganze ARD: Fernsehen, Livestreams, Radio, Podcasts, Nachrichten, Sport und Kinderkanal. Zudem Infos über den …",
+      "domain": "ard.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "tagesschau.de - die erste Adresse für Nachrichten und Information",
+      "url": "https://www.tagesschau.de/",
+      "snippet": "1 dag geleden · Ihr ARD-Konto Stellen Sie sich Ihre persönlichen Nachrichten zusammen, abonnieren Sie Ressorts und Themen …",
+      "domain": "tagesschau.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Alle Inhalte von der ARD - ZDFmediathek",
+      "url": "https://www.zdf.de/ard",
+      "snippet": "Entdecke die ARD – aktuelle News, große Shows und vieles mehr. Jetzt streamen und regional dabei sein!",
+      "domain": "zdf.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "ARD Programm von heute - TV Movie",
+      "url": "https://www.tvmovie.de/tv/sender-ard",
+      "snippet": "23 uur geleden · Das komplette ARD TV-Programm von heute: Alle Sendetermine, Inhalte und Infos zu Serien und Shows - hier das …",
+      "domain": "tvmovie.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "programm. ARD .de",
+      "url": "http://www.programm.ard.de/Programm/Jetzt-im-TV",
+      "snippet": "programm.ARD.de",
+      "domain": "programm.ard.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Startseite:",
+      "url": "https://www.ard-text.de/mobil/100",
+      "snippet": "ARD Text. Kurznachrichten sind unsere Stärke. Nachrichten der tagesschau, Sport und Programminformationen. Im Fernsehen, im …",
+      "domain": "ard-text.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

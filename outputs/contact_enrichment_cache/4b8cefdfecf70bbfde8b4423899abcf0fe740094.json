@@ -1,0 +1,85 @@
+{
+  "address": "Lijnwaadmarkt 16, 2000 Antwerpen",
+  "address_key": "LIJNWAADMARKT|16|||2000|Antwerpen",
+  "query": "\"Lijnwaadmarkt 16\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "ORF Live",
+      "url": "https://on.orf.at/live",
+      "snippet": "Verpassen Sie nie wieder den Anfang einer Sendung: ORF 1, ORF 2, ORF III, ORF Sport + und ORF KIDS live sehen und bis zu 24 …",
+      "domain": "on.orf.at",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Livestreams - ORF ON",
+      "url": "https://on.orf.at/livestreams",
+      "snippet": "Alle ORF-Livestreams in der Übersicht: ORF 1, ORF 2, ORF III, ORF Sport + und ORF KIDS, Plus „Live Spezial“ zu Sport-Events …",
+      "domain": "on.orf.at",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ORF1 live streamen auf Joyn",
+      "url": "https://www.joyn.at/live-tv/orf1",
+      "snippet": "ORF1 Live-Stream schauen ohne Unterbrechung. 24/7 live ORF1 Programm von heute.",
+      "domain": "joyn.at",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ORF ON Joyn - Das volle Programm der ORF Senderfamilie",
+      "url": "https://www.joyn.at/orf",
+      "snippet": "Auf Joyn bekommst du alle ORF Livestreams sowie die besten ORF Serien, Sendungen, Filme, Reportagen & News in der …",
+      "domain": "joyn.at",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ORF TVTHEK | Mediathek und Österreich-Sender entdecken",
+      "url": "https://oesterreichprogramm.at/orf-tvthek/",
+      "snippet": "ORF TVthek: HD-Streaming von ORF1, ORF2, ORF III, ORFSport+. Nie Sendungen verpassen! Alle Infos auf österreichprogramm.at.",
+      "domain": "oesterreichprogramm.at",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "ORF ON – Apps bei Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.nousguide.android.orftvthek&hl=de-AT",
+      "snippet": "Nutzen Sie die App auf Ihrem Handy oder auf dem großen TV-Screen und genießen Sie auf der erfolgreichsten österreichischen …",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "ORF TV Thek Live - Live Streams",
+      "url": "https://www.glotzdirekt.at/tv/live/orf-tv-thek-live.htm",
+      "snippet": "Wer Sendungen im ORF verpasst hat, kann sie auch per Streaming online in der Mediathek abrufen. ORF TV Thek Live ist ein …",
+      "domain": "glotzdirekt.at",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "ORF 1 Mediathek - Sendung verpasst?",
+      "url": "https://www.sendungverpasst.at/orf-1",
+      "snippet": "23 jun 2026 · Alle Videos, Filme und Serien von ORF 1 und den anderen TV-Sendern sofort finden und kostenlos online abrufen - …",
+      "domain": "sendungverpasst.at",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

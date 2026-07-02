@@ -1,0 +1,85 @@
+{
+  "address": "Plantin En Moretuslei 131, 2140 Borgerhout",
+  "address_key": "PLANTIN EN MORETUSLEI|131|||2140|Borgerhout",
+  "query": "\"Plantin En Moretuslei 131\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "Google Translate",
+      "url": "https://translate.google.com/?hl=iw",
+      "snippet": "השירות של Google, שמוצע בחינם, מתרגם באופן מיידי מילים, ביטויים ודפי אינטרנט מאנגלית למעל 100 שפות.",
+      "domain": "translate.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Hebrew Keyboard Online | Type in Hebrew for FREE! | מקלדת עברית",
+      "url": "https://www.hebrewkeyboard.org/",
+      "snippet": "Type in Hebrew for FREE with our Hebrew Keyboard Online. Type in Hebrew online, and translate Hebrew to English, French and Spanish! It's easy!",
+      "domain": "hebrewkeyboard.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "מילון מורפיקס | ' ןמ'םרג באנגלית | פירוש ' ןמ'םרג בעברית",
+      "url": "https://www.morfix.co.il/%27%d7%9f%d7%9e%27%d7%9d%d7%a8%d7%92",
+      "snippet": "'ןמ'םרג באנגלית- תרגום לאנגלית של המילה 'ןמ'םרג על ידי אתר מורפיקס, מילון עברי אנגלי ואנגלי עברי חינמי המוביל ברשת, הכולל: תרגום, הקראת מילים, משפטי דוגמה, ניקוד בעברית, ניתוח הטיות בעברית ...",
+      "domain": "morfix.co.il",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Morfix Translation - Free Hebrew English Dictionary",
+      "url": "https://www.morfix.co.il/en/",
+      "snippet": "Morfix dictionary, the leading online Hebrew-English and English-Hebrew Dictionary, free translation, with audio pronunciation, inflections, synonyms, example sentences, Hebrew Nikud (punctuation), …",
+      "domain": "morfix.co.il",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Free Online Hebrew Dictionary. Type in Hebrew/English. Translate …",
+      "url": "http://doitinhebrew.com/",
+      "snippet": "Click the Virtual Keyboard above OR just type on your Physical Keyboard! Think aleph sounds like \"a\"? Try it. Gimel sounds like \"g\"? You guessed it again. you guess the rest! Type the wrong letter? …",
+      "domain": "doitinhebrew.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Text reverse for Hebrew - Eliram",
+      "url": "http://www.eliram.com/tools/flipheb.html",
+      "snippet": "Write in the Input box, move the cursor to the Reverse box to see the result. Use CTRL + RIGHT-SHIFT to align text to the right. Do not reverse Numbers! Do not reverse Dots, Slashes, Colons & Dashes …",
+      "domain": "eliram.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "כניסה - Microsoft OneDrive",
+      "url": "https://onedrive.live.com/login/he-il/",
+      "snippet": "היכנס ל- OneDrive באמצעות חשבון Microsoft או Office 365.",
+      "domain": "onedrive.live.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google Translate",
+      "url": "https://translate.google.co.il/?hl=en&tl=iw",
+      "snippet": "Google's service, offered free of charge, instantly translates words, phrases, and web pages between English and over 100 other languages.",
+      "domain": "translate.google.co.il",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

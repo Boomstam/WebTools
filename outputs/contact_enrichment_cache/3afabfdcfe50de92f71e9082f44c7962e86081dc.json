@@ -1,0 +1,117 @@
+{
+  "address": "Rodekruislaan 4 bus 42, 2600 Berchem",
+  "address_key": "RODEKRUISLAAN|4||42|2600|Berchem",
+  "query": "\"Rodekruislaan 4\" \"2600\" \"Berchem\"",
+  "results": [
+    {
+      "title": "Appartement te koop in Rodekruislaan 3 Antwerpen",
+      "url": "https://www.immoscoop.be/te-koop/2600-berchem/1082229",
+      "snippet": "Appartement te koop Rodekruislaan 3 Antwerpen, € 219.000, Bewoonbare opp. 86 m², EPC B, 2 Slaapkamers, 1 Badkamer. Ontdek alle foto's en details",
+      "domain": "immoscoop.be",
+      "score": 75,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Appartementen te koop in Rodekruislaan, Gitschotel, Berchem (2600 )",
+      "url": "https://www.realo.be/nl/search/appartement/te-koop/berchem-2600/rodekruislaan",
+      "snippet": "Op Realo vind je 4 appartementen te koop in Rodekruislaan, Gitschotel, Berchem (2600). Bekijk publicaties met foto's, verkoopgeschiedenis en gebruik onze gedetailleerde filters om het perfecte …",
+      "domain": "realo.be",
+      "score": 75,
+      "reasons": [
+        "straat",
+        "huisnr",
+        "postcode",
+        "district",
+        "vastgoed/noise"
+      ],
+      "page_title": "",
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Berchem, Appartement - Mooi 2 slaapkamerappartement gelegen op …",
+      "url": "https://immoprimo.be/nl/aanbod/4157307/appartement-te-koop-in-2600-berchem",
+      "snippet": "In het hart van het geliefde Berchem, op de Rodekruislaan 3, bevindt zich dit instapklare en lichtrijke 2-slaapkamerappartement met terras en adembenemend zicht over de stad.",
+      "domain": "immoprimo.be",
+      "score": 75,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Te Koop | Rodekruislaan 3 21, 2600 Antwerpen | 7721185",
+      "url": "https://deboerenpartners.be/koop/detail/7721185/te-koop-appartement-panoramisch-en-lichtrijk-2-slpk-appartement",
+      "snippet": "Dit ruime en lichtrijke appartement van 87 m² op de 9de verdieping onderscheidt zich meteen door het open, panoramische uitzicht over Antwerpen. In de leefruimte valt ’s avonds de zon binnen, …",
+      "domain": "deboerenpartners.be",
+      "score": 65,
+      "reasons": [
+        "straat",
+        "postcode"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Rodekruislaan 3 21 - 2600 Antwerpen - 7691983 | Immospeurder",
+      "url": "https://www.immospeurder.com/koop/huis/antwerpen/2600/7691983/",
+      "snippet": "10 jun 2026 · Rodekruislaan 3 21 - 2600 Antwerpen - Dit ruime en lichtrijke appartement van 87 m² op de 9de verdieping onderscheidt zich meteen door het open, panoramische uitzicht over Antwerpen.",
+      "domain": "immospeurder.com",
+      "score": 65,
+      "reasons": [
+        "straat",
+        "postcode"
+      ]
+    },
+    {
+      "title": "Appartement te koop in Berchem (2600) - € 218.000 - Immoweb",
+      "url": "https://www.immoweb.be/nl/zoekertje/appartement/te-koop/berchem-2600/2600/21038729",
+      "snippet": "In het hart van het geliefde Berchem, op de Rodekruislaan 3, bevindt zich dit instapklare en lichtrijke 2-slaapkamerappartement met terras en adembenemend zicht over de stad.",
+      "domain": "immoweb.be",
+      "score": 55,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district",
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Appartement te koop in Antwerpen - € 219.000 - Immoweb",
+      "url": "https://www.immoweb.be/nl/zoekertje/appartement/te-koop/antwerpen/2600/21430506",
+      "snippet": "Ontdek dit te koop appartement en Antwerpen. Prijs: € 219.000. Adres: Rodekruislaan 3 2600 — Antwerpen",
+      "domain": "immoweb.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "postcode",
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Rodekruislaan , Antwerpen - Vastgoed te koop | Immoscoop",
+      "url": "https://www.immoscoop.be/zoeken/te-koop/lt/te-koop-rodekruislaan-in-antwerpen",
+      "snippet": "Ontdek alle huizen en appartementen te koop in de Rodekruislaan in Antwerpen. Bekijk het actuele aanbod, de gemiddelde woningprijs en prijs per m².",
+      "domain": "immoscoop.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

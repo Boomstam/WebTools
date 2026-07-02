@@ -1,0 +1,85 @@
+{
+  "address": "Corbletstraat 8, 2100 Deurne",
+  "address_key": "CORBLETSTRAAT|8|||2100|Deurne",
+  "query": "\"Corbletstraat 8\" \"2100\" \"Deurne\"",
+  "results": [
+    {
+      "title": "Google Translate",
+      "url": "https://translate.google.com/",
+      "snippet": "Google's service, offered free of charge, instantly translates words, phrases, and web pages between English and over 100 other languages.",
+      "domain": "translate.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Translate",
+      "url": "https://translate.google.com/details",
+      "snippet": "Some sentences may contain gender-specific alternatives. Click a sentence to see alternatives. Learn more",
+      "domain": "translate.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Übersetzer – dein persönlicher Übersetzer auf deinem …",
+      "url": "https://translate.google.com/intl/de/about/",
+      "snippet": "Hier erfährst du, wie du mit Google Übersetzer Text, gesprochene Sprache, Bilder, Dokumente, Websites und vieles mehr übersetzen kannst.",
+      "domain": "translate.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Translate - Een persoonlijke tolk op je telefoon of computer",
+      "url": "https://translate.google.com/intl/nl/about/",
+      "snippet": "Je wereld begrijpen en communiceren in verschillende talen met Google Translate. Vertaal tekst, spraak, afbeeldingen, documenten, websites en meer op al je apparaten.",
+      "domain": "translate.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "谷歌翻译 - 手机或计算机上的个人随身口译工具",
+      "url": "https://translate.google.com/intl/zh-CN/about/",
+      "snippet": "谷歌翻译助您了解世界，与不同语言的人士轻松交流。在各种设备上翻译文本、语音内容、图片、文档、网站和其他内容。",
+      "domain": "translate.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google Traductor: Un intérprete personal en tu teléfono o computadora",
+      "url": "https://translate.google.com/intl/es-419/about/",
+      "snippet": "Descubre cómo traducir texto, conversaciones, imágenes, documentos, sitios web y mucho más con Google Traductor.",
+      "domain": "translate.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google Translate",
+      "url": "https://translate.google.com/m",
+      "snippet": "Detect language→ English Google home",
+      "domain": "translate.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google Translate - A Personal Interpreter on Your Phone or Computer",
+      "url": "https://translate.google.com/about/",
+      "snippet": "Learn how to translate text, speech, images, documents, websites, and more with Google Translate.",
+      "domain": "translate.google.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

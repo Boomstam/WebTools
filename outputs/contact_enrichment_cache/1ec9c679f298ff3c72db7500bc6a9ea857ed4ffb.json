@@ -1,0 +1,111 @@
+{
+  "address": "Kasteelpleinstraat 12, 2000 Antwerpen",
+  "address_key": "KASTEELPLEINSTRAAT|12|||2000|Antwerpen",
+  "query": "\"Kasteelpleinstraat 12\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Kasteelpleinstraat , Gemeente Antwerpen ( Antwerpen , Theaterbuurt …",
+      "url": "https://straten.openalfa.be/straten/kasteelpleinstraat-2000-theaterbuurt-meir-antwerpen-antwerpen",
+      "snippet": "Idyllestraat, 1080, Sint-Jans-Molenbeek, Brussel Hoofdstad Eenboomstraat, 1140, Evere, Brussel Hoofdstad Startpagina » Vlaanderen » Provincie Antwerpen » Arrondissement Antwerpen » …",
+      "domain": "straten.openalfa.be",
+      "score": 75,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Winkels in de straat Kasteelpleinstraat Antwerpen - Openingsuren. Vlaanderen",
+      "url": "https://www.openingsuren.vlaanderen/2000-antwerpen/kasteelpleinstraat",
+      "snippet": "Al de winkels en handelszaken gelegen langs Kasteelpleinstraat in Antwerpen. Naast de verschillende winkels vind je ook de contactgegevens zoals het adres en telefoonnummer van de handelszaken …",
+      "domain": "openingsuren.vlaanderen",
+      "score": 75,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Kasteelpleinstraat 58 · Kasteelpleinstraat 58, 2000 Antwerpen , …",
+      "url": "https://www.google.com/maps/search/Kasteelpleinstraat%2058,%202000%20Antwerpen",
+      "snippet": "Building",
+      "domain": "google.com",
+      "score": 55,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district",
+        "vastgoed/noise"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Kasteelpleinstraat, Gemeente Antwerpen (Antwerpen )",
+      "url": "https://straten.openalfa.be/straten/kasteelpleinstraat-antwerpen",
+      "snippet": "Lijst met diensten in de buurt van Kasteelpleinstraat: winkels, restaurants, vrijetijds- en sportfaciliteiten, ziekenhuizen, benzinestations en andere interessante plaatsen.",
+      "domain": "straten.openalfa.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Kasteelpleinstraat , Antwerpen - Vastgoed te koop | Immoscoop",
+      "url": "https://www.immoscoop.be/zoeken/te-koop/lt/te-koop-kasteelpleinstraat-in-antwerpen-b956",
+      "snippet": "Aan de Kasteelpleinstraat in Antwerp wonen, betekent kiezen voor een toplocatie met een unieke sfeer. De buurt staat bekend om zijn levendige karakter en de nabijheid van alles wat het leven …",
+      "domain": "immoscoop.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ]
+    },
+    {
+      "title": "Hoe kom je bij Kasteelpleinstraat in Antwerpen met bus, tram",
+      "url": "https://moovitapp.com/index/nl/openbaar_vervoer-Kasteelpleinstraat-Belgium-site_22725961-1682",
+      "snippet": "Hoe gaan naar Kasteelpleinstraat via de trein? Klik op de treinroute om een stap-per-stap wegbeschrijving te bekijken met kaarten, aankomsttijden en actuele dienstregelingen.",
+      "domain": "moovitapp.com",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ]
+    },
+    {
+      "title": "Kasteelpleinstraat - Inventaris Onroerend Erfgoed",
+      "url": "https://inventaris.onroerenderfgoed.be/waarnemingsobjecten/987803",
+      "snippet": "Van noord naar zuid werden put 4 en 5 uitgegraven op een geheel van muren met verschillende verbouwingsfasen, die verband hielden met de laatmiddeleeuwse Begijnenpoort, waarvan de …",
+      "domain": "inventaris.onroerenderfgoed.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Kasteelpleinstraat - Inventaris Onroerend Erfgoed",
+      "url": "https://inventaris.onroerenderfgoed.be/themas/11306",
+      "snippet": "De Kasteelpleinstraat is een rechte straat die de Amerikalei met de Kronenburgstraat verbindt. De straat vormt samen met de Kronenburgstraat de noordoostelijke grens van het Zuidkwartier.",
+      "domain": "inventaris.onroerenderfgoed.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

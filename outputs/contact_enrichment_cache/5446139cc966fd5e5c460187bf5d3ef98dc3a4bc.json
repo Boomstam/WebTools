@@ -1,0 +1,85 @@
+{
+  "address": "Gravinstraat 44, 2140 Borgerhout",
+  "address_key": "GRAVINSTRAAT|44|||2140|Borgerhout",
+  "query": "\"Gravinstraat 44\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "Mail Orange : boite mail , adresse mail , compte messagerie ...",
+      "url": "https://messagerie.orange.fr/mail.html",
+      "snippet": "Le mail Orange vous permet d'envoyer et recevoir des mails de façon simple et sécurisée. Créez plusieurs adresses et bénéficiez de fonctionnalités adaptées à ...",
+      "domain": "messagerie.orange.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Mail Orange : découvrez la messagerie et accédez à vos mails",
+      "url": "https://messagerie.orange.fr/",
+      "snippet": "La messagerie Orange vous offre un ensemble de services pour communiquer facilement en toute sécurité",
+      "domain": "messagerie.orange.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Accéder à votre Espace client",
+      "url": "https://espace-client.orange.fr/page-accueil",
+      "snippet": "accessible 7j/7 24h sur 24h votre Espace Client permet de consulter ou payer votre facture Orange, changer ou commander une carte sim, retrouver votre code puk",
+      "domain": "espace-client.orange.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Portail Orange | Offres Mobiles, Internet, TV , Actu & Accès compte Mail",
+      "url": "https://www.orange.fr/portail",
+      "snippet": "Accès rapide et facile à toutes les fonctionnalités Orange (Email, Assistance, Banque, Boutique). Découvrez notre portail Orange et ses contenus.",
+      "domain": "orange.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Espace Client Orange",
+      "url": "https://espace-client.orange.fr/compte/mail",
+      "snippet": "Découvrez les boutiques proches de chez vous Trouver une boutique Accueil Orange Aide et contact Livraisons Retours, rétractations Forum d'entraide",
+      "domain": "espace-client.orange.fr",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Téléchargement de l'appli Orange Mail , messagerie d' Orange ...",
+      "url": "https://applications-et-logiciels.orange.fr/applications/orange-mail",
+      "snippet": "Avec l'application de la messagerie Orange, envoyez et recevez vos mails de façon simple et sécurisée. Bénéficiez de 10 Go de stockage .",
+      "domain": "applications-et-logiciels.orange.fr",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Accéder à mon mail Orange",
+      "url": "https://communaute.orange.fr/t5/mon-mail-Orange/Acc%C3%A9der-%C3%A0-mon-mail-Orange/td-p/36",
+      "snippet": "2 aug 2013 · Bonjour Dès que j'arrive sur la page de la boîte de réception, l'écran de celle ci devient tout blanc. Je ne visualise qu'en 1 seconde l'ensemble des mails reçus. Cela fait 3 jours que ça dure et …",
+      "domain": "communaute.orange.fr",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Mail Orange : gérer tous les paramètres - Aide et Contact Orange",
+      "url": "https://assistance.orange.fr/ordinateurs-peripheriques/installer-et-utiliser/l-utilisation-du-mail-et-services-associes/mail-orange/parametrer-la-boite-mail/mail-orange-gerer-tous-les-parametres_237861-729955",
+      "snippet": "2 jun 2026 · Les paramètres de votre boite mail Orange vous permettent de gérer vos e-mails envoyés ou supprimés, créer votre signature, activer votre message d'absence, transférer vos e-mails vers …",
+      "domain": "assistance.orange.fr",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

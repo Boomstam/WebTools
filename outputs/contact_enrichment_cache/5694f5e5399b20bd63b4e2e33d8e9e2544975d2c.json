@@ -1,0 +1,85 @@
+{
+  "address": "Turnhoutsebaan 308, 2140 Borgerhout",
+  "address_key": "TURNHOUTSEBAAN|308|||2140|Borgerhout",
+  "query": "\"Turnhoutsebaan 308\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/zh-hans/windows/forum/windows_10-update/windows-10-%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0/6a1ae4b8-8063-4686-b53b-c213ba3399be",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://www.answers.microsoft.com/fr-fr/windows/forum/all/ecran-sans-fil-pilote-widi-windows-10/",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/en-us/msoffice/forum/all/one-drive-for-business-sharepoint-sync-green-lock/46a13188-2951-4665-bf28-f872d18a7e3f",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/pt-br/windows/forum/windows_7-performance/habilitar-usb-frontal-do-gabinete/e057686d-c2dc-4035-abd8-86836bc74b06",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/es-es/windows/forum/windows_10-windows_store-winpc/windows-10-error-0x80072f8f-al-desacargar/1e7726f5-6c2c-41a5-b3a9-8bd65b6f9401",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/ja-jp/msoffice/forum/all/%e3%83%9c%e3%82%bf%e3%83%b3%e6%a9%9f%e8%83%bd/b341ce01-4bdc-4f8d-a575-df339c0371aa?LastReply=true",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/nb-no/windows/forum/windows_10-desktop-winpc/koble-iphone-til-itunes/dba260b5-6457-4459-83a8-ddb7a664876a",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/th-th/windows/forum/windows_10-windows_install/%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%A7/f73910db-c13c-4dff-afec-92043c57206b",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

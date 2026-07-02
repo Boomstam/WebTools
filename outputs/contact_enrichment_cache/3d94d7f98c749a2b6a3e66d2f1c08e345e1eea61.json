@@ -1,0 +1,85 @@
+{
+  "address": "Sneeuwbeslaan 7, 2610 Wilrijk",
+  "address_key": "SNEEUWBESLAAN|7|||2610|Wilrijk",
+  "query": "\"Sneeuwbeslaan 7\" \"2610\" \"Wilrijk\"",
+  "results": [
+    {
+      "title": "Turn Restricted Mode on or off on YouTube - Google Help",
+      "url": "https://support.google.com/youtube/answer/174084?hl=en&co=GENIE.Platform%3DDesktop",
+      "snippet": "Restricted Mode is an optional setting that you can use on YouTube. This feature can help screen out potentially mature content that you or others using your devices may prefer not to view. Computers in …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Verify your YouTube account - YouTube Help - Google Help",
+      "url": "https://support.google.com/youtube/answer/171664?hl=en",
+      "snippet": "Verify your YouTube account To verify your channel, you’ll be asked to enter a phone number. We’ll send a verification code by text or voice call to that phone number. Once you've verified your …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to earn money on YouTube",
+      "url": "https://support.google.com/youtube/answer/72857?hl=en",
+      "snippet": "How to earn money on YouTube We’re expanding the YouTube Partner Program (YPP) to more creators with earlier access to fan funding and Shopping features. The expanded YouTube Partner …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Create an account on YouTube - Computer - YouTube Help",
+      "url": "https://support.google.com/youtube/answer/161805?hl=en&co=GENIE.Platform%3DDesktop",
+      "snippet": "Create an account on YouTube To sign in to YouTube, you'll need to create a Google Account. A Google Account lets you use many YouTube features including Like, Subscribe, Watch Later, and …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "YouTube recommended upload encoding settings - YouTube Help",
+      "url": "https://support.google.com/youtube/answer/1722171?hl=en",
+      "snippet": "These features are only available to partners who use YouTube Studio Content Manager. Below are recommended upload encoding settings for your videos on YouTube. Container: MP4",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "YouTube's Community Guidelines - Google Help",
+      "url": "https://support.google.com/youtube/answer/9288567?hl=en",
+      "snippet": "YouTube's Community Guidelines When you use YouTube, you join a community of people from all over the world. The guidelines below help keep YouTube fun and enjoyable for everyone. If you see …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Upload YouTube videos - Computer - YouTube Help - Google Help",
+      "url": "https://support.google.com/youtube/answer/57407?hl=en&co=GENIE.Platform%3DDesktop",
+      "snippet": "You can upload videos to YouTube in a few easy steps. Use the instructions below to upload your videos from a computer or mobile device. Note: Uploading may not be available with supervised …",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Manage your YouTube channel’s profile - Computer - YouTube Help",
+      "url": "https://support.google.com/youtube/answer/2657964?hl=en&co=GENIE.Platform%3DDesktop",
+      "snippet": "You can manage your YouTube channel to make changes such as channel name, description, translations, and links.",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

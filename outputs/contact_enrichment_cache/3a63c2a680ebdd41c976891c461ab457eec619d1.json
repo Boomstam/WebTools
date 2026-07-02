@@ -1,0 +1,85 @@
+{
+  "address": "Bredabaan 138, 2170 Merksem",
+  "address_key": "BREDABAAN|138|||2170|Merksem",
+  "query": "\"Bredabaan 138\" \"2170\" \"Merksem\"",
+  "results": [
+    {
+      "title": "GitHub - affaan-m/ECC: The agent harness performance optimization ...",
+      "url": "https://github.com/affaan-m/ECC",
+      "snippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude …",
+      "domain": "github.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "musistudio/claude-code-router - GitHub",
+      "url": "https://github.com/musistudio/claude-code-router",
+      "snippet": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying …",
+      "domain": "github.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Claude AI là gì? Cách đăng ký tài khoản và sử dụng Claude AI",
+      "url": "https://cellphones.com.vn/sforum/cach-su-dung-claude-ai",
+      "snippet": "20 mrt 2026 · Tìm hiểu Claude AI là gì? Hướng dẫn cách đăng ký tài khoản và sử dụng Claude AI khám phá những tính năng nổi …",
+      "domain": "cellphones.com.vn",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "知乎 - 有问题，就会有答案",
+      "url": "https://www.zhihu.com/signin",
+      "snippet": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "如何评价 Anthropic 发布的 Claude Fable 5？ - 知乎",
+      "url": "https://www.zhihu.com/question/2047851398734394746",
+      "snippet": "9 jun 2026 · Claude是一款备受海外创作者和开发者喜爱的AI工具，在长文本处理和复杂推理方面表现卓越，其3.7Sonnet版本在代码 …",
+      "domain": "zhihu.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Claude Cowork là gì? Cách sử dụng Claude Cowork từ A-Z",
+      "url": "https://cellphones.com.vn/sforum/cach-su-dung-claude-cowork",
+      "snippet": "20 mei 2026 · Claude Cowork là gì? Tìm hiểu tính năng, lợi ích và cách sử dụng Claude Cowork từ A-Z để cộng tác, làm việc nhóm …",
+      "domain": "cellphones.com.vn",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "andrej-karpathy-skills/CLAUDE.md at main - GitHub",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills/blob/main/CLAUDE.md",
+      "snippet": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. - …",
+      "domain": "github.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Cách tạo PowerPoint bằng Claude AI đơn giản và chi tiết",
+      "url": "https://cellphones.com.vn/sforum/cach-tao-powerpoint-bang-claude-ai",
+      "snippet": "31 mei 2026 · Tạo PowerPoint bằng Claude AI đang trở thành một xu hướng mới trong cách chuẩn bị bài thuyết trình hiện đại.",
+      "domain": "cellphones.com.vn",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

@@ -1,0 +1,107 @@
+{
+  "address": "Lamorinièrestraat 149, 2018 Antwerpen",
+  "address_key": "LAMORINIÈRESTRAAT|149|||2018|Antwerpen",
+  "query": "\"Lamorinièrestraat 149\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "De Rotonde Zorgbedrijf Antwerpen",
+      "url": "https://www.zorgbedrijf.antwerpen.be/de-rotonde",
+      "snippet": "Lamorinièrestraat 236 2018 Antwerpen 03 431 44 56 of stuur ons een e-mail Vraag jouw vervoer aan of kom met tram of bus",
+      "domain": "zorgbedrijf.antwerpen.be",
+      "score": 75,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Lamorinièrestraat , Gemeente Antwerpen ( Antwerpen , Haringrode, …",
+      "url": "https://straten.openalfa.be/straten/lamorinierestraat-groen-kwartier-haringrode-antwerpen-antwerpen",
+      "snippet": "U kunt een kaart en een lijst van locaties en diensten die beschikbaar zijn in de buurt van Lamorinièrestraat te vinden. Hotels, restaurants, sportfaciliteiten, scholen, geldautomaten, …",
+      "domain": "straten.openalfa.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Hoe kom je bij Lamorinièrestraat in Antwerpen met bus, tram",
+      "url": "https://moovitapp.com/index/nl/openbaar_vervoer-Lamorini%C3%A8restraat-Belgium-site_11374005-1682",
+      "snippet": "Hoe gaan naar Lamorinièrestraat via de bus? Klik op de busroute om een stap-per-stap wegbeschrijving te bekijken met kaarten, aankomsttijden en actuele dienstregelingen.",
+      "domain": "moovitapp.com",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Lamorinièrestraat , Gemeente Antwerpen (Antwerpen, Haringrode)",
+      "url": "https://straten.openalfa.be/straten/lamorinierestraat-haringrode-antwerpen-antwerpen",
+      "snippet": "U kunt een kaart en een lijst van locaties en diensten die beschikbaar zijn in de buurt van Lamorinièrestraat te vinden. Hotels, restaurants, sportfaciliteiten, scholen, geldautomaten, …",
+      "domain": "straten.openalfa.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Winkels in de straat Lamorinièrestraat Antwerpen",
+      "url": "https://www.openingsuren.vlaanderen/2000-antwerpen/lamorinierestraat",
+      "snippet": "Al de winkels en handelszaken gelegen langs Lamorinièrestraat in Antwerpen. Naast de verschillende winkels vind je ook de contactgegevens zoals het adres en telefoonnummer van de handelszaken …",
+      "domain": "openingsuren.vlaanderen",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ]
+    },
+    {
+      "title": "Lamorinièrestraat - Inventaris Onroerend Erfgoed",
+      "url": "https://inventaris.onroerenderfgoed.be/themas/11765",
+      "snippet": "Lange straat met geknikt tracé tussen de Mercatorstraat (spoorwegberm) en de Mechelsesteenweg (Koning Albertpark), in 1845 samen met de Provinciestraat geopend als provinciale weg tussen …",
+      "domain": "inventaris.onroerenderfgoed.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Lamorinièrestraat - Inventaris Onroerend Erfgoed",
+      "url": "https://inventaris.onroerenderfgoed.be/teksten/188585",
+      "snippet": "Tot 1911 droeg het tracé van de huidige Lamorinièrestraat de benaming Provinciestraat-Zuid, en het tracé van de huidige Provinciestraat de benaming Provinciestraat-Noord.",
+      "domain": "inventaris.onroerenderfgoed.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Sociaal centrum Plein (Antwerpen)",
+      "url": "https://www.antwerpen.be/contact/sociaal-centrum-plein-antwerpen",
+      "snippet": "Heb je een precair verblijfsstatuut? Dan kan je bij sociaal centrum Plein in Antwerpen terecht. Een maatschappelijk werker bekijkt waarmee hij je kan helpen, bijvoorbeeld dringende medische hulp.",
+      "domain": "antwerpen.be",
+      "score": 10,
+      "reasons": [
+        "district"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

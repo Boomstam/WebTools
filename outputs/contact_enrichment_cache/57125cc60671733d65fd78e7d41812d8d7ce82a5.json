@@ -1,0 +1,85 @@
+{
+  "address": "Falconplein 36, 2000 Antwerpen",
+  "address_key": "FALCONPLEIN|36|||2000|Antwerpen",
+  "query": "\"Falconplein 36\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Google",
+      "url": "https://www.google.de/",
+      "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+      "domain": "google.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Über Google : Unsere Produkte, Technologien und das Unternehmen",
+      "url": "https://about.google/intl/de_ALL/",
+      "snippet": "Alles rund um Google: Unsere innovativen KI‑Produkte und ‑Dienste – und wie unsere Technologien Menschen auf der ganzen Welt helfen.",
+      "domain": "about.google",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com.nf/?hl=de-US",
+      "snippet": "Google gibt es auch auf: English Werbeprogramme Über Google Google.com",
+      "domain": "google.com.nf",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "www. google .de.com",
+      "url": "https://www.google.de.com/",
+      "snippet": "Google's search engine provides users with fast, relevant search results and a wide range of additional services.",
+      "domain": "google.de.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Home [search. google ]",
+      "url": "https://search.google/intl/de-DE/",
+      "snippet": "Explore new ways to search. Download the Google app to experience Lens, AR, Search Labs, voice search, and more.",
+      "domain": "search.google",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "The Keyword Deutschland",
+      "url": "https://blog.google/intl/de-de/",
+      "snippet": "Von der Festlegung hilfreicher Leitplanken bis hin zu kreativen DIY-Ideen - mit den Tools von Google und YouTube könnt ihr die Bildschirmzeit eurer Kinder in den Sommerf…",
+      "domain": "blog.google",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Google",
+      "snippet": "Google ist eine Websuchmaschine des US-amerikanischen Unternehmens Google LLC. Die Suchmaschine ist in viele Webbrowser standardmäßig integriert, so z. B. in Googles eigenem …",
+      "domain": "de.wikipedia.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google Search - A new kind of help",
+      "url": "https://search.google/",
+      "snippet": "Explore a new kind of help for your everyday with breakthroughs in Search intelligence from Google I/O.",
+      "domain": "search.google",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

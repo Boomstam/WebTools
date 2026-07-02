@@ -1,0 +1,85 @@
+{
+  "address": "Fruithoflaan 87 bus 7, 2600 Berchem",
+  "address_key": "FRUITHOFLAAN|87||7|2600|Berchem",
+  "query": "\"Fruithoflaan 87\" \"2600\" \"Berchem\"",
+  "results": [
+    {
+      "title": "google mail",
+      "url": "https://mail.google.com/mail/?hl=fr",
+      "snippet": "Nous voudrions effectuer une description ici mais le site que vous consultez ne nous en laisse pas la possibilité.",
+      "domain": "mail.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Connexion Gmail : comment se connecter à la messagerie",
+      "url": "https://www.commentcamarche.net/applis-sites/mail/441-se-connecter-a-gmail/",
+      "snippet": "7 apr 2025 · Vous débutez avec Gmail et vous ne savez pas comment accéder à votre compte ? Rien de plus simple ! Sur ordinateur comme sur mobile, vous n'avez besoin que de votre adresse et de …",
+      "domain": "commentcamarche.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Comment se connecter à Gmail , consulter sa boite et lire ses mails ?",
+      "url": "https://www.webrankinfo.com/google/guide-gmail/connexion-gmail",
+      "snippet": "23 mei 2026 · Comment se connecter à Gmail, consulter sa boite et lire ses mails ? Découvrez les 3 meilleures méthodes pour vous connecter à votre compte Gmail, accéder à votre boîte de réception …",
+      "domain": "webrankinfo.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Ouvrir ma boîte Gmail sur un ordinateur ou un téléphone portable",
+      "url": "https://www.journaldufreenaute.fr/ouvrir-ma-boite-gmail-sur-un-ordinateur-ou-un-telephone-portable/",
+      "snippet": "24 jan 2026 · Accédez facilement à votre boîte Gmail sur ordinateur ou téléphone portable grâce à notre guide détaillé. Suivez nos étapes simples pour vous connecter rapidement et résoudre les …",
+      "domain": "journaldufreenaute.fr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Gmail Messagerie : Connexion à votre boite de réception",
+      "url": "https://www.idhd.fr/acces-gmail-e-mails/",
+      "snippet": "28 jan 2026 · Découvrez comment ouvrir Gmail et lire vos e-mails facilement sur ordinateur ou smartphone grâce à notre guide pratique pas à pas.",
+      "domain": "idhd.fr",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Se connecter à Gmail",
+      "url": "https://support.google.com/mail/answer/8494?hl=fr&co=GENIE.Platform%3DDesktop",
+      "snippet": "Pour ouvrir Gmail, vous pouvez vous connecter à partir d'un ordinateur ou ajouter votre compte à l'application Gmail sur votre téléphone ou votre tablette. Une fois que vous êtes connecté,...",
+      "domain": "support.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Comment se connecter à sa boîte Gmail et lire ses mails : sur ... - HSC",
+      "url": "https://www.hsc.fr/comment-se-connecter-a-sa-boite-gmail-et-lire-ses-mails-sur-ordinateur-ou-sur-telephone/",
+      "snippet": "26 mei 2024 · Si vous l’avez, il vous suffit de l’ouvrir pour accéder à son interface de connexion. Saisissez votre adresse email de connexion puis votre mot de passe. Si vos informations de …",
+      "domain": "hsc.fr",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Ouvrir ma boîte mail : se connecter, ouvrir et lire ses mails",
+      "url": "https://www.intronaut.net/ouvrir-ma-boite-mail-se-connecter-ouvrir-et-lire-ses-mails/",
+      "snippet": "4 dagen geleden · Une fois connecté, vous trouverez votre boîte de réception, où vous pourrez cliquer sur vos mails pour les ouvrir et les consulter. Vous trouverez également vos brouillons, qui sont les …",
+      "domain": "intronaut.net",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

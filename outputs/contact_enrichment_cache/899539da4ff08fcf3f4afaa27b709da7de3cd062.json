@@ -1,0 +1,85 @@
+{
+  "address": "Leguit 29, 2000 Antwerpen",
+  "address_key": "LEGUIT|29|||2000|Antwerpen",
+  "query": "\"Leguit 29\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "iPhone - Apple（日本）",
+      "url": "https://www.apple.com/jp/iphone/",
+      "snippet": "iPhoneでグループ写真を撮る時は、Apple Watchをファインダーにして撮影すれば、あなたもみんなと一緒に写れます。 Apple Watchで電話に出たあと、iPhoneをタップしてiPhoneで会話を続けるこ …",
+      "domain": "apple.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "iPhone - Apple (FR)",
+      "url": "https://www.apple.com/fr/iphone/",
+      "snippet": "Conçus pour Apple Intelligence. Découvrez l’iPhone 17 Pro, l’iPhone Air, l’iPhone 17 et l’iPhone 17e, qui rejoignent l’iPhone 16.",
+      "domain": "apple.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "iPhone - Apple (DE)",
+      "url": "https://www.apple.com/de/iphone/",
+      "snippet": "Entwickelt für Apple Intelligence. Entdecke das iPhone 17 Pro, iPhone Air, iPhone 17, iPhone 17e und das iPhone 16.",
+      "domain": "apple.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "iPhone - Apple (ES)",
+      "url": "https://www.apple.com/es/iphone/",
+      "snippet": "Diseñados para Apple Intelligence. Descubre el iPhone 17 Pro, iPhone Air, iPhone 17 y iPhone 17e, y también el iPhone 16.",
+      "domain": "apple.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "iPhone - Comparer les modèles - Apple (FR)",
+      "url": "https://www.apple.com/fr/iphone/compare/",
+      "snippet": "Comparez les fonctionnalités et les caractéristiques des iPhone 17 Pro, iPhone 17 Pro Max, iPhone Air, iPhone 17, iPhone 17e et d’autres modèles.",
+      "domain": "apple.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "iPhone - Apple (IT)",
+      "url": "https://www.apple.com/it/iphone/",
+      "snippet": "Progettati per Apple Intelligence. Scopri iPhone 17 Pro, iPhone Air, iPhone 17 e iPhone 17e, insieme ad iPhone 16.",
+      "domain": "apple.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "iPhone - Official Apple Support",
+      "url": "https://support.apple.com/iphone",
+      "snippet": "Learn how to set up and use your iPhone. Find all the topics, resources, and contact options you need for iPhone.",
+      "domain": "support.apple.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Apple Store Online - Apple (DE)",
+      "url": "https://www.apple.com/de/store",
+      "snippet": "Sieh dir die neuesten Apple Produkte, Zubehör und Angebote an. Erhalte Hilfe beim Kauf sowie flexible Zahlungs- und Lieferoptionen.",
+      "domain": "apple.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

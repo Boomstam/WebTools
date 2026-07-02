@@ -1,0 +1,85 @@
+{
+  "address": "Statiestraat 69, 2600 Berchem",
+  "address_key": "STATIESTRAAT|69|||2600|Berchem",
+  "query": "\"Statiestraat 69\" \"2600\" \"Berchem\"",
+  "results": [
+    {
+      "title": "Sportschau - Sport-News, Live-Ticker, Videos, Ergebnisse und Tabellen",
+      "url": "https://www.sportschau.de/",
+      "snippet": "Der Sportschau-Rasen-Talk Wimbledon Daily: Williams ohne Drama, Zverev auch verbal schlagfertig Wimbledon-Fahrplan Die Topspiele am Mittwoch im Überblick Mehr zu Wimbledon",
+      "domain": "sportschau.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ARD Sport: Live und Ergebnisse | Sportschau .de",
+      "url": "https://www.sportschau.de/live-und-ergebnisse",
+      "snippet": "Heute live: alle Ergebnisse, Tabellen und Ticker im Livecenter der ARD Sportschau: Fußball, Handball, Basketball und viele weitere Sportarten.",
+      "domain": "sportschau.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Sport Livestreams und Highlights: alle Videos der ARD",
+      "url": "https://www.ardmediathek.de/sport/40",
+      "snippet": "England gegen DR Kongo im Tactical Feed Sportschau FIFA WM 2026 ∙ Das Erste • LIVESeit 17:00 Uhr",
+      "domain": "ardmediathek.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Sport-Livestreams der ARD",
+      "url": "https://www.ardmediathek.de/sammlung/die-sport-livestreams-der-ard/livestreams-ard-",
+      "snippet": "Kane und nochmal Kane! England dreht das Spiel Sportschau FIFA WM 2026 ∙ Das Erste LIVE Ab 13:00 Uhr",
+      "domain": "ardmediathek.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ARD .de – TV, Radio, Streams, News, Sport und alles zur ARD",
+      "url": "https://www.ard.de/",
+      "snippet": "Sportschau – aktuell und hintergründig, alles zum Sportsportschau ARD Sounds – Podcasts, Hörspiele und Live-Radioardsounds KiKA – Das Beste für Kinderkika Ein ARD-Konto für alle Mit dem ARD …",
+      "domain": "ard.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Aktuelle Sportmeldungen | tagesschau.de",
+      "url": "https://www.tagesschau.de/sport",
+      "snippet": "In der Gruppe E der Fußball-Weltmeisterschaft trifft Deutschland auf Ecuador. Verfolgen Sie die Berichterstattung im Ersten hier im Livestream. sportschau",
+      "domain": "tagesschau.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Sportschau -Radio: Die WM 2026 live und kostenlos hören",
+      "url": "https://www.tagesschau.de/sport/die-wm-2026-live-hoeren-bei-der-sportschau,how-to-audio-live-wm-2026-100.html",
+      "snippet": "8 jun 2026 · Die wichtigsten Spiele der WM 2026 können Sie bei der Sportschau live, kostenlos und in kompletter Länge ohne Unterbrechungen hören - im Auto besonders komfortabel.",
+      "domain": "tagesschau.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Live & TV - ZDF",
+      "url": "https://www.zdf.de/live-tv",
+      "snippet": "Alle ZDF-Livestreams kostenlos und jederzeit online genießen. Das komplette TV-Programm von ZDF, ZDFinfo, ZDFneo, arte, KiKA, 3sat und Phoenix!",
+      "domain": "zdf.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

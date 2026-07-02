@@ -1,0 +1,85 @@
+{
+  "address": "Kielsevest 26, 2018 Antwerpen",
+  "address_key": "KIELSEVEST|26|||2018|Antwerpen",
+  "query": "\"Kielsevest 26\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Radarska slika padavin",
+      "url": "https://meteo.arso.gov.si/met/sl/weather/observ/radar/",
+      "snippet": "RADARSKA SLIKA PADAVIN - zadnja slika Slovenska državna meteorološka služba meri padavine nad Slovenijo in njeno bližnjo …",
+      "domain": "meteo.arso.gov.si",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Radarska slika ANIMACIJA + OPOZORILA",
+      "url": "https://radarska-slika.net/",
+      "snippet": "Radarska slika padavin - ANIMACIJA + OPOZORILA Radarska slika - TOČA ALARM Možnost pojavljanja toče - animacija 30 minut …",
+      "domain": "radarska-slika.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "meteo.si - Uradna vremenska napoved za Slovenijo - Državna …",
+      "url": "https://meteo.arso.gov.si/met/sl/weather/observ/",
+      "snippet": "Opazovanja in podatki Zadnji vremenski podatki Najnižje in najvišje temperature Padavine in višina snežne odeje Radarska slika …",
+      "domain": "meteo.arso.gov.si",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Radarska Slika Padavin – Animacija za Slovenijo & Evropo",
+      "url": "https://www.radarska-slika-padavin.si/",
+      "snippet": "Radarska slika padavin prikazuje, kje trenutno dežuje, sneži ali nastajajo nevihte nad Slovenijo in okolico. V meniju hitro najdete …",
+      "domain": "radarska-slika-padavin.si",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Radarska slika padavin - Meteoinfo Slovenija",
+      "url": "https://meteoinfo.si/radarska-slika-padavin/",
+      "snippet": "23 uur geleden · Spremljajte radarske slike padavin v živo in dostopajte do edinega arhiva radarskih slik v Sloveniji od leta 2014.",
+      "domain": "meteoinfo.si",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "radarska slika",
+      "url": "https://radarska.meteoinfo.si/",
+      "snippet": "23 uur geleden · Za izbran datum je na voljo zgolj 10-minutni interval.",
+      "domain": "radarska.meteoinfo.si",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Radarska slika padavin Slovenija v živo - Vreme Info",
+      "url": "https://www.vreme-info.si/radarska-slika-padavin/",
+      "snippet": "Radarska slika padavin v živo za Slovenijo. Sledite ARSO animaciji gibanja dežja in neurij ter bodite vedno korak pred padavinami!",
+      "domain": "vreme-info.si",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "RADARSKA SLIKA PADAVIN",
+      "url": "https://meteolab.si/radar.php",
+      "snippet": "Radarske slike padavin v živo za Slovenijo in okolico: maksimalni odboji (dBZ), kompozit z razelektritvami, Fossalon (FVG) in …",
+      "domain": "meteolab.si",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

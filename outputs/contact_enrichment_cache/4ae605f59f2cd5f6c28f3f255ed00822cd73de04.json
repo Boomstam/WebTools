@@ -1,0 +1,90 @@
+{
+  "address": "Frankrijklei 14, 2000 Antwerpen",
+  "address_key": "FRANKRIJKLEI|14|||2000|Antwerpen",
+  "query": "\"Frankrijklei 14\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "DH Les Sports - Facebook",
+      "url": "https://www.facebook.com/DHlessportslus/",
+      "snippet": "2 dagen geleden · DH Les Sports +. 40,537 likes · 29,682 talking about this. L'actualité 100% sportive ⚽🏀🎾🚴🥊🏋 https://www.instagram.com/dhsportsplus/",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/DHlessportslus/",
+        "https://www.instagram.com/dhsportsplus/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "DH Les Sports+ - Toute l'actualité belge, internationale, régionale et ...",
+      "url": "https://www.dhnet.be/",
+      "snippet": "29 jun 2002 · Toute l'actualité belge, internationale, régionale et sportive, c'est sur DH Les Sports+",
+      "domain": "dhnet.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Actualités belges et internationales - La DH /Les Sports+",
+      "url": "https://www.dhnet.be/actu/",
+      "snippet": "8 aug 2010 · Découvrez toutes les dernières actus belges et internationale sur le site DH Les Sports + : politique, faits divers, économie, société, nouvelles...",
+      "domain": "dhnet.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "DH .be - Toute l'actualité belge, internationale et sportive",
+      "url": "http://public.adyoulike.com/generator-websites-BE/dhnet/hp/index.html",
+      "snippet": "Football Chaque lundi, DH.be jette un regard tactique et impertinent sur la dernière journée de Pro League. Au menu de cette semaine, entre autres : Trossard à la Ronaldo, Peeters à l’anglaise, le …",
+      "domain": "public.adyoulike.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "DH Les Sports - YouTube",
+      "url": "https://www.youtube.com/TheDhnet",
+      "snippet": "Bienvenue sur la chaîne officielle de la DH Les Sports, dédiée à l'actualité en vidéo. Retrouvez nos contenus autour de l'actualité belge et internationale, ...",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Bienvenue au dhnet.be page - DH Les Sports+ - Toute l'actualité belge ...",
+      "url": "http://view.robothumb.com/dhnet.be",
+      "snippet": "DH Les Sports+ - Toute l'actualité belge, internationale, régionale et sportive Notre sélection sports 01 Le grand entretien DH Lifestyle Les dernières dépêches Les derniers articles de ParisMatch.be ...",
+      "domain": "view.robothumb.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "DH Radio - Écouter en direct et gratuit",
+      "url": "https://www.radio-addict.com/fr/stream-4tZmWfjmW9bARiRRdhyLya/ecouter-DH-Radio",
+      "snippet": "25 jun 2024 · DH Radio est une station de radio belge francophone appartenant au groupe de presse IPM. Elle propose principalement de la musique, des actualités, du divertissement et des chroniques …",
+      "domain": "radio-addict.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "DH Journal + – Applications sur Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.twipemobile.laderniereheure&hl=fr",
+      "snippet": "Chaque jour, où que vous soyez, feuilletez le journal numérique de La DH Les Sports+ et ses suppléments. Vous y retrouverez : • Toutes les rubriques de référence de La DH Les Sports+ : sports,...",
+      "domain": "play.google.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

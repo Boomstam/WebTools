@@ -1,0 +1,85 @@
+{
+  "address": "Windmolenstraat 145, 2660 Hoboken",
+  "address_key": "WINDMOLENSTRAAT|145|||2660|Hoboken",
+  "query": "\"Windmolenstraat 145\" \"2660\" \"Hoboken\"",
+  "results": [
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/zh-hans/windows/forum/windows_10-update/windows-10-%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0/6a1ae4b8-8063-4686-b53b-c213ba3399be",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://www.answers.microsoft.com/fr-fr/msoffice/forum/all/fichier-qui-ne-souvre-pas-chemin-trop-long/",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://www.answers.microsoft.com/de-de/windows/forum/all/word-druckt-nach-windowsupdate-keine-texte/",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/en-us/msoffice/forum/all/copying-document-including-toc-to-html-page-works/1812ad60-05f7-43d7-bda9-68c2d7befb8d",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/en-us/msoffice/forum/all/teams-call-with-yammer-community/e6795c50-d725-4914-8725-7c3b33a4cd0a",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/en-us/msteams/forum/all/how-to-stop-processing-of-meeting-invites-from/a9acda9a-664b-4f61-898b-2bd2dfe8e9f7",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/en-us/msoffice/forum/all/can-not-access-my-work-account-cos-of-the/78fea343-1195-42df-a46d-1f06c0720060",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Microsoft Community",
+      "url": "https://answers.microsoft.com/en-us/msoffice/forum/all/hello-i-have-this-script-below/ed838f59-bf0c-46c6-b2a5-f93a1c48c0c1",
+      "snippet": "Microsoft Community",
+      "domain": "answers.microsoft.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

@@ -1,0 +1,85 @@
+{
+  "address": "Vijfhoekstraat 33, 2600 Berchem",
+  "address_key": "VIJFHOEKSTRAAT|33|||2600|Berchem",
+  "query": "\"Vijfhoekstraat 33\" \"2600\" \"Berchem\"",
+  "results": [
+    {
+      "title": "Downtown Chicago Luxury Boutique Hotel | Loop Hotel | Pendry",
+      "url": "https://www.pendry.com/chicago/",
+      "snippet": "Located on Chicago's Michigan Avenue, Pendry Chicago is a boutique hotel offering contemporary accommodations and historical experiences.",
+      "domain": "pendry.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Frequently Asked Questions | Pendry Chicago Hotel",
+      "url": "https://www.pendry.com/chicago/faqs/",
+      "snippet": "Frequently Asked Questions Location Where is Pendry Chicago located? Pendry Chicago is located in The Loop, at the heart of the city, on the corner of N Michigan Avenue and E Wacker Place. We are …",
+      "domain": "pendry.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Luxury Boutique Hotels & Resorts | Pendry Hotels & Resorts",
+      "url": "https://www.pendry.com/",
+      "snippet": "Discover a contemporary luxury hotel experience at Pendry Hotels & Resorts. From San Diego to New York, our boutique hotels offers modern comfort.",
+      "domain": "pendry.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Careers & Job Opportunities | Pendry Hotels & Resorts",
+      "url": "https://www.pendry.com/careers/",
+      "snippet": "Explore opportunities and careers at Pendry Hotels & Resorts, where we are committed to delivering extraordinary, personalized and authentic experiences.",
+      "domain": "pendry.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Hotel Suites in Chicago | Chicago Loop Hotel Rooms | Pendry",
+      "url": "https://www.pendry.com/chicago/accommodations/",
+      "snippet": "Explore our rooms and suites at Pendry Chicago. Experience the epitome of modern luxury and indulge in an exceptional stay at our downtown Chicago hotel.",
+      "domain": "pendry.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Chateau Carbide | Rooftop Lounge & Bar | Pendry Chicago",
+      "url": "https://www.pendry.com/chicago/dining/chateau-carbide/",
+      "snippet": "Chateau Carbide, Pendry Chicago’s rooftop lounge and bar, serves specialty drinks, rosé, champagne, elevated light bites & more.",
+      "domain": "pendry.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Bar Pendry | Downtown Chicago Hotel Bar | Pendry Chicago",
+      "url": "https://www.pendry.com/chicago/dining/bar-pendry/",
+      "snippet": "Bar Pendry, in Pendry Chicago's lobby, is a celebration of the classic Chicago bar serving classic and signature cocktails and light bites.",
+      "domain": "pendry.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Chicago Hotel with a Gym | Peloton Bikes | Pendry Chicago",
+      "url": "https://www.pendry.com/chicago/wellness/",
+      "snippet": "Experience Pendry Chicago’s 24/7 hotel gym. Our downtown Chicago hotel features Peloton bikes and state-of-the-art technology.",
+      "domain": "pendry.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

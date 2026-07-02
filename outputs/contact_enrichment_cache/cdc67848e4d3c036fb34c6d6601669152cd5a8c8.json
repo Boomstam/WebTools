@@ -1,0 +1,89 @@
+{
+  "address": "Balansstraat 73, 2018 Antwerpen",
+  "address_key": "BALANSSTRAAT|73|||2018|Antwerpen",
+  "query": "\"Balansstraat 73\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Google",
+      "url": "https://www.google.com.tr/index.html",
+      "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find …",
+      "domain": "google.com.tr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Çeviri",
+      "url": "https://translate.google.com.tr/",
+      "snippet": "Google'ın ücretsiz olarak sunulan hizmeti, İngilizce ile 100'den fazla dil arasında kelime, ifade ve web sayfalarını anında çevirebilir.",
+      "domain": "translate.google.com.tr",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Search - A new kind of help",
+      "url": "https://search.google/",
+      "snippet": "Explore a new kind of help for your everyday with breakthroughs in Search intelligence from Google I/O.",
+      "domain": "search.google",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google - YouTube",
+      "url": "https://www.youtube.com/google",
+      "snippet": "Welcome to your front-row seat to Google I/O. Watch for the latest groundbreaking updates to Gemini models, developer platforms …",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Chrome – Download the fast, secure browser from Google",
+      "url": "https://www.google.com.tr/intl/en_uk/chrome/",
+      "snippet": "Get more done with the new Google Chrome. A more simple, secure and faster web browser than ever, with Google’s smarts built in. …",
+      "domain": "google.com.tr",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Sign in - Google Accounts",
+      "url": "https://accounts.google.com/",
+      "snippet": "Not your computer? Use a private browsing window to sign in. Learn more about using Guest mode Next Create account",
+      "domain": "accounts.google.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com/?hl=tr-tr",
+      "snippet": "Google'ı kullanabileceğiniz diğer diller: English Reklam Google Hakkında Google.com in English",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Google Chrome Web Tarayıcısı",
+      "url": "https://www.google.com/intl/tr/chrome/",
+      "snippet": "Google'ın akıllı teknolojileri ile artık daha basit, daha güvenli ve daha hızlı.",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

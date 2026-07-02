@@ -1,0 +1,110 @@
+{
+  "address": "Terlostraat 8, 2140 Borgerhout",
+  "address_key": "TERLOSTRAAT|8|||2140|Borgerhout",
+  "query": "\"Terlostraat 8\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "Terlostraat 18, 2140 Borgerhout, Antwerpen - Schatting en ... - Realo",
+      "url": "https://www.realo.be/nl/terlostraat-18-2140-borgerhout/1931840",
+      "snippet": "Wenst u te weten hoeveel Terlostraat 18, 2140 Borgerhout, Antwerpen waard is? Of wilt u meer weten over de buurt? Ontdek het nu op Realo.",
+      "domain": "realo.be",
+      "score": 55,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district",
+        "vastgoed/noise"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Heraanleg Terlostraat start in maart 2026 | Antwerpen",
+      "url": "https://www.antwerpen.be/info/6888a5377c39f43dfc55a1b7/heraanleg-terlostraat-start-in-maart-2026",
+      "snippet": "Het district Borgerhout maakt deze straat groener en veiliger voor voetgangers en fietsers. De werken in de Terlostraat starten op maandag 23 maart en duren tot eind september 2026. De heraanleg …",
+      "domain": "antwerpen.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Borgerhout stelt definitief ontwerp voor Terlostraat op 27 februari ...",
+      "url": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/borgerhout/borgerhout-stelt-definitief-ontwerp-voor-terlostraat-op-27-februari-voor/42023397.html",
+      "snippet": "19 feb 2025 · Buurtbewoners worden uitgenodigd in buurthuis Zermatt om de plannen te bekijken. Die komen voort uit een eerdere bewonersbevraging. In het voorjaar van 2023 werden bewoners van de …",
+      "domain": "gva.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "District presenteert definitief ontwerp heraanleg Terlostraat in ...",
+      "url": "https://www.hln.be/antwerpen/district-presenteert-definitief-ontwerp-heraanleg-terlostraat-in-borgerhout~ad104a3f/",
+      "snippet": "19 feb 2025 · Op donderdag 27 februari onthult district Borgerhout het definitieve ontwerp voor de heraanleg van de Terlostraat. Buurtbewoners zijn welkom in buurthuis Zermatt om de plannen te …",
+      "domain": "hln.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Terlostraat, Gemeente Antwerpen (Borgerhout, Borgerhout Intra …",
+      "url": "https://straten.openalfa.be/straten/terlostraat-borgerhout-intra-muros-noord-borgerhout-antwerpen",
+      "snippet": "Lijst met diensten in de buurt van Terlostraat, Gemeente Antwerpen (Borgerhout: winkels, restaurants, vrijetijds- en sportfaciliteiten, ziekenhuizen, benzinestations en andere interessante plaatsen.",
+      "domain": "straten.openalfa.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ]
+    },
+    {
+      "title": "Terlostraat - Woonhaven Antwerpen",
+      "url": "https://woonhaven.be/bouwprojecten/terlostraat-2/",
+      "snippet": "Wie is mijn contactpersoon?",
+      "domain": "woonhaven.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Hoe kom je bij Terlostraat , Antwerpen met bus, tram of trein?",
+      "url": "https://moovitapp.com/index/nl/openbaar_vervoer-Terlostraat-Belgium-street_8592359-1682",
+      "snippet": "Moovit helpt je de beste route naar Terlostraat te vinden met behulp van het openbaar vervoer en geeft je stap-per-stap instructies met actuele uurroosters voor bus, tram of trein in Antwerpen.",
+      "domain": "moovitapp.com",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Terlostraat in Borgerhout (Antwerpen ) - Postcode bij adres",
+      "url": "https://postcodebijadres.be/terlostraat+borgerhout",
+      "snippet": "Bekijk alle details van Terlostraat in Borgerhout. Vind de gerelateerde postcodes, supermarkten in de buurt en nog veel meer.",
+      "domain": "postcodebijadres.be",
+      "score": 25,
+      "reasons": [
+        "straat",
+        "district",
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

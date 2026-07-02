@@ -1,0 +1,85 @@
+{
+  "address": "Sint-Elisabethstraat 19, 2060 Antwerpen",
+  "address_key": "SINT-ELISABETHSTRAAT|19|||2060|Antwerpen",
+  "query": "\"Sint-Elisabethstraat 19\" \"2060\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Welkom bij stad Sint -Niklaas",
+      "url": "https://www.sint-niklaas.be/",
+      "snippet": "Officiële website van stad en OCMW Sint-Niklaas. Hier vind je alle info over onze diensten en producten, het laatste nieuws van de stad en doorverwijzingen naar nuttige info van partners.",
+      "domain": "sint-niklaas.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Sinterklaas - Wikipedia",
+      "url": "https://nl.wikipedia.org/wiki/Sinterklaas",
+      "snippet": "Sinterklaas (ook Sint-Nicolaas, Sint of de Goedheiligman) is de hoofdpersoon van het eeuwenoude sinterklaasfeest. De dag 6 december gaat door als zijn verjaardag. Het feest houdt in dat Sinterklaas …",
+      "domain": "nl.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Sint (film ) - Wikipedia",
+      "url": "https://nl.wikipedia.org/wiki/Sint_(film)",
+      "snippet": "Sint is een Nederlandse horrorfilm uit 2010 die geregisseerd, geschreven en mede geproduceerd werd door Dick Maas. [3] Het verhaal is een horrorvariant op de geschiedenis achter het sinterklaasfeest. …",
+      "domain": "nl.wikipedia.org",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Welkom op de site van Sinterklaas | Stad van de Sint",
+      "url": "https://www.stadvandesint.be/",
+      "snippet": "Laat je nog één keer meeslepen door de magie van de Sint in 2025. We blikken terug met de aftermovie vol lichtjes, lachende gezichtjes en onvergetelijke momenten ...",
+      "domain": "stadvandesint.be",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Startpagina - Sint -Laureins",
+      "url": "https://www.sint-laureins.be/",
+      "snippet": "Officiële site van de gemeente Sint-Laureins met nieuws, informatie over de diensten en een digitaal loket.",
+      "domain": "sint-laureins.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Sint -Paulusschool",
+      "url": "https://www.sintpaulus.eu/",
+      "snippet": "Welkom in de Sint-Paulusschool! We zijn een katholieke secundaire school met campussen in Waregem, Anzegem en Avelgem.",
+      "domain": "sintpaulus.eu",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Sinterklaas is met zijn (milieuvriendelijke) stoomboot aangekomen ...",
+      "url": "https://www.vrt.be/vrtnws/nl/2024/11/15/de-sint-is-in-het-land/",
+      "snippet": "16 nov 2024 · In een telefoongesprek met VRT NWS blikt de Sint terug op een vlotte reis naar ons land. Van de aangekondigde controles aan de grens tussen Nederland en België heeft hij alvast niets …",
+      "domain": "vrt.be",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Sint (Film, 2010) - MovieMeter .nl",
+      "url": "https://www.moviemeter.nl/film/65128",
+      "snippet": "18 jan 2026 · Als dorpelingen het recht in eigen hand nemen en de bloeddorstige Sint en zijn trawanten vermoorden, zweert Niklas wraak. Iedere keer bij volle maan op 5 december herrijzen Niklas en zijn …",
+      "domain": "moviemeter.nl",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

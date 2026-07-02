@@ -1,0 +1,89 @@
+{
+  "address": "Quellinstraat 52, 2018 Antwerpen",
+  "address_key": "QUELLINSTRAAT|52|||2018|Antwerpen",
+  "query": "\"Quellinstraat 52\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Upcoming Events in Pakistan - Facebook",
+      "url": "https://www.facebook.com/groups/982790005131993/",
+      "snippet": "4 dagen geleden · The only one stop to get connected with events happening in Pakistan. Free to post, easy to access, quick to find all sorts of events!",
+      "domain": "facebook.com",
+      "score": 5,
+      "reasons": [
+        "social"
+      ],
+      "emails": [],
+      "socials": [
+        "https://www.facebook.com/groups/982790005131993/"
+      ],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Get The Latest News About Upcoming Events In Pakistan At ... - Sunday",
+      "url": "https://sunday.com.pk/category/events/",
+      "snippet": "20 mei 2026 · Find all the events calendar, Special events, Fashion events and festive events in Lahore, Islamabad Karachi and all over Pakistan at Sunday Times. Signup now to keep yourself updated with …",
+      "domain": "sunday.com.pk",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Moqah.pk - Discover Events Near You",
+      "url": "https://moqah.pk/home",
+      "snippet": "Discover, explore, and join the best events around you with MOQAH.Pk - Your ultimate event discovery platform.",
+      "domain": "moqah.pk",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Punjab Events | List Of All Upcoming Punjab Events In Lahore",
+      "url": "https://allevents.in/lahore/punjab",
+      "snippet": "Explore all upcoming punjab events in Lahore, find information & tickets for upcoming punjab events happening in Lahore.",
+      "domain": "allevents.in",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Punjab , Pakistan Events , Calendar & Tickets | Eventbrite",
+      "url": "https://www.eventbrite.com/d/pakistan--punjab/events/?msockid=16d3ca3252dc6df13c7addbb53e56cee",
+      "snippet": "Looking for something to do in Punjab? Whether you're a local, new in town or just cruising through we've got loads of great tips and events. You can explore by location, what's popular, our top picks, …",
+      "domain": "eventbrite.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Explore Upcoming Events & Things To Do In Lahore , PB ... - AllEvents.in",
+      "url": "https://allevents.in/lahore",
+      "snippet": "Discover the best things to do & events in Lahore. explore concerts, meetups, open mics, art shows, music events and a lot more.",
+      "domain": "allevents.in",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Online Event Tickets in Pakistan | Concerts, Shows & More - Ticket Wala",
+      "url": "https://ticketwala.pk/",
+      "snippet": "Book tickets for concerts, comedy shows, food festivals, workshops and live events across Karachi, Lahore and Islamabad. Pakistan's #1 online ticketing platform - fast, secure & easy.",
+      "domain": "ticketwala.pk",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Up Coming Events | Lahore Arts Council - Punjab",
+      "url": "https://lac.punjab.gov.pk/upcoming_events",
+      "snippet": "68- Mall Road, Lahore. Cultural Complex Gaddafi Stadium.",
+      "domain": "lac.punjab.gov.pk",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

@@ -1,0 +1,101 @@
+{
+  "address": "Antwerpsesteenweg 142, 2660 Hoboken",
+  "address_key": "ANTWERPSESTEENWEG|142|||2660|Hoboken",
+  "query": "\"Antwerpsesteenweg 142\" \"2660\" \"Hoboken\"",
+  "results": [
+    {
+      "title": "Heraanleg Antwerpsesteenweg (Hoboken) - Antwerpen morgen",
+      "url": "https://www.antwerpenmorgen.be/nl/projecten/antwerpsesteenweg",
+      "snippet": "22 mrt 2011 · De hele Antwerpsesteenweg, vanaf de Krugerstraat tot aan de Kioskplaats, krijgt binnenkort een heraanleg. Riolering, tramsporen en straat worden samen aangepakt.",
+      "domain": "antwerpenmorgen.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "De Lijn is formeel: \"Tram 2 én 4 rijden na heraanleg Antwerpsesteenweg ...",
+      "url": "https://www.gva.be/atv/de-lijn-is-formeel-tram-2-en-4-rijden-na-heraanleg-antwerpsesteenweg-opnieuw-tot-in-centrum-hoboken/158062872.html",
+      "snippet": "1 dag geleden · Wanneer de werken aan de Antwerpsesteenweg zijn afgerond, zullen zowel tramlijnen 2 als 4 opnieuw tot in het centrum van Hoboken rijden. Daar was veel twijfel over, maar De Lijn heeft …",
+      "domain": "gva.be",
+      "score": 45,
+      "reasons": [
+        "straat",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Heraanleg Antwerpsesteenweg | Antwerpen",
+      "url": "https://www.antwerpen.be/info/697b60db7c39f45248274bcc/heraanleg-antwerpsesteenweg",
+      "snippet": "In 2026 staat de heraanleg van de Antwerpsesteenweg gepland. De verkeersveiligheid wordt verbeterd, de riolering wordt vervangen en de tramsporen worden vernieuwd. Water-link, Aquafin, De Lijn en …",
+      "domain": "antwerpen.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Antwerpsesteenweg - Wikipedia",
+      "url": "https://nl.wikipedia.org/wiki/Antwerpsesteenweg",
+      "snippet": "Dit is een doorverwijspagina, bedoeld om de verschillen in betekenis of gebruik van Antwerpsesteenweg inzichtelijk te maken. Op deze pagina staat een uitleg van de verschillende betekenissen van …",
+      "domain": "nl.wikipedia.org",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Toekomstbeeld | Wegen en verkeer",
+      "url": "https://wegenenverkeer.be/werken/heraanleg-antwerpsesteenweg-n70-aan-op-en-afritten-r4/toekomstbeeld",
+      "snippet": "De verkeerslichten op de Antwerpsesteenweg (N70) krijgen op de kruispunten met de Groenstraat en de Drieselstraat een conflictvrije regeling. Dat betekent dat voetgangers en fietsers bij het oversteken …",
+      "domain": "wegenenverkeer.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Antwerpsesteenweg – Inventaris van het bouwkundig erfgoed",
+      "url": "https://monument.heritage.brussels/nl/streets/10007003",
+      "snippet": "De volkse en drukke Antwerpsesteenweg werd gedurende de hele 19e eeuw bebouwd, met woningen, kleine handelszaken, werkplaatsen en depots, cafés, hotels en restaurants, danszalen en bioscopen.",
+      "domain": "monument.heritage.brussels",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Hubo Lier | Voor elke doe-het-zelver",
+      "url": "https://www.hubo.be/nl/winkels/lier/",
+      "snippet": "Antwerpsesteenweg 352, 2500 Lier. Tel. 034910091. Hubo is de specialist in doe-het-zelf artikelen met meer dan 161 winkels in België. Bekijk hier de",
+      "domain": "hubo.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Google Maps",
+      "url": "https://maps.google.be/?q=%2C+Antwerpen%2C+%2C+be",
+      "snippet": "Wij willen hier een beschrijving geven, maar de site die u nu bekijkt staat dit niet toe.",
+      "domain": "maps.google.be",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

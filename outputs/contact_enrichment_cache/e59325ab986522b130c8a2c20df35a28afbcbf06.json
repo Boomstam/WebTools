@@ -1,0 +1,111 @@
+{
+  "address": "Rosier 27, 2000 Antwerpen",
+  "address_key": "ROSIER|27|||2000|Antwerpen",
+  "query": "\"Rosier 27\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Rosier 41 – International Fashion Trading Antwerp",
+      "url": "https://rosier41.be/",
+      "snippet": "© 2017 - All rights reserved. | ROsier41 – Rosier 41, 2000 Antwerpen – T: +32 (0)3 225 53 03.",
+      "domain": "rosier41.be",
+      "score": 75,
+      "reasons": [
+        "straat",
+        "postcode",
+        "district"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Coorevits- Rosier",
+      "url": "https://coorevits-rosier.be/",
+      "snippet": "Uitvaartverzorging Coorevits-Rosier Voor discrete, professionele en serene steun in moeilijke momenten. Tel: 02 688 27 95 | DAG EN NACHT",
+      "domain": "coorevits-rosier.be",
+      "score": 55,
+      "reasons": [
+        "straat",
+        "huisnr"
+      ],
+      "page_title": "Coorevits-Rosier",
+      "emails": [
+        "info@coorevits-rosier.be"
+      ],
+      "socials": [
+        "https://www.facebook.com/Uitvaartzorg"
+      ],
+      "kbo_numbers": [
+        "201604172"
+      ]
+    },
+    {
+      "title": "Coorevits- Rosier",
+      "url": "https://coorevits-rosier.be/condoleren",
+      "snippet": "Mevrouw Marie-Louise Wiliquet weduwe van de heer Felix Toury Meer info",
+      "domain": "coorevits-rosier.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Rosier",
+      "url": "https://rosier.eu/nl/index",
+      "snippet": "12 jun 2023 · Sinds 2013 Borealis, betere grondstofintegratie en een meer gediversifieerd en competitief productassortiment zorgen actief voor versterking van de marktpositie van Rosier.",
+      "domain": "rosier.eu",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Rosier",
+      "url": "https://www.rosier.eu/nl/company",
+      "snippet": "Sinds meer dan 140 jaar werken we in langetermijnpartnerschappen in 120 landen over de hele wereld. Samen met onze klanten stellen we boeren hoogwaardige meststoffen voor om optimaal …",
+      "domain": "rosier.eu",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Autohaus ROSIER - Neu-, Gebrauchtwagen- und Service-Partner",
+      "url": "https://www.rosier.de/",
+      "snippet": "Mit dem Namen Rosier verbinden unsere Kunden und Geschäftspartner seit fast 90 Jahren die Begeisterung für innovative Automobiltechnik und dem Wunsch, dem Kunden stets hochwertige …",
+      "domain": "rosier.de",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Rosiers | Pépinières De Louveigné",
+      "url": "https://www.pepinieresdelouveigne.be/rosiers",
+      "snippet": "ROSA OMEIENSIS PTERACANTHA Rosier botanique greffé ROSA PAUL'S SCARLET CLIMBER Rosier pleureur ROSA PERLE ROUGE Rosier à grosses fleurs ROSA QUEEN ELIZABETH",
+      "domain": "pepinieresdelouveigne.be",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    },
+    {
+      "title": "Miss Rosier - Women's Luxury Clothing & Designer Brand",
+      "url": "https://miss-rosier.com/",
+      "snippet": "Miss Rosier is a globally-minded fashion brand with unique blend of classic French designs, showcasing a versatile array of apparel, ranging from refined evening wear to effortlessly chic casual pieces.",
+      "domain": "miss-rosier.com",
+      "score": 35,
+      "reasons": [
+        "straat"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

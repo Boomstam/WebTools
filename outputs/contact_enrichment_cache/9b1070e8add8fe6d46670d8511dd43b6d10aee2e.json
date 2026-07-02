@@ -1,0 +1,85 @@
+{
+  "address": "Grotesteenweg 565, 2600 Berchem",
+  "address_key": "GROTESTEENWEG|565|||2600|Berchem",
+  "query": "\"Grotesteenweg 565\" \"2600\" \"Berchem\"",
+  "results": [
+    {
+      "title": "Ztracker.cc :: Elveszett név vagy jelszó visszaállítása",
+      "url": "https://ztracker.cc/recover.php",
+      "snippet": "Z-tracker - private portal - Elveszett név vagy jelszó visszaállítása Jelszó újrakérése előtt olvasd el a SEGÉDLETET (GYIK)! Ide kattintva elérheted! A lenti mezobe írd be az itt regisztrált e-mail címed és …",
+      "domain": "ztracker.cc",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Ztracker.cc :: Signup",
+      "url": "https://ztracker.cc/signup.php",
+      "snippet": "Kapcsolat Banner hely bérlése: Médiaajánlat © 2026 Ztracker.cc [Executed in 0.0483 seconds] Jogi_nyilatkozat Partnerek",
+      "domain": "ztracker.cc",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Ztracker.cc :: Bejelentkezés",
+      "url": "https://ztracker.cc/bejelentkezes.php",
+      "snippet": "Z-tracker - private portal - Bejelentkezés Regisztráció Elfelejtett jelszó: E-mail,",
+      "domain": "ztracker.cc",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Ztracker.cc :: Bejelentkezés",
+      "url": "https://ztracker.cc/details.php?id=371507",
+      "snippet": "Z-tracker - private portal -",
+      "domain": "ztracker.cc",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Ztracker.cc :: Kapcsolatfelvétel",
+      "url": "http://ztracker.cc/kapcsolat.php",
+      "snippet": "Kapcsolat Banner hely bérlése: Médiaajánlat © 2026 Ztracker.cc [Executed in 0.0064 seconds] Jogi_nyilatkozat Partnerek",
+      "domain": "ztracker.cc",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Ztracker.cc :: FAQ (Gyakran Ismételt Kérdések)",
+      "url": "https://ztracker.cc/faq.php?do=view&id=1",
+      "snippet": "Ztracker seeder becsületrend - Akinek összes seed ideje minimum [feltöltés alatt]. Kitüntetett - Támogató/Donor rangot jelez. A Staff osztja ki azoknak a felhasználóknak, akik sokat tettek az oldal …",
+      "domain": "ztracker.cc",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Ztracker.cc :: FAQ (Gyakran Ismételt Kérdések)",
+      "url": "https://ztracker.cc/faq.php?do=view&id=118",
+      "snippet": "A Ztracker visszautasította a kapcsolatot, mert a kapcsolat típusa vagy az IP címed tiltólistán van. A Proxy szerverekkel való kapcsolódás tiltva van, ezek mögül nem lehet elérni az oldalt. Megoldás: …",
+      "domain": "ztracker.cc",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Ztracker.cc :: Felhasználó regisztrálása",
+      "url": "https://ztracker.cc/ok.php?type=confirmed",
+      "snippet": "Z-tracker - private portal - Már meg van erősítve! Ez a felhasználói fiók már meg van erősítve. Itt bejelentkezhetsz.",
+      "domain": "ztracker.cc",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

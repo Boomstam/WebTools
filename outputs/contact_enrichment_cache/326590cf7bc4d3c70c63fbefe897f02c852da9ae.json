@@ -1,0 +1,85 @@
+{
+  "address": "Mellaertsstraat 18, 2140 Borgerhout",
+  "address_key": "MELLAERTSSTRAAT|18|||2140|Borgerhout",
+  "query": "\"Mellaertsstraat 18\" \"2140\" \"Borgerhout\"",
+  "results": [
+    {
+      "title": "Wikipedia, die freie Enzyklopädie",
+      "url": "https://www.wikipedia.de/",
+      "snippet": "Wir sind der gemeinnnützige Verein hinter der Wikipedia und unterstützen die Ehrenamtlichen, sichern und entwickeln die technische Infrastruktur und setzen uns für den freien Zugang zu Wissen ein.",
+      "domain": "wikipedia.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://www.wikipedia.de/suggest.php",
+      "snippet": "Wikipedia ist eine freie Enzyklopädie, die von Freiwilligen erstellt wird und freien Zugang zu Wissen bietet.",
+      "domain": "wikipedia.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "BigBlueButton - bbb.wikipedia.de",
+      "url": "https://bbb.wikipedia.de/signup",
+      "snippet": "Learn using BigBlueButton, the trusted open-source web conferencing solution that enables seamless virtual collaboration and online learning experiences.",
+      "domain": "bbb.wikipedia.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Förderberatung - bbb.wikipedia.de",
+      "url": "https://bbb.wikipedia.de/rooms/wir-76h-a2w-0gm/join",
+      "snippet": "Learn using BigBlueButton, the trusted open-source web conferencing solution that enables seamless virtual collaboration and online learning experiences.",
+      "domain": "bbb.wikipedia.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "bbb.wikipedia.de",
+      "url": "https://bbb.wikipedia.de/html5client/join?sessionToken=ayck0yniemnblsti",
+      "snippet": "It looks like you're using an older version of a supported browser. Please upgrade your browser for full support.",
+      "domain": "bbb.wikipedia.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "BigBlueButton - bbb.wikipedia.de",
+      "url": "https://bbb.wikipedia.de/rooms/uk8-3ex-nad-tua/join",
+      "snippet": "Learn using BigBlueButton, the trusted open-source web conferencing solution that enables seamless virtual collaboration and online learning experiences.",
+      "domain": "bbb.wikipedia.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Spenden-Kommentar-Ticker",
+      "url": "https://ticker.wikipedia.de/",
+      "snippet": "Herbstkampagne 2022 Spendenkommentare Letzte Kommentare",
+      "domain": "ticker.wikipedia.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "offene Kulturdaten - bbb.wikipedia.de",
+      "url": "https://bbb.wikipedia.de/rooms/dmd-dus-t0d-fgv/join",
+      "snippet": "Learn using BigBlueButton, the trusted open-source web conferencing solution that enables seamless virtual collaboration and online learning experiences.",
+      "domain": "bbb.wikipedia.de",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

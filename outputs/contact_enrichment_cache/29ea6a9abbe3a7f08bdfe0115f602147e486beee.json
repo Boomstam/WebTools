@@ -1,0 +1,87 @@
+{
+  "address": "Leopold De Waelstraat 36 bus 201, 2000 Antwerpen",
+  "address_key": "LEOPOLD DE WAELSTRAAT|36||201|2000|Antwerpen",
+  "query": "\"Leopold De Waelstraat 36\" \"2000\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Google",
+      "url": "https://www.google.de/",
+      "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find …",
+      "domain": "google.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google",
+      "url": "https://ipv4.google.com/?hl=de",
+      "snippet": "Werbeprogramme Über Google Google.com in English © 2026 - Datenschutzerklärung - Nutzungsbedingungen",
+      "domain": "ipv4.google.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com.nf/?hl=de-US",
+      "snippet": "Google gibt es auch auf: English Werbeprogramme Über Google Google.com",
+      "domain": "google.com.nf",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Home [search. google ]",
+      "url": "https://search.google/intl/de-DE/",
+      "snippet": "Explore new ways to search. Download the Google app to experience Lens, AR, Search Labs, voice search, and more.",
+      "domain": "search.google",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Google Übersetzer",
+      "url": "https://translate.google.de/",
+      "snippet": "Mit diesem kostenlosen Google-Dienst lassen sich Wörter, Sätze und Webseiten sofort zwischen Deutsch und über 100 Sprachen …",
+      "domain": "translate.google.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "www. google .de.com",
+      "url": "https://www.google.de.com/",
+      "snippet": "Google's search engine provides users with fast, relevant search results and a wide range of additional services.",
+      "domain": "google.de.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google - YouTube",
+      "url": "https://www.youtube.com/google",
+      "snippet": "Welcome to your front-row seat to Google I/O. Watch for the latest groundbreaking updates to Gemini models, developer platforms …",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com/",
+      "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find …",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

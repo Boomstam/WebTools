@@ -1,0 +1,85 @@
+{
+  "address": "Hoveniersstraat 46-48, 2018 Antwerpen",
+  "address_key": "HOVENIERSSTRAAT|46|48||2018|Antwerpen",
+  "query": "\"Hoveniersstraat 46\" \"2018\" \"Antwerpen\"",
+  "results": [
+    {
+      "title": "Search - Microsoft Bing",
+      "url": "https://www.bing.com/",
+      "snippet": "Search with Microsoft Bing and use the power of AI to find information, explore webpages, images, videos, maps, and more. A smart search engine for the forever curious.",
+      "domain": "bing.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Microsoft Bing | Get to know Bing",
+      "url": "https://www.microsoft.com/en-us/bing?msockid=0f9786e306196f3a3186916a07ee6e85",
+      "snippet": "Copilot Search in Bing gives you quick, summarized answers with cited sources and suggestions for further exploration, making it easier than ever to discover more.",
+      "domain": "microsoft.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "How to See All Bing Related Searches - Position Is Everything",
+      "url": "https://www.positioniseverything.net/how-to-see-all-bing-related-searches-2/",
+      "snippet": "1 dag geleden · This section walks through a practical system for capturing every related search Bing surfaces and exporting them into a format suitable for analysis. The goal is not automation for its own …",
+      "domain": "positioniseverything.net",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Suche – Microsoft Bing",
+      "url": "https://de.bing.com/",
+      "snippet": "Suchen Sie mit Microsoft Bing und nutzen Sie die Leistungsfähigkeit der KI, um Informationen zu finden, Webseiten, Bilder, Videos, Karten und mehr zu erkunden. Eine intelligente Suchmaschine für immer …",
+      "domain": "de.bing.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Bing Tests Related Search Interfaces",
+      "url": "https://www.seroundtable.com/bing-testing-related-search-interfaces-35711.html",
+      "snippet": "4 sep 2023 · Microsoft Bing has been testing some new interfaces for its related searches. Some of these interfaces are boxed at the top right section, while others seem to float over elements on the...",
+      "domain": "seroundtable.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "How To See All Bing Related Searches - UMA Technology",
+      "url": "https://umatechnology.org/how-to-see-all-bing-related-searches/",
+      "snippet": "16 mei 2026 · This guide shows you where Bing displays related searches, how to reveal more of them on desktop and mobile, and how to use Bing’s official tools to expand your list without relying on risky …",
+      "domain": "umatechnology.org",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "explainshell.com - bing relatedsearch version",
+      "url": "https://explainshell.com/explain?cmd=bing+relatedsearch+version",
+      "snippet": "bing (1sr) distro arch latest ubuntu 26.04 relatedsearch version surfraw (1) search tools",
+      "domain": "explainshell.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Bing Testing Related Searches That Expand To More",
+      "url": "https://www.seroundtable.com/bing-expandable-related-searches-40027.html",
+      "snippet": "4 sep 2025 · Microsoft is testing expandable related searches in the Bing Search results. When you hover your mouse cursor over the related searches, Bing will load more below them.",
+      "domain": "seroundtable.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

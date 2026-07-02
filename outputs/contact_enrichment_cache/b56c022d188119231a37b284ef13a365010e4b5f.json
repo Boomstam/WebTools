@@ -1,0 +1,89 @@
+{
+  "address": "Gagelveldenstraat 42, 2170 Merksem",
+  "address_key": "GAGELVELDENSTRAAT|42|||2170|Merksem",
+  "query": "\"Gagelveldenstraat 42\" \"2170\" \"Merksem\"",
+  "results": [
+    {
+      "title": "France Map | Discover France with Detailed Maps - World Maps",
+      "url": "https://ontheworldmap.com/france/",
+      "snippet": "Description: This map shows governmental boundaries of countries; regions, regions capitals and major cities in France.",
+      "domain": "ontheworldmap.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "France Map : Explore places and attractions on a detailed Map of France",
+      "url": "https://www.francethisway.com/regions/france-map.php",
+      "snippet": "Use the map below to quickly find our detailed review for any region, department or place in France and access our detailed guide for that destination.",
+      "domain": "francethisway.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "France Maps & Facts - World Atlas",
+      "url": "https://www.worldatlas.com/maps/france",
+      "snippet": "16 aug 2023 · Physical map of France showing major cities, terrain, national parks, rivers, and surrounding countries with international borders and outline maps. Key facts about France.",
+      "domain": "worldatlas.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Map of France with Major Cities, Roads, River and physical features",
+      "url": "https://www.mapnations.com/countries/france/france-map.html",
+      "snippet": "Map of France showing major cities, roads, rivers, country borders, and geographic highlights, including national parks and mountain peaks.",
+      "domain": "mapnations.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Map of France with Regions – France Map with Cities [PDF]",
+      "url": "https://printableworldmaps.net/map-of-france-with-regions-france-map-with-cities-pdf/",
+      "snippet": "19 jul 2023 · Download from this page your map of France in various formats as PDF files for free. We offer a map of France with cities as well as a France map with regions and a map of the departments …",
+      "domain": "printableworldmaps.net",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "France Map : Map of France with Cities, Towns, Regions and ... - Ezilon",
+      "url": "https://www.ezilon.com/maps/europe/france-maps.html",
+      "snippet": "France detailed and interactive map with cities, towns and regions. Explore regions, borders, and key map features of France with ease.",
+      "domain": "ezilon.com",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Map of France with Major Cities, France - Google Maps",
+      "url": "https://www.google.com/maps/search/Map+of+France+with+Major+Cities%2C+France",
+      "snippet": "Why this ad?",
+      "domain": "google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    },
+    {
+      "title": "Google Maps",
+      "url": "https://maps.google.com/",
+      "snippet": "Find local businesses, view maps and get driving directions in Google Maps.",
+      "domain": "maps.google.com",
+      "score": -20,
+      "reasons": [
+        "vastgoed/noise"
+      ]
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}

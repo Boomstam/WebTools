@@ -1,0 +1,87 @@
+{
+  "address": "Torenblokstraat 29-1, 2610 Wilrijk",
+  "address_key": "TORENBLOKSTRAAT|29|1||2610|Wilrijk",
+  "query": "\"Torenblokstraat 29\" \"2610\" \"Wilrijk\"",
+  "results": [
+    {
+      "title": "24 Stunden ntv Livestream - ntv .de",
+      "url": "https://www.n-tv.de/mediathek/livestream/24-Stunden-ntv-Livestream-article9511936.html",
+      "snippet": "1 dag geleden · Breaking News, Hintergründe, Nachrichten: Der ntv-Livestream liefert rund um die Uhr die aktuellsten Informationen aus Deutschland und der Welt - umfassend und meinungsstark von der …",
+      "domain": "n-tv.de",
+      "score": 15,
+      "reasons": [
+        "huisnr"
+      ],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Nachrichten , aktuelle Schlagzeilen und Videos - ntv .de",
+      "url": "https://www.n-tv.de/",
+      "snippet": "Nachrichten seriös, schnell und kompetent. Artikel und Videos aus Politik, Wirtschaft, Börse, Sport und aller Welt.",
+      "domain": "n-tv.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ntv Nachrichten - YouTube",
+      "url": "https://www.youtube.com/c/ntvNachrichten",
+      "snippet": "Right-wing extremism on the rise, even due to AI, says Hilje according to Verfassungsschutz figur... Were WAGs a distraction and a reason for the World Cup debacle? Record international player's...",
+      "domain": "youtube.com",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "Newsticker: Aktuelle Schlagzeilen und Eilmeldungen - ZDFheute",
+      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "snippet": "23 uur geleden · Eilmeldungen von heute im Überblick: Die wichtigsten Nachrichten, Schlagzeilen und Informationen im ZDF-Newsticker zusammengefasst.",
+      "domain": "zdfheute.de",
+      "score": 0,
+      "reasons": [],
+      "emails": [],
+      "socials": [],
+      "kbo_numbers": []
+    },
+    {
+      "title": "ntv : Aktuelle News & Infos - t-online.de",
+      "url": "https://www.t-online.de/themen/ntv/",
+      "snippet": "Aktuelle News und Infos rund um den Nachrichtensender ntv mit Sitz in Köln.",
+      "domain": "t-online.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "ntv im Livestream - RTL News",
+      "url": "https://www.rtl.de/news/ntv-im-livestream-id6800066.html",
+      "snippet": "Breaking News und aktuelle Informationen aus Politik, Wirtschaft und Sport gibt es bei ntv rund um die Uhr.",
+      "domain": "rtl.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Eilmeldung - aktuelle Nachrichten | tagesschau.de",
+      "url": "https://www.tagesschau.de/thema/eilmeldung",
+      "snippet": "3 jun 2026 · Eilmeldung - Nachrichten und Information: An 365 Tagen im Jahr, rund um die Uhr aktualisiert, die wichtigsten News auf tagesschau.de",
+      "domain": "tagesschau.de",
+      "score": 0,
+      "reasons": []
+    },
+    {
+      "title": "Google News - Ntv - Aktuelle Nachrichten",
+      "url": "https://news.google.com/publications/CAAiEPMdif5mpRNxiLOeUpHCwwsqFAgKIhDzHYn-ZqUTcYiznlKRwsML?hl=de&ceid=DE%3Ade",
+      "snippet": "Lies vollständige Artikel von Ntv und entdecke mit Google News unzählige Themen und mehr auf deinem Smartphone oder Tablet.",
+      "domain": "news.google.com",
+      "score": 0,
+      "reasons": []
+    }
+  ],
+  "status": "searched",
+  "error": ""
+}
